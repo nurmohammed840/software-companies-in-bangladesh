@@ -1,3 +1,4 @@
+pub mod cache;
 pub mod keyword_hinter;
 pub mod levenshtein_distance;
 pub mod logger;
@@ -34,4 +35,21 @@ impl<'a, I> StrIterExt<'a> for I where I: Iterator<Item = &'a str> {}
 pub fn url_host(url: &Url) -> Option<String> {
     let host = url.host_str()?.trim_start_matches("www.");
     Some(host.to_ascii_lowercase())
+}
+
+pub fn normalize_url(url: &Url) -> crate::Result<Url> {
+    let mut url = url.clone();
+    url.set_fragment(None);
+
+    let path = url.path().trim_end_matches('/').to_string();
+    url.set_path(&path);
+
+    Ok(url)
+}
+
+pub fn resolve_url(base: &Url, input: &str) -> crate::Result<Url> {
+    match Url::parse(input) {
+        Ok(url) => Ok(normalize_url(&url)?),
+        Err(_) => normalize_url(&base.join(input)?),
+    }
 }

@@ -1,10 +1,11 @@
 #[cfg(feature = "extra")]
 mod info;
+#[cfg(feature = "crawler")]
+mod jobs;
 mod update;
 
 mod data;
 mod error;
-mod job_crawler;
 mod repos;
 mod utils;
 
@@ -44,22 +45,44 @@ struct Cli {
     #[arg(long, short)]
     docs: bool,
 
-    #[arg(long, short)]
-    crawl: bool,
+    // /// Crawl jobs with the specified LLM model
 
-    #[cfg(feature = "extra")]
+    // crawl: Option<String>,
     #[command(subcommand)]
     command: Option<Command>,
 }
 
-#[cfg(feature = "extra")]
 #[derive(clap::Subcommand, Debug)]
 enum Command {
+    #[cfg(feature = "extra")]
     /// Fetch websites and extract `schema.org` data.
     Fetch {
         /// Re-fetch even if cached.
         #[arg(long)]
         force: bool,
+    },
+    #[cfg(feature = "crawler")]
+    /// Extract job posting information.
+    Index {
+        /// Re-fetch even if cached.
+        #[arg(long, short)]
+        force: bool,
+
+        /// LLM model to use.
+        #[arg(
+            long,
+            short,
+            default_value = "gemini-3.5-flash-lite",
+            value_name = "MODEL"
+        )]
+        model: String,
+        /// Generate `job-postings.pages.md` file
+        #[arg(long, short)]
+        log_file: bool,
+
+        /// Maximum number of concurrent jobs.
+        #[arg(long, short, default_value_t = 1, value_name = "N")]
+        concurrent: u8,
     },
 }
 
@@ -88,9 +111,6 @@ fn cli() -> Result {
         mut update,
         mut fmt,
         mut docs,
-        crawl,
-
-        #[cfg(feature = "extra")]
         command,
     } = Cli::parse();
 
@@ -127,13 +147,25 @@ fn cli() -> Result {
     if let Some(Command::Fetch { force }) = command {
         if force {
             log::info!("Clearing cache...");
-            utils::fetch::clear_cache_dir()?;
+            utils::fetch::clear_cache()?;
         }
         info::fetch_info(&companies, &dir)?;
     }
 
-    if crawl {
-        job_crawler::main()?;
+    #[cfg(feature = "crawler")]
+    if let Some(Command::Index {
+        model,
+        log_file,
+        force,
+        concurrent,
+    }) = command
+    {
+        if force {
+            log::info!("Clearing index cache...");
+            jobs::clear_cache()?;
+        }
+
+        jobs::run(model, &dir, &companies, log_file, concurrent)?;
     }
 
     if fmt {
