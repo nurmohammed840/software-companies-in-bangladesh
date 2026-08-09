@@ -7253,7 +7253,234 @@
       "confidence": 0.95
     }
   ],
-  "Therap (BD) Ltd.": [],
+  "Therap (BD) Ltd.": [
+    {
+      "title": "Associate Oncall Engineer",
+      "description": "Dhaka, Dhaka Division, Bangladesh\n\nOncall Operations\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "Associate Oncall Engineer",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Dhaka, Dhaka Division, Bangladesh"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "Oncall Operations"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0xn86/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0xn86/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Associate System Administrator",
+      "description": "Dhaka, Dhaka Division, Bangladesh\n\nSystem Operations\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "Associate System Administrator",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Dhaka, Dhaka Division, Bangladesh"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "System Operations"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk06psj/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk06psj/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Associate Training and Content Specialist",
+      "description": "Banani, Dhaka\n\nTraining and Content\n\nFull-time | Partially remote",
+      "employmentType": "FullTime",
+      "role": "Associate Training and Content Specialist",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "Hybrid": "Banani, Dhaka"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "Training and Content"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0hwee/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0hwee/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Associate, InfoSec Compliance",
+      "description": "Dhaka, Dhaka Division, Bangladesh\n\nInfoSec Compliance\n\nFull-time | Partially remote",
+      "employmentType": "FullTime",
+      "role": "Associate, InfoSec Compliance",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "Hybrid": "Dhaka, Dhaka Division, Bangladesh"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "InfoSec Compliance"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0xn8x/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0xn8x/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "DevOps Administrator",
+      "description": "Dhaka, Dhaka Division, Bangladesh\n\nDevOps\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "DevOps Administrator",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Dhaka, Dhaka Division, Bangladesh"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "DevOps"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0zqwd/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0zqwd/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Experienced React Developer",
+      "description": "Banani, Dhaka\n\nFull-time | Partially remote",
+      "employmentType": "FullTime",
+      "role": "Experienced React Developer",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "Hybrid": "Banani, Dhaka"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "React",
+        "Software Development"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0xsl4/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0xsl4/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Banani, Dhaka\n\nSoftware Development\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "Software Engineer",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Banani, Dhaka"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "Software Development"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0hw8r/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0hw8r/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Software Engineer, Testing",
+      "description": "Banani, Dhaka\n\nSoftware Quality Assurance\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "Software Engineer, Testing",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Banani, Dhaka"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "Software Quality Assurance"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0hw8d/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0hw8d/",
+      "needsFetch": true,
+      "confidence": 0.9
+    },
+    {
+      "title": "Training and Implementation Associate",
+      "description": "Dhaka, Dhaka Division, Bangladesh\n\nTherap Global\n\nFull-time",
+      "employmentType": "FullTime",
+      "role": "Training and Implementation Associate",
+      "postedAt": null,
+      "deadline": null,
+      "location": {
+        "OnSite": "Dhaka, Dhaka Division, Bangladesh"
+      },
+      "experience": null,
+      "salary": null,
+      "vacancies": null,
+      "tags": [
+        "Therap Global"
+      ],
+      "apply": [
+        {
+          "Website": "https://therapbd.com/jobs/fk0sro5/"
+        }
+      ],
+      "source": "https://therapbd.com/jobs/fk0sro5/",
+      "needsFetch": true,
+      "confidence": 0.9
+    }
+  ],
   "Vivasoft Ltd.": [],
   "WPDeveloper": [
     {

@@ -7,7 +7,7 @@ pub fn normalize_markdown_from(html: &str) -> Result<String> {
             "script", "style", "noscript", // Executable / styling
             "iframe", "canvas", "svg", "object", "embed", // Embedded content
             "img", "picture", "source", "video", "audio", // Media
-            "head", "form", "footer", "aside", "template", // Other
+            "head", "footer", "aside", "template", // Other
         ])
         .build();
 

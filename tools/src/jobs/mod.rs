@@ -316,7 +316,7 @@ mod tests {
 
     // #[test]
     // fn remove_url_from_cache() -> Result {
-    //     let key = "https://ixorasolution.com/career";
+    //     let key = "https://therap.hire.trakstar.com/";
     //     let s = Cache::open(CACHE_PATH, key)?.remove()?;
     //     println!("{s}");
     //     Ok(())
