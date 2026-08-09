@@ -68,8 +68,6 @@ Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
 
 `SEO` `Google Analytics` `Google Search Console` `SEMrush` `Ahrefs` `HTML` `CSS` 
 
-## 🚀 Apply
-
 [Source](https://6sensehq.freshteam.com/jobs)
 
 </details>
@@ -204,8 +202,6 @@ Provide us with links to see some of your work (Github/Leetcode/Codeforces)
 
 `HTML` `CSS` `JavaScript` `React` `Next.js` `RESTful APIs` `React Query` `Redux` `Zustand` `Git` `GitHub` `GitLab` `Tailwind` `CI/CD` 
 
-## 🚀 Apply
-
 [Source](https://6sensehq.freshteam.com/jobs)
 
 </details>
@@ -283,8 +279,6 @@ Office Hour & Job Location:
 ## 🛠️ Tech Stack
 
 `Agile` `Scrum` `Jira` `Trello` `Linear` `ClickUp` `SDLC` 
-
-## 🚀 Apply
 
 [Source](https://6sensehq.freshteam.com/jobs)
 
@@ -4280,8 +4274,6 @@ Submit
 
 `JavaScript` `Express` `MongoDB` `Object-Oriented Programming` 
 
-## 🚀 Apply
-
 [Source](https://furqansoftware.com/careers)
 
 </details>
@@ -4353,8 +4345,6 @@ Submit
 ## 🛠️ Tech Stack
 
 `JavaScript` `CSS3` `HTML5` `Backbone.js` `React` `CoffeeScript` `Stylus` `Underscore.js` `Webpack` `Gulp` `Laravel` 
-
-## 🚀 Apply
 
 [Source](https://furqansoftware.com/careers)
 
@@ -4623,8 +4613,6 @@ Dhaka (Ashulia)
 ## 🛠️ Tech Stack
 
 `ArcGIS` `AutoCAD Map 3D` `Revit3D` `AutoCAD Map` 
-
-## 🚀 Apply
 
 [Source](https://www.hawarit.com/career)
 
@@ -5465,8 +5453,6 @@ We’re looking for a talented **Mobile Software Engineer** with hands-on experi
 
 `android` `ios` `kotlin` `swift` `kmp` `jetpack-compose` `ktor` `firebase` `git` 
 
-## 🚀 Apply
-
 [Source](https://leads.com.bd/jobs)
 
 </details>
@@ -5532,8 +5518,6 @@ We’re looking for a passionate Software Test Engineer to help us deliver top-q
 ## 🛠️ Tech Stack
 
 `softwarecompany` `sqa` `testengineer` `Cypress` `JMeter` `Git` `DevOps` `CI/CD` 
-
-## 🚀 Apply
 
 [Source](https://leads.com.bd/jobs)
 
@@ -5959,8 +5943,6 @@ Your next chapter in global trading leadership begins here.
 ## 🛠️ Tech Stack
 
 `Finance` `Economics` `Derivatives` `Risk Management` `Trading Operations` 
-
-## 🚀 Apply
 
 [Source](https://career.nextventures.io/)
 

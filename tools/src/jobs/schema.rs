@@ -212,12 +212,14 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
         writeln!(o, "## 🛠️ Tech Stack\n\n{tags}\n")?;
     }
 
-    writeln!(o, "## 🚀 Apply\n")?;
-
-    for method in &job.apply {
-        match method {
-            ApplicationMethod::Email(email) => writeln!(o, "* 📧 [Email Resume](mailto:{email})")?,
-            ApplicationMethod::Website(web) => writeln!(o, "* 🌐 [Apply on Website]({web})")?,
+    if !job.apply.is_empty() {
+        writeln!(o, "## 🚀 Apply\n")?;
+    
+        for method in &job.apply {
+            match method {
+                ApplicationMethod::Email(email) => writeln!(o, "* 📧 [Email Resume](mailto:{email})")?,
+                ApplicationMethod::Website(web) => writeln!(o, "* 🌐 [Apply on Website]({web})")?,
+            }
         }
     }
 
