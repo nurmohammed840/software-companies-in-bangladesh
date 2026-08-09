@@ -15,11 +15,8 @@ pub fn parse_date(input: &str) -> Option<NaiveDate> {
         .join(" ");
 
     const FORMATS: &[&str] = &[
-        "%d %B %Y", "%B %d %Y", "%m-%d-%Y",
-        "%Y-%m-%d",
-        // ---
-        "%d %b %Y", "%b %d %Y", "%d-%m-%Y",
-        "%d/%m/%Y", "%m/%d/%Y", "%Y/%m/%d",
+        "%d %B %Y", "%B %d %Y", "%m-%d-%Y", "%Y-%m-%d", // ---
+        "%d %b %Y", "%b %d %Y", "%d-%m-%Y", "%d/%m/%Y", "%m/%d/%Y", "%Y/%m/%d",
     ];
 
     FORMATS

@@ -32,6 +32,7 @@ impl TextFile {
 
 pub type LogFile = Arc<File>;
 
+#[cfg(feature = "extra")]
 pub fn open_log_file(path: impl AsRef<Path>) -> Result<LogFile> {
     log_file(path, true)
 }

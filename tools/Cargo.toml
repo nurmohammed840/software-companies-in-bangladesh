@@ -13,6 +13,7 @@ extra = [
     "dep:reqwest",
 ]
 crawler = [
+    "extra",
     "dep:tokio",
     "dep:chromiumoxide",
     "dep:futures",
@@ -20,9 +21,6 @@ crawler = [
     "dep:htmd",
     "dep:genai",
     "dep:schemars",
-    "dep:serde_json",
-    "dep:flate2",
-    "dep:percent-encoding",
     "dep:markup5ever_rcdom",
 ]
 

@@ -1,10 +1,12 @@
-pub mod cache;
 pub mod keyword_hinter;
 pub mod levenshtein_distance;
 pub mod logger;
-pub mod date;
 pub mod text_file;
 
+#[cfg(feature = "extra")]
+pub mod cache;
+#[cfg(feature = "extra")]
+pub mod date;
 #[cfg(feature = "extra")]
 pub mod fetch;
 #[cfg(feature = "extra")]
@@ -38,6 +40,7 @@ pub fn url_host(url: &Url) -> Option<String> {
     Some(host.to_ascii_lowercase())
 }
 
+#[cfg(feature = "extra")]
 pub fn normalize_url(url: &Url) -> crate::Result<Url> {
     let mut url = url.clone();
     url.set_fragment(None);
@@ -48,6 +51,7 @@ pub fn normalize_url(url: &Url) -> crate::Result<Url> {
     Ok(url)
 }
 
+#[cfg(feature = "extra")]
 pub fn resolve_url(base: &Url, input: &str) -> crate::Result<Url> {
     match Url::parse(input) {
         Ok(url) => Ok(normalize_url(&url)?),

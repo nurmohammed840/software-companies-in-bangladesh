@@ -111,6 +111,7 @@ fn cli() -> Result {
         mut update,
         mut fmt,
         mut docs,
+        #[allow(unused)]
         command,
     } = Cli::parse();
 
@@ -174,6 +175,7 @@ fn cli() -> Result {
 
     if docs {
         TextFile::read(dir.join("./README.md"))?.write(companies.to_string())?;
+        #[cfg(feature = "crawler")]
         jobs::schema::gen_readme(dir)?;
     }
 
