@@ -1,8 +1,9 @@
 use crate::Result;
 use std::{
-    fs::{self, OpenOptions},
+    fs::{self, File, OpenOptions},
     io::{self, Read},
-    path::PathBuf,
+    path::{Path, PathBuf},
+    sync::Arc,
 };
 
 pub struct TextFile {
@@ -12,16 +13,8 @@ pub struct TextFile {
 
 impl TextFile {
     pub fn read(path: PathBuf) -> Result<Self> {
-        let mut file = OpenOptions::new()
-            .read(true)
-            .write(true)
-            .create(true)
-            .truncate(false)
-            .open(&path)?;
-
         let mut text = String::new();
-        file.read_to_string(&mut text)?;
-
+        log_file(&path, false)?.read_to_string(&mut text)?;
         Ok(Self { text, path })
     }
 
@@ -35,4 +28,28 @@ impl TextFile {
 
         fs::write(&self.path, new)
     }
+}
+
+pub type LogFile = Arc<File>;
+
+#[cfg(feature = "extra")]
+pub fn open_log_file(path: impl AsRef<Path>) -> Result<LogFile> {
+    log_file(path, true)
+}
+
+fn log_file(path: impl AsRef<Path>, truncate: bool) -> Result<LogFile> {
+    let path = path.as_ref();
+
+    if let Some(parent) = path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    let file = OpenOptions::new()
+        .read(true)
+        .write(true)
+        .create(true)
+        .truncate(truncate)
+        .open(path)?;
+
+    Ok(Arc::new(file))
 }

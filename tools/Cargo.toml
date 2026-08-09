@@ -4,8 +4,26 @@ version = "0.1.0"
 edition = "2024"
 
 [features]
-default = ["extra"]
-extra = ["dep:scraper", "dep:serde_json", "dep:percent-encoding", "dep:flate2", "dep:reqwest"]
+default = ["extra", "crawler"]
+extra = [
+    "dep:scraper",
+    "dep:serde_json",
+    "dep:percent-encoding",
+    "dep:flate2",
+    "dep:reqwest",
+]
+crawler = [
+    "extra",
+    "dep:tokio",
+    "dep:chromiumoxide",
+    "dep:futures",
+    "dep:chrono",
+    "dep:htmd",
+    "dep:genai",
+    "dep:schemars",
+    "dep:markup5ever_rcdom",
+]
+
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
@@ -18,15 +36,27 @@ log = "*"
 annotate-snippets = "0.12"
 
 scraper = { version = "0.27", optional = true }
-serde_json = { version = "1", optional = true }
-percent-encoding = { version = "2", optional = true }
-flate2 = { version = "1", features = ["zlib-rs"], default-features = false, optional = true }
 reqwest = { version = "0.13", default-features = false, optional = true, features = [
     "blocking",
     "rustls",
     "gzip",
     "zstd",
 ] }
+
+serde_json = { version = "1", optional = true }
+percent-encoding = { version = "2", optional = true }
+flate2 = { version = "1", default-features = false, optional = true, features = [
+    "zlib-rs",
+] }
+
+chrono = { version = "0.4", optional = true }
+futures = { version = "*", optional = true }
+tokio = { version = "1", optional = true }
+chromiumoxide = { version = "0.9", optional = true }
+genai = { version = "0.6", optional = true }
+htmd = { version = "0.5", optional = true }
+markup5ever_rcdom = { version = "*", optional = true }
+schemars = { version = "1", optional = true, features = ["url2"] }
 
 [dev-dependencies]
 

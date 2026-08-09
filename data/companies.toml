@@ -7,13 +7,12 @@ website = "http://2aitbd.com/"
 tech = ["Flutter", "Laravel", "React", "WordPress"]
 type = []
 website = "https://6amtech.com/"
-job = "https://6amtech.com/career/"
 
 ["6sense Technologies"]
 tech = ["AWS", "Docker", "Figma", "Java", "MongoDB", "NextJS", "NodeJS"]
 type = []
 website = "https://6sensehq.com/"
-job = "https://www.6sensehq.com/career"
+job = "https://6sensehq.freshteam.com/jobs"
 
 ["ATI Ltd."]
 tech = ["AWS", "Android", "C#", "Docker", "Flutter", "JavaFX", "PHP", "React", "SpringBoot", "VueJS"]

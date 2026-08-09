@@ -1,43 +1,33 @@
-use crate::{Result, utils::zlib};
+use crate::{
+    Result,
+    utils::{cache::Cache, normalize_url},
+};
 use log::info;
-use percent_encoding::{NON_ALPHANUMERIC, utf8_percent_encode};
 use reqwest::blocking::Client;
-use std::{cell::OnceCell, env, fs, path::PathBuf};
 use url::Url;
 
-pub fn url_to_filename(url: &str) -> String {
-    utf8_percent_encode(url, NON_ALPHANUMERIC).to_string()
+const CACHE_PATH: &str = "software-companies-in-bangladesh";
+
+pub fn clear_cache() -> Result {
+    Cache::clear(CACHE_PATH)
 }
 
 pub fn fetch(url: &Url) -> Result<String> {
     let url = normalize_url(url)?;
-    let cache_path = cache_dir()?.join(url_to_filename(url.as_str()));
 
-    if cache_path.is_file() {
-        // info!("[CACHE] {}", url);
+    let cahce = Cache::open(CACHE_PATH, url.as_str())?;
 
-        let data = fs::read(&cache_path)
-            .map(zlib::decompress)?
-            .map(String::from_utf8)??;
-
+    if let Some(data) = cahce.get()? {
         return Ok(data);
     }
 
     info!("[FETCH] {}", url);
 
     let data = client().get(url).send()?.error_for_status()?.text()?;
-    fs::write(&cache_path, zlib::compress(&data)?)?;
+
+    cahce.set(&data)?;
+
     Ok(data)
-}
-
-pub fn normalize_url(url: &Url) -> Result<Url> {
-    let mut url = url.clone();
-    url.set_fragment(None);
-
-    let path = url.path().trim_end_matches('/').to_string();
-    url.set_path(&path);
-
-    Ok(url)
 }
 
 fn client() -> &'static Client {
@@ -71,34 +61,4 @@ fn client() -> &'static Client {
             .build()
             .expect("failed to build http client")
     })
-}
-
-thread_local! {
-    static CACHE_DIR: OnceCell<PathBuf> = const { OnceCell::new() };
-}
-
-pub fn cache_dir() -> Result<PathBuf> {
-    CACHE_DIR.with(|cell| {
-        if let Some(dir) = cell.get() {
-            return Ok(dir.clone());
-        }
-
-        let dir = env::temp_dir().join("awesome-software-companies-in-bangladesh");
-        fs::create_dir_all(&dir)?;
-        cell.set(dir.clone()).unwrap();
-        Ok(dir)
-    })
-}
-
-pub fn clear_cache_dir() -> Result {
-    let dir = cache_dir()?;
-
-    for entry in fs::read_dir(&dir)? {
-        let path = entry?.path();
-        if path.is_file() {
-            fs::remove_file(path)?;
-        }
-    }
-
-    Ok(())
 }

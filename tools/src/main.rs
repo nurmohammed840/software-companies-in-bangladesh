@@ -1,5 +1,7 @@
 #[cfg(feature = "extra")]
 mod info;
+#[cfg(feature = "crawler")]
+mod jobs;
 mod update;
 
 mod data;
@@ -43,19 +45,44 @@ struct Cli {
     #[arg(long, short)]
     docs: bool,
 
-    #[cfg(feature = "extra")]
+    // /// Crawl jobs with the specified LLM model
+
+    // crawl: Option<String>,
     #[command(subcommand)]
     command: Option<Command>,
 }
 
-#[cfg(feature = "extra")]
 #[derive(clap::Subcommand, Debug)]
 enum Command {
+    #[cfg(feature = "extra")]
     /// Fetch websites and extract `schema.org` data.
     Fetch {
         /// Re-fetch even if cached.
         #[arg(long)]
         force: bool,
+    },
+    #[cfg(feature = "crawler")]
+    /// Extract job posting information.
+    Index {
+        /// Re-fetch even if cached.
+        #[arg(long, short)]
+        force: bool,
+
+        /// LLM model to use.
+        #[arg(
+            long,
+            short,
+            default_value = "gemini-3.5-flash-lite",
+            value_name = "MODEL"
+        )]
+        model: String,
+        /// Generate `job-postings.pages.md` file
+        #[arg(long, short)]
+        log_file: bool,
+
+        /// Maximum number of concurrent jobs.
+        #[arg(long, short, default_value_t = 2, value_name = "N")]
+        concurrent: u8,
     },
 }
 
@@ -84,8 +111,7 @@ fn cli() -> Result {
         mut update,
         mut fmt,
         mut docs,
-
-        #[cfg(feature = "extra")]
+        #[allow(unused)]
         command,
     } = Cli::parse();
 
@@ -122,9 +148,25 @@ fn cli() -> Result {
     if let Some(Command::Fetch { force }) = command {
         if force {
             log::info!("Clearing cache...");
-            utils::fetch::clear_cache_dir()?;
+            utils::fetch::clear_cache()?;
         }
         info::fetch_info(&companies, &dir)?;
+    }
+
+    #[cfg(feature = "crawler")]
+    if let Some(Command::Index {
+        model,
+        log_file,
+        force,
+        concurrent,
+    }) = command
+    {
+        if force {
+            log::info!("Clearing index cache...");
+            jobs::clear_cache()?;
+        }
+        log::info!("Concurrent: {concurrent}; LLM: {model}");
+        jobs::run(model, &dir, &companies, log_file, concurrent)?;
     }
 
     if fmt {
@@ -133,6 +175,8 @@ fn cli() -> Result {
 
     if docs {
         TextFile::read(dir.join("./README.md"))?.write(companies.to_string())?;
+        #[cfg(feature = "crawler")]
+        jobs::schema::gen_readme(dir)?;
     }
 
     Ok(())

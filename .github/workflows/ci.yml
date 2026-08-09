@@ -28,4 +28,4 @@ jobs:
 
       - name: Run CLI
         working-directory: tools
-        run: cargo run --no-default-features -- ../
+        run: cargo run --no-default-features ..
