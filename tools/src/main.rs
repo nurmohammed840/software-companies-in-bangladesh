@@ -81,7 +81,7 @@ enum Command {
         log_file: bool,
 
         /// Maximum number of concurrent jobs.
-        #[arg(long, short, default_value_t = 1, value_name = "N")]
+        #[arg(long, short, default_value_t = 2, value_name = "N")]
         concurrent: u8,
     },
 }
@@ -164,7 +164,7 @@ fn cli() -> Result {
             log::info!("Clearing index cache...");
             jobs::clear_cache()?;
         }
-
+        log::info!("Concurrent: {concurrent}; LLM: {model}");
         jobs::run(model, &dir, &companies, log_file, concurrent)?;
     }
 
@@ -174,6 +174,7 @@ fn cli() -> Result {
 
     if docs {
         TextFile::read(dir.join("./README.md"))?.write(companies.to_string())?;
+        jobs::schema::gen_readme(dir)?;
     }
 
     Ok(())

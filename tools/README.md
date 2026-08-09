@@ -30,5 +30,5 @@ cargo run .. --fmt
 export GEMINI_API_KEY = "..."
 cargo run .. index
 # or
-cargo run .. index --log-file -c 2 --model <LLM_MODEl>
+cargo run .. index --log-file -c 2 --model gemini-3.1-flash-lite
 ```

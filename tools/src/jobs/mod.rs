@@ -14,11 +14,11 @@
 //!   │
 //!   ▼
 //! Store on Disk
-mod schema;
 mod input_normalizer;
+pub mod schema;
 
-use schema::*;
 use input_normalizer::normalize_markdown_from;
+use schema::*;
 
 use std::collections::BTreeMap as Map;
 use std::{io::Write, path::Path};
@@ -45,8 +45,13 @@ Rules:
 - Set `needsFetch` to `true` if fetching `source` is required to extract the complete job.
 - Never guess. use schema defaults when required.
 - Keep `title` unchanged.
+- If an on-site or location-specific job is confirmed to be outside Bangladesh, exclude it.
+- Remote jobs may be included even outside Bangladesh.
 - Format `description` as Markdown. Reorganize if needed, but do not add or remove information.
-- Preserve source exactly as provided; Do not change or convert the URL.
+- Extract relevant tags from the `description` when possible and add them to `tags`; do not invent or duplicate tags.
+- If found, preserve `source` exactly as provided; never resolve to absolute URL, normalize, or modify it.
+- Never guess salary information. Only extract salary information that is explicitly provided in the source.
+- Never guess, infer, or generate unrealistic values for any fields in schema.
 - Include a confidence score (0.0–1.0) for each extracted job.
 - Do not include job postings with confidence below `0.5`
 "#;
@@ -61,7 +66,7 @@ pub async fn run(
 ) -> Result {
     let mut engine = Crawler::new().await?.model(model);
 
-    // let jobs = engine.fetch_jobs(&Url::parse("...")?).await?;
+    // let jobs = engine.fetch_jobs(&Url::parse("https://therap.hire.trakstar.com/")?).await?;
     // println!("{}", json::to_string_pretty(&jobs).unwrap());
     // return Ok(());
 
@@ -79,8 +84,8 @@ pub async fn run(
     while let Some(result) = jobs.next().await {
         match result {
             Ok(None) => {}
-            Ok(Some((name, jobs))) => {
-                output.insert(name, jobs);
+            Ok(Some((name, source, jobs))) => {
+                output.insert(name, Entry { source, jobs });
             }
             Err(msg) => {
                 error!("[ERROR]: {msg}");
@@ -94,7 +99,7 @@ pub async fn run(
     info!(
         "From {} companies; Found {} Jobs",
         output.len(),
-        output.values().map(|jobs| jobs.len()).sum::<usize>()
+        output.values().map(|f| f.jobs.len()).sum::<usize>()
     );
     output_file.write(json::to_string_pretty(&output)?)?;
 
@@ -119,13 +124,13 @@ impl Crawler {
         &self,
         name: &str,
         company: &Company,
-    ) -> Result<Option<(String, Vec<JobPost>)>> {
+    ) -> Result<Option<(String, Url, Vec<JobPost>)>> {
         let Some(url) = company.links.job.as_ref() else {
             return Ok(None);
         };
         let url = normalize_url(url)?;
         let jobs = self.fetch_jobs(&url).await?;
-        Ok(Some((name.into(), jobs)))
+        Ok(Some((name.into(), url, jobs)))
     }
 
     async fn fetch_jobs(&self, url: &Url) -> Result<Vec<JobPost>> {
@@ -157,16 +162,15 @@ impl Crawler {
         let url = normalize_url(&url)?;
         let cache = Cache::open(CACHE_PATH, url.as_str())?;
 
-        let json = match cache.get()? {
-            Some(json) => json,
+        match cache.get()? {
+            Some(json) => Ok(json::from_str(&json)?),
             None => {
                 let json = self.fetch_llm_json_output(&url).await?;
+                let data = json::from_str(&json).map_err(|err| format!("{err};\n{json}"))?;
                 cache.set(&json)?;
-                json
+                Ok(data)
             }
-        };
-
-        Ok(json::from_str(&json).unwrap())
+        }
     }
 
     async fn fetch_job_post(&self, from: &Url, url: &Url) -> Result<Option<JobPost>> {
@@ -247,6 +251,8 @@ fn find_resolved_url<'a>(
     urls: impl IntoIterator<Item = &'a str>,
 ) -> Result<Option<Url>> {
     for src in urls {
+        // println!("src: {}", src);
+
         let resolved = resolve_url(base, src)?;
         if &resolved != base {
             return Ok(Some(resolved));
@@ -298,7 +304,7 @@ impl Crawler {
 mod tests {
     use std::fs;
 
-    use crate::utils::cache::tmp_cache_dir;
+    use crate::utils::cache::*;
 
     #[allow(unused_imports)]
     use super::*;
@@ -315,10 +321,21 @@ mod tests {
     }
 
     // #[test]
-    // fn remove_url_from_cache() -> Result {
-    //     let key = "https://therap.hire.trakstar.com/";
-    //     let s = Cache::open(CACHE_PATH, key)?.remove()?;
-    //     println!("{s}");
+    // fn remove_from_cache() -> Result {
+    //     let prefix = to_filename("https://therap.hire.trakstar.com");
+    //     let dir = tmp_cache_dir(CACHE_PATH)?;
+
+    //     for entry in fs::read_dir(&dir)? {
+    //         let path = entry?.path();
+    //         if path.is_file()
+    //             && path
+    //                 .file_name()
+    //                 .and_then(|name| name.to_str())
+    //                 .is_some_and(|name| name.starts_with(&prefix))
+    //         {
+    //             fs::remove_file(path)?;
+    //         }
+    //     }
     //     Ok(())
     // }
 

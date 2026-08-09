@@ -2,6 +2,7 @@ pub mod cache;
 pub mod keyword_hinter;
 pub mod levenshtein_distance;
 pub mod logger;
+pub mod date;
 pub mod text_file;
 
 #[cfg(feature = "extra")]
