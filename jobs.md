@@ -10,8 +10,8 @@
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Salary** | 8000-8000 |
-| **Location** | OnSite("House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka") |
+| **Salary** | 8K |
+| **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 2 |
 
@@ -68,6 +68,8 @@ Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
 
 `SEO` `Google Analytics` `Google Search Console` `SEMrush` `Ahrefs` `HTML` `CSS` 
 
+---
+
 </details>
 
 <details>
@@ -75,9 +77,9 @@ Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-45000 |
-| **Location** | OnSite("House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka") |
+| **Employment** | Full Time |
+| **Salary** | 35K - 45K |
+| **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
 | **Role** | Junior |
 
 ## 📝 [Description](https://6sensehq.freshteam.com/jobs)
@@ -200,6 +202,8 @@ Provide us with links to see some of your work (Github/Leetcode/Codeforces)
 
 `HTML` `CSS` `JavaScript` `React` `Next.js` `RESTful APIs` `React Query` `Redux` `Zustand` `Git` `GitHub` `GitLab` `Tailwind` `CI/CD` 
 
+---
+
 </details>
 
 <details>
@@ -207,9 +211,9 @@ Provide us with links to see some of your work (Github/Leetcode/Codeforces)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-40000 |
-| **Location** | OnSite("House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka") |
+| **Employment** | Full Time |
+| **Salary** | 35K - 40K |
+| **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://6sensehq.freshteam.com/jobs)
@@ -276,9 +280,9 @@ Office Hour & Job Location:
 
 `Agile` `Scrum` `Jira` `Trello` `Linear` `ClickUp` `SDLC` 
 
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Apex DMIT
 
@@ -287,10 +291,10 @@ Office Hour & Job Location:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-50000 |
+| **Employment** | Full Time |
+| **Salary** | 35K - 50K |
 | **Deadline** | August 20, 2026 |
-| **Location** | OnSite("Banani, Dhaka") |
+| **Location** | Banani, Dhaka |
 | **Role** | Business Development Analyst |
 | **Vacancies** | 6 |
 
@@ -385,13 +389,13 @@ If you possess **excellent English communication skills, strong analytical abili
 
 [Apply For This Job](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
 
+* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
 ## 🛠️ Tech Stack
 
 `Customer Service` `Operations` `BPO` `Data Management` `Microsoft Office` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
 </details>
 
 <details>
@@ -399,10 +403,10 @@ If you possess **excellent English communication skills, strong analytical abili
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-50000 |
+| **Employment** | Full Time |
+| **Salary** | 35K - 50K |
 | **Deadline** | August 15, 2026 |
-| **Location** | OnSite("Dhaka (Banani)") |
+| **Location** | Dhaka (Banani) |
 | **Vacancies** | 6 |
 
 ## 📝 [Description](https://www.career.apexdmit.com/)
@@ -473,16 +477,14 @@ The applicants having experience in the following business area(s): Telecommunic
 * Yearly 2 Festival Bonus
 * Structured Training & Development Program (Year long)
 
+* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
 ## 🛠️ Tech Stack
 
 `Customer Service` `English Communication` `Computer Literacy` `Analytical Capability` `Leadership` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Appyfilab
 
@@ -491,8 +493,8 @@ The applicants having experience in the following business area(s): Telecommunic
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 3 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -556,13 +558,13 @@ Additional Notes:
 
 If you think you meet our requirements then we would love to hear from you.
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `Digital Marketing` `SEO` `Email Marketing` `Lead Generation` `Social Media Marketing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -570,8 +572,8 @@ If you think you meet our requirements then we would love to hear from you.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 4 |
 
@@ -629,13 +631,13 @@ If you think you meet our requirements then we would love to hear from you
 
 Are you Ready?
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `Manual Testing` `Automation Testing` `API Testing` `SDLC` `SQA` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -643,8 +645,8 @@ Are you Ready?
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 2 |
 
@@ -695,13 +697,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `ReactJS` `JavaScript` `HTML5` `CSS` `LESS` `SCSS` `PostCSS` `GIT` `Redux` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -709,8 +711,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 3 |
 
@@ -773,14 +775,14 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://forms.gle/zfoJket218hwfYBm7)
+* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
 ## 🛠️ Tech Stack
 
 `Flutter` `Dart` `Riverpod` `Bloc/Cubit` `Clean Architecture` `RESTful APIs` `JSON` `Git` `Java` `Kotlin` `Swift` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://forms.gle/zfoJket218hwfYBm7)
-* 📧 [Email Resume](mailto:hr.appifylab@gmail.com)
 </details>
 
 <details>
@@ -788,8 +790,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet, Bangladesh |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -867,13 +869,13 @@ Additional Notes:
 
 If you think you meet our requirements then we would love to hear from you.
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `HTML` `CSS` `API` `Trello` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -881,8 +883,8 @@ If you think you meet our requirements then we would love to hear from you.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -947,13 +949,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSdSIFejzzJo2q4pnmn1HD3jFnfmwjVagmeLojPPlW4JwmU5Jw/viewform)
 ## 🛠️ Tech Stack
 
 `Figma` `UI/UX` `SaaS` `HTML/CSS` `Design Systems` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSdSIFejzzJo2q4pnmn1HD3jFnfmwjVagmeLojPPlW4JwmU5Jw/viewform)
 </details>
 
 <details>
@@ -961,8 +963,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1022,13 +1024,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `Video Editing` `Content Creation` `Script Writing` `YouTube` `Instagram` `Facebook` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -1036,8 +1038,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet, Bangladesh |
 | **Role** | Sr. Executive |
 | **Vacancies** | 2 |
 
@@ -1100,13 +1102,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `HR Management` `Human Resources` `MS Office` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -1114,8 +1116,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 3 |
 
@@ -1184,13 +1186,13 @@ Additional Notes:
 
 If you meet our requirements, we would love to hear from you.
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `React.js` `Node.js` `Laravel` `PHP` `MySQL` `PostgreSQL` `MongoDB` `AWS` `JavaScript` `TypeScript` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -1198,9 +1200,9 @@ If you meet our requirements, we would love to hear from you.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 50000 |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Salary** | 50K |
+| **Location** | Modina Market, Sylhet |
 | **Role** | Mid-Level |
 | **Vacancies** | 5 |
 
@@ -1260,13 +1262,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `Flutter` `Dart` `Java` `Kotlin` `Objective-C` `Swift` `MVC` `MVVM` `Clean Architecture` `Riverpod` `Provider` `Bloc` `RESTful APIs` `Git` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -1274,8 +1276,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1344,13 +1346,13 @@ Additional Notes:
 
 If you meet our requirements, we would love to hear from you.
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ## 🛠️ Tech Stack
 
 `SaaS` `Sales` `B2B` `CRM` `Marketing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 </details>
 
 <details>
@@ -1358,9 +1360,9 @@ If you meet our requirements, we would love to hear from you.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000 |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Salary** | 25K |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 15 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1419,14 +1421,14 @@ Job Overview
 
 * ****Job Title****Content Writer* ****Job Type****Full Time* ****Vacancies****15+* ****Salary****25-60k* ****Category****Content Writer* ****Experience****Both Experienced & Fresher Can Apply* ****Degree****Skill is first priority* ****Gender****Both* ****Location****Modina Market, Sylhet
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
 ## 🛠️ Tech Stack
 
 `SEO` `Content Writing` `Blogging` `Social Media` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-* 📧 [Email Resume](mailto:hr.appifylab@gmail.com)
 </details>
 
 <details>
@@ -1434,9 +1436,9 @@ Job Overview
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 30000-50000 |
-| **Location** | OnSite("Dhaka & Sylhet") |
+| **Employment** | Full Time |
+| **Salary** | 30K - 50K |
+| **Location** | Dhaka & Sylhet |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1501,13 +1503,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
 ## 🛠️ Tech Stack
 
 `Customer Success` `SaaS` `Account Management` `CRM` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
 </details>
 
 <details>
@@ -1515,8 +1517,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1597,13 +1599,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://forms.gle/ue8CywkyPPZ6axTe8)
 ## 🛠️ Tech Stack
 
 `Product Management` `Product Research` `Google Analytics` `Mixpanel` `UX Insights` `Growth Analysis` `SaaS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://forms.gle/ue8CywkyPPZ6axTe8)
 </details>
 
 <details>
@@ -1611,8 +1613,8 @@ Working days:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Modina Market, Sylhet") |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
 | **Vacancies** | 5 |
 
 ## 📝 [Description](https://www.appifylab.com/career)
@@ -1693,13 +1695,13 @@ Working days:
 
 5 days in a week
 
+* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
 ## 🛠️ Tech Stack
 
 `SEO` `Content Marketing` `Product Marketing` `SaaS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
 </details>
 
 <details>
@@ -1708,8 +1710,8 @@ Working days:
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Salary** | 10000-25000 |
-| **Location** | OnSite("Dhaka and Sylhet, Bangladesh") |
+| **Salary** | 10K - 25K |
+| **Location** | Dhaka and Sylhet, Bangladesh |
 | **Role** | GTM Engineer Intern |
 | **Vacancies** | 5 |
 
@@ -1804,16 +1806,14 @@ Working days:
 
 6 days in a week
 
+* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
 ## 🛠️ Tech Stack
 
 `AI` `SaaS` `SEO` `CRM` `Marketing` `Sales Development` `Customer Success` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 BJIT Ltd.
 
@@ -1828,13 +1828,13 @@ Working days:
 
 BJIT is looking for highly motivated individuals to join as “Trainee Software Engineer” in our ERP Team. This will be a great opportunity for freshers to get professional training and gain practical...
 
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/salesforcetrainee)
 ## 🛠️ Tech Stack
 
 `ERP Solution` `Salesforce` `SAP` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/salesforcetrainee)
 </details>
 
 <details>
@@ -1848,13 +1848,13 @@ BJIT is looking for highly motivated individuals to join as “Trainee Software 
 
 BJIT Academy is offering a 4-month, hands-on cloud-native and AI-augmented engineering program for fresh graduates and early-career professionals. We are looking for motivated trainees who want to g...Read more
 
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/devtrainee)
 ## 🛠️ Tech Stack
 
 `DevOps` `Cloud` `AI` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/devtrainee)
 </details>
 
 <details>
@@ -1862,19 +1862,19 @@ BJIT Academy is offering a 4-month, hands-on cloud-native and AI-augmented engin
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://bjitgroup.com/career)
 
 We are looking for a motivated Data Scientist to analyze data, build predictive models, and generate actionable insights for global client projects. This role requires the ability to work across div...
 
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/data-scientist)
 ## 🛠️ Tech Stack
 
 `Data Science` `Machine Learning` `Predictive Modeling` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/data-scientist)
 </details>
 
 <details>
@@ -1882,20 +1882,20 @@ We are looking for a motivated Data Scientist to analyze data, build predictive 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Role** | Architect |
 
 ## 📝 [Description](https://bjitgroup.com/career)
 
 We are seeking a highly capable AI Architect to design, scale, and oversee end-to-end AI solutions for global clients across diverse industries. Experience with modern AI paradigms including Generat...
 
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/architect-ai)
 ## 🛠️ Tech Stack
 
 `AI` `Generative AI` `Architecture` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/architect-ai)
 </details>
 
 <details>
@@ -1909,16 +1909,14 @@ We are seeking a highly capable AI Architect to design, scale, and oversee end-t
 
 BJIT is looking for a HR Intern - Recruitment to join our dynamic team.
 
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/HR%20Intern%20-%20Recruitment)
 ## 🛠️ Tech Stack
 
 `HR` `Recruitment` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/HR%20Intern%20-%20Recruitment)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Bangladesh Software Solution
 
@@ -1927,8 +1925,8 @@ BJIT is looking for a HR Intern - Recruitment to join our dynamic team.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Developer |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -1977,13 +1975,13 @@ At **Bangladesh Software Solution**, we build scalable, high-performance web and
 *   **High-Performing Culture:** Collaborative, agile, and technology-focused working environment.
 *   **Work-Life Balance:** Flexible schedule arrangements and supportive team dynamics.
 
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `Microsoft Dynamics Business Central` `AL Language` `Visual Studio Code` `C/AL` `OData` `RESTful APIs` `SOAP` `Microsoft SQL Server` `Azure` `Power Apps` `Power Automate` `Power BI` `Git` `GitHub` `Azure DevOps` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -1991,8 +1989,8 @@ At **Bangladesh Software Solution**, we build scalable, high-performance web and
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Senior |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2042,13 +2040,13 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   A collaborative, high-performing agile environment.
 *   Flexible schedule arrangements.
 
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `PostgreSQL` `AI` `LLM` `RAG` `Shopify` `Git` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -2056,8 +2054,8 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Junior/Trainee |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2096,13 +2094,13 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `AI` `Machine Learning` `Deep Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -2110,8 +2108,8 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Senior |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2160,14 +2158,14 @@ We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼�
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `Node.js` `ReactJS` `.NET` `MS SQL` `PostgreSQL` `AWS` `Python` `RESTful API` `Microservices` `CI/CD` `Git` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -2175,8 +2173,8 @@ We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼�
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Senior |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2215,13 +2213,13 @@ We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼�
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ## 🛠️ Tech Stack
 
 `C#` `.NET` `.NET Core` `CAD/CAM` `Revit` `Machine Learning` `Deep Learning` `RESTful APIs` `Azure` `CI/CD` `DevOps` `HTML` `CSS` `JavaScript` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
 </details>
 
 <details>
@@ -2229,8 +2227,8 @@ We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼�
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 
 ## 📝 [Description](https://bssoln.com/careers)
 
@@ -2272,13 +2270,13 @@ We are looking for a skilled and motivated **AI Engineer** to join our team and 
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ## 🛠️ Tech Stack
 
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `LLMs` `SQL` `Pinecone` `Milvus` `ChromaDB` `Git` `AI` `Machine Learning` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
 </details>
 
 <details>
@@ -2286,8 +2284,8 @@ We are looking for a skilled and motivated **AI Engineer** to join our team and 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Junior & Intern |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2328,14 +2326,14 @@ Ready to join us?
 
 Apply now and take the next step in your career with **Bangladesh Software Solution**. We’re excited to learn more about you.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `Figma` `Adobe XD` `Sketch` `HTML5` `CSS3` `JavaScript` `UI/UX` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -2343,8 +2341,8 @@ Apply now and take the next step in your career with **Bangladesh Software Solut
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Junior/Intern |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2380,13 +2378,13 @@ You will collaborate with designers and developers to turn ideas into functional
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ## 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` `C#.NET` `Python` `PHP` `WordPress` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
 </details>
 
 <details>
@@ -2394,8 +2392,8 @@ You will collaborate with designers and developers to turn ideas into functional
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Junior/Intern |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2477,13 +2475,13 @@ Dhaka, Bangladesh
 
 Share This Job
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ## 🛠️ Tech Stack
 
 `AI` `Machine Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `Bootstrap` `Tailwind` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
 </details>
 
 <details>
@@ -2492,7 +2490,7 @@ Share This Job
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Intern |
 | **Vacancies** | 1 |
 
@@ -2533,14 +2531,14 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ## 🛠️ Tech Stack
 
 `AI` `Machine Learning` `Software Engineering` `Python` `PHP` `C#.NET` `SQL` `WordPress` `Laravel` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
-* 🌐 [Apply on Website](https://bssoln.com/careers)
 </details>
 
 <details>
@@ -2548,8 +2546,8 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://bssoln.com/careers)
@@ -2586,16 +2584,14 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ## 🛠️ Tech Stack
 
 `Databricks` `Python` `SQL` `Delta Lake` `Azure` `Terraform` `CI/CD` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:bssolnjobs@gmail.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Bdtask
 
@@ -2604,9 +2600,9 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 12000 |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Salary** | 12K |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Vacancies** | 10 |
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
@@ -2679,13 +2675,13 @@ Work at office
 
 hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `Sales` `Marketing` `BBA` `POS` `Tele Calling` `Lead Generation` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -2693,8 +2689,8 @@ hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Senior Software Engineer |
 | **Vacancies** | 5 |
 
@@ -2784,13 +2780,13 @@ Negotiable
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `Github` `Bitbucket` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -2798,8 +2794,8 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Junior |
 | **Vacancies** | 2 |
 
@@ -2879,13 +2875,13 @@ Negotiable
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `CI/CD` `GitHub` `Bitbucket` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -2893,8 +2889,8 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Senior PHP Developer |
 | **Vacancies** | 10 |
 
@@ -3035,13 +3031,13 @@ Yearly
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `Ajax` `CodeIgniter` `jQuery` `Laravel` `MySQL` `PHP` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -3049,8 +3045,8 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
@@ -3138,13 +3134,13 @@ Negotiable
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `AWS` `Lambda` `API Gateway` `EKS` `RDS` `DynamoDB` `IAM` `Cloud Formation` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -3152,8 +3148,8 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Senior Frontend Developer |
 | **Vacancies** | 5 |
 
@@ -3267,13 +3263,13 @@ Yearly
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `React Application` `React Native` `ReactJS` `REST API` `AWS` `ES6` `Redux` `Redux-saga` `Redux-persist` `Styled-Components` `Git` `Jira` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@bdtask.com)
 </details>
 
 <details>
@@ -3281,8 +3277,8 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229") |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Vacancies** | 3 |
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
@@ -3392,16 +3388,14 @@ Negotiable
 
 Email: hr@bdtask.com
 
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ## 🛠️ Tech Stack
 
 `Business Process` `Digital Marketing` `Technical Documentation` `Sales IT Marketing` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:hr@bdtask.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Brain Station 23 PLC
 
@@ -3410,9 +3404,9 @@ Email: hr@bdtask.com
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 14 Aug, 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
@@ -3501,13 +3495,13 @@ Success Metrics
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/zyepnczvzp-project-manager-fintech/apply)
 ## 🛠️ Tech Stack
 
 `Project Management` `DevOps` `Jira` `Agile/Scrum` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/zyepnczvzp-project-manager-fintech/apply)
 </details>
 
 <details>
@@ -3515,9 +3509,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 14 Aug, 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
@@ -3572,13 +3566,13 @@ We are seeking skilled and versatile **ASP.NET Engineer** to join our team. As a
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
 ## 🛠️ Tech Stack
 
 `Asp.Net` `React` `ASP.NET Core` `C#` `Entity Framework Core` `React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL Server` `PostgreSQL` `Git` `Docker` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
 </details>
 
 <details>
@@ -3586,9 +3580,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 Aug, 2026 |
-| **Location** | Hybrid("Mohakhali, Dhaka, Bangladesh") |
+| **Location** | Mohakhali, Dhaka, Bangladesh (Hybrid) |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
@@ -3672,13 +3666,13 @@ Benefits
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/analyst-proposals-presales-assets/apply)
 ## 🛠️ Tech Stack
 
 `Analyst` `Pre-sales` `Proposal` `Content Writing` `Microsoft PowerPoint` `Google Slides` `FinTech` `AI` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/analyst-proposals-presales-assets/apply)
 </details>
 
 <details>
@@ -3686,9 +3680,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 Aug, 2026 |
-| **Location** | OnSite("Mirpur DOHS, Dhaka, Bangladesh") |
+| **Location** | Mirpur DOHS, Dhaka, Bangladesh |
 | **Vacancies** | 4 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
@@ -3749,13 +3743,13 @@ We are seeking a results-driven **Salesperson** to join our nopStation team, foc
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/manager-sales-ecommerce/apply)
 ## 🛠️ Tech Stack
 
 `sales` `Odoo CRM` `Shopify` `WooCommerce` `Magento` `SaaS Sales` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/manager-sales-ecommerce/apply)
 </details>
 
 <details>
@@ -3763,9 +3757,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 Aug, 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Manager |
 | **Vacancies** | 2 |
 
@@ -3838,13 +3832,13 @@ This position requires strong communication and consultative selling skills, a s
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
 ## 🛠️ Tech Stack
 
 `cyber Security` `software sales` `SOC` `VAPT` `CRM` `Salesforce` `HubSpot` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
 </details>
 
 <details>
@@ -3852,9 +3846,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 Aug, 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
@@ -3902,13 +3896,13 @@ Brain Station 23 PLC is looking for a highly motivated **Manager, Sales** with m
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpek-manager-sales-fintech/apply)
 ## 🛠️ Tech Stack
 
 `sales` `FinTech` `B2B sales` `SaaS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpek-manager-sales-fintech/apply)
 </details>
 
 <details>
@@ -3916,9 +3910,9 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 Aug, 2026 |
-| **Location** | OnSite("Dhaka, Dhaka, Bangladesh") |
+| **Location** | Dhaka, Dhaka, Bangladesh |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
@@ -3970,16 +3964,14 @@ Benefits
 
 Life at Brain Station 23
 
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/netsuite-developer/apply)
 ## 🛠️ Tech Stack
 
 `NetSuite` `SuiteQL` `SuiteCloud` `iPaaS platform` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/netsuite-developer/apply)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 FIGLAB
 
@@ -3988,8 +3980,8 @@ Life at Brain Station 23
 
 | Field | Information |
 | ----- | ----------- |
-| **Salary** | 30000-50000 |
-| **Location** | OnSite("Panthapath, Dhaka") |
+| **Salary** | 30K - 50K |
+| **Location** | Panthapath, Dhaka |
 
 ## 📝 [Description](https://figlab.io/career)
 
@@ -4003,13 +3995,13 @@ Life at Brain Station 23
 
 Apply →
 
+* 🌐 [Apply on Website](https://figlab.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://figlab.io/career)
 </details>
 
 <details>
@@ -4017,8 +4009,8 @@ Apply →
 
 | Field | Information |
 | ----- | ----------- |
-| **Salary** | 25000-50000 |
-| **Location** | OnSite("Panthapath, Dhaka") |
+| **Salary** | 25K - 50K |
+| **Location** | Panthapath, Dhaka |
 
 ## 📝 [Description](https://figlab.io/career)
 
@@ -4032,13 +4024,13 @@ Apply →
 
 Apply →
 
+* 🌐 [Apply on Website](https://figlab.io/career)
 ## 🛠️ Tech Stack
 
 `QA` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://figlab.io/career)
 </details>
 
 <details>
@@ -4046,8 +4038,8 @@ Apply →
 
 | Field | Information |
 | ----- | ----------- |
-| **Salary** | 25000-50000 |
-| **Location** | OnSite("Panthapath, Dhaka") |
+| **Salary** | 25K - 50K |
+| **Location** | Panthapath, Dhaka |
 
 ## 📝 [Description](https://figlab.io/career)
 
@@ -4061,16 +4053,14 @@ Apply →
 
 Apply →
 
+* 🌐 [Apply on Website](https://figlab.io/career)
 ## 🛠️ Tech Stack
 
 `UI/UX` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://figlab.io/career)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Flyte Solutions
 
@@ -4079,23 +4069,21 @@ Apply →
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("DHAKA") |
+| **Employment** | Full Time |
+| **Location** | DHAKA |
 
 ## 📝 [Description](https://flytesolutions.com/career/frontend-developer)
 
 Looking to hire frontend developers who can bring your digital product to life? Our vetted frontend experts specialize in crafting intuitive, pixel-perfect user interfaces that align with your business goals and provide seamless user experiences across all devices.
 
+* 🌐 [Apply on Website](https://flytesolutions.com/career/frontend-developer)
 ## 🛠️ Tech Stack
 
 `frontend` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://flytesolutions.com/career/frontend-developer)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Furqan Software
 
@@ -4104,7 +4092,7 @@ Looking to hire frontend developers who can bring your digital product to life? 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://furqansoftware.com/careers)
 
@@ -4163,6 +4151,8 @@ Submit
 ## 🛠️ Tech Stack
 
 `JavaScript` `Express` `MongoDB` `Object-Oriented Programming` 
+
+---
 
 </details>
 
@@ -4234,6 +4224,8 @@ Submit
 
 `JavaScript` `CSS3` `HTML5` `Backbone.js` `React` `CoffeeScript` `Stylus` `Underscore.js` `Webpack` `Gulp` `Laravel` 
 
+---
+
 </details>
 
 <details>
@@ -4241,7 +4233,7 @@ Submit
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://furqansoftware.com/bn/careers/go-developer)
 
@@ -4281,16 +4273,14 @@ We are all about building quality software. We create beautifully architected Go
 * Be open to receiving feedback.
 * You must be a self-motivated contributor to thrive at Furqan Software.
 
+* 🌐 [Apply on Website](https://furqansoftware.com/bn/careers/go-developer)
 ## 🛠️ Tech Stack
 
 `Go` `Javascript` `MongoDB` `Redis` `RabbitMQ` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://furqansoftware.com/bn/careers/go-developer)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 HawarIT
 
@@ -4299,7 +4289,7 @@ We are all about building quality software. We create beautifully architected Go
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | June 21, 2026 |
 | **Deadline** | Aug 15, 2026 |
 
@@ -4350,13 +4340,13 @@ Are you interested and would you like to know more about us? Please visit our we
 
 Are you excited to join our dynamic and multicultural team? Please send your CV and a cover letter to **career@hawarit.com 𝐛𝐲 Aug 𝟏𝟓, 𝟐𝟎𝟐𝟔** with the subject line “Revit Engineer – [Your Name]”. Applications will be reviewed on a rolling basis until the position is filled.
 
+* 📧 [Send Resume via Email](mailto:career@hawarit.com)
 ## 🛠️ Tech Stack
 
 `Revit` `BIM` `Building Information Modeling` `Autodesk Revit` `CAD` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@hawarit.com)
 </details>
 
 <details>
@@ -4364,9 +4354,9 @@ Are you excited to join our dynamic and multicultural team? Please send your CV 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | January 16, 2025 |
-| **Location** | OnSite("Sneek, Nederland") |
+| **Location** | Sneek, Nederland |
 | **Role** | Projectleider |
 
 ## 📝 [Description](https://www.hawarit.com/career)
@@ -4418,13 +4408,13 @@ Ben je geïnteresseerd en wil je meer over ons weten? Kijk dan eens op onze webs
 
 Ben je enthousiast om deel uit te maken van ons dynamische en multiculturele team? Stuur dan je CV met een motivatiebrief naar **career@hawarit.com** met als onderwerpregel “Projectleider – [Jouw Naam]”. Sollicitaties worden doorlopend beoordeeld totdat de functie is ingevuld.
 
+* 📧 [Send Resume via Email](mailto:career@hawarit.com)
 ## 🛠️ Tech Stack
 
 `BIM` `GIS` `Engineering` `Management` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@hawarit.com)
 </details>
 
 <details>
@@ -4437,13 +4427,13 @@ Ben je enthousiast om deel uit te maken van ons dynamische en multiculturele tea
 
 Job Opening for Django / Python Developer
 
+* 🌐 [Apply on Website](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
 ## 🛠️ Tech Stack
 
 `Django` `Python` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
 </details>
 
 <details>
@@ -4451,9 +4441,9 @@ Job Opening for Django / Python Developer
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | July 16, 2024 |
-| **Location** | OnSite("Dhaka (Ashulia)") |
+| **Location** | Dhaka (Ashulia) |
 
 ## 📝 [Description](https://www.hawarit.com/career)
 
@@ -4492,6 +4482,8 @@ Dhaka (Ashulia)
 
 `ArcGIS` `AutoCAD Map 3D` `Revit3D` `AutoCAD Map` 
 
+---
+
 </details>
 
 <details>
@@ -4499,9 +4491,9 @@ Dhaka (Ashulia)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | April 29, 2024 |
-| **Location** | OnSite("Dhaka(Dhaka Sadar)") |
+| **Location** | Dhaka(Dhaka Sadar) |
 
 ## 📝 [Description](https://www.hawarit.com/career)
 
@@ -4547,16 +4539,14 @@ Full-time
 
 Dhaka(Dhaka Sadar)
 
+* 🌐 [Apply on Website](https://www.hawarit.com/career-at-hawarit)
 ## 🛠️ Tech Stack
 
 `.Net Core` `Angular` `ASP.NET Core` `C#` `ASP.NET` `Rest Api` `Bootstrap` `CSS` `Javascript` `Jquery` `MSSQL` `Azure Cloud` `DevOps` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.hawarit.com/career-at-hawarit)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 IXORA Solution
 
@@ -4565,8 +4555,8 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://ixorasolution.com/career)
@@ -4577,13 +4567,13 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/data-engineer-40)
 ## 🛠️ Tech Stack
 
 `Data Engineering` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/data-engineer-40)
 </details>
 
 <details>
@@ -4591,8 +4581,8 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://ixorasolution.com/career)
@@ -4603,13 +4593,13 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-angular-python-35)
 ## 🛠️ Tech Stack
 
 `Angular` `Python` `Full Stack` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-angular-python-35)
 </details>
 
 <details>
@@ -4617,8 +4607,8 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://ixorasolution.com/career)
@@ -4629,13 +4619,13 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/odoo-techno-functional-consultant-37)
 ## 🛠️ Tech Stack
 
 `Odoo` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/odoo-techno-functional-consultant-37)
 </details>
 
 <details>
@@ -4643,8 +4633,8 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://ixorasolution.com/career)
@@ -4655,13 +4645,13 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-net-core-angular-react-38)
 ## 🛠️ Tech Stack
 
 `.NET Core` `Angular` `React` `Full Stack` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-net-core-angular-react-38)
 </details>
 
 <details>
@@ -4669,8 +4659,8 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://ixorasolution.com/career)
@@ -4681,16 +4671,14 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/financial-consultant-erp-microsoft-business-central-odoo-41)
 ## 🛠️ Tech Stack
 
 `ERP` `Microsoft Business Central` `Odoo` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/financial-consultant-erp-microsoft-business-central-odoo-41)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Inument
 
@@ -4699,9 +4687,9 @@ Dhaka(Dhaka Sadar)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-50000 |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Employment** | Full Time |
+| **Salary** | 25K - 50K |
+| **Location** | Baridhara DOHS |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://inument.com/careers)
@@ -4749,14 +4737,14 @@ At Inument, we are looking for SQA Engineers who own quality at the system level
 
 **Email subject format:** SQA Engineer_3yr_25k_DUET
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2965)
+* 📧 [Send Resume via Email](mailto:jobs@inument.com)
 ## 🛠️ Tech Stack
 
 `SQA` `API testing` `Backend validation` `SQL` `Automation` `Manual testing` `Quality Assurance` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2965)
-* 📧 [Email Resume](mailto:jobs@inument.com)
 </details>
 
 <details>
@@ -4764,9 +4752,9 @@ At Inument, we are looking for SQA Engineers who own quality at the system level
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 80000-130000 |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Employment** | Full Time |
+| **Salary** | 80K - 130K |
+| **Location** | Baridhara DOHS |
 | **Role** | Senior |
 | **Vacancies** | 1 |
 
@@ -4816,14 +4804,14 @@ At Inument, we are looking for Senior SQA Engineers who own quality at the syste
 *   Long-term growth opportunities in a high-quality work environment.
 *   Friendly, fun-loving team culture with a competitive salary package.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2916)
+* 📧 [Send Resume via Email](mailto:jobs@inument.com)
 ## 🛠️ Tech Stack
 
 `SQA` `API Testing` `Automation` `Manual Testing` `SQL` `CI/CD` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2916)
-* 📧 [Email Resume](mailto:jobs@inument.com)
 </details>
 
 <details>
@@ -4831,9 +4819,9 @@ At Inument, we are looking for Senior SQA Engineers who own quality at the syste
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 80000 |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Employment** | Full Time |
+| **Salary** | 80K |
+| **Location** | Baridhara DOHS |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://inument.com/career)
@@ -4890,13 +4878,13 @@ At Inument, we are looking for a skilled Native Android Developer with strong, r
 *   Long-term growth opportunities in a high-quality work environment.
 *   Friendly, fun-loving team culture with a competitive salary package.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2907)
 ## 🛠️ Tech Stack
 
 `iOS` `Swift` `UIKit` `SwiftUI` `Git` `MVC` `MVVM` `RESTful APIs` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2907)
 </details>
 
 <details>
@@ -4904,9 +4892,9 @@ At Inument, we are looking for a skilled Native Android Developer with strong, r
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 80000-150000 |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Employment** | Full Time |
+| **Salary** | 80K - 150K |
+| **Location** | Baridhara DOHS |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://inument.com/career)
@@ -4962,13 +4950,13 @@ At Inument, we are looking for a skilled Native Android Developer with strong, r
 *   Long-term growth opportunities in a high-quality work environment.
 *   Friendly, fun-loving team culture with a competitive salary package.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2906)
 ## 🛠️ Tech Stack
 
 `Android` `Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `MVP` `Clean Architecture` `Git` `RESTful APIs` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2906)
 </details>
 
 <details>
@@ -4976,10 +4964,10 @@ At Inument, we are looking for a skilled Native Android Developer with strong, r
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 100000-200000 |
+| **Employment** | Full Time |
+| **Salary** | 100K - 200K |
 | **Deadline** | Open until the position is filled |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Location** | Baridhara DOHS |
 | **Role** | Senior |
 | **Vacancies** | 2 |
 
@@ -5031,13 +5019,13 @@ We’re currently seeking a Senior Drupal Developer to join our growing CMS engi
 • Long-term growth opportunities in a global, high-quality engineering culture.
 • Friendly, collaborative environment with competitive pay and international exposure.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2092)
 ## 🛠️ Tech Stack
 
 `Drupal` `PHP` `React` `JavaScript` `HTML5` `CSS3` `REST` `GraphQL` `Composer` `Git` `Docker` `Kubernetes` `CI/CD` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2092)
 </details>
 
 <details>
@@ -5045,10 +5033,10 @@ We’re currently seeking a Senior Drupal Developer to join our growing CMS engi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 70000-150000 |
+| **Employment** | Full Time |
+| **Salary** | 70K - 150K |
 | **Deadline** | Open until the position is filled |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Location** | Baridhara DOHS |
 | **Role** | Senior |
 | **Vacancies** | 2 |
 
@@ -5101,13 +5089,13 @@ We are looking for experienced Senior Flutter Engineers to join our team. You’
 * Long-term growth opportunities in a high-quality work environment.
 * Friendly, fun-loving team culture with a competitive salary package.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2021)
 ## 🛠️ Tech Stack
 
 `Flutter` `Dart` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `Bloc` `GetX` `Riverpod` `Provider` `GraphQL` `RESTful` `OAuth 2.0` `JWT` `React` `React Native` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2021)
 </details>
 
 <details>
@@ -5115,10 +5103,10 @@ We are looking for experienced Senior Flutter Engineers to join our team. You’
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 100000-250000 |
+| **Employment** | Full Time |
+| **Salary** | 100K - 250K |
 | **Deadline** | Open until the position is filled |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Location** | Baridhara DOHS |
 | **Role** | Lead |
 | **Vacancies** | 2 |
 
@@ -5173,13 +5161,13 @@ We are looking for an experienced very senior level React Native Engineer to joi
 * Long-term growth opportunities in a high-quality work environment.
 * Friendly, fun-loving team culture with a competitive salary package.
 
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2020)
 ## 🛠️ Tech Stack
 
 `React Native` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `GraphQL` `RESTful APIs` `Swift` `Objective-C` `Java` `Flutter` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2020)
 </details>
 
 <details>
@@ -5187,9 +5175,9 @@ We are looking for an experienced very senior level React Native Engineer to joi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 120000-180000 |
-| **Location** | OnSite("Baridhara DOHS") |
+| **Employment** | Full Time |
+| **Salary** | 120K - 180K |
+| **Location** | Baridhara DOHS |
 | **Role** | Senior |
 | **Vacancies** | 1 |
 
@@ -5242,17 +5230,15 @@ Bachelor’s degree in Computer Science, Information Technology, or a related fi
 **How to Apply:**
 Send your CV to jobs@inument.com with your photo and expected salary. Email subjectformat: Frontend_6yr_90k_JU
 
+* 📧 [Send Resume via Email](mailto:jobs@inument.com)
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2019)
 ## 🛠️ Tech Stack
 
 `HTML` `CSS` `JavaScript` `SASS` `LESS` `React` `Angular` `Vue.js` `Git` `WCAG` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:jobs@inument.com)
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2019)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 LeadSoft
 
@@ -5261,9 +5247,9 @@ Send your CV to jobs@inument.com with your photo and expected salary. Email subj
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 1 month ago |
-| **Location** | OnSite("Dhaka") |
+| **Location** | Dhaka |
 | **Role** | Software Engineer |
 
 ## 📝 [Description](https://leads.com.bd/jobs)
@@ -5301,6 +5287,8 @@ We’re looking for a talented **Mobile Software Engineer** with hands-on experi
 
 `android` `ios` `kotlin` `swift` `kmp` `jetpack-compose` `ktor` `firebase` `git` 
 
+---
+
 </details>
 
 <details>
@@ -5308,9 +5296,9 @@ We’re looking for a talented **Mobile Software Engineer** with hands-on experi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 1 month ago |
-| **Location** | OnSite("Dhaka") |
+| **Location** | Dhaka |
 
 ## 📝 [Description](https://leads.com.bd/jobs)
 
@@ -5365,6 +5353,8 @@ We’re looking for a passionate Software Test Engineer to help us deliver top-q
 
 `softwarecompany` `sqa` `testengineer` `Cypress` `JMeter` `Git` `DevOps` `CI/CD` 
 
+---
+
 </details>
 
 <details>
@@ -5372,9 +5362,9 @@ We’re looking for a passionate Software Test Engineer to help us deliver top-q
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 2 months ago |
-| **Location** | OnSite("Dhaka") |
+| **Location** | Dhaka |
 | **Role** | Lead / Principal |
 
 ## 📝 [Description](https://leads.com.bd/jobs)
@@ -5424,16 +5414,14 @@ Seeking a developer who will develop and enhance Anti-Money Laundering (AML) sof
 * SQL & Database Design
 * Secure and Scalable Software Development
 
+* 📧 [Send Resume via Email](mailto:info@leads-bd.com)
 ## 🛠️ Tech Stack
 
 `softwarecompany` `aml` `java` `Spring Boot` `Angular` `RESTful API` `Microservices` `SQL` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:info@leads-bd.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Mediusware Ltd.
 
@@ -5442,10 +5430,10 @@ Seeking a developer who will develop and enhance Anti-Money Laundering (AML) sof
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-40000 |
+| **Employment** | Full Time |
+| **Salary** | 25K - 40K |
 | **Deadline** | 31 August, 2026 |
-| **Location** | OnSite("24/1 & 24/2, Floor 8, Shiya Mashjid Mor, Tajmahal Road, Mohammadpur, Dhaka- 1207") |
+| **Location** | 24/1 & 24/2, Floor 8, Shiya Mashjid Mor, Tajmahal Road, Mohammadpur, Dhaka- 1207 |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://www.mediusware.com/career)
@@ -5507,16 +5495,14 @@ Fresh graduates with excellent communication skills are encouraged to apply.
 
 24/1 & 24/2, Floor 8, Shiya Mashjid Mor, Tajmahal Road, Mohammadpur, Dhaka- 1207
 
+* 🌐 [Apply on Website](https://www.mediusware.com/career/jobs/Client-Relationship-Executive/apply)
 ## 🛠️ Tech Stack
 
 `LinkedIn` `ChatGPT` `Gemini` `Claude` `AI tools` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.mediusware.com/career/jobs/Client-Relationship-Executive/apply)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Next Ventures
 
@@ -5525,7 +5511,7 @@ Fresh graduates with excellent communication skills are encouraged to apply.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Location** | Remote |
 | **Role** | Head |
 
@@ -5614,13 +5600,13 @@ This is a rare opportunity to build a hedge-fund-grade system from the ground up
 
 The future of fintech is algorithmic. Come build it with us.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Python` `C++` `Market Making` `Statistical Arbitrage` `KDB` `Quantitative Trading` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -5628,7 +5614,7 @@ The future of fintech is algorithmic. Come build it with us.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Location** | Remote |
 | **Role** | Head |
 
@@ -5682,13 +5668,13 @@ What sets the strongest candidates apart:
 1. Initial conversation with our Talent Acquisition team.
 2. 60 minutes interview with management team and HoD
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Risk Management` `Trading` `CFD` `Crypto` `Futures` `Compliance` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -5696,8 +5682,8 @@ What sets the strongest candidates apart:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Global multiple locations") |
+| **Employment** | Full Time |
+| **Location** | Global multiple locations (Hybrid) |
 | **Role** | Advisor |
 
 ## 📝 [Description](https://career.nextventures.io/)
@@ -5780,6 +5766,8 @@ Your next chapter in global trading leadership begins here.
 
 `Finance` `Economics` `Derivatives` `Risk Management` `Trading Operations` 
 
+---
+
 </details>
 
 <details>
@@ -5787,8 +5775,8 @@ Your next chapter in global trading leadership begins here.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Kuala Lumpur, Singapore, Sydney, Taipei, New York, Hong Kong, São Paulo, Beijing") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Singapore, Sydney, Taipei, New York, Hong Kong, São Paulo, Beijing (Hybrid) |
 | **Role** | Engineer |
 
 ## 📝 [Description](https://career.nextventures.io/)
@@ -5907,13 +5895,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `MetaTrader` `MT4` `MT5` `AWS` `DevOps` `SRE` `Windows Server` `Linux` `PowerShell` `Bash` `Python` `MQL4` `MQL5` `FIX protocol` `Prometheus` `Grafana` `Zabbix` `CloudWatch` `ELK` `Terraform` `Ansible` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -5921,8 +5909,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Dhaka, Bangladesh / Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh / Kuala Lumpur, Malaysia (Hybrid) |
 | **Role** | Applied AI Engineer |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6005,13 +5993,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Python` `LangChain` `LangGraph` `Agno` `LlamaIndex` `Hugging Face` `vLLM` `RAG` `Vector Databases` `Docker` `AWS` `GCP` `Azure` `Claude API` `Claude Code` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6019,8 +6007,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka,Dhaka,Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka,Dhaka,Bangladesh |
 | **Role** | Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6086,13 +6074,13 @@ Dispute Resolution & Internal Controls
 
 At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you’re driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `QuickBooks` `Xero` `Google Workspace` `MS Office` `Excel` `GAAP` `IFRS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6100,8 +6088,8 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Dhaka, Bangladesh |
 | **Role** | Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6193,13 +6181,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Operations` `Customer Support` `Case Resolution` `Excel` `Google Sheets` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6207,9 +6195,9 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-60000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 35K - 60K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6356,13 +6344,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `SQL` `Power BI` `Excel` `Google Sheets` `Metabase` `Tableau` `Business Intelligence` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6371,8 +6359,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Salary** | 10000 |
-| **Location** | OnSite("Dhaka, Dhaka, Bangladesh") |
+| **Salary** | 10K |
+| **Location** | Dhaka, Dhaka, Bangladesh |
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6451,13 +6439,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Google Ads` `Meta Ads Manager` `Google Analytics` `Excel` `Google Sheets` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6465,8 +6453,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6595,13 +6583,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Python` `AWS` `Snowflake` `Google Cloud` `PostgreSQL` `MySQL` `Amazon Redshift` `ETL` `ELT` `CDC` `Airflow` `Kafka` `Kinesis` `Flink` `Terraform` `GitHub Actions` `Metabase` `Tableau` `Power BI` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6609,8 +6597,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Dhaka, Bangladesh |
 | **Role** | Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6685,13 +6673,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `SEO` `LLM Optimization` `LLMO` `Retrieval-Augmented Generation` `RAG` `Generative Engine Optimization` `GEO` `Technical SEO` `Ahrefs` `SEMrush` `Moz` `Google Analytics` `Google Search Console` `Screaming Frog` `HTML` `CSS` `JavaScript` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6699,8 +6687,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Dhaka, Bangladesh |
 
 ## 📝 [Description](https://career.nextventures.io/)
 
@@ -6787,13 +6775,13 @@ As a Motion Designer, you will craft dynamic visual experiences that define how 
 *   Unlimited tea & coffee
 *   Vending machine credits
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Adobe After Effects` `Illustrator` `Photoshop` `Premiere Pro` `Cinema 4D` `Blender` `Figma` `3D animation` `VFX` `UI/UX` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6801,8 +6789,8 @@ As a Motion Designer, you will craft dynamic visual experiences that define how 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Kuala Lumpur, Malaysia / Singapore / Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia / Singapore / Dhaka, Bangladesh (Hybrid) |
 | **Role** | Lead / Senior |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6880,13 +6868,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Node.js` `Next.js` `MySQL` `PostgreSQL` `AI-Native` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6894,8 +6882,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Dubai, Limassol") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Dubai, Limassol |
 | **Role** | Junior / Senior |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -6941,13 +6929,13 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Negotiation` `Partnership Management` `Communication` `Marketing` `Business Development` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -6955,8 +6943,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur |
 | **Role** | Manager |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7022,13 +7010,13 @@ At NEXT Ventures, performance is more than numbers — it’s the pulse that dri
 
 Your next chapter in global leadership begins here.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Figma` `UI/UX` `Fintech` `Product Design` `Trading` `Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7036,8 +7024,8 @@ Your next chapter in global leadership begins here.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Singapore, Jakarta, Hong Kong, Taipei, Dubai, Colombo") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Singapore, Jakarta, Hong Kong, Taipei, Dubai, Colombo |
 | **Role** | Senior |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7109,13 +7097,13 @@ At NEXT Ventures, performance is more than numbers — it’s the pulse that dri
 
 Your next chapter in global leadership begins here.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Figma` `Fintech` `SaaS` `Trading Platforms` `Design Systems` `Prototyping` `User Research` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7123,7 +7111,7 @@ Your next chapter in global leadership begins here.
 
 | Field | Information |
 | ----- | ----------- |
-| **Location** | Hybrid("Kuala Lumpur, Malaysia / Dubai, United Arab Emirates") |
+| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
 | **Role** | Database Reliability Engineer |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7202,13 +7190,13 @@ As our Database Reliability Engineer, you are the specialist who ensures our dat
 *   Offices across Bangladesh, Malaysia, Sri Lanka, Cyprus, and Dubai — a genuinely global engineering team.
 *   Competitive compensation benchmarked to your market, with room to grow as the team scales.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `MySQL` `PostgreSQL` `AWS` `RDS` `Aurora` `Redis` `ElastiCache` `Python` `Bash` `Prometheus` `Grafana` `Datadog` `Terraform` `CloudFormation` `S3` `Athena` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7216,8 +7204,8 @@ As our Database Reliability Engineer, you are the specialist who ensures our dat
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Kuala Lumpur, Malaysia / Dubai, United Arab Emirates") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
 | **Role** | Engineer |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7268,13 +7256,13 @@ At NEXT Ventures, performance is more than numbers — it's the pulse that drive
 
 **Your next chapter in building at scale begins here.**
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `DevSecOps` `AWS` `Kubernetes` `Cloudflare` `Terraform` `Docker` `Python` `Bash` `Go` `CI/CD` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7282,8 +7270,8 @@ At NEXT Ventures, performance is more than numbers — it's the pulse that drive
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
 | **Role** | Employee Relations Specialist |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7344,13 +7332,13 @@ This role will bring structure to how complex people matters are managed across 
 *   Strong communication skills across leadership and employee levels.
 *   Ability to remain composed and analytical under pressure.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Human Resources` `Employee Relations` `Compliance` `Conflict Resolution` `Investigations` `HR Advisory` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7358,8 +7346,8 @@ This role will bring structure to how complex people matters are managed across 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (Hybrid) |
 | **Role** | Mid Senior / Managerial Level |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7411,13 +7399,13 @@ As the Employee Relations Specialist at NEXT Ventures, you will be the trusted p
 *   Experience working in multinational or matrix environments.
 *   Added advantage: Professional HR certification (e.g., CIPD, SHRM)
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Employee Relations` `HR Advisory` `Investigations` `Policy Compliance` `Performance Management` `HR Operations` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7425,8 +7413,8 @@ As the Employee Relations Specialist at NEXT Ventures, you will be the trusted p
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
 | **Role** | Engineering Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7469,13 +7457,13 @@ As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-en
 * Deliver measurable outcomes: 30% fewer payout support tickets, resilient payment diversity, and FNPay product-market fit.
 * Manage stakeholders across finance, compliance, operations, and CX.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7483,8 +7471,8 @@ As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-en
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
 | **Role** | Engineering Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7547,13 +7535,13 @@ As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-en
 *   Excellent stakeholder communication across technical and business functions.
 *   Background in prop trading, brokerage, or financial services payments highly preferred.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7561,8 +7549,8 @@ As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-en
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
 | **Role** | Executive / Senior Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7591,13 +7579,13 @@ As a Executive / Senior Executive – Media & Strategy under FundedNext’s Mark
 * Proficiency in Google Analytics, Data Studio, or similar analytics tools.
 * Global campaign management experience preferred.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Google Ads` `Meta Ads` `DV360` `Microsoft Ads` `Performance Marketing` `Google Analytics` `Data Studio` `Fintech` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7605,8 +7593,8 @@ As a Executive / Senior Executive – Media & Strategy under FundedNext’s Mark
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
 | **Role** | Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7656,13 +7644,13 @@ You will lead the Partnership Experience Squad, owning the systems that power Fu
 * Strong stakeholder communication skills with ability to collaborate across Partnerships, Finance, Product, and Engineering teams
 * Mandatory hands-on experience with AI-native engineering workflows and modern AI coding agents
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Next.js` `React` `MySQL` `PostgreSQL` `AI-native engineering` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7670,8 +7658,8 @@ You will lead the Partnership Experience Squad, owning the systems that power Fu
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia (Hybrid) |
 | **Role** | Full Stack Software Engineer |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7711,13 +7699,13 @@ You will help build and scale FundedNext’s in-house affiliate and partner plat
 * Collaborate closely with the partnerships team to translate business requirements into scalable technical solutions
 * Leverage AI-native engineering workflows using tools such as Claude Code, Cursor, Windsurf, or similar AI coding agents
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Next.js` `React` `Node.js` `MySQL` `PostgreSQL` `AI-native engineering` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7725,7 +7713,7 @@ You will help build and scale FundedNext’s in-house affiliate and partner plat
 
 | Field | Information |
 | ----- | ----------- |
-| **Location** | OnSite("Colombo, Western Province, Sri Lanka") |
+| **Location** | Colombo, Western Province, Sri Lanka |
 | **Role** | Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7776,13 +7764,13 @@ As an Executive in Risk & Fraud Management, you will safeguard the integrity of 
 * Employee Centric Policies
 * Fast Paced Career Progression
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Risk Management` `Fraud Detection` `Compliance` `Fintech` `Data Analysis` `Excel` `Google Sheets` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7790,8 +7778,8 @@ As an Executive in Risk & Fraud Management, you will safeguard the integrity of 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Colombo, Sri Lanka; Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Colombo, Sri Lanka; Kuala Lumpur, Malaysia |
 | **Role** | Global Head of Client Experience |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7853,13 +7841,13 @@ This role requires a strategic operator capable of building world-class customer
 * Ability to manage high-growth operational environments with speed and adaptability
 * Experience with fintech, brokerage, SaaS, trading, or high-growth digital businesses preferred
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `BPO Operations` `Customer Experience` `Service Management` `Fintech` `Leadership` `Operational Excellence` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7867,7 +7855,7 @@ This role requires a strategic operator capable of building world-class customer
 
 | Field | Information |
 | ----- | ----------- |
-| **Location** | OnSite("Colombo, Western Province, Sri Lanka") |
+| **Location** | Colombo, Western Province, Sri Lanka |
 | **Role** | Executive |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7917,13 +7905,13 @@ As an Executive – Client Experience, you will be the frontline ambassador of N
 
 Every new joiner undergoes a dedicated 15-day specialized training program in Client Experience.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Customer Experience` `Client Support` `CRM` `Communication` `Data Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7931,8 +7919,8 @@ Every new joiner undergoes a dedicated 15-day specialized training program in Cl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Colombo, Western Province, Sri Lanka") |
+| **Employment** | Full Time |
+| **Location** | Colombo, Western Province, Sri Lanka (Hybrid) |
 | **Role** | Regional Workforce Management Manager |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -7973,13 +7961,13 @@ As the **Regional Workforce Management Manager**, you will lead workforce planni
 * Proficiency in Excel / Google Sheets; experience with WFM platforms such as NICE, Verint, Genesys, or similar is a plus.
 * Solid understanding of CX operational metrics (SLA, AHT, shrinkage, utilization, schedule adherence).
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Workforce Management` `Forecasting` `Capacity Planning` `CX` `Fintech` `Data Analysis` `Operations Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -7987,8 +7975,8 @@ As the **Regional Workforce Management Manager**, you will lead workforce planni
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Colombo, Western Province, Sri Lanka") |
+| **Employment** | Full Time |
+| **Location** | Colombo, Western Province, Sri Lanka |
 | **Role** | Senior Talent Acquisition Partner |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8056,13 +8044,13 @@ This role is open to both Sri Lanka and Bangladesh markets, with the strongest c
 * Unlimited tea & coffee
 * Vending machine credits
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Talent Acquisition` `Recruitment` `ATS` `Sourcing` `Stakeholder Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -8070,8 +8058,8 @@ This role is open to both Sri Lanka and Bangladesh markets, with the strongest c
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Dubai, United Arab Emirates") |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates (Hybrid) |
 | **Role** | Assistant Manager |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8129,13 +8117,13 @@ Employee Experience Specialist driving the execution of accurate, compliant, and
 * Familiarity with HRIS platforms (BambooHR, Workday, etc.) and ATS systems.
 * Working relationships with PRO service providers and free zone authorities in Dubai (DMCC, DIFC, DAFZA, IFZA, or similar).
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `HR Operations` `HRIS` `Benefits Administration` `Office Management` `UAE Labour Law` `Fintech` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -8143,8 +8131,8 @@ Employee Experience Specialist driving the execution of accurate, compliant, and
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Malaysia; Dubai, United Arab Emirates") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
 | **Role** | Lead |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8164,13 +8152,13 @@ You will lead the design and delivery of NEXT Ventures’ global payment infrast
 *   Strong knowledge of Web3, wallet/card issuance, database architecture, and stakeholder management; fintech/trading experience preferred.
 *   Mandatory AI‑Native Engineering: daily use of agentic AI workflows (Claude Code, Cursor, Windsurf, etc.) for coding, review, and task delegation.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `Node.js` `Next.js` `React` `Fintech` `Web3` `PSP` `Oracle NetSuite` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -8178,8 +8166,8 @@ You will lead the design and delivery of NEXT Ventures’ global payment infrast
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dubai, United Arab Emirates; Kuala Lumpur, Malaysia") |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates; Kuala Lumpur, Malaysia |
 | **Role** | Head of Brands and Communications |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8235,13 +8223,13 @@ As **Head of Brand & Communications**, you will be the strategic owner of Funded
 *   Trusted partner to leadership, sales, and product teams.
 *   Positions FundedNext as a differentiated brand in competitive financial markets.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Marketing` `Brand Strategy` `Communications` `Social Media` `Event Management` `Video Production` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -8249,8 +8237,8 @@ As **Head of Brand & Communications**, you will be the strategic owner of Funded
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Dubai, United Arab Emirates") |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates (Hybrid) |
 | **Role** | Office Manager |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8303,13 +8291,13 @@ The operational backbone of our hub — making sure the office runs smoothly, ne
 * Discretion and reliability in handling sensitive employee information.
 * Bachelor's degree preferred.
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `HR Administration` `Office Management` `Facilities Management` `Onboarding` `Travel Coordination` `IT Asset Management` `BambooHR` `Workday` `Google Workspace` `Excel` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
 </details>
 
 <details>
@@ -8317,8 +8305,8 @@ The operational backbone of our hub — making sure the office runs smoothly, ne
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kuala Lumpur, Malaysia; Dubai, United Arab Emirates") |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
 | **Role** | Product Manager |
 
 ## 📝 [Description](https://nextventures.io/career)
@@ -8357,16 +8345,14 @@ As Product Manager — Trading Platform, Rules & Risk, you sit at the most conse
 
 *   Define and track squad OKRs: GP margin per challenge type, pass/fail ratios, rule-change impact modelling accuracy, false-positive violation rate, and trader dispute volume related to rules
 
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ## 🛠️ Tech Stack
 
 `Product Management` `Trading Systems` `Risk Management` `CFD` `Data Visualization` `Algorithmic Systems` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Nogor Solutions Ltd.
 
@@ -8375,8 +8361,8 @@ As Product Manager — Trading Platform, Rules & Risk, you sit at the most conse
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Niketon, Gulshan, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Niketon, Gulshan, Dhaka |
 | **Role** | Programmer |
 | **Vacancies** | 5 |
 
@@ -8408,17 +8394,15 @@ Are you a skilled Vue.js and Laravel developer ready to build impactful web appl
 *   Salary: Negotiable.
 *   Age: 22-30.
 
+* 📧 [Send Resume via Email](mailto:career@nogorsolutions.com)
+* 🌐 [Apply on Website](https://nogorsolutions.com/career/job-apply-form/laravel-vuejs-developer)
 ## 🛠️ Tech Stack
 
 `Laravel` `Vue.js` `PHP` `Node.js` `React.js` `REST API` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:career@nogorsolutions.com)
-* 🌐 [Apply on Website](https://nogorsolutions.com/career/job-apply-form/laravel-vuejs-developer)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Ollyo
 
@@ -8427,9 +8411,9 @@ Are you a skilled Vue.js and Laravel developer ready to build impactful web appl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 70000-100000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 70K - 100K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Mid Level |
 
 ## 📝 [Description](https://ollyo.com/careers)
@@ -8488,13 +8472,13 @@ At **Ollyo**, we are looking for a **highly creative, visually strong UI Designe
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/19/ui-ux-designer/apply)
 ## 🛠️ Tech Stack
 
 `UI/UX` `Figma` `Web Design` `Typography` `UX Principles` `Design Systems` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/19/ui-ux-designer/apply)
 </details>
 
 <details>
@@ -8502,9 +8486,9 @@ At **Ollyo**, we are looking for a **highly creative, visually strong UI Designe
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-60000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 25K - 60K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Entry Level |
 
 ## 📝 [Description](https://ollyo.com/careers)
@@ -8543,13 +8527,13 @@ Based on your expertise and interests, you will be assigned to one of the follow
 * Maternity and paternity leaves
 * Designated areas for male and female Muslim prayers
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/17/artist-designer/apply)
 ## 🛠️ Tech Stack
 
 `UI Design` `Creative Design` `Motion Design` `Graphic Design` `Illustration` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/17/artist-designer/apply)
 </details>
 
 <details>
@@ -8557,9 +8541,9 @@ Based on your expertise and interests, you will be assigned to one of the follow
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 80000-100000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 80K - 100K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Senior Level |
 
 ## 📝 [Description](https://ollyo.com/careers/roles)
@@ -8595,13 +8579,13 @@ We’re looking for a Senior Motion Designer who can turn software launches into
 * Two festival bonuses, leave encashment, and loyalty bonus
 * Maternity and paternity leaves
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/24/senior-motion-designer-ui-marketing/apply)
 ## 🛠️ Tech Stack
 
 `Motion Design` `UI Design` `After Effects` `Premiere Pro` `Illustrator` `AI Tools` `SaaS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/24/senior-motion-designer-ui-marketing/apply)
 </details>
 
 <details>
@@ -8609,9 +8593,9 @@ We’re looking for a Senior Motion Designer who can turn software launches into
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 60000-80000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 60K - 80K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Mid Level |
 
 ## 📝 [Description](https://ollyo.com/careers)
@@ -8659,13 +8643,13 @@ Ollyo is hiring a skilled Full-stack Developer to build and enhance our web appl
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/21/full-stack-developer/apply)
 ## 🛠️ Tech Stack
 
 `ReactJS` `PHP` `MySQL` `HTML5` `CSS3` `Git` `Agile` `RESTful APIs` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/21/full-stack-developer/apply)
 </details>
 
 <details>
@@ -8673,9 +8657,9 @@ Ollyo is hiring a skilled Full-stack Developer to build and enhance our web appl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-30000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 25K - 30K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Entry Level |
 
 ## 📝 [Description](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
@@ -8727,13 +8711,13 @@ You will work closely with developers and product managers to test features, ide
 
 *   Familiarity with WP-CLI or PHPUnit.
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
 ## 🛠️ Tech Stack
 
 `WordPress` `Joomla` `Manual Testing` `HTML` `CSS` `JavaScript` `PHP` `ClickUp` `Jira` `Postman` `Chrome DevTools` `Google Lighthouse` `GTmetrix` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
 </details>
 
 <details>
@@ -8741,9 +8725,9 @@ You will work closely with developers and product managers to test features, ide
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 50000-60000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 50K - 60K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Mid Level |
 
 ## 📝 [Description](https://jobs.ollyo.com/opening/27/performance-marketing-growth-specialist/apply)
@@ -8825,13 +8809,13 @@ As a Performance Marketing & Growth Specialist at Ollyo, you will drive measurab
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/27/performance-marketing-growth-specialist/apply)
 ## 🛠️ Tech Stack
 
 `Performance Marketing` `Meta Ads` `Google Ads` `SEO` `SEM` `Google Analytics` `A/B Testing` `Conversion Rate Optimization` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/27/performance-marketing-growth-specialist/apply)
 </details>
 
 <details>
@@ -8839,9 +8823,9 @@ As a Performance Marketing & Growth Specialist at Ollyo, you will drive measurab
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-50000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 25K - 50K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Entry Level |
 
 ## 📝 [Description](https://jobs.ollyo.com/opening/22/technical-content-developer-writer/apply)
@@ -8892,16 +8876,14 @@ You’ll thrive in this role if you are:
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/22/technical-content-developer-writer/apply)
 ## 🛠️ Tech Stack
 
 `Technical Writing` `Content Creation` `Video Production` `SEO` `Content Marketing` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/22/technical-content-developer-writer/apply)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Onecodesoft
 
@@ -8910,10 +8892,10 @@ You’ll thrive in this role if you are:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 19 Nov 2025 |
-| **Salary** | 15000-40000 |
-| **Location** | Hybrid("Remote (Work from Home) with occasional office visits required.") |
+| **Salary** | 15K - 40K |
+| **Location** | Remote (Work from Home) with occasional office visits required. (Hybrid) |
 | **Role** | Laravel Developer |
 | **Vacancies** | 3 |
 
@@ -8951,13 +8933,13 @@ Onecodesoft is looking for a skilled and experienced **Laravel Developer (Remote
 * **Note:** Need to come to the office when needed.
 * **Legal Requirement:** Must sign an NOC.
 
+* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/laravel-developer-remote)
 ## 🛠️ Tech Stack
 
 `Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/laravel-developer-remote)
 </details>
 
 <details>
@@ -8965,10 +8947,10 @@ Onecodesoft is looking for a skilled and experienced **Laravel Developer (Remote
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 10 Nov 2025 |
-| **Salary** | 30000-60000 |
-| **Location** | OnSite("Mazar Road, Mirpur 1, Dhaka, Bangladesh") |
+| **Salary** | 30K - 60K |
+| **Location** | Mazar Road, Mirpur 1, Dhaka, Bangladesh |
 | **Role** | Senior |
 | **Vacancies** | 1 |
 
@@ -8996,13 +8978,13 @@ Strong programming skills will be a significant plus point. The hiring process w
 * **Skills Required:** Expert in **Laravel**, strong knowledge of **React**, **Livewire**, **API (REST/JSON)**, and **Git**.
 * Additional Skills: Proficient in MySQL/Database design, JavaScript, Jquery, Ajax, HTML, CSS, and OOP principles.
 
+* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/senior-laravel-developer)
 ## 🛠️ Tech Stack
 
 `Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` `OOP` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/senior-laravel-developer)
 </details>
 
 <details>
@@ -9010,10 +8992,10 @@ Strong programming skills will be a significant plus point. The hiring process w
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 10 Oct 2025 |
-| **Salary** | 10000-20000 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Salary** | 10K - 20K |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Office Assistant |
 | **Vacancies** | 1 |
 
@@ -9055,16 +9037,14 @@ The hiring process may include a written test and an interview (viva).
 ### Legal Requirement
 Must sign an NOC. You cannot use company confidential information anywhere without permission. Legal action may be taken if this is violated.
 
+* 🌐 [Apply on Website](https://onecodesoft.com/career/office-assistant)
 ## 🛠️ Tech Stack
 
 `Office Management` `Administration` `Front Desk` `MS Word` `Excel` `Data Entry` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://onecodesoft.com/career/office-assistant)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Portonics Ltd.
 
@@ -9073,23 +9053,21 @@ Must sign an NOC. You cannot use company confidential information anywhere witho
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Worldwide") |
+| **Employment** | Full Time |
+| **Location** | Worldwide (Hybrid) |
 
 ## 📝 [Description](https://www.portonics.com/career)
 
 We’re always looking for talented individuals to join our team. Submit an application, and we’ll reach out if a role opens up that fits your profile.
 
+* 📧 [Send Resume via Email](mailto:hr@portonics.com)
 ## 🛠️ Tech Stack
 
 `General Application` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:hr@portonics.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Pridesys IT Ltd.
 
@@ -9098,8 +9076,8 @@ We’re always looking for talented individuals to join our team. Submit an appl
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Head of Sales (ERP) |
 | **Vacancies** | 2 |
 
@@ -9146,13 +9124,13 @@ The Head of Sales – ERP (DGM) will own revenue growth for the ERP business by 
 * Opportunities for career development and skill expansion.
 * Tea, Coffee, Evening snacks
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `ERP` `B2B Sales` `Enterprise Software` `SaaS` `Business Development` `Leadership` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9160,8 +9138,8 @@ The Head of Sales – ERP (DGM) will own revenue growth for the ERP business by 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Assistant Manager |
 | **Vacancies** | 1 |
 
@@ -9213,13 +9191,13 @@ Pridesys IT Ltd. is looking for a smart and passionate individual who wants to b
 * Opportunities for career development and skill expansion.
 * Tea, Coffee, Evening snacks
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `ERP` `Sales` `Business Development` `Enterprise Software` `SaaS` `CRM` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9227,8 +9205,8 @@ Pridesys IT Ltd. is looking for a smart and passionate individual who wants to b
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kawran Bazar, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Vacancies** | 4 |
 
 ## 📝 [Description](https://pridesys.com/careers)
@@ -9275,13 +9253,13 @@ We are seeking a highly motivated, proactive problem-solver to join our high-per
 * Opportunities for career development and skill expansion.
 * Tea, Coffee, Evening snacks
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `Java` `Spring Boot` `Node.js` `SQL` `NoSQL` `Microservices` `Docker` `Kubernetes` `CI/CD` `Kafka` `RabbitMQ` `AWS` `Azure` `GCP` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9289,9 +9267,9 @@ We are seeking a highly motivated, proactive problem-solver to join our high-per
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 60000-120000 |
-| **Location** | OnSite("Kawran Bazar, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Salary** | 60K - 120K |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Role** | Lead |
 | **Vacancies** | 1 |
 
@@ -9339,13 +9317,13 @@ The ideal candidate must have hands-on SaaS marketing experience, understands th
 *   Opportunities for career development and skill expansion.
 *   Tea, Coffee, Evening snacks
 
+* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
 ## 🛠️ Tech Stack
 
 `SaaS` `B2B` `Digital Marketing` `SEO` `Google Ads` `Meta Ads Manager` `Analytics` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:pridesysclouderp@gmail.com)
 </details>
 
 <details>
@@ -9353,8 +9331,8 @@ The ideal candidate must have hands-on SaaS marketing experience, understands th
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Role** | Manager |
 | **Vacancies** | 1 |
 
@@ -9405,13 +9383,13 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 *   Evening snacks
 *   All other admissible benefits as per company’s HR policy
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `HR` `HRIS` `Management` `Recruitment` `Performance Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9419,8 +9397,8 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Role** | Junior Database Administrator (JDBA) |
 | **Vacancies** | 1 |
 
@@ -9464,13 +9442,13 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 *   Salary Review: Yearly
 *   Festival Bonus: 2 (Yearly)
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `Oracle` `SQL` `MS SQL` `MariaDB` `MongoDB` `Oracle Apex` `RMAN` `AWS` `Oracle Cloud` `Microsoft Cloud` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9478,8 +9456,8 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Role** | Software Engineer |
 | **Vacancies** | 3 |
 
@@ -9487,13 +9465,13 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 
 Software Engineer (Angular)
 
+* 🌐 [Apply on Website](https://pridesys.com/jobs/angular-developer)
 ## 🛠️ Tech Stack
 
 `Angular` `Software Engineering` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/jobs/angular-developer)
 </details>
 
 <details>
@@ -9501,8 +9479,8 @@ Software Engineer (Angular)
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
 | **Role** | Technical Content Creator |
 | **Vacancies** | 1 |
 
@@ -9549,13 +9527,13 @@ We are seeking an experienced Technical Content Creator to join our team. You wi
 • Good Opportunity for Career Progression
 • Yearly Tour
 
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ## 🛠️ Tech Stack
 
 `Technical Writing` `Documentation` `DFD` `ERD` `Canva` `Microsoft Visio` `draw.io` `Camtasia` `Confluence` `Markdown` `SEO` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
 </details>
 
 <details>
@@ -9563,8 +9541,8 @@ We are seeking an experienced Technical Content Creator to join our team. You wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kawran Bazar, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Role** | Quality Assurance (Business Analyst) |
 | **Vacancies** | 2 |
 
@@ -9602,13 +9580,13 @@ This role requires a deep understanding of how **B2B SaaS products function**, t
 * Scope for long-term career development.
 * Tea, Coffee, Evening snacks
 
+* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
 ## 🛠️ Tech Stack
 
 `QA` `Business Analysis` `B2B SaaS` `Jira` `Trello` `Asana` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:pridesysclouderp@gmail.com)
 </details>
 
 <details>
@@ -9616,8 +9594,8 @@ This role requires a deep understanding of how **B2B SaaS products function**, t
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Kawran Bazar, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Role** | Senior |
 | **Vacancies** | 2 |
 
@@ -9663,16 +9641,14 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 * Scope for long-term career development.
 * Tea, Coffee, Evening snacks
 
+* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
 ## 🛠️ Tech Stack
 
 `UX/UI Design` `Figma` `Adobe XD` `ERP` `SaaS` `HTML5` `CSS3` `Tailwind CSS` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:pridesysclouderp@gmail.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 ReliSource (USA)
 
@@ -9681,9 +9657,9 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://www.relisource.com/job-post/data-architect)
@@ -9712,13 +9688,13 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 * Experience with containerization and orchestration (e.g., Docker, Kubernetes, Airflow).
 * Experience with infrastructure-as-code tools (e.g., Terraform or CloudFormation).
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `Data Warehouse` `Snowflake` `AWS` `Azure` `GCP` `Databricks` `Apache Spark` `Python` `SQL` `ETL` `Data Modeling` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@relisource.com)
 </details>
 
 <details>
@@ -9726,9 +9702,9 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Role** | Data Engineer |
 | **Vacancies** | 1 |
 
@@ -9780,13 +9756,13 @@ We are looking for Dynamic individuals having the following Qualities:
 * Competitive salary and excellent career opportunity in a focused & stable organization.
 * Most importantly, a friendly work environment with the opportunity to learn from a number of highly skilled mentors.
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `ETL` `ELT` `Data Warehouse` `SQL` `BI` `Azure` `Azure Data Factory` `Databricks` `Azure SQL` `Azure Function` `Azure DevOps` `Snowflake` `Python` `OOP` `Git` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@relisource.com)
 </details>
 
 <details>
@@ -9794,9 +9770,9 @@ We are looking for Dynamic individuals having the following Qualities:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://www.relisource.com/job-post/database-administrator-mssql)
@@ -9850,13 +9826,13 @@ We are looking for dynamic individuals having the following qualities:
 3. A healthy work environment with opportunity to learn from a number of highly skilled engineers.
 4. Weekend: Saturday and Sunday.
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `MSSQL` `SSRS` `SSIS` `T-SQL` `PowerShell` `SQL Server` `Power BI` `Tableau` `Azure` `AWS` `MySQL` `PostgreSQL` `Oracle` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@relisource.com)
 </details>
 
 <details>
@@ -9864,9 +9840,9 @@ We are looking for dynamic individuals having the following qualities:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://www.relisource.com/job-post/embedded-software-engineer)
@@ -9921,13 +9897,13 @@ We are looking for dynamic individuals having the following qualities.
 4. Flexible office hours.
 5. Weekend: Saturday and Sunday.
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `C` `C++` `Micro-controllers` `GPIO` `SPI` `I2C` `UART` `ARM` `STM32` `FreeRTOS` `Git` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@relisource.com)
 </details>
 
 <details>
@@ -9935,9 +9911,9 @@ We are looking for dynamic individuals having the following qualities.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Role** | Solutions Architect |
 | **Vacancies** | 2 |
 
@@ -10005,13 +9981,13 @@ The ideal candidate will have **8+ years of professional experience** in AI engi
 *   Very competitive salary and excellent career opportunity in a focused and stable organization.
 *   Most importantly, a friendly work environment with opportunity to learn from a number of highly skilled mentors.
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `Generative AI` `LLM` `Machine Learning` `MLOps` `LLMOps` `Python` `RAG` `LangChain` `Docker` `Kubernetes` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:career@relisource.com)
 </details>
 
 <details>
@@ -10019,9 +9995,9 @@ The ideal candidate will have **8+ years of professional experience** in AI engi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-31 |
-| **Location** | OnSite("Gulshan-1, Dhaka") |
+| **Location** | Gulshan-1, Dhaka |
 | **Role** | Business Systems Analyst & JIRA Administrator |
 | **Vacancies** | 1 |
 
@@ -10073,16 +10049,14 @@ We are looking for a dynamic Business Systems Analyst who can bridge the gap bet
 * Exposure to global clients and the modern Atlassian ecosystem.
 * A friendly, supportive work environment that encourages learning and innovation.
 
+* 📧 [Send Resume via Email](mailto:career@relisource.com)
 ## 🛠️ Tech Stack
 
 `JIRA` `Atlassian` `Agile` `Scrum` `Kanban` `JQL` `Business Analysis` `Systems Administration` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:career@relisource.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 RiseUp Labs
 
@@ -10092,7 +10066,7 @@ We are looking for a dynamic Business Systems Analyst who can bridge the gap bet
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 3 |
 
@@ -10155,13 +10129,13 @@ Riseup Labs is looking for a motivated "Intern – Pre-sales & Business Analyst"
 * Weekly holiday (Saturday, Sunday)
 * Public Holidays as per Riseup Labs calendar
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Business Analysis` `Pre-sales` `SDLC` `Agile` `Figma` `Draw.io` `Lucidchart` `Visio` `Jira` `Trello` `ClickUp` `PowerPoint` `Google Slides` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10170,7 +10144,7 @@ Riseup Labs is looking for a motivated "Intern – Pre-sales & Business Analyst"
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 1 |
 
@@ -10194,13 +10168,13 @@ Riseup Labs is hiring an **AI-Assisted Software Developer Intern** who is comfor
 * **Full-Stack Fundamentals:** Node.js, Python, HTML/CSS/JS, React/Vue, PostgreSQL/MongoDB, Cloud (Azure/AWS/GCP), Docker, CI/CD, Git.
 * **AI-Native Development Skills:** Hands-on experience with AI tools (Claude, ChatGPT, Copilot, Cursor), understanding of AI agent concepts, and ability to evaluate AI-generated code.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Full-Stack` `Node.js` `Python` `React` `Vue` `PostgreSQL` `MongoDB` `Docker` `AI` `Machine Learning` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10209,7 +10183,7 @@ Riseup Labs is hiring an **AI-Assisted Software Developer Intern** who is comfor
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 5 |
 
@@ -10266,13 +10240,13 @@ Riseup Labs is looking for Business Development Intern, who will work closely wi
 * Interview with the Business Development & Talent Acquisition Team.
 * Job Offer.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `B2B Marketing` `Lead Generation` `Business Development` `Market Research` `CRM` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10280,8 +10254,8 @@ Riseup Labs is looking for Business Development Intern, who will work closely wi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Operation Manager- BPO |
 | **Vacancies** | 1 |
 
@@ -10327,13 +10301,13 @@ Riseup Labs is looking for an experienced Manager in BPO Operations, who will ov
 *   Ability to analyze data and make informed decisions.
 *   Strong problem-solving skills and ability to handle high-pressure situations.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `BPO` `Operations Management` `Call Center` `CRM` `Vici Dialer` `Amazon Dialer` `KPI Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10341,8 +10315,8 @@ Riseup Labs is looking for an experienced Manager in BPO Operations, who will ov
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Outreach Specialist |
 | **Vacancies** | 1 |
 
@@ -10382,13 +10356,13 @@ Riseup Labs is seeking a high-performing, metrics-driven Outreach Specialist / B
 * Paid Time Off 24 days (CL & SL)
 * Maternity, Paternity, and Bereavement Leave
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `B2B` `Lead Generation` `Business Development` `LinkedIn Sales Navigator` `CRM` `HubSpot` `Salesforce` `Cold Email` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10397,7 +10371,7 @@ Riseup Labs is seeking a high-performing, metrics-driven Outreach Specialist / B
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Role** | Intern - Business Development |
 | **Vacancies** | 2 |
 
@@ -10440,13 +10414,13 @@ Riseup Labs is looking for smart, enthusiastic, and career-oriented candidates t
 *   Weekly holiday (Sunday)
 *   Public Holidays as per Riseup Labs calendar
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Lead Generation` `Business Development` `Digital Marketing` `Market Research` `Client Communication` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10454,8 +10428,8 @@ Riseup Labs is looking for smart, enthusiastic, and career-oriented candidates t
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Business Development Manager |
 | **Vacancies** | 1 |
 
@@ -10505,13 +10479,13 @@ Riseup Labs is seeking a high-performing Sr. Sales Manager / Business Developmen
 * Paid Time Off 24 days (CL & SL)
 * Maternity, Paternity, and Bereavement Leave
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Sales` `Business Development` `CRM` `LinkedIn Sales Navigator` `Software Development` `IT Services` `BPO` `Staff Augmentation` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10520,7 +10494,7 @@ Riseup Labs is seeking a high-performing Sr. Sales Manager / Business Developmen
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
@@ -10570,13 +10544,13 @@ Riseup Labs is seeking a proactive, organized, and detail-oriented Intern – Ad
 * Weekly holiday (Saturday, Sunday)
 * Public Holidays as per Riseup Labs calendar
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Administration` `Compliance` `Procurement` `Vendor Management` `Microsoft Office` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10584,8 +10558,8 @@ Riseup Labs is seeking a proactive, organized, and detail-oriented Intern – Ad
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Executive |
 | **Vacancies** | 1 |
 
@@ -10635,13 +10609,13 @@ Riseup Labs is seeking a proactive, organized, and detail-oriented Executive –
 * Beravement Leave (As per the company’s policy)
 * Public Holidays as per Riseup Labs calendar
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Administration` `Compliance` `Procurement` `Office Management` `ISO` `SOC 2` `PCI DSS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10650,7 +10624,7 @@ Riseup Labs is seeking a proactive, organized, and detail-oriented Executive –
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Contract |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Role** | Quality Assurance Executive |
 | **Vacancies** | 4 |
 
@@ -10698,13 +10672,13 @@ Riseup Labs is looking for a Quality Assurance Executive, who is responsible for
 *   Weekly Holidays (Saturday and Sunday)
 *   Fully Subsidised Lunch/Dinner.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Quality Assurance` `BPO` `Call Center` `RCA` `Data Analysis` `Reporting` `COPC` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10713,7 +10687,7 @@ Riseup Labs is looking for a Quality Assurance Executive, who is responsible for
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Contract |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Location** | Uttara, Dhaka |
 | **Vacancies** | 120 |
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
@@ -10747,13 +10721,13 @@ Riseup Labs is looking for enthusiastic Customer Service Specialist to join our 
 * **Working Hour:** 07.00 PM- 04.30 AM
 * **Compensation:** BDT 150 per hour + Food Allowance + Transport Allowance
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Customer Service` `BPO` `Call Center` `CRM` `Voice Support` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10761,8 +10735,8 @@ Riseup Labs is looking for enthusiastic Customer Service Specialist to join our 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Team Leader |
 | **Vacancies** | 2 |
 
@@ -10799,13 +10773,13 @@ Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer s
 * Performance coaching expertise.
 * Ability to work under pressure and manage multiple priorities.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `BPO` `Customer Service` `Team Leadership` `KPI Management` `Operations Management` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10813,8 +10787,8 @@ Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer s
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Role** | Executive, Business Development |
 | **Vacancies** | 2 |
 
@@ -10870,13 +10844,13 @@ Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer s
 ### Working Hours:
 * 02.00 PM to 11.00 PM
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Business Development` `Lead Generation` `Telemarketing` `Inside Sales` `HubSpot CRM` `LinkedIn Sales Navigator` `International Sales` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10885,7 +10859,7 @@ Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer s
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Contract |
-| **Location** | Hybrid("Uttara, Dhaka (For Bangladeshi Candidates) or Remote (For International Candidates)") |
+| **Location** | Uttara, Dhaka (For Bangladeshi Candidates) or Remote (For International Candidates) (Hybrid) |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
@@ -10984,13 +10958,13 @@ Riseup Labs is seeking a highly organized and proactive Sales Administrator / Sa
 * 2.00 PM to 6.00 PM (BST)
 * 4.00 PM to 8.00 PM (PHT)
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Sales Administration` `CRM` `HubSpot` `Monday.com` `Aircall` `CloudTalk` `Reporting` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -10998,8 +10972,8 @@ Riseup Labs is seeking a highly organized and proactive Sales Administrator / Sa
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
 | **Vacancies** | 120 |
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
@@ -11024,13 +10998,13 @@ We are looking for a customer-focused International Customer Support Specialist 
 * Strong problem-solving, multitasking, and customer service skills.
 * Ability to work rotational shifts, including night shifts, if required.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Customer Support` `CRM` `Microsoft Office` `Google Workspace` `Communication` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 </details>
 
 <details>
@@ -11038,8 +11012,8 @@ We are looking for a customer-focused International Customer Support Specialist 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Uttara, Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka, Bangladesh |
 | **Vacancies** | 1 |
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
@@ -11086,16 +11060,14 @@ Riseup Labs is seeking a highly skilled Business Analyst (Tender Documentation) 
 * Familiarity with e-GP portals, UNGM, and procurement systems.
 * Experience using AI tools for documentation support.
 
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ## 🛠️ Tech Stack
 
 `Business Analyst` `Technical Writing` `Tender Documentation` `Proposal Writing` `SDLC` `Agile` `Waterfall` `SRS` `BRD` `TOR` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 SJ Innovation
 
@@ -11105,7 +11077,7 @@ Riseup Labs is seeking a highly skilled Business Analyst (Tender Documentation) 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Intern |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
@@ -11142,13 +11114,13 @@ Experience with or willingness to learn:
 *   Gain hands-on experience with the latest AI design workflows.
 *   Learn from experienced designers and developers.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/154819)
 ## 🛠️ Tech Stack
 
 `UI/UX` `Graphic Design` `Figma` `Canva` `Adobe Creative Suite` `AI` `ChatGPT` `Midjourney` `DALL·E` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/154819)
 </details>
 
 <details>
@@ -11157,7 +11129,7 @@ Experience with or willingness to learn:
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Location** | OnSite("Goa, India") |
+| **Location** | Goa, India |
 | **Role** | Intern |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
@@ -11186,13 +11158,13 @@ We are looking for a motivated **Intern Network Engineer** to join our IT Infras
 *   **Work From Office (Goa)** throughout the internship.
 *   Ability to work in a 12 PM – 9 PM shift from office.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/152197)
 ## 🛠️ Tech Stack
 
 `Networking` `Linux` `System Administration` `AI` `IT Infrastructure` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/152197)
 </details>
 
 <details>
@@ -11200,8 +11172,8 @@ We are looking for a motivated **Intern Network Engineer** to join our IT Infras
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Project Coordinator (L3) |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
@@ -11244,13 +11216,13 @@ We are seeking a highly organized, proactive, and execution-oriented Project Coo
 *   Communicates with clarity and precision to both technical and non-technical stakeholders
 *   Displays genuine commitment to continuous improvement through the adoption of AI and contemporary productivity tools
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/135953)
 ## 🛠️ Tech Stack
 
 `Project Management` `Agile` `Scrum` `AI Tools` `SaaS` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/135953)
 </details>
 
 <details>
@@ -11258,7 +11230,7 @@ We are seeking a highly organized, proactive, and execution-oriented Project Coo
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://career.sjinnovation.com/jobDetails/264)
 
@@ -11267,13 +11239,13 @@ We are seeking a highly organized, proactive, and execution-oriented Project Coo
 - B2B Marketing Focus
 - Cross-functional Collaboration
 
+* 🌐 [Apply on Website](https://career.sjinnovation.com/jobDetails/264)
 ## 🛠️ Tech Stack
 
 `Paid Media` `SEO` `Email Marketing` `Analytics` `B2B Marketing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://career.sjinnovation.com/jobDetails/264)
 </details>
 
 <details>
@@ -11281,7 +11253,7 @@ We are seeking a highly organized, proactive, and execution-oriented Project Coo
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Role** | Senior |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
@@ -11318,13 +11290,13 @@ We are seeking a Sr Gen AI & Full Stack Solutions Engineer to build scalable, in
 *   Strong communication and mentoring ability.
 *   Team-oriented with leadership qualities and a continuous learning mindset.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/112853)
 ## 🛠️ Tech Stack
 
 `Generative AI` `React.js` `Node.js` `MongoDB` `Python` `JavaScript` `TypeScript` `LangChain` `LlamaIndex` `RAG` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/112853)
 </details>
 
 <details>
@@ -11332,8 +11304,8 @@ We are seeking a Sr Gen AI & Full Stack Solutions Engineer to build scalable, in
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Goa, India") |
+| **Employment** | Full Time |
+| **Location** | Goa, India |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
@@ -11420,13 +11392,13 @@ We are looking for experienced candidate to generate pipeline by researching tar
 * In-office from Goa with required overlap with US hours (EST).
 * Flexibility to cover outreach and inbound responses aligned to US time zones.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105892)
 ## 🛠️ Tech Stack
 
 `Sales Development` `CRM` `HubSpot` `Salesforce` `GoHighLevel` `LinkedIn Sales Navigator` `Apollo` `ZoomInfo` `Lead Generation` `Outbound Sales` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105892)
 </details>
 
 <details>
@@ -11434,8 +11406,8 @@ We are looking for experienced candidate to generate pipeline by researching tar
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
@@ -11486,13 +11458,13 @@ We’re looking for a **Digital Marketing Executive** to help grow a predictable
 * **Office-based Role**: The position requires working from the office, collaborating in real-time with the team.
 * **US Shift Coordination**: Flexible work schedule in line with US-based hours, allowing for cross-functional team coordination across different time zones.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105855)
 ## 🛠️ Tech Stack
 
 `Digital Marketing` `Paid Media` `SEO` `Social Media` `Google Ads` `LinkedIn Ads` `Meta Ads` `GA4` `GTM` `Search Console` `Email Marketing` `B2B Marketing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105855)
 </details>
 
 <details>
@@ -11500,7 +11472,7 @@ We’re looking for a **Digital Marketing Executive** to help grow a predictable
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Role** | Jr. Software Project Coordinator |
 
 ## 📝 [Description](https://career.sjinnovation.com/)
@@ -11525,13 +11497,13 @@ We are seeking a motivated Jr. Project Coordinator to assist in managing client 
 * Awareness and hands-on use of AI tools (e.g., ChatGPT, Notion AI).
 * Ability to work in a 12 PM – 9 PM shift from office.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/104393)
 ## 🛠️ Tech Stack
 
 `Project Management` `AI Tools` `ChatGPT` `Notion AI` `Communication` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/104393)
 </details>
 
 <details>
@@ -11567,16 +11539,14 @@ Are you ready to start your career journey in a dynamic and learning-focused env
 *   Exposure to live projects and the latest technologies.
 *   Opportunities for professional growth and skill development.
 
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/30582)
 ## 🛠️ Tech Stack
 
 `Artificial Intelligence` `Software Testing` `Software Development` `Digital Marketing` `Sales` `Business Development` `Network Support` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/30582)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Sheba Technologies Ltd.
 
@@ -11585,9 +11555,9 @@ Are you ready to start your career journey in a dynamic and learning-focused env
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 20 August, 2026 |
-| **Location** | OnSite("Dhaka") |
+| **Location** | Dhaka |
 | **Role** | Senior Manager |
 
 ## 📝 [Description](https://www.shebatech.com.bd/career)
@@ -11619,16 +11589,14 @@ We are looking for a Senior Manager for Sales focusing on Resource Augmentation.
 - Maternal and Parental Leave
 - Training and Learning Materials to Improve Skills
 
+* 🌐 [Apply on Website](https://www.shebatech.com.bd/career)
 ## 🛠️ Tech Stack
 
 `Sales` `Resource Augmentation` `Management` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.shebatech.com.bd/career)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Silicon Orchard Ltd.
 
@@ -11638,7 +11606,7 @@ We are looking for a Senior Manager for Sales focusing on Resource Augmentation.
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Salary** | 15000-15000 |
+| **Salary** | 15K |
 | **Location** | Remote |
 | **Vacancies** | 2 |
 
@@ -11665,14 +11633,14 @@ Support Silicon Orchard’s brand-building and digital marketing across content,
 * Letter of recommendation.
 * Potential for full-time roles for high-performing interns.
 
+* 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
+* 🌐 [Apply on Website](https://zfrmz.com/3wHDNAKaPjbIxulWfD9f)
 ## 🛠️ Tech Stack
 
 `Recruitment` `Marketing` `AI Tools` `ChatGPT` `Claude` `LinkedIn` `Social Media Marketing` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:careers@siliconorchard.com)
-* 🌐 [Apply on Website](https://zfrmz.com/3wHDNAKaPjbIxulWfD9f)
 </details>
 
 <details>
@@ -11681,7 +11649,7 @@ Support Silicon Orchard’s brand-building and digital marketing across content,
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
-| **Salary** | 15000-15000 |
+| **Salary** | 15K |
 | **Location** | Remote |
 | **Vacancies** | 2 |
 
@@ -11710,13 +11678,13 @@ Silicon Orchard Ltd is seeking highly motivated and detail-oriented Technical Pr
 * Letter of recommendation upon successful completion.
 * High-performing interns may be considered for permanent full-time positions.
 
+* 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
 ## 🛠️ Tech Stack
 
 `Technical Writing` `Proposal Writing` `Microsoft Office` `Business Development` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:careers@siliconorchard.com)
 </details>
 
 <details>
@@ -11724,8 +11692,8 @@ Silicon Orchard Ltd is seeking highly motivated and detail-oriented Technical Pr
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 60000-90000 |
+| **Employment** | Full Time |
+| **Salary** | 60K - 90K |
 | **Location** | Remote |
 | **Vacancies** | 2 |
 
@@ -11753,16 +11721,14 @@ We are looking for an experienced, self-directed Sales Representative based in B
 * Competitive salary.
 * 5%-8% Commission For Each Successful Deal Closed (Uncapped).
 
+* 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
 ## 🛠️ Tech Stack
 
 `IT Sales` `Business Development` `SaaS` `CRM` `Consultative Selling` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:careers@siliconorchard.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Technohaven Company Ltd.
 
@@ -11771,9 +11737,9 @@ We are looking for an experienced, self-directed Sales Representative based in B
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | January 25, 2026 |
-| **Location** | OnSite("169, Mohakhali DOHS, Dhaka") |
+| **Location** | 169, Mohakhali DOHS, Dhaka |
 
 ## 📝 [Description](https://technohaven.com/career)
 
@@ -11801,16 +11767,14 @@ We are looking for an experienced, self-directed Sales Representative based in B
 * Knowledge of backend development technologies (e.g., RESTful APIs) is a bonus.
 * Previous experience with agile development methodologies.
 
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLScaWm2eVsHHk1uo7ZJ0E-bPb_-cxFDw-AACf0FtA5e4qQdw3Q/viewform?usp=header)
 ## 🛠️ Tech Stack
 
 `iOS` `Swift` `Objective-C` `Git` `React Native` `Flutter` `RESTful APIs` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLScaWm2eVsHHk1uo7ZJ0E-bPb_-cxFDw-AACf0FtA5e4qQdw3Q/viewform?usp=header)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Tekarsh
 
@@ -11819,9 +11783,9 @@ We are looking for an experienced, self-directed Sales Representative based in B
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-16 |
-| **Location** | Hybrid("Mohakhali DOHS, Dhaka") |
+| **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
 | **Role** | Senior |
 
 ## 📝 [Description](https://tekarsh.com/career)
@@ -11830,13 +11794,13 @@ We are looking for an experienced, self-directed Sales Representative based in B
 
 Join our team as a Senior Software Engineer specializing in Java.
 
+* 🌐 [Apply on Website](https://tekarsh.com/career)
 ## 🛠️ Tech Stack
 
 `Java` `Software Engineering` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://tekarsh.com/career)
 </details>
 
 <details>
@@ -11844,9 +11808,9 @@ Join our team as a Senior Software Engineer specializing in Java.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-22 |
-| **Location** | Hybrid("Mohakhali DOHS, Dhaka") |
+| **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
 | **Role** | Senior |
 
 ## 📝 [Description](https://tekarsh.com/career)
@@ -11855,13 +11819,13 @@ Join our team as a Senior Software Engineer specializing in Java.
 
 Join our team as a Senior Data Analyst.
 
+* 🌐 [Apply on Website](https://tekarsh.com/career)
 ## 🛠️ Tech Stack
 
 `Data Analysis` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://tekarsh.com/career)
 </details>
 
 <details>
@@ -11869,9 +11833,9 @@ Join our team as a Senior Data Analyst.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Deadline** | 2026-08-18 |
-| **Location** | Hybrid("Mohakhali DOHS, Dhaka") |
+| **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
 | **Role** | Senior |
 
 ## 📝 [Description](https://tekarsh.com/career)
@@ -11880,16 +11844,14 @@ Join our team as a Senior Data Analyst.
 
 Join our team as a Senior Full Stack Software Engineer.
 
+* 🌐 [Apply on Website](https://tekarsh.com/career)
 ## 🛠️ Tech Stack
 
 `Full Stack` `Software Engineering` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://tekarsh.com/career)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Therap (BD) Ltd.
 
@@ -11898,8 +11860,8 @@ Join our team as a Senior Full Stack Software Engineer.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -11926,13 +11888,13 @@ We are seeking skilled and dedicated Associate Oncall Engineer to join our team.
 
 *   Troubleshooting and problem-solving skills, strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams.
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Linux` `System Administration` `Network Engineering` `Oracle` `VMware` `F5` `Fortigate` `Cisco` `NetApp` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -11940,8 +11902,8 @@ We are seeking skilled and dedicated Associate Oncall Engineer to join our team.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Associate System Administrator |
 
 ## 📝 [Description](http://therap.recruiterbox.com/jobs)
@@ -11966,13 +11928,13 @@ We are seeking motivated individuals to join our team as Associate System Admini
 *   Strong analytical and problem-solving skills, coupled with a willingness to learn and adapt.
 *   Good communication and interpersonal abilities, with a focus on effective collaboration in a team-oriented environment.
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Linux` `Hypervisor` `Networking` `Cloud Infrastructure` `Bash` `Python` `System Administration` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -11980,8 +11942,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Banani, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Banani, Dhaka (Hybrid) |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
@@ -12003,13 +11965,13 @@ We are seeking motivated individuals to join our team as Associate System Admini
 * Bachelor’s in CS / CSE / EEE / English Literature or similar fields preferred
 * Attention to detail and a drive for quality
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Technical Writing` `Content Creation` `Customer Support` `AI Tools` `Communication` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12017,8 +11979,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Banani, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Banani, Dhaka (Hybrid) |
 | **Vacancies** | 2 |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
@@ -12067,13 +12029,13 @@ We are seeking motivated individuals to join our team as Associate System Admini
 
 **Other Benefits**: As Per Company Policy
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `InfoSec` `Compliance` `AI Tools` `Gemini` `Auditing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12081,8 +12043,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | DevOps Administrator |
 
 ## 📝 [Description](http://therap.recruiterbox.com/jobs)
@@ -12135,13 +12097,13 @@ If you are motivated, analytical, and eager to grow in a production-focused DevO
 
 This role offers solid exposure to real production environments, a supportive team, and room to grow deeper into DevOps engineering over time.
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Linux` `Java` `CI/CD` `Bash` `Python` `Docker` `Kubernetes` `Prometheus` `Grafana` `SRE` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12149,8 +12111,8 @@ This role offers solid exposure to real production environments, a supportive te
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | Hybrid("Banani, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Banani, Dhaka (Hybrid) |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12168,13 +12130,13 @@ This role offers solid exposure to real production environments, a supportive te
 * Building modern, reliable, high performance, responsive and cross-browser compatible web application front-ends using React, CSS, and HTML
 * Working with backend developers to build frontend UI components for REST APIs
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `React` `JavaScript` `JQuery` `Bootstrap` `HTML` `CSS` `Webpack` `GIT` `NPM` `REST APIs` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12182,8 +12144,8 @@ This role offers solid exposure to real production environments, a supportive te
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Banani, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Banani, Dhaka |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12195,13 +12157,13 @@ This role offers solid exposure to real production environments, a supportive te
 * Basic knowledge of SQL and relational databases
 * Ability to communicate technical concepts clearly and effectively
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `C/C++` `C#` `Java` `Go` `Rust` `Python` `Data Structures` `Algorithms` `SQL` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12209,8 +12171,8 @@ This role offers solid exposure to real production environments, a supportive te
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Banani, Dhaka") |
+| **Employment** | Full Time |
+| **Location** | Banani, Dhaka |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12222,13 +12184,13 @@ This role offers solid exposure to real production environments, a supportive te
 * Basic knowledge of SQL and relational databases
 * Ability to communicate technical concepts clearly and effectively
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Software Testing` `C++` `C#` `Java` `Python` `SQL` `Databases` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 </details>
 
 <details>
@@ -12236,8 +12198,8 @@ This role offers solid exposure to real production environments, a supportive te
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Location** | OnSite("Dhaka, Dhaka Division, Bangladesh") |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Dhaka Division, Bangladesh |
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12281,16 +12243,14 @@ We are seeking a proactive, technically-minded Training and Implementation Assoc
 *   Strong computer skills and eagerness to master new cloud technologies.
 *   Willingness to travel for work when needed.
 
+* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
 ## 🛠️ Tech Stack
 
 `Training` `Implementation` `Client Success` `Data Analysis` `AI` `Machine Learning` `Digital Marketing` `Public Speaking` `Cloud Technologies` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 WPDeveloper
 
@@ -12299,8 +12259,8 @@ We are seeking a proactive, technically-minded Training and Implementation Assoc
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 40000 |
+| **Employment** | Full Time |
+| **Salary** | 40K |
 
 ## 📝 [Description](https://wpcommerz.com/contact)
 
@@ -12331,13 +12291,13 @@ As a WordPress Developer, you’re responsible for Making Stuff Go. You will bui
 *   Fun, Relaxed Working Environment
 *   Tea and coffee
 
+* 🌐 [Apply on Website](https://wpcommerz.com/contact)
 ## 🛠️ Tech Stack
 
 `WordPress` `PHP` `MySQL` `NPM` `Composer` `Webpack` `JavaScript` `jQuery` `Gulp` `SASS` `Tailwind CSS` `Vue.js` `React` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://wpcommerz.com/contact)
 </details>
 
 <details>
@@ -12345,19 +12305,19 @@ As a WordPress Developer, you’re responsible for Making Stuff Go. You will bui
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://wpcommerz.com/career)
 
 We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
 
+* 🌐 [Apply on Website](https://jobs.wpcommerz.com/digital-marketer)
 ## 🛠️ Tech Stack
 
 `Digital Marketing` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://jobs.wpcommerz.com/digital-marketer)
 </details>
 
 <details>
@@ -12365,22 +12325,20 @@ We’re building innovative WordPress solutions that help businesses thrive. Joi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://wpcommerz.com/career)
 
 We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
 
+* 🌐 [Apply on Website](https://jobs.wpcommerz.com/wordpress-content-writer)
 ## 🛠️ Tech Stack
 
 `WordPress` `Content Writing` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://jobs.wpcommerz.com/wordpress-content-writer)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 Workspace InfoTech Ltd.
 
@@ -12389,9 +12347,9 @@ We’re building innovative WordPress solutions that help businesses thrive. Joi
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | PartTime |
+| **Employment** | Part Time |
 | **Deadline** | 31st August, 2026 |
-| **Location** | Hybrid("Nikunja-2, Road 12, House 16, Dhaka") |
+| **Location** | Nikunja-2, Road 12, House 16, Dhaka (Hybrid) |
 | **Role** | Mid |
 | **Vacancies** | 2 |
 
@@ -12470,13 +12428,13 @@ Other Benefits:
 • Professional and supportive working environment
 • Opportunity for long-term engagement based on performance
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 ## 🛠️ Tech Stack
 
 `Sales Development` `B2B Sales` `Lead Conversion` `Appointment Setting` `Telemarketing` `Client Acquisition` `CRM` `Google Sheets` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 </details>
 
 <details>
@@ -12484,7 +12442,7 @@ Other Benefits:
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | PartTime |
+| **Employment** | Part Time |
 | **Deadline** | 31st August, 2026 |
 | **Location** | Remote |
 | **Role** | Entry |
@@ -12542,13 +12500,13 @@ Workspace Infotech Limited is seeking an experienced, confident, and results-ori
 • Must protect confidential company, prospect, lead, pricing, and business-development information.
 • Candidates may be required to participate in a practical calling assessment or communication evaluation during the recruitment process.
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 ## 🛠️ Tech Stack
 
 `B2B Sales` `Lead Generation` `Cold Calling` `Telemarketing` `Appointment Setting` `CRM` `English Communication` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 </details>
 
 <details>
@@ -12556,10 +12514,10 @@ Workspace Infotech Limited is seeking an experienced, confident, and results-ori
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 30000-45000 |
+| **Employment** | Full Time |
+| **Salary** | 30K - 45K |
 | **Deadline** | 31st August, 2026 |
-| **Location** | OnSite("Nikunja-2, Road 12, House 16, Dhaka") |
+| **Location** | Nikunja-2, Road 12, House 16, Dhaka |
 | **Role** | Entry-Mid |
 | **Vacancies** | 3 |
 
@@ -12620,13 +12578,13 @@ Workspace Infotech Limited is looking for a skilled and motivated PHP/Laravel De
 • Learning and development support.
 • Other benefits as per company policy.
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 ## 🛠️ Tech Stack
 
 `PHP` `Laravel` `MySQL` `MVC` `REST API` `HTML` `CSS` `JavaScript` `jQuery` `AJAX` `Bootstrap` `Git` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 </details>
 
 <details>
@@ -12634,11 +12592,11 @@ Workspace Infotech Limited is looking for a skilled and motivated PHP/Laravel De
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | unknown |
-| **Salary** | 5000 |
+| **Salary** | 5K |
 | **Deadline** | 31st August, 2026 |
-| **Location** | OnSite("Nikunja 2, Road 12, House 16, Dhaka 1229.") |
+| **Location** | Nikunja 2, Road 12, House 16, Dhaka 1229. |
 | **Role** | Intern |
 | **Vacancies** | 2 |
 
@@ -12675,14 +12633,14 @@ The HR Intern will support day-to-day human resource operations by assisting wit
 • Internship certificate upon successful completion
 • Opportunity for future employment based on performance
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
 ## 🛠️ Tech Stack
 
 `HRM` `Recruitment` `MS Word` `Excel` `Google Workspace` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-* 📧 [Email Resume](mailto:recruitment@workspaceit.com)
 </details>
 
 <details>
@@ -12690,10 +12648,10 @@ The HR Intern will support day-to-day human resource operations by assisting wit
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 25000-35000 |
+| **Employment** | Full Time |
+| **Salary** | 25K - 35K |
 | **Deadline** | 31st August, 2026 |
-| **Location** | OnSite("Nikunja-2, Khilkhet, Dhaka") |
+| **Location** | Nikunja-2, Khilkhet, Dhaka |
 | **Role** | Entry |
 | **Vacancies** | 2 |
 
@@ -12736,14 +12694,14 @@ Workspace InfoTech Limited is looking for a Digital Marketing & Sales Associate 
 ### Additional Requirements:
 • BSc in Computer Science and Engineering (CSE) or BBA (Major in Marketing) or a relevant field from a recognized university.
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
 ## 🛠️ Tech Stack
 
 `Digital Marketing` `Lead Generation` `B2B Sales` `SEO` `Copywriting` `WordPress` `Google Analytics` `HubSpot` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-* 📧 [Email Resume](mailto:recruitment@workspaceit.com)
 </details>
 
 <details>
@@ -12751,10 +12709,10 @@ Workspace InfoTech Limited is looking for a Digital Marketing & Sales Associate 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
-| **Salary** | 35000-65000 |
+| **Employment** | Full Time |
+| **Salary** | 35K - 65K |
 | **Deadline** | 31st August, 2026 |
-| **Location** | OnSite("Nikunja 2, Road 12, House 16, Dhaka 1229.") |
+| **Location** | Nikunja 2, Road 12, House 16, Dhaka 1229. |
 | **Role** | Mid-High |
 | **Vacancies** | 3 |
 
@@ -12811,17 +12769,15 @@ We are looking for an experienced WordPress Developer to join our team on a full
 • Supportive and professional work culture.
 • Quarterly performance reviews, yearly salary increments, and team-building events.
 
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
 ## 🛠️ Tech Stack
 
 `WordPress` `PHP` `HTML5` `CSS3` `JavaScript` `jQuery` `Elementor` `Gutenberg` `WooCommerce` `Git` `SEO` `REST API` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-* 📧 [Email Resume](mailto:recruitment@workspaceit.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 YOTECH Ltd.
 
@@ -12830,19 +12786,19 @@ We are looking for an experienced WordPress Developer to join our team on a full
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Backend Developer with expertise in Node.js, specifically Express.js or Nest.js.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Node.js` `Express.js` `Nest.js` `Backend` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12850,19 +12806,19 @@ We are looking for a Backend Developer with expertise in Node.js, specifically E
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Backend Developer with expertise in Python and FastAPI.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Python` `FastAPI` `Backend` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12870,19 +12826,19 @@ We are looking for a Backend Developer with expertise in Python and FastAPI.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Frontend Developer with expertise in Angular.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Angular` `Frontend` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12890,19 +12846,19 @@ We are looking for a Frontend Developer with expertise in Angular.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Creative Web Designer.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Web Design` `Creative` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12910,19 +12866,19 @@ We are looking for a Creative Web Designer.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Product & UI/UX Designer.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `UI/UX` `Product Design` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12930,19 +12886,19 @@ We are looking for a Product & UI/UX Designer.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Mobile App Developer with expertise in Android development.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Android` `Mobile Development` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12950,19 +12906,19 @@ We are looking for a Mobile App Developer with expertise in Android development.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Mobile App Developer with expertise in Flutter.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `Flutter` `Mobile Development` 
 
-## 🚀 Apply
+---
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 </details>
 
 <details>
@@ -12970,22 +12926,20 @@ We are looking for a Mobile App Developer with expertise in Flutter.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a QA Engineer.
 
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ## 🛠️ Tech Stack
 
 `QA` `Testing` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 authLab
 
@@ -12994,10 +12948,10 @@ We are looking for a QA Engineer.
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 4 years ago |
-| **Salary** | 100000 |
-| **Location** | OnSite("Sylhet") |
+| **Salary** | 100K |
+| **Location** | Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 3 |
 
@@ -13037,16 +12991,14 @@ We are looking for Senior Software Engineers proficient in PHP and JavaScript de
 *   Yearly/Bi-Yearly Office tours
 *   Unlimited Tea/Coffee, Lunch, Dinner (If you want to)
 
+* 🌐 [Apply on Website](https://authlab.io/jobs)
 ## 🛠️ Tech Stack
 
 `PHP` `JavaScript` `WordPress` `OOP` `Composer` `Laravel` `Vue.js` `React` `ES Next` 
 
-## 🚀 Apply
-
-* 🌐 [Apply on Website](https://authlab.io/jobs)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 belivIT
 
@@ -13055,7 +13007,7 @@ We are looking for Senior Software Engineers proficient in PHP and JavaScript de
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 
 ## 📝 [Description](https://www.belivit.com/vacancies)
 
@@ -13087,13 +13039,13 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 ### Educational Qualifications
 * Bachelor of Science (BSc) in Computer Science & Engineering or Computing & Information Systems.
 
+* 📧 [Send Resume via Email](mailto:hr@belivit.com)
 ## 🛠️ Tech Stack
 
 `Node.js` `React` `AngularJS` `MERN` `MongoDB` `Express.js` `RESTful APIs` `JavaScript` `HTML` `CSS` `Redux` `Agile` `AWS` `Azure` `Google Cloud` `Microservices` `CI/CD` `Git` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:hr@belivit.com)
 </details>
 
 <details>
@@ -13153,16 +13105,14 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 
 *   Bachelor of Science (BSc) in Computer Science & Engineering / Bachelor of Science (BSc) in Computing & Information Systems.
 
+* 📧 [Send Resume via Email](mailto:hr@belivit.com)
 ## 🛠️ Tech Stack
 
 `PHP` `LAMP` `Laravel` `CakePHP` `CodeIgniter` `MySQL` `JavaScript` `Vue.js` `Angular` `jQuery` `HTML5` `CSS3` `SASS` `LESS` `Bootstrap` `RESTful APIs` `SOAP` `AWS` `Google Cloud` `MongoDB` `Redis` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:hr@belivit.com)
-</details>
-
 ---
+
+</details>
 
 ## 🏢 iPay
 
@@ -13171,9 +13121,9 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 6 August 2026 |
-| **Location** | OnSite("Dhaka (Dhanmondi)") |
+| **Location** | Dhaka (Dhanmondi) |
 | **Role** | Senior System Administrator |
 | **Vacancies** | 1 |
 
@@ -13181,13 +13131,13 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 
 We're looking for a Senior System Administrator to own the reliability, security, and performance of iPay's IT infrastructure. You'll sit at the intersection of infrastructure engineering, cloud operations, cybersecurity, and system reliability — making sure our servers, networks, cloud platforms, and critical business systems remain secure, available, and resilient as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex infrastructure challenges, automating operations, and maintaining mission-critical systems in a fast-paced fintech environment.
 
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ## 🛠️ Tech Stack
 
 `Windows Server` `Linux` `VMware` `Hyper-V` `AWS` `Azure` `GCP` `PowerShell` `Bash` `Python` `Active Directory` `DNS` `DHCP` `VPN` `Firewalls` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:jobs@ipay.com.bd)
 </details>
 
 <details>
@@ -13195,9 +13145,9 @@ We're looking for a Senior System Administrator to own the reliability, security
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 6 August 2026 |
-| **Location** | OnSite("Dhaka (Dhanmondi)") |
+| **Location** | Dhaka (Dhanmondi) |
 | **Role** | Senior Database Administrator |
 | **Vacancies** | 1 |
 
@@ -13205,13 +13155,13 @@ We're looking for a Senior System Administrator to own the reliability, security
 
 We're looking for a Senior Database Administrator to own the performance, availability, security, and scalability of iPay's database infrastructure. You'll sit at the intersection of database engineering, infrastructure, security, and payment operations — making sure our mission-critical databases remain reliable, highly available, and optimized as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex technical problems, optimizing database performance, and ensuring the integrity of financial data in a fast-paced fintech environment.
 
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ## 🛠️ Tech Stack
 
 `PostgreSQL` `MySQL` `Microsoft SQL Server` `Oracle` `Linux` `Bash` `Python` `PowerShell` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:jobs@ipay.com.bd)
 </details>
 
 <details>
@@ -13219,9 +13169,9 @@ We're looking for a Senior Database Administrator to own the performance, availa
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 6 August 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Business Development Associate |
 | **Vacancies** | 4 |
 
@@ -13229,13 +13179,13 @@ We're looking for a Senior Database Administrator to own the performance, availa
 
 We're looking for a Business Development Associate to help expand iPay's customer base, merchant network, and market presence. You'll serve as a key brand ambassador — engaging prospective customers, building strategic relationships, and driving adoption of iPay's digital payment and financial services. It's a dynamic, front-line role for someone with strong communication skills, commercial awareness, relationship-building ability, and a genuine interest in fintech.
 
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ## 🛠️ Tech Stack
 
 `Business Development` `Sales` `Customer Acquisition` `Merchant Acquisition` `Fintech` `CRM` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:jobs@ipay.com.bd)
 </details>
 
 <details>
@@ -13243,9 +13193,9 @@ We're looking for a Business Development Associate to help expand iPay's custome
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 6 August 2026 |
-| **Location** | OnSite("Dhaka (Dhanmondi)") |
+| **Location** | Dhaka (Dhanmondi) |
 | **Role** | Customer Experience Executive |
 | **Vacancies** | 4 |
 
@@ -13253,13 +13203,13 @@ We're looking for a Business Development Associate to help expand iPay's custome
 
 We're looking for a Customer Experience Executive to deliver exceptional support to iPay's customers, merchants, and business users. You'll sit at the intersection of customer support, payment operations, transaction troubleshooting, and compliance — making sure customers get accurate, timely, and empathetic help throughout their journey with iPay.
 
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ## 🛠️ Tech Stack
 
 `Customer Support` `Zendesk` `Fintech` `Payment Operations` `KYC` 
 
-## 🚀 Apply
+---
 
-* 📧 [Email Resume](mailto:jobs@ipay.com.bd)
 </details>
 
 <details>
@@ -13267,9 +13217,9 @@ We're looking for a Customer Experience Executive to deliver exceptional support
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | FullTime |
+| **Employment** | Full Time |
 | **Posted** | 6 August 2026 |
-| **Location** | OnSite("Dhaka, Bangladesh") |
+| **Location** | Dhaka, Bangladesh |
 | **Role** | Operations Manager |
 | **Vacancies** | 1 |
 
@@ -13277,14 +13227,12 @@ We're looking for a Customer Experience Executive to deliver exceptional support
 
 We're looking for an Operations Manager to own the day-to-day reliability and efficiency of iPay's core payment operations. You'll sit at the intersection of banking partnerships, transaction settlement, compliance, merchant and agent operations, and customer experience — making sure every taka moves smoothly, every time, across 57+ bank integrations and a fast-growing base of consumers and merchants.
 
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ## 🛠️ Tech Stack
 
 `Operations` `Fintech` `Banking` `Payment Settlement` `Reconciliation` `Compliance` 
 
-## 🚀 Apply
-
-* 📧 [Email Resume](mailto:jobs@ipay.com.bd)
-</details>
-
 ---
+
+</details>
 

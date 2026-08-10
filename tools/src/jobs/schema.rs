@@ -111,7 +111,7 @@ impl ApplicationMethod {
     }
 }
 
-#[derive(Debug, Serialize, Deserialize, JsonSchema)]
+#[derive(Serialize, Deserialize, JsonSchema)]
 pub enum EmploymentType {
     FullTime,
     PartTime,
@@ -121,7 +121,7 @@ pub enum EmploymentType {
     Freelance,
 }
 
-#[derive(Debug, Serialize, Deserialize, JsonSchema)]
+#[derive(Serialize, Deserialize, JsonSchema)]
 pub enum JobLocation {
     ///  All remote jobs are allowed, including those outside Bangladesh.
     Remote,
@@ -132,6 +132,29 @@ pub enum JobLocation {
 }
 
 // =============================================================================
+
+impl fmt::Debug for JobLocation {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match self {
+            Self::Remote => write!(f, "Remote"),
+            Self::Hybrid(s) => f.write_str(&format!("{s} (Hybrid)")),
+            Self::OnSite(s) => f.write_str(s),
+        }
+    }
+}
+
+impl fmt::Debug for EmploymentType {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match self {
+            Self::FullTime => write!(f, "Full Time"),
+            Self::PartTime => write!(f, "Part Time"),
+            Self::Contract => write!(f, "Contract"),
+            Self::Temporary => write!(f, "Temporary"),
+            Self::Internship => write!(f, "Internship"),
+            Self::Freelance => write!(f, "Freelance"),
+        }
+    }
+}
 
 impl fmt::Debug for PostedAt {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
@@ -175,6 +198,10 @@ impl JobPost {
     }
 }
 
+fn fmt_salary(amount: u32) -> u32 {
+    amount / 1000
+}
+
 fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
     writeln!(o, "| Field | Information |")?;
     writeln!(o, "| ----- | ----------- |")?;
@@ -187,8 +214,18 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
     }
     if let Some(salary) = &job.salary {
         match (salary.min, salary.max) {
-            (Some(num), None) | (None, Some(num)) => writeln!(o, "| **Salary** | {num} |",)?,
-            (Some(min), Some(max)) => writeln!(o, "| **Salary** | {min}-{max} |",)?,
+            (Some(num), None) | (None, Some(num)) => {
+                writeln!(o, "| **Salary** | {}K |", fmt_salary(num))?
+            }
+            (Some(min), Some(max)) if min == max => {
+                writeln!(o, "| **Salary** | {}K |", fmt_salary(max))?
+            }
+            (Some(min), Some(max)) => writeln!(
+                o,
+                "| **Salary** | {}K - {}K |",
+                fmt_salary(min),
+                fmt_salary(max)
+            )?,
             _ => {}
         }
     }
@@ -205,22 +242,29 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
         writeln!(o, "| **Vacancies** | {count} |")?;
     }
 
-    writeln!(o, "\n## 📝 [Description]({source})\n\n{}\n", job.description)?;
+    writeln!(
+        o,
+        "\n## 📝 [Description]({source})\n\n{}\n",
+        job.description
+    )?;
+
+    if !job.apply.is_empty() {
+        // writeln!(o, "---\n")?;
+
+        for method in &job.apply {
+            match method {
+                ApplicationMethod::Email(email) => {
+                    writeln!(o, "* 📧 [Send Resume via Email](mailto:{email})")?
+                }
+                ApplicationMethod::Website(web) => writeln!(o, "* 🌐 [Apply on Website]({web})")?,
+            }
+        }
+    }
 
     if !job.tags.is_empty() {
         let tags: String = job.tags.iter().map(|tag| format!("`{tag}` ")).collect();
         writeln!(o, "## 🛠️ Tech Stack\n\n{tags}\n")?;
-    }
-
-    if !job.apply.is_empty() {
-        writeln!(o, "## 🚀 Apply\n")?;
-    
-        for method in &job.apply {
-            match method {
-                ApplicationMethod::Email(email) => writeln!(o, "* 📧 [Email Resume](mailto:{email})")?,
-                ApplicationMethod::Website(web) => writeln!(o, "* 🌐 [Apply on Website]({web})")?,
-            }
-        }
+        writeln!(o, "---\n")?;
     }
 
     Ok(())
@@ -278,7 +322,7 @@ pub fn gen_readme(dir: PathBuf) -> Result {
             print_post(&mut o, &src, &job)?;
             writeln!(o, "</details>\n")?;
         }
-        writeln!(o, "---\n")?;
+        // writeln!(o, "---\n")?;
     }
 
     TextFile::read(dir.join("jobs.md"))?.write(o)?;

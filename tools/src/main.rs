@@ -174,10 +174,18 @@ fn cli() -> Result {
     }
 
     if docs {
-        TextFile::read(dir.join("./README.md"))?.write(companies.to_string())?;
+        TextFile::read(dir.join("./README.md"))?.write(format!("{README_HEADER}\n{companies}"))?;
         #[cfg(feature = "crawler")]
         jobs::schema::gen_readme(dir)?;
     }
 
     Ok(())
 }
+
+static README_HEADER: &str = "<!-- AUTO-GENERATED FILE — DO NOT EDIT. -->
+<!-- To update entries, go to the `/data` directory. -->
+
+## 💼 Jobs
+
+Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions.
+";

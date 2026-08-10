@@ -1,3 +1,10 @@
+<!-- AUTO-GENERATED FILE — DO NOT EDIT. -->
+<!-- To update entries, go to the `/data` directory. -->
+
+## 💼 Jobs
+
+Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions.
+
 | # | Company | Type | Technologies | Link |
 |:-:| ------- | ---- | ------------ | ---- |
 | 1 | 6sense Technologies | — | `AWS` `Docker` `Figma` `Java` `MongoDB` `NextJS` `NodeJS` | [Jobs](https://6sensehq.freshteam.com/jobs) <br> [Web](https://6sensehq.com/) |
