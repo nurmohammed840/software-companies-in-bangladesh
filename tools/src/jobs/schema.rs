@@ -281,7 +281,7 @@ pub fn gen_readme(dir: PathBuf) -> Result {
         writeln!(o, "---\n")?;
     }
 
-    TextFile::read(dir.join("jobs/README.md"))?.write(o)?;
+    TextFile::read(dir.join("jobs.md"))?.write(o)?;
 
     Ok(())
 }
