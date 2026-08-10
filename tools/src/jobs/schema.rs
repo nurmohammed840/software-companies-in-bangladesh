@@ -205,7 +205,7 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
         writeln!(o, "| **Vacancies** | {count} |")?;
     }
 
-    writeln!(o, "\n## 📝 Description\n\n{}\n", job.description)?;
+    writeln!(o, "\n## 📝 [Description]({source})\n\n{}\n", job.description)?;
 
     if !job.tags.is_empty() {
         let tags: String = job.tags.iter().map(|tag| format!("`{tag}` ")).collect();
@@ -222,8 +222,6 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
             }
         }
     }
-
-    writeln!(o, "[Source]({source})\n")?;
 
     Ok(())
 }
