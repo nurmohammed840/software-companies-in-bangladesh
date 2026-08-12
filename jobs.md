@@ -5,74 +5,6 @@
 ## 🏢 6sense Technologies
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Marketing Intern (SEO Focused)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Internship |
-| **Salary** | 8K |
-| **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
-| **Role** | Intern |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://6sensehq.freshteam.com/jobs)
-
-### About 6sense HQ Limited:
-
-6sense HQ Ltd. is a rapidly expanding software company with a global clientele and a team of seasoned developers. We offer a wide range of services, including web development, managed delivery, custom software development, dedicated team solutions, and UX design. We are looking for a passionate team member to enhance our online presence and drive organic traffic to our website. The ideal candidate will have a basic understanding of SEO principles, best practices, and the latest trends in search engine optimization.
-
-Position: SEO Intern
-Department: Sales & Marketing
-Internship Period: 4 months
-Internship Opening: 1-2
-
-Monthly Allowance: 8,000 Bdt
-
-### Job Responsibilities:
-
-- Learn and assist in keyword research to identify relevant search terms under supervision.
-- Support basic on-page SEO tasks such as updating meta titles, descriptions, internal linking, and content as instructed.
-- Assist in identifying technical SEO issues and documenting findings for the SEO team.
-- Learn to track website performance using tools like Google Analytics and Google Search Console.
-- Support link-building and off-page SEO activities as part of guided tasks.
-- Stay updated with the latest SEO trends and best practices through training and self-learning.
-- Assist content and marketing teams by applying SEO guidelines to assigned content.
-- Help prepare basic SEO reports and maintain records of completed tasks.
-
-### Skills you will gain:
-
-- Fundamentals of search engine optimization (SEO)
-- Keyword research and search intent basics
-- On-page SEO optimization techniques
-- Understanding of technical SEO concepts
-- Using SEO tools & techniques
-- Link-building strategy and backlink analysis
-- SEO reporting and performance tracking
-
-### Qualifications and Requirements:
-
-- Bachelor’s degree in Marketing, Communications, Information Technology, or a related field.
-- Completed any Digital Marketing or SEO fundamentals course.
-- Familiar with SEO tools such as GA4, Google Search Console, SEMrush, Ahrefs, etc.
-- Strong understanding of search engine algorithms and ranking factors.
-- Excellent analytical and problem-solving skills.
-- Effective communication and teamwork abilities.
-- Basic knowledge of HTML/CSS is a plus.
-
-Office Hour: 10 AM – 7 PM from Monday – Friday
-Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
-
-[Interns must bring their own device/laptop during the internship period]
-
-## 🛠️ Tech Stack
-
-`SEO` `Google Analytics` `Google Search Console` `SEMrush` `Ahrefs` `HTML` `CSS` 
-
----
-
-</details>
-
-<details>
 <summary> <strong style="font-size: 1.3em;">💼 Junior Frontend Developer</strong> </summary>
 
 | Field | Information |
@@ -81,6 +13,8 @@ Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
 | **Salary** | 35K - 45K |
 | **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
 | **Role** | Junior |
+
+**🛠️ Tags**: `HTML` `CSS` `JavaScript` `React` `Next.js` `RESTful APIs` `React Query` `Redux` `Zustand` `Git` `GitHub` `GitLab` `Tailwind` `CI/CD` 
 
 ## 📝 [Description](https://6sensehq.freshteam.com/jobs)
 
@@ -198,10 +132,6 @@ Provide us with links to see some of your work (Github/Leetcode/Codeforces)
 
  +
 
-## 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `React` `Next.js` `RESTful APIs` `React Query` `Redux` `Zustand` `Git` `GitHub` `GitLab` `Tailwind` `CI/CD` 
-
 ---
 
 </details>
@@ -215,6 +145,8 @@ Provide us with links to see some of your work (Github/Leetcode/Codeforces)
 | **Salary** | 35K - 40K |
 | **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Agile` `Scrum` `Jira` `Trello` `Linear` `ClickUp` `SDLC` 
 
 ## 📝 [Description](https://6sensehq.freshteam.com/jobs)
 
@@ -276,15 +208,164 @@ Office Hour & Job Location:
 - Office Hours: 10:00 AM – 7:00 PM (Monday – Friday)
 - Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
 
-## 🛠️ Tech Stack
+---
 
-`Agile` `Scrum` `Jira` `Trello` `Linear` `ClickUp` `SDLC` 
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Marketing Intern (SEO Focused)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+| **Salary** | 8K |
+| **Location** | House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka |
+| **Role** | Intern |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `SEO` `Google Analytics` `Google Search Console` `SEMrush` `Ahrefs` `HTML` `CSS` 
+
+## 📝 [Description](https://6sensehq.freshteam.com/jobs)
+
+### About 6sense HQ Limited:
+
+6sense HQ Ltd. is a rapidly expanding software company with a global clientele and a team of seasoned developers. We offer a wide range of services, including web development, managed delivery, custom software development, dedicated team solutions, and UX design. We are looking for a passionate team member to enhance our online presence and drive organic traffic to our website. The ideal candidate will have a basic understanding of SEO principles, best practices, and the latest trends in search engine optimization.
+
+Position: SEO Intern
+Department: Sales & Marketing
+Internship Period: 4 months
+Internship Opening: 1-2
+
+Monthly Allowance: 8,000 Bdt
+
+### Job Responsibilities:
+
+- Learn and assist in keyword research to identify relevant search terms under supervision.
+- Support basic on-page SEO tasks such as updating meta titles, descriptions, internal linking, and content as instructed.
+- Assist in identifying technical SEO issues and documenting findings for the SEO team.
+- Learn to track website performance using tools like Google Analytics and Google Search Console.
+- Support link-building and off-page SEO activities as part of guided tasks.
+- Stay updated with the latest SEO trends and best practices through training and self-learning.
+- Assist content and marketing teams by applying SEO guidelines to assigned content.
+- Help prepare basic SEO reports and maintain records of completed tasks.
+
+### Skills you will gain:
+
+- Fundamentals of search engine optimization (SEO)
+- Keyword research and search intent basics
+- On-page SEO optimization techniques
+- Understanding of technical SEO concepts
+- Using SEO tools & techniques
+- Link-building strategy and backlink analysis
+- SEO reporting and performance tracking
+
+### Qualifications and Requirements:
+
+- Bachelor’s degree in Marketing, Communications, Information Technology, or a related field.
+- Completed any Digital Marketing or SEO fundamentals course.
+- Familiar with SEO tools such as GA4, Google Search Console, SEMrush, Ahrefs, etc.
+- Strong understanding of search engine algorithms and ranking factors.
+- Excellent analytical and problem-solving skills.
+- Effective communication and teamwork abilities.
+- Basic knowledge of HTML/CSS is a plus.
+
+Office Hour: 10 AM – 7 PM from Monday – Friday
+Job Location: House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka
+
+[Interns must bring their own device/laptop during the internship period]
 
 ---
 
 </details>
 
 ## 🏢 Apex DMIT
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Business Development Analyst (SBA I/SBA II) (Night Shift)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 35K - 50K |
+| **Deadline** | August 15, 2026 |
+| **Location** | Dhaka (Banani) |
+| **Vacancies** | 6 |
+
+**🛠️ Tags**: `Customer Service` `English Communication` `Computer Literacy` `Analytical Capability` `Leadership` 
+
+## 📝 [Description](https://www.career.apexdmit.com/)
+
+#### Business Development Analyst (SBA I/SBA II) (Night Shift)
+
+Deadline: August 15, 2026 | Type: Full Time | TIMING: Night Shift
+
+[Apply For This Job](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
+
+**Job Vacancy Announcement**
+
+**Business Development Analyst (Night Shift)**
+
+**Overview: Apex DMIT Limited** is looking for **Business Development Analyst** who is passionate about **impacting lives and empowering people** through modern technology. The incumbent will primarily be dealing with North American clients & stakeholders. So, high proficiency in English communication is mandatory for the role. 
+
+**No of Vacancies:** 06
+
+**Job Highlights:**
+
+**Night Shift:**
+
+Male: 6 PM to 3 AMFemale: 9 PM to 6 AM**Work Days:** Monday- Friday; Weekend**:** 2 Days (Saturday- Sunday)
+
+**Job Location:** Dhaka (Banani) 
+
+**Key Responsibilities:**
+
+The incumbent in this role will primarily be responsible for, but not limited to:
+
+* Deliver end-to-end customer service, ensuring a seamless client experience.
+* Monitor and ensure the quality of services provided by the field force.
+* Ensure timely service delivery aligned with Apex’s brand standards and commitments.
+* Gain a strong understanding of the company’s core functions, operations, management perspectives, policies, and practices affecting all business phases.
+* Oversee quality control through regular coordination, performance reviews, and business meetings.
+* Manage client and vendor payments efficiently and accurately.
+* Coordinate with clients to maintain effective communication and uphold service quality excellence.
+
+**Expected Knowledge & Skills** 
+
+* High proficiency in English communication (Speaking, Listening, Reading, Writing)
+* High English typing speed & accuracy 
+* Curiosity & High learning propensity 
+* Computer literacy
+* Analytical capability
+* Leadership potential & Decision-making capability 
+* Ability to work with professionalism, discipline, & independence 
+
+**Educational Requirements:**
+
+* Bachelor's degree in any discipline from a reputed university 
+* CGPA: 3.00 or above 
+* Expected combined GPA in SSC & HSC is 9 and above 
+
+**Experience Requirements:**
+
+* Fresh graduates or experienced professionals (up to a maximum of 3 years) are encouraged to apply.  
+* Candidates with experience in the property preservation industry are strongly encouraged to apply
+
+The applicants having experience in the following business area(s): Telecommunication, BPO/ Data Entry Firm, Call Center will be preferred.
+
+**Compensation & Other Benefits:**
+
+* Monthly Salary 35,000 Taka to 50,000 Taka based on competencies and skills.
+* Monthly Travel Allowance 
+* Quarterly/ Yearly Performance Bonus
+* Yearly Salary Review
+* Yearly 2 Festival Bonus
+* Structured Training & Development Program (Year long)
+
+---
+* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Business Development Analyst – Night Shift</strong> </summary>
@@ -297,6 +378,8 @@ Office Hour & Job Location:
 | **Location** | Banani, Dhaka |
 | **Role** | Business Development Analyst |
 | **Vacancies** | 6 |
+
+**🛠️ Tags**: `Customer Service` `Operations` `BPO` `Data Management` `Microsoft Office` 
 
 ## 📝 [Description](https://www.career.apexdmit.com/)
 
@@ -389,1047 +472,13 @@ If you possess **excellent English communication skills, strong analytical abili
 
 [Apply For This Job](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
 
-* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
-## 🛠️ Tech Stack
-
-`Customer Service` `Operations` `BPO` `Data Management` `Microsoft Office` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Business Development Analyst (SBA I/SBA II) (Night Shift)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 35K - 50K |
-| **Deadline** | August 15, 2026 |
-| **Location** | Dhaka (Banani) |
-| **Vacancies** | 6 |
-
-## 📝 [Description](https://www.career.apexdmit.com/)
-
-#### Business Development Analyst (SBA I/SBA II) (Night Shift)
-
-Deadline: August 15, 2026 | Type: Full Time | TIMING: Night Shift
-
-[Apply For This Job](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
-
-**Job Vacancy Announcement**
-
-**Business Development Analyst (Night Shift)**
-
-**Overview: Apex DMIT Limited** is looking for **Business Development Analyst** who is passionate about **impacting lives and empowering people** through modern technology. The incumbent will primarily be dealing with North American clients & stakeholders. So, high proficiency in English communication is mandatory for the role. 
-
-**No of Vacancies:** 06
-
-**Job Highlights:**
-
-**Night Shift:**
-
-Male: 6 PM to 3 AMFemale: 9 PM to 6 AM**Work Days:** Monday- Friday; Weekend**:** 2 Days (Saturday- Sunday)
-
-**Job Location:** Dhaka (Banani) 
-
-**Key Responsibilities:**
-
-The incumbent in this role will primarily be responsible for, but not limited to:
-
-* Deliver end-to-end customer service, ensuring a seamless client experience.
-* Monitor and ensure the quality of services provided by the field force.
-* Ensure timely service delivery aligned with Apex’s brand standards and commitments.
-* Gain a strong understanding of the company’s core functions, operations, management perspectives, policies, and practices affecting all business phases.
-* Oversee quality control through regular coordination, performance reviews, and business meetings.
-* Manage client and vendor payments efficiently and accurately.
-* Coordinate with clients to maintain effective communication and uphold service quality excellence.
-
-**Expected Knowledge & Skills** 
-
-* High proficiency in English communication (Speaking, Listening, Reading, Writing)
-* High English typing speed & accuracy 
-* Curiosity & High learning propensity 
-* Computer literacy
-* Analytical capability
-* Leadership potential & Decision-making capability 
-* Ability to work with professionalism, discipline, & independence 
-
-**Educational Requirements:**
-
-* Bachelor's degree in any discipline from a reputed university 
-* CGPA: 3.00 or above 
-* Expected combined GPA in SSC & HSC is 9 and above 
-
-**Experience Requirements:**
-
-* Fresh graduates or experienced professionals (up to a maximum of 3 years) are encouraged to apply.  
-* Candidates with experience in the property preservation industry are strongly encouraged to apply
-
-The applicants having experience in the following business area(s): Telecommunication, BPO/ Data Entry Firm, Call Center will be preferred.
-
-**Compensation & Other Benefits:**
-
-* Monthly Salary 35,000 Taka to 50,000 Taka based on competencies and skills.
-* Monthly Travel Allowance 
-* Quarterly/ Yearly Performance Bonus
-* Yearly Salary Review
-* Yearly 2 Festival Bonus
-* Structured Training & Development Program (Year long)
-
-* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=k65d7ihC2izoCcb/Q5tqqQ==)
-## 🛠️ Tech Stack
-
-`Customer Service` `English Communication` `Computer Literacy` `Analytical Capability` `Leadership` 
-
+* 🌐 [Apply on Website](https://www.career.apexdmit.com/job/apply?jobId=+vuTXkR8SIbAihLvdMzCsQ==)
 ---
 
 </details>
 
 ## 🏢 Appyfilab
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 3 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Digital Marketing
-
-We are looking for a dedicated and results-oriented Digital Marketing Executive to help us improve our online presence and promote EzyCourse, a growing no-code Software as a Service (SaaS) platform
-
-*   Onsite (Sylhet)
-*   03 Vacancies
-*   Full Time
-*   Both Experienced & Fresher Can Apply
-
-**Company Description:**
-
-Appifylab is a growing software company based in Sylhet, Bangladesh. We focus on building SaaS products, like EzyCourse, that help entrepreneurs around the world to launch successful online businesses. Behind our success is a talented team of software engineers, marketers, QA specialists, and customer support professionals; all working to create something awesome – together.
-
-**What You'll Do:**
-
-*   Conducting keyword research and optimizing website content.
-*   Analyzing web traffic and user behavior to identify growth opportunities.
-*   Staying updated with industry trends and algorithm updates to ensure the latest best practices.
-*   Collaborating with the content team to create SEO-friendly content.
-*   Creating email marketing campaigns, compelling written content, and effective outreach content.
-*   Collaborating with cross-functional teams to achieve marketing objectives.
-*   Contributing in lead generation, social media marketing, and outreach strategies to drive engagement and attract potential clients.
-
-**Who Can Apply?**
-
-*   Minimum 1 year experience required.
-*   Graduates from any renowned university
-*   Proficient in English (reading & writing)
-*   Familiarity with web browsing and social media platforms.
-*   A proactive attitude and eagerness to learn.
-
-**What We Offer:**
-
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-*   Separate female room for extra privacy
-*   Two weekly holidays
-*   Fully subsidized lunch
-*   Unlimited tea and coffee to recharge your day
-*   Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you think you meet our requirements then we would love to hear from you.
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`Digital Marketing` `SEO` `Email Marketing` `Lead Generation` `Social Media Marketing` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior SQA Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Role** | Senior |
-| **Vacancies** | 4 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-**Company Description:**
-
-**Appifylab** is a software development company offering services to clients across the world with innovative SaaS platforms such as **EzyCourse**. We are now seeking two professional SQA Team Leaders with proven experience in the field. The ideal candidate will be responsible for ensuring software quality, bug identification, and leading our QA team.
-
-**What You'll Do:**
-
-* Collaborate closely with developers to ensure quality is integrated in features.
-* Create test cases based on system requirements.
-* Identify & record bugs in clear documentation.
-* Use manual & automation testing strategies.
-* Assign & oversee the work of other QA team members.
-* Perform thorough tests on both web and mobile application.
-* Resolve client-reported issues working alongside developers.
-* Improve the overall system performance and assure product quality.
-
-**Who Can Apply?**
-
-* 3+ years of manual testing experience.
-* Strong knowledge of SDLC, API testing, and bug tracking tools.
-* Strong attention to detail.
-* Good communication and teamwork.
-
-**What We Offer:**
-
-* Competitive salary and benefits package
-* Yearly salary review.
-* Opportunity to work with a cutting-edge SaaS LMS platform
-* A collaborative and supportive work environment with a focus on continuous learning and development
-* Fully subsidized lunch, along with coffee and tea.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you think you meet our requirements then we would love to hear from you
-
-Are you Ready?
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`Manual Testing` `Automation Testing` `API Testing` `SDLC` `SQA` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Appifylab Is Hiring Senior React Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Role** | Senior |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-Appifylab is hiring a passionate and skilled Senior React Developer to join our dynamic team. This role involves building sleek, efficient, and user-friendly interfaces for our web and mobile applications. You'll be contributing to modern, scalable solutions while collaborating closely with our design and backend teams.
-
-**Company Description:**
-
-At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
-
-**What You'll Do:**
-
-* Address critical issues with hands-on coding and efficient problem-solving
-* Improve product quality with code reviews, unit testing, and collaboration with QA on automation
-* Mentor junior developers and contribute to team growth
-* Lead front-end development, manage sprints, and translate business requirements into actionable tasks
-
-**Who Can Apply?**
-
-* Bachelor’s degree in Computer Science or a related field
-* 5+ years of experience in software engineering with a focus on front-end development
-* 4+ years of experience working with ReactJS
-* Proficient in JavaScript, HTML5, CSS, LESS/SCSS/PostCSS, GIT, and state management libraries like Redux
-* Familiarity with Progressive Web Apps and modern web development techniques
-
-**What We Offer:**
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`ReactJS` `JavaScript` `HTML5` `CSS` `LESS` `SCSS` `PostCSS` `GIT` `Redux` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Flutter Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Role** | Senior |
-| **Vacancies** | 3 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Senior Flutter Developer
-
-We are looking for skilled and collaborative 𝐒𝐞𝐧𝐢𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 to join our dynamic team. As a Senior Flutter Developer, you will maintain our existing mobile application(EzyCourse), identify and fix bugs, and add new features to enhance its functionality. Additionally, you will play a crucial role in improving the codebase and overall software quality, ensuring that our app remains efficient and up to date.
-
-*   Onsite (Sylhet)
-*   03 Vacancies
-*   Full Time
-*   04 Years Experience
-
-#### Company Description:
-
-EzyCourse is a no-code SaaS platform for online entrepreneurs, business owners, course creators, teachers, and others to build LMS websites without any code. EzyCourse allows creators to build and sell anything online.
-
-#### What You'll Do:
-
-*   Create user flows, wireframes, prototypes, and high-fidelity designs independently.
-*   Collaborate closely with other teams to translate requirements into technical specifications and actionable plans.
-*   Mentor and guide junior developers, providing technical expertise, code reviews, and constructive feedback to foster their growth and development.
-*   Troubleshoot and provide support for existing mobile apps. Write clean, efficient, and scalable code following coding standards and best practices.
-*   Contribute to continuous improvement of the code, maintaining high-quality applications.
-*   Collaborate with cross-functional teams to improve design, develop new features, troubleshoot, and debug issues to ensure optimal performance and user experience.
-
-#### Who Can Apply?
-
-*   Experience: Minimum 4+ years overall, including at least 3 years of hands-on experience in Flutter. The remaining experience may come from related technologies such as Java, Kotlin, or Swift.
-*   Strong understanding of the Flutter framework and the Dart programming language.
-*   Experience with state management (e.g., Riverpod, Bloc/Cubit) will be considered a strong advantage.
-*   Experience working with Clean Architecture or similar scalable architectural patterns (highly prioritized).
-*   Solid knowledge of RESTful APIs, JSON handling, and integrating third-party libraries and packages.
-*   Familiarity with Git and modern version control workflows.
-*   Strong problem-solving skills, debugging abilities, and high attention to detail.
-*   Ability to work collaboratively in a team-oriented, fast-paced environment
-
-#### What We Offer:
-
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-#### Other Perks:
-
-*   Separate female room for extra privacy
-*   Two weekly holidays
-*   Fully subsidized lunch
-*   Unlimited tea and coffee to recharge your day
-*   Separate prayer rooms for male and female members
-
-#### Working hours:
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://forms.gle/zfoJket218hwfYBm7)
-* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
-## 🛠️ Tech Stack
-
-`Flutter` `Dart` `Riverpod` `Bloc/Cubit` `Clean Architecture` `RESTful APIs` `JSON` `Git` `Java` `Kotlin` `Swift` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Support Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet, Bangladesh |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Support Engineer
-
-**Appifylab** is looking for dedicated support engineers to join its dynamic team. You will be responsible for the client support-related chores of our SaaS LMS platform, EzyCourse. 
-
-We’re looking for a team member available to work in any shift as part of our 24/7 support team. Shifts rotate across three time slots, and flexibility to work any shift is required.
-
-The role will revolve around communicating and providing excellent support to our clients. You will support our clients through live chats, emails, video chats, etc. The Support Engineer, who answers directly to the team lead, contributes to making every customer's experience smooth and encouraging.
-
-*   Onsite (Sylhet)
-*   05 Vacancies
-*   Full Time
-*   Both Experienced & Fresher Can Apply
-
-**Company Description:**
-
-EzyCourse is a no-code SaaS platform for online entrepreneurs, business owners, course creators, teachers, and others to build LMS websites without any code. EzyCourse allows creators to build and sell anything online.
-
-**What You'll Do:**
-
-*   Review console logs, test across different browsers and devices, check API responses, and make small HTML/CSS adjustments to help identify and resolve platform issues.
-*   Collaborate with the product and development teams to test new features, share feedback, and report bugs
-*   Communicate with solutions engineers, clients, and prospects to ensure their technical setup is compatible with EzyCourse.
-*   Create and update documentation, including guides, walkthroughs, and helpful user resources.
-*   Manage Trello cards to track client issues and ensure all tasks are properly followed up
-*   Keep accurate notes on customer conversations and update their information when needed.
-*   Guide clients through simple troubleshooting steps and help them resolve common issues quickly.
-*   Follow up with users to confirm their concerns have been fully addressed.
-*   Serve as a friendly and responsive first point of contact for EzyCourse users via email, chat, and video calls.
-*   Be the first point of contact for EzyCourse users, providing timely and effective technical support via email, chat, and video calls.
-*   Diagnose technical issues related to the platform and work with the team to find effective solutions.
-*   Suggest product improvements based on user feedback and help enhance the overall user experience.
-*   Understand user needs and support a positive, customer-focused community.
-
-**Who Can Apply?**
-
-*   A bachelor's degree in computer science and engineering (CSE) or a related field is preferred.
-*   Experienced in supporting customers through multiple channels
-*   Demonstrates expertise in looking at, locating, and recording software issues.
-*   An independent problem solver—you can figure out how to solve a complex software problem
-*   Strong English skills—excellent in speaking, listening, and writing.
-*   Great problem-solving and communication skills.
-*   Ability to provide clear step-by-step technical support in both written and verbal form.
-*   Strong attention to detail and a customer-focused mindset.
-*   A team player with a positive attitude and a willingness to learn and grow
-
-**What We Offer:**
-
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-*   Separate female room for extra privacy
-*   Two weekly holidays
-*   Fully subsidized lunch
-*   Unlimited tea and coffee to recharge your day
-*   Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you think you meet our requirements then we would love to hear from you.
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`HTML` `CSS` `API` `Trello` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring UI/UX Designer
-
-We are looking for a talented UI/UX Designer to help shape user experiences across our suite of SaaS products. If you're passionate about designing sleek, intuitive, and scalable solutions, this is your chance to make an impact on products used by creators and businesses around the world.
-
-* Onsite (Sylhet)
-* 05 Vacancies
-* Full Time
-* At least 2+ years Experience
-
-**Company Description:**
-
-At Appifylab, we're building the next generation of SaaS products powering the creator economy, ed-tech, and digital entrepreneurship. With platforms like EzyCourse, EzyStudio, and more in the pipeline, we are on a mission to simplify how people build, sell, and scale online.
-
-**What You'll Do:**
-
-* Conduct user research, interviews, journey mapping, and usability tests
-* Create wireframes, user flows, prototypes, and high-fidelity UI designs
-* Design dashboards, SaaS interfaces, and component-based layouts
-* Work closely with Product & Engineering teams throughout the product lifecycle
-* Develop and maintain a scalable Design System
-* Present design concepts and rationale to stakeholders
-* Gather user feedback & data to iterate on designs
-* Ensure responsiveness, accessibility, and UI consistency across all devices
-* Stay updated with modern SaaS UX trends, Figma standards, and interaction patterns
-
-**Who Can Apply?**
-
-* Proven experience (2+ years) leading a design team within a tech-driven or SaaS company.
-* Proficiency in Figma (Auto layout, components, prototyping, design systems)
-* Experience designing dashboards, workflow tools, or SaaS interfaces
-* Deep understanding of typography, layout, color theory, interaction design, and design systems.
-* Knowledge of responsive design
-* Familiarity with Web/App constraints (basic HTML/CSS understanding preferred)
-* Bonus: Familiarity with no-code platforms, LMS interfaces, AI/ML design concepts, or EdTech platforms.
-* Attention to detail and passion for clean, modern UI
-
-**What We Offer:**
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSdSIFejzzJo2q4pnmn1HD3jFnfmwjVagmeLojPPlW4JwmU5Jw/viewform)
-## 🛠️ Tech Stack
-
-`Figma` `UI/UX` `SaaS` `HTML/CSS` `Design Systems` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Video Presenter & Content Host</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-Appifylab Is Hiring Video Presenter & Content Host
-
-We’re looking for a confident, camera-friendly Video Presenter & Content Host to become the face of EzyCourse — someone who can explain complex ideas clearly, speak fluent English, and present in a smart, engaging, and professional manner.
-
-* Onsite (Sylhet)
-* 01 Vacancies
-* Full Time
-* At least 1.5 years Experience
-
-**Company Description:**
-
-At Appifylab, we're building the next generation of SaaS products powering the creator economy, ed-tech, and digital entrepreneurship. With platforms like EzyCourse, EzyStudio, and more in the pipeline, we are on a mission to simplify how people build, sell, and scale online.
-
-**What You'll Do:**
-
-* Be the on-screen face of EzyCourse in video content
-* Host on-camera video segments for property showcases and company updates
-* Work with the content team to script and plan video shoots
-* **Ability to create technical “how-to”** videos that clearly explain product features
-* **Ability to write scripts** for video ads, shorts, reels, and guide the video editor
-* Engage the audience with a confident, clear, and relatable presence
-* Represent the brand voice and professionalism in all video content
-
-**Who Can Apply?**
-
-* Excellent spoken and written English (neutral/clear accent preferred)
-* Strong on-camera presence with a confident and engaging style
-* Comfortable explaining digital products or software
-* Good understanding of online platforms like YouTube, Facebook, Instagram, etc.
-* Previous experience in video presentation, media, or content creation is a big bonus
-
-**What We Offer:**
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`Video Editing` `Content Creation` `Script Writing` `YouTube` `Instagram` `Facebook` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Sr. Executive - Human Resource (HR)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet, Bangladesh |
-| **Role** | Sr. Executive |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-We are looking for a proactive and organized ****Executive, Human Resource**** to join our growing team at ****Appifylab****. This role is essential for supporting the people operations behind our dynamic SaaS LMS platform, ****EzyCourse****.
-
-As an ****Executive, Human Resource,**** you will play a key role in ensuring the smooth day-to-day operations of HR activities. You will assist in managing recruitment processes, employee engagement, documentation, attendance, office logistics, and supporting various teams with their administrative needs.
-
-*   Onsite (Sylhet)*   02 Vacancies*   Full Time*   Freshers are encouraged to apply
-
-****Company Description:****
-
-At AppifyLab, we don’t just develop software; we empower the future of digital transformation. Our flagship product, EzyCourse, is a comprehensive online course platform that enables creators worldwide to launch, grow, and expand their businesses effortlessly. From innovative SaaS solutions to robust enterprise tools and automation, our mission is to make advanced business practices accessible and scalable for everyone. 
-
-****What You'll Do:****
-
-*   Coordinate tasks related to onboarding (complete recruitment, checklist for joining, sharing all HR policies with the new employee, etc.).
-*   Prepare the job description for new positions and obtain approval from the concerned authority.
-*   Assist line managers in measuring employee performance to ensure the development and retention of key talent.
-*   Oversee the employee separation process, including the final settlement.
-*   Prepare policies and standard operating procedures (SOPS) as required.
-*   Ensure effective resolution of employee queries and grievances.
-*   Maintain and update employee personal files, ensuring that all relevant documents and databases are accurate, up-to-date, and compliant with legislation.
-*   Update attendance and leave records for all employees in the designated system on a monthly basis, and follow up with employees to ensure timely updates.
-*   Prepare periodic management information system (MIS) reports to help the company make informed decisions about workforce and cost optimization.
-*   Engage in employee welfare activities, including sports, events, and CSR initiatives.
-*   Perform any other tasks assigned by the management.
-
-****Who Can Apply?****
-
-*   Bachelor’s degree in HR Management, Business Administration, or a related field.
-*   Strong knowledge of Bangladesh Labour Laws and labour regulations internationally.
-*   Proficiency in HR software and MS Office tools.
-*   Excellent English communication skills; knowledge of additional languages is a plus.
-*   A mature, accountable, and professional individual who can adapt to organizational needs.
-*   Demonstrated ability to prioritize tasks, work under pressure, and take responsibility without providing excuses.
-
-****What We Offer:****
-
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-****Other Perks:****
-
-*   Separate female room for extra privacy
-*   Two weekly holidays
-*   Fully subsidized lunch
-*   Unlimited tea and coffee to recharge your day
-*   Separate prayer rooms for male and female members
-
-****Working hours:****
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`HR Management` `Human Resources` `MS Office` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Full Stack Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Role** | Senior |
-| **Vacancies** | 3 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-Appifylab is an innovative software company best known for its flagship product, EzyCourse, a premier no-code SaaS LMS platform. We are searching for a qualified Senior Full-Stack Developer to help create EzyCourse's future.
-
-**Company Description:**
-
-At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
-
-**What You'll Do:**
-
-* Build and maintain scalable front-end applications using React.js
-* Develop robust backend services using Node.js (or Laravel if you’re from a PHP background)
-* Design and optimize SQL & NoSQL databases (MySQL, PostgreSQL, MongoDB, etc.)
-* Architect reliable, event-driven systems using AWS services such as Lambda, SQS, EventBridge, CloudWatch, etc.
-* Collaborate closely with UI/UX, product, and infrastructure teams to deliver high-quality releases
-* Review code, guide junior developers, and uphold clean code standards
-* Participate in system design and technical planning discussions
-
-**Who Can Apply?**
-
-* 4+ years of hands-on experience building production-grade web applications
-* Strong understanding of JavaScript/TypeScript, React.
-* Experience with Node.js or Laravel in real-world projects
-* Solid grasp of database design, query optimization, and caching strategies
-* Good understanding of system design principles and AWS infrastructure
-* Excellent problem-solving, debugging, and leadership skills
-* Passionate about writing clean, maintainable, and scalable code
-
-**Perks & Benefits:**
-
-* Fully free meals & unlimited coffee
-* Yearly salary review based on performance
-* Relocation & rental support for those moving to Sylhet
-* Opportunity to work with cutting-edge AWS infrastructure
-* Paid leaves, festival holidays, etc.
-* Work with a passionate engineering team building global-scale products
-
-**What We Offer:**
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you meet our requirements, we would love to hear from you.
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`React.js` `Node.js` `Laravel` `PHP` `MySQL` `PostgreSQL` `MongoDB` `AWS` `JavaScript` `TypeScript` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Mid-Level Flutter Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 50K |
-| **Location** | Modina Market, Sylhet |
-| **Role** | Mid-Level |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-We are looking for a talented 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐌𝐢𝐝-𝐋𝐞𝐯𝐞𝐥) to join our growing team!
-
-In this role, you’ll be responsible for building beautiful, high-performance mobile applications using Flutter. You should have a strong understanding of Dart, UI design principles, and mobile app architecture. If you’re passionate about crafting smooth, scalable apps and ready to make an impact — we want to hear from you!
-
-* Onsite (Sylhet)* 05 Vacancies* Full Time* 02 Years Experience
-
-**Company Description:**
-
-At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
-
-**What You'll Do:**
-
-* Assist in the development of new features under the guidance of senior developers
-* Work closely with the development team to ensure seamless collaboration
-* Participate in code reviews and adhere to standard coding practices
-* Identify, troubleshoot, and debug issues in existing mobile applications
-* Write clean, maintainable, and efficient code
-* Collaborate with cross-functional teams to define, design, and ship new features
-
-**Who Can Apply?**
-
-* 2 years of professional experience in Mobile Application Development with Flutter
-* Good understanding of any native development language (Java/Kotlin or Objective-C/Swift)
-* Familiarity with development architecture (MVC, MVVM, Clean Architecture, etc.) and state management systems (Riverpod, Provider, Bloc, etc.)
-* Understanding of RESTful APIs and their integration with Flutter applications
-* Knowledge of version control tools such as Git
-* Strong problem-solving skills and a willingness to learn
-* Ability to work effectively in a team environment
-* Strong communication skills and a proactive attitude to seek guidance when needed
-
-**What We Offer:**
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`Flutter` `Dart` `Java` `Kotlin` `Objective-C` `Swift` `MVC` `MVVM` `Clean Architecture` `Riverpod` `Provider` `Bloc` `RESTful APIs` `Git` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Inbound Sales & Product Demo Executive (SaaS)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Inbound Sales & Product Demo Executive (SaaS)
-
-Are you a **confident communicator** with a passion for technology, sales, and growth? Do you enjoy engaging with people, delivering impactful presentations, and helping global clients succeed with innovative digital products? If yes, this opportunity is for you! 
-
-We are looking for a high-energy, performance-driven professional to join our **Growth & Demo Team** and play a key role in converting high-intent inbound leads into long-term customers. 
-
-* Onsite (Sylhet)* 5 Vacancies* Full Time* Experience and fresher
-
-**Company Description:**
-
-At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
-
-**What You'll Do:**
-
-* Engage inbound website visitors through live chat, email, and scheduled meetings
-* Qualify leads generated from global marketing campaigns
-* Deliver compelling, customized product demonstrations to prospective clients
-* Guide trial users through onboarding and drive subscription conversions
-* Position product value confidently against competitors
-* Conduct competitor research and industry feature analysis
-* Maintain accurate CRM records and track lead pipelines
-* Follow up consistently to maximize conversion rates
-* Collaborate closely with marketing, product, and support teams
-* Contribute directly to monthly revenue and growth targets
-* Prepare structured reports on demo performance and conversion metrics
-
-**Who Can Apply?**
-
-* Bachelor of Business Administration (BBA) (Major in Marketing, Management, or Finance is most relevant), Other Relevant Degrees (B.Sc in CSE)
-* Excellent communication skills in English, both written and verbal.
-* Proven ability to create presentations and conduct product demonstrations.
-* Strong understanding of consultative selling and B2B communication.
-* Self-starter mentality with the ability to take ownership of the entire sales cycle.
-* A team player who thrives in a fast-paced startup environment.
-
-**What We Offer:**
-
-* Competitive salary offered
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you meet our requirements, we would love to hear from you.
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-## 🛠️ Tech Stack
-
-`SaaS` `Sales` `B2B` `CRM` `Marketing` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Content Writer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 25K |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 15 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Content Writer
-
-We are looking for talented ****content writers**** who can craft compelling, audience-focused content that communicates our value, engages users, and strengthens our brand across platforms.
-
-* Onsite (Sylhet)* 15+ Vacancies* Full Time* Both Experienced & Fresher Can Apply
-
-****Company Description:****
-
-Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our suite of products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive, enables users to create, manage, and scale online courses, communities, website, and live events seamlessly. With a strong emphasis on innovation, user experience, and growth, Appifylab helps creators turn their ideas into thriving online businesses.
-
-****What You'll Do:****
-
-* Create well-researched and keyword-driven content to boost organic traffic
-* Brainstorm new content strategies and ideas
-* Write effective blogs following SEO best practices & Google ranking factors
-* Write user-friendly documentation that guides readers about new features
-* Produce engaging & creative content for our social media platforms
-* Work closely with our Content & Marketing Team to create and update content
-* Collaborate with our Design Team to develop engaging content
-
-****What We Offer:****
-
-* Salary review at least once a year based on performance
-* Opportunity to work on fast-growing products used globally
-* Collaborative culture with talented, friendly teammates
-* Regular performance reviews with constructive feedback
-* Paid leaves, festival holidays, etc.
-
-****Other Perks:****
-
-* Separate female room for extra privacy
-* Two weekly holidays
-* Fully subsidized lunch
-* Unlimited tea and coffee to recharge your day
-* Separate prayer rooms for male and female members
-
-****Working hours:****
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-Additional Notes:
-
-If you think you meet our requirements then we would love to hear from you.
-
-Are you Ready?
-
-Job Overview
-
-* ****Job Title****Content Writer* ****Job Type****Full Time* ****Vacancies****15+* ****Salary****25-60k* ****Category****Content Writer* ****Experience****Both Experienced & Fresher Can Apply* ****Degree****Skill is first priority* ****Gender****Both* ****Location****Modina Market, Sylhet
-
-* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
-* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
-## 🛠️ Tech Stack
-
-`SEO` `Content Writing` `Blogging` `Social Media` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Appifylab Is Hiring Customer Success Manager</strong> </summary>
@@ -1440,6 +489,8 @@ Job Overview
 | **Salary** | 30K - 50K |
 | **Location** | Dhaka & Sylhet |
 | **Vacancies** | 5 |
+
+**🛠️ Tags**: `Customer Success` `SaaS` `Account Management` `CRM` 
 
 ## 📝 [Description](https://www.appifylab.com/career)
 
@@ -1503,203 +554,8 @@ Working days:
 
 5 days in a week
 
-* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
-## 🛠️ Tech Stack
-
-`Customer Success` `SaaS` `Account Management` `CRM` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Product Development Executive</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Product Development Executive
-
-We are looking for a **Product Development Executive** who will help improve our products by combining user insights, product research, growth ideas, and feature analysis.
-
-This role bridges the gap between product development, growth strategy, and user experience, ensuring our platform continues to evolve based on real user needs.
-
-You will work closely with product managers, developers, and growth teams to enhance features, improve user experience, and support product innovation.
-
-*   Onsite (Sylhet)
-*   5 Vacancies
-*   Full Time
-*   Experience and fresher
-
-**Company Description:**
-
-Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our suite of products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive—enables users to create, manage, and scale online courses, communities, websites, and live events seamlessly.
-
-With a strong emphasis on innovation, user experience, and growth, we help creators turn their ideas into successful online businesses used by customers worldwide.
-
-**Key Responsibilities**
-
-*   Conduct product research and competitor analysis to identify opportunities.
-*   Analyze user feedback and behavior to improve product features.
-*   Collaborate with product, development, and growth teams.
-*   Assist in planning and validating new features.
-*   Monitor feature adoption and product performance.
-*   Help improve user onboarding and product usability.
-*   Participate in product discussions and internal reviews.
-*   Document product ideas, feature improvements, and user insights.
-
-**Requirements**
-
-*   Bachelor’s degree in CSE, Business, Marketing, or related fields.
-*   1+ year of experience in product, growth, research, or related roles.
-*   Fresh graduates with strong analytical and communication skills are encouraged to apply.
-*   Strong problem-solving and analytical mindset.
-*   Good communication and teamwork skills.
-*   Interest in SaaS products, technology, and digital platforms.
-*   Preferred Skills (Plus Points)
-*   Knowledge of SaaS products or digital platforms.
-*   Familiarity with product analytics tools (Google Analytics, Mixpanel, etc.).
-*   Understanding of product lifecycle and feature development.
-*   Experience in product research, UX insights, or growth analysis.
-
-**Workspace & Culture**
-
-*   Onsite position
-*   Male and Female candidates are encouraged to apply
-*   Collaborative and innovative work environment
-*   Opportunity to work with a global SaaS product ecosystem
-
-**What We Offer:**
-
-*   Competitive salary offered
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-*   Two weekly holidays
-*   Yearly salary review
-*   Lunch facilities + unlimited tea/coffee
-*   Separate prayer rooms
-*   Friendly contests & gifts
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
-* 🌐 [Apply on Website](https://forms.gle/ue8CywkyPPZ6axTe8)
-## 🛠️ Tech Stack
-
-`Product Management` `Product Research` `Google Analytics` `Mixpanel` `UX Insights` `Growth Analysis` `SaaS` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Content & Product Marketing Strategist</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Modina Market, Sylhet |
-| **Vacancies** | 5 |
-
-## 📝 [Description](https://www.appifylab.com/career)
-
-# Appifylab Is Hiring Content & Product Marketing Strategist
-
-Are you a **confident communicator** with a passion for technology, sales, and growth? Do you enjoy engaging with people, delivering impactful presentations, and helping global clients succeed with innovative digital products? If yes, this opportunity is for you! 
-
-We are looking for a high-energy, performance-driven professional to join our **Content & Product Marketing Team** and play a key role in converting high-intent inbound leads into long-term customers. 
-
-*   Onsite (Sylhet)
-*   5 Vacancies
-*   Full Time
-*   Experience and fresher
-
-**Company Description:**
-
-Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive—enable users to create, manage, and scale online courses, communities, websites, and live events seamlessly.
-
-With a strong focus on innovation, user experience, and growth, Appifylab helps creators turn their ideas into thriving online businesses.
-
-**What You'll Do:**
-
- ➡️ 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
-
-*   Produce SEO-optimized blogs and product education articles
-*   Develop clear and concise content explaining product features
-*   Create product comparison guides and landing page copy
-
- ➡️ 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
-
-*   Translate complex product features into user-friendly content
-*   Communicate the value of our tools to creators and businesses
-*   Prepare product updates and announcements in an engaging and accessible way
-
-➡️ 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑮𝒓𝒐𝒘𝒕𝒉 & 𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏
-
-*   Conduct research to understand user intent and market trends
-*   Optimize content for search engines and AI-driven discovery
-*   Contribute to content strategies that drive engagement and conversions
-
-**Who We're Looking For?**
-
-*   Have a passion for writing and clear communication
-*   Enjoy researching and learning new topics
-*   Are curious about SaaS products and digital tools
-*   Can simplify complex concepts for a broad audience
-*   Want to build a career in content or product marketing
-
-**Who Can Apply?**
-
-*   Fresh graduates
-*   Writers or marketers with 0–3 years of experience
-*   Self-taught content creators
-
-**What We Offer:**
-
-*   Competitive salary offered
-*   Salary review at least once a year based on performance
-*   Opportunity to work on fast-growing products used globally
-*   Collaborative culture with talented, friendly teammates
-*   Regular performance reviews with constructive feedback
-*   Paid leaves, festival holidays, etc.
-
-**Other Perks:**
-
-*   Two weekly holidays
-*   Yearly salary review
-*   Lunch facilities + unlimited tea/coffee
-*   Separate prayer rooms
-*   Friendly contests & gifts
-
-**Working hours:**
-
-10 AM - 7 PM with an hour break
-
-Working days:
-
-5 days in a week
-
 * 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
-## 🛠️ Tech Stack
-
-`SEO` `Content Marketing` `Product Marketing` `SaaS` 
-
 ---
 
 </details>
@@ -1714,6 +570,8 @@ Working days:
 | **Location** | Dhaka and Sylhet, Bangladesh |
 | **Role** | GTM Engineer Intern |
 | **Vacancies** | 5 |
+
+**🛠️ Tags**: `AI` `SaaS` `SEO` `CRM` `Marketing` `Sales Development` `Customer Success` 
 
 ## 📝 [Description](https://www.appifylab.com/career)
 
@@ -1806,11 +664,1129 @@ Working days:
 
 6 days in a week
 
+---
 * 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
-## 🛠️ Tech Stack
+---
 
-`AI` `SaaS` `SEO` `CRM` `Marketing` `Sales Development` `Customer Success` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Appifylab Is Hiring Senior React Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Role** | Senior |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `ReactJS` `JavaScript` `HTML5` `CSS` `LESS` `SCSS` `PostCSS` `GIT` `Redux` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+Appifylab is hiring a passionate and skilled Senior React Developer to join our dynamic team. This role involves building sleek, efficient, and user-friendly interfaces for our web and mobile applications. You'll be contributing to modern, scalable solutions while collaborating closely with our design and backend teams.
+
+**Company Description:**
+
+At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
+
+**What You'll Do:**
+
+* Address critical issues with hands-on coding and efficient problem-solving
+* Improve product quality with code reviews, unit testing, and collaboration with QA on automation
+* Mentor junior developers and contribute to team growth
+* Lead front-end development, manage sprints, and translate business requirements into actionable tasks
+
+**Who Can Apply?**
+
+* Bachelor’s degree in Computer Science or a related field
+* 5+ years of experience in software engineering with a focus on front-end development
+* 4+ years of experience working with ReactJS
+* Proficient in JavaScript, HTML5, CSS, LESS/SCSS/PostCSS, GIT, and state management libraries like Redux
+* Familiarity with Progressive Web Apps and modern web development techniques
+
+**What We Offer:**
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Content & Product Marketing Strategist</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `SEO` `Content Marketing` `Product Marketing` `SaaS` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Content & Product Marketing Strategist
+
+Are you a **confident communicator** with a passion for technology, sales, and growth? Do you enjoy engaging with people, delivering impactful presentations, and helping global clients succeed with innovative digital products? If yes, this opportunity is for you! 
+
+We are looking for a high-energy, performance-driven professional to join our **Content & Product Marketing Team** and play a key role in converting high-intent inbound leads into long-term customers. 
+
+*   Onsite (Sylhet)
+*   5 Vacancies
+*   Full Time
+*   Experience and fresher
+
+**Company Description:**
+
+Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive—enable users to create, manage, and scale online courses, communities, websites, and live events seamlessly.
+
+With a strong focus on innovation, user experience, and growth, Appifylab helps creators turn their ideas into thriving online businesses.
+
+**What You'll Do:**
+
+ ➡️ 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
+
+*   Produce SEO-optimized blogs and product education articles
+*   Develop clear and concise content explaining product features
+*   Create product comparison guides and landing page copy
+
+ ➡️ 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 𝑺𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈
+
+*   Translate complex product features into user-friendly content
+*   Communicate the value of our tools to creators and businesses
+*   Prepare product updates and announcements in an engaging and accessible way
+
+➡️ 𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝑮𝒓𝒐𝒘𝒕𝒉 & 𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏
+
+*   Conduct research to understand user intent and market trends
+*   Optimize content for search engines and AI-driven discovery
+*   Contribute to content strategies that drive engagement and conversions
+
+**Who We're Looking For?**
+
+*   Have a passion for writing and clear communication
+*   Enjoy researching and learning new topics
+*   Are curious about SaaS products and digital tools
+*   Can simplify complex concepts for a broad audience
+*   Want to build a career in content or product marketing
+
+**Who Can Apply?**
+
+*   Fresh graduates
+*   Writers or marketers with 0–3 years of experience
+*   Self-taught content creators
+
+**What We Offer:**
+
+*   Competitive salary offered
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+*   Two weekly holidays
+*   Yearly salary review
+*   Lunch facilities + unlimited tea/coffee
+*   Separate prayer rooms
+*   Friendly contests & gifts
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://forms.gle/A1Q6USDx8Kfph4PS6)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Content Writer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 25K |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 15 |
+
+**🛠️ Tags**: `SEO` `Content Writing` `Blogging` `Social Media` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Content Writer
+
+We are looking for talented ****content writers**** who can craft compelling, audience-focused content that communicates our value, engages users, and strengthens our brand across platforms.
+
+* Onsite (Sylhet)* 15+ Vacancies* Full Time* Both Experienced & Fresher Can Apply
+
+****Company Description:****
+
+Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our suite of products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive, enables users to create, manage, and scale online courses, communities, website, and live events seamlessly. With a strong emphasis on innovation, user experience, and growth, Appifylab helps creators turn their ideas into thriving online businesses.
+
+****What You'll Do:****
+
+* Create well-researched and keyword-driven content to boost organic traffic
+* Brainstorm new content strategies and ideas
+* Write effective blogs following SEO best practices & Google ranking factors
+* Write user-friendly documentation that guides readers about new features
+* Produce engaging & creative content for our social media platforms
+* Work closely with our Content & Marketing Team to create and update content
+* Collaborate with our Design Team to develop engaging content
+
+****What We Offer:****
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+****Other Perks:****
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+****Working hours:****
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you think you meet our requirements then we would love to hear from you.
+
+Are you Ready?
+
+Job Overview
+
+* ****Job Title****Content Writer* ****Job Type****Full Time* ****Vacancies****15+* ****Salary****25-60k* ****Category****Content Writer* ****Experience****Both Experienced & Fresher Can Apply* ****Degree****Skill is first priority* ****Gender****Both* ****Location****Modina Market, Sylhet
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `Digital Marketing` `SEO` `Email Marketing` `Lead Generation` `Social Media Marketing` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Digital Marketing
+
+We are looking for a dedicated and results-oriented Digital Marketing Executive to help us improve our online presence and promote EzyCourse, a growing no-code Software as a Service (SaaS) platform
+
+*   Onsite (Sylhet)
+*   03 Vacancies
+*   Full Time
+*   Both Experienced & Fresher Can Apply
+
+**Company Description:**
+
+Appifylab is a growing software company based in Sylhet, Bangladesh. We focus on building SaaS products, like EzyCourse, that help entrepreneurs around the world to launch successful online businesses. Behind our success is a talented team of software engineers, marketers, QA specialists, and customer support professionals; all working to create something awesome – together.
+
+**What You'll Do:**
+
+*   Conducting keyword research and optimizing website content.
+*   Analyzing web traffic and user behavior to identify growth opportunities.
+*   Staying updated with industry trends and algorithm updates to ensure the latest best practices.
+*   Collaborating with the content team to create SEO-friendly content.
+*   Creating email marketing campaigns, compelling written content, and effective outreach content.
+*   Collaborating with cross-functional teams to achieve marketing objectives.
+*   Contributing in lead generation, social media marketing, and outreach strategies to drive engagement and attract potential clients.
+
+**Who Can Apply?**
+
+*   Minimum 1 year experience required.
+*   Graduates from any renowned university
+*   Proficient in English (reading & writing)
+*   Familiarity with web browsing and social media platforms.
+*   A proactive attitude and eagerness to learn.
+
+**What We Offer:**
+
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+*   Separate female room for extra privacy
+*   Two weekly holidays
+*   Fully subsidized lunch
+*   Unlimited tea and coffee to recharge your day
+*   Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you think you meet our requirements then we would love to hear from you.
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Inbound Sales & Product Demo Executive (SaaS)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `SaaS` `Sales` `B2B` `CRM` `Marketing` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Inbound Sales & Product Demo Executive (SaaS)
+
+Are you a **confident communicator** with a passion for technology, sales, and growth? Do you enjoy engaging with people, delivering impactful presentations, and helping global clients succeed with innovative digital products? If yes, this opportunity is for you! 
+
+We are looking for a high-energy, performance-driven professional to join our **Growth & Demo Team** and play a key role in converting high-intent inbound leads into long-term customers. 
+
+* Onsite (Sylhet)* 5 Vacancies* Full Time* Experience and fresher
+
+**Company Description:**
+
+At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
+
+**What You'll Do:**
+
+* Engage inbound website visitors through live chat, email, and scheduled meetings
+* Qualify leads generated from global marketing campaigns
+* Deliver compelling, customized product demonstrations to prospective clients
+* Guide trial users through onboarding and drive subscription conversions
+* Position product value confidently against competitors
+* Conduct competitor research and industry feature analysis
+* Maintain accurate CRM records and track lead pipelines
+* Follow up consistently to maximize conversion rates
+* Collaborate closely with marketing, product, and support teams
+* Contribute directly to monthly revenue and growth targets
+* Prepare structured reports on demo performance and conversion metrics
+
+**Who Can Apply?**
+
+* Bachelor of Business Administration (BBA) (Major in Marketing, Management, or Finance is most relevant), Other Relevant Degrees (B.Sc in CSE)
+* Excellent communication skills in English, both written and verbal.
+* Proven ability to create presentations and conduct product demonstrations.
+* Strong understanding of consultative selling and B2B communication.
+* Self-starter mentality with the ability to take ownership of the entire sales cycle.
+* A team player who thrives in a fast-paced startup environment.
+
+**What We Offer:**
+
+* Competitive salary offered
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you meet our requirements, we would love to hear from you.
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Mid-Level Flutter Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K |
+| **Location** | Modina Market, Sylhet |
+| **Role** | Mid-Level |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `Flutter` `Dart` `Java` `Kotlin` `Objective-C` `Swift` `MVC` `MVVM` `Clean Architecture` `Riverpod` `Provider` `Bloc` `RESTful APIs` `Git` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+We are looking for a talented 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐌𝐢𝐝-𝐋𝐞𝐯𝐞𝐥) to join our growing team!
+
+In this role, you’ll be responsible for building beautiful, high-performance mobile applications using Flutter. You should have a strong understanding of Dart, UI design principles, and mobile app architecture. If you’re passionate about crafting smooth, scalable apps and ready to make an impact — we want to hear from you!
+
+* Onsite (Sylhet)* 05 Vacancies* Full Time* 02 Years Experience
+
+**Company Description:**
+
+At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
+
+**What You'll Do:**
+
+* Assist in the development of new features under the guidance of senior developers
+* Work closely with the development team to ensure seamless collaboration
+* Participate in code reviews and adhere to standard coding practices
+* Identify, troubleshoot, and debug issues in existing mobile applications
+* Write clean, maintainable, and efficient code
+* Collaborate with cross-functional teams to define, design, and ship new features
+
+**Who Can Apply?**
+
+* 2 years of professional experience in Mobile Application Development with Flutter
+* Good understanding of any native development language (Java/Kotlin or Objective-C/Swift)
+* Familiarity with development architecture (MVC, MVVM, Clean Architecture, etc.) and state management systems (Riverpod, Provider, Bloc, etc.)
+* Understanding of RESTful APIs and their integration with Flutter applications
+* Knowledge of version control tools such as Git
+* Strong problem-solving skills and a willingness to learn
+* Ability to work effectively in a team environment
+* Strong communication skills and a proactive attitude to seek guidance when needed
+
+**What We Offer:**
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Product Development Executive</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `Product Management` `Product Research` `Google Analytics` `Mixpanel` `UX Insights` `Growth Analysis` `SaaS` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Product Development Executive
+
+We are looking for a **Product Development Executive** who will help improve our products by combining user insights, product research, growth ideas, and feature analysis.
+
+This role bridges the gap between product development, growth strategy, and user experience, ensuring our platform continues to evolve based on real user needs.
+
+You will work closely with product managers, developers, and growth teams to enhance features, improve user experience, and support product innovation.
+
+*   Onsite (Sylhet)
+*   5 Vacancies
+*   Full Time
+*   Experience and fresher
+
+**Company Description:**
+
+Appifylab is a fast-growing SaaS company focused on empowering creators, educators, and businesses with cutting-edge digital solutions. Our suite of products—EzyCourse, EzyCommunity, EzyStudio, and EzyLive—enables users to create, manage, and scale online courses, communities, websites, and live events seamlessly.
+
+With a strong emphasis on innovation, user experience, and growth, we help creators turn their ideas into successful online businesses used by customers worldwide.
+
+**Key Responsibilities**
+
+*   Conduct product research and competitor analysis to identify opportunities.
+*   Analyze user feedback and behavior to improve product features.
+*   Collaborate with product, development, and growth teams.
+*   Assist in planning and validating new features.
+*   Monitor feature adoption and product performance.
+*   Help improve user onboarding and product usability.
+*   Participate in product discussions and internal reviews.
+*   Document product ideas, feature improvements, and user insights.
+
+**Requirements**
+
+*   Bachelor’s degree in CSE, Business, Marketing, or related fields.
+*   1+ year of experience in product, growth, research, or related roles.
+*   Fresh graduates with strong analytical and communication skills are encouraged to apply.
+*   Strong problem-solving and analytical mindset.
+*   Good communication and teamwork skills.
+*   Interest in SaaS products, technology, and digital platforms.
+*   Preferred Skills (Plus Points)
+*   Knowledge of SaaS products or digital platforms.
+*   Familiarity with product analytics tools (Google Analytics, Mixpanel, etc.).
+*   Understanding of product lifecycle and feature development.
+*   Experience in product research, UX insights, or growth analysis.
+
+**Workspace & Culture**
+
+*   Onsite position
+*   Male and Female candidates are encouraged to apply
+*   Collaborative and innovative work environment
+*   Opportunity to work with a global SaaS product ecosystem
+
+**What We Offer:**
+
+*   Competitive salary offered
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+*   Two weekly holidays
+*   Yearly salary review
+*   Lunch facilities + unlimited tea/coffee
+*   Separate prayer rooms
+*   Friendly contests & gifts
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://forms.gle/ue8CywkyPPZ6axTe8)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Flutter Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Role** | Senior |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `Flutter` `Dart` `Riverpod` `Bloc/Cubit` `Clean Architecture` `RESTful APIs` `JSON` `Git` `Java` `Kotlin` `Swift` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Senior Flutter Developer
+
+We are looking for skilled and collaborative 𝐒𝐞𝐧𝐢𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 to join our dynamic team. As a Senior Flutter Developer, you will maintain our existing mobile application(EzyCourse), identify and fix bugs, and add new features to enhance its functionality. Additionally, you will play a crucial role in improving the codebase and overall software quality, ensuring that our app remains efficient and up to date.
+
+*   Onsite (Sylhet)
+*   03 Vacancies
+*   Full Time
+*   04 Years Experience
+
+#### Company Description:
+
+EzyCourse is a no-code SaaS platform for online entrepreneurs, business owners, course creators, teachers, and others to build LMS websites without any code. EzyCourse allows creators to build and sell anything online.
+
+#### What You'll Do:
+
+*   Create user flows, wireframes, prototypes, and high-fidelity designs independently.
+*   Collaborate closely with other teams to translate requirements into technical specifications and actionable plans.
+*   Mentor and guide junior developers, providing technical expertise, code reviews, and constructive feedback to foster their growth and development.
+*   Troubleshoot and provide support for existing mobile apps. Write clean, efficient, and scalable code following coding standards and best practices.
+*   Contribute to continuous improvement of the code, maintaining high-quality applications.
+*   Collaborate with cross-functional teams to improve design, develop new features, troubleshoot, and debug issues to ensure optimal performance and user experience.
+
+#### Who Can Apply?
+
+*   Experience: Minimum 4+ years overall, including at least 3 years of hands-on experience in Flutter. The remaining experience may come from related technologies such as Java, Kotlin, or Swift.
+*   Strong understanding of the Flutter framework and the Dart programming language.
+*   Experience with state management (e.g., Riverpod, Bloc/Cubit) will be considered a strong advantage.
+*   Experience working with Clean Architecture or similar scalable architectural patterns (highly prioritized).
+*   Solid knowledge of RESTful APIs, JSON handling, and integrating third-party libraries and packages.
+*   Familiarity with Git and modern version control workflows.
+*   Strong problem-solving skills, debugging abilities, and high attention to detail.
+*   Ability to work collaboratively in a team-oriented, fast-paced environment
+
+#### What We Offer:
+
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+#### Other Perks:
+
+*   Separate female room for extra privacy
+*   Two weekly holidays
+*   Fully subsidized lunch
+*   Unlimited tea and coffee to recharge your day
+*   Separate prayer rooms for male and female members
+
+#### Working hours:
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://forms.gle/zfoJket218hwfYBm7)
+* 📧 [Send Resume via Email](mailto:hr.appifylab@gmail.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Full Stack Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Role** | Senior |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `React.js` `Node.js` `Laravel` `PHP` `MySQL` `PostgreSQL` `MongoDB` `AWS` `JavaScript` `TypeScript` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+Appifylab is an innovative software company best known for its flagship product, EzyCourse, a premier no-code SaaS LMS platform. We are searching for a qualified Senior Full-Stack Developer to help create EzyCourse's future.
+
+**Company Description:**
+
+At Appifylab, we build EzyCourse, a no-code platform empowering online entrepreneurs, business owners, course creators, and teachers to create and sell courses or products online. EzyCourse enables users to build custom LMS websites with no coding experience
+
+**What You'll Do:**
+
+* Build and maintain scalable front-end applications using React.js
+* Develop robust backend services using Node.js (or Laravel if you’re from a PHP background)
+* Design and optimize SQL & NoSQL databases (MySQL, PostgreSQL, MongoDB, etc.)
+* Architect reliable, event-driven systems using AWS services such as Lambda, SQS, EventBridge, CloudWatch, etc.
+* Collaborate closely with UI/UX, product, and infrastructure teams to deliver high-quality releases
+* Review code, guide junior developers, and uphold clean code standards
+* Participate in system design and technical planning discussions
+
+**Who Can Apply?**
+
+* 4+ years of hands-on experience building production-grade web applications
+* Strong understanding of JavaScript/TypeScript, React.
+* Experience with Node.js or Laravel in real-world projects
+* Solid grasp of database design, query optimization, and caching strategies
+* Good understanding of system design principles and AWS infrastructure
+* Excellent problem-solving, debugging, and leadership skills
+* Passionate about writing clean, maintainable, and scalable code
+
+**Perks & Benefits:**
+
+* Fully free meals & unlimited coffee
+* Yearly salary review based on performance
+* Relocation & rental support for those moving to Sylhet
+* Opportunity to work with cutting-edge AWS infrastructure
+* Paid leaves, festival holidays, etc.
+* Work with a passionate engineering team building global-scale products
+
+**What We Offer:**
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you meet our requirements, we would love to hear from you.
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior SQA Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Role** | Senior |
+| **Vacancies** | 4 |
+
+**🛠️ Tags**: `Manual Testing` `Automation Testing` `API Testing` `SDLC` `SQA` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+**Company Description:**
+
+**Appifylab** is a software development company offering services to clients across the world with innovative SaaS platforms such as **EzyCourse**. We are now seeking two professional SQA Team Leaders with proven experience in the field. The ideal candidate will be responsible for ensuring software quality, bug identification, and leading our QA team.
+
+**What You'll Do:**
+
+* Collaborate closely with developers to ensure quality is integrated in features.
+* Create test cases based on system requirements.
+* Identify & record bugs in clear documentation.
+* Use manual & automation testing strategies.
+* Assign & oversee the work of other QA team members.
+* Perform thorough tests on both web and mobile application.
+* Resolve client-reported issues working alongside developers.
+* Improve the overall system performance and assure product quality.
+
+**Who Can Apply?**
+
+* 3+ years of manual testing experience.
+* Strong knowledge of SDLC, API testing, and bug tracking tools.
+* Strong attention to detail.
+* Good communication and teamwork.
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Yearly salary review.
+* Opportunity to work with a cutting-edge SaaS LMS platform
+* A collaborative and supportive work environment with a focus on continuous learning and development
+* Fully subsidized lunch, along with coffee and tea.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you think you meet our requirements then we would love to hear from you
+
+Are you Ready?
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Sr. Executive - Human Resource (HR)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet, Bangladesh |
+| **Role** | Sr. Executive |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `HR Management` `Human Resources` `MS Office` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+We are looking for a proactive and organized ****Executive, Human Resource**** to join our growing team at ****Appifylab****. This role is essential for supporting the people operations behind our dynamic SaaS LMS platform, ****EzyCourse****.
+
+As an ****Executive, Human Resource,**** you will play a key role in ensuring the smooth day-to-day operations of HR activities. You will assist in managing recruitment processes, employee engagement, documentation, attendance, office logistics, and supporting various teams with their administrative needs.
+
+*   Onsite (Sylhet)*   02 Vacancies*   Full Time*   Freshers are encouraged to apply
+
+****Company Description:****
+
+At AppifyLab, we don’t just develop software; we empower the future of digital transformation. Our flagship product, EzyCourse, is a comprehensive online course platform that enables creators worldwide to launch, grow, and expand their businesses effortlessly. From innovative SaaS solutions to robust enterprise tools and automation, our mission is to make advanced business practices accessible and scalable for everyone. 
+
+****What You'll Do:****
+
+*   Coordinate tasks related to onboarding (complete recruitment, checklist for joining, sharing all HR policies with the new employee, etc.).
+*   Prepare the job description for new positions and obtain approval from the concerned authority.
+*   Assist line managers in measuring employee performance to ensure the development and retention of key talent.
+*   Oversee the employee separation process, including the final settlement.
+*   Prepare policies and standard operating procedures (SOPS) as required.
+*   Ensure effective resolution of employee queries and grievances.
+*   Maintain and update employee personal files, ensuring that all relevant documents and databases are accurate, up-to-date, and compliant with legislation.
+*   Update attendance and leave records for all employees in the designated system on a monthly basis, and follow up with employees to ensure timely updates.
+*   Prepare periodic management information system (MIS) reports to help the company make informed decisions about workforce and cost optimization.
+*   Engage in employee welfare activities, including sports, events, and CSR initiatives.
+*   Perform any other tasks assigned by the management.
+
+****Who Can Apply?****
+
+*   Bachelor’s degree in HR Management, Business Administration, or a related field.
+*   Strong knowledge of Bangladesh Labour Laws and labour regulations internationally.
+*   Proficiency in HR software and MS Office tools.
+*   Excellent English communication skills; knowledge of additional languages is a plus.
+*   A mature, accountable, and professional individual who can adapt to organizational needs.
+*   Demonstrated ability to prioritize tasks, work under pressure, and take responsibility without providing excuses.
+
+****What We Offer:****
+
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+****Other Perks:****
+
+*   Separate female room for extra privacy
+*   Two weekly holidays
+*   Fully subsidized lunch
+*   Unlimited tea and coffee to recharge your day
+*   Separate prayer rooms for male and female members
+
+****Working hours:****
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Support Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet, Bangladesh |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `HTML` `CSS` `API` `Trello` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring Support Engineer
+
+**Appifylab** is looking for dedicated support engineers to join its dynamic team. You will be responsible for the client support-related chores of our SaaS LMS platform, EzyCourse. 
+
+We’re looking for a team member available to work in any shift as part of our 24/7 support team. Shifts rotate across three time slots, and flexibility to work any shift is required.
+
+The role will revolve around communicating and providing excellent support to our clients. You will support our clients through live chats, emails, video chats, etc. The Support Engineer, who answers directly to the team lead, contributes to making every customer's experience smooth and encouraging.
+
+*   Onsite (Sylhet)
+*   05 Vacancies
+*   Full Time
+*   Both Experienced & Fresher Can Apply
+
+**Company Description:**
+
+EzyCourse is a no-code SaaS platform for online entrepreneurs, business owners, course creators, teachers, and others to build LMS websites without any code. EzyCourse allows creators to build and sell anything online.
+
+**What You'll Do:**
+
+*   Review console logs, test across different browsers and devices, check API responses, and make small HTML/CSS adjustments to help identify and resolve platform issues.
+*   Collaborate with the product and development teams to test new features, share feedback, and report bugs
+*   Communicate with solutions engineers, clients, and prospects to ensure their technical setup is compatible with EzyCourse.
+*   Create and update documentation, including guides, walkthroughs, and helpful user resources.
+*   Manage Trello cards to track client issues and ensure all tasks are properly followed up
+*   Keep accurate notes on customer conversations and update their information when needed.
+*   Guide clients through simple troubleshooting steps and help them resolve common issues quickly.
+*   Follow up with users to confirm their concerns have been fully addressed.
+*   Serve as a friendly and responsive first point of contact for EzyCourse users via email, chat, and video calls.
+*   Be the first point of contact for EzyCourse users, providing timely and effective technical support via email, chat, and video calls.
+*   Diagnose technical issues related to the platform and work with the team to find effective solutions.
+*   Suggest product improvements based on user feedback and help enhance the overall user experience.
+*   Understand user needs and support a positive, customer-focused community.
+
+**Who Can Apply?**
+
+*   A bachelor's degree in computer science and engineering (CSE) or a related field is preferred.
+*   Experienced in supporting customers through multiple channels
+*   Demonstrates expertise in looking at, locating, and recording software issues.
+*   An independent problem solver—you can figure out how to solve a complex software problem
+*   Strong English skills—excellent in speaking, listening, and writing.
+*   Great problem-solving and communication skills.
+*   Ability to provide clear step-by-step technical support in both written and verbal form.
+*   Strong attention to detail and a customer-focused mindset.
+*   A team player with a positive attitude and a willingness to learn and grow
+
+**What We Offer:**
+
+*   Salary review at least once a year based on performance
+*   Opportunity to work on fast-growing products used globally
+*   Collaborative culture with talented, friendly teammates
+*   Regular performance reviews with constructive feedback
+*   Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+*   Separate female room for extra privacy
+*   Two weekly holidays
+*   Fully subsidized lunch
+*   Unlimited tea and coffee to recharge your day
+*   Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+Additional Notes:
+
+If you think you meet our requirements then we would love to hear from you.
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `Figma` `UI/UX` `SaaS` `HTML/CSS` `Design Systems` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+# Appifylab Is Hiring UI/UX Designer
+
+We are looking for a talented UI/UX Designer to help shape user experiences across our suite of SaaS products. If you're passionate about designing sleek, intuitive, and scalable solutions, this is your chance to make an impact on products used by creators and businesses around the world.
+
+* Onsite (Sylhet)
+* 05 Vacancies
+* Full Time
+* At least 2+ years Experience
+
+**Company Description:**
+
+At Appifylab, we're building the next generation of SaaS products powering the creator economy, ed-tech, and digital entrepreneurship. With platforms like EzyCourse, EzyStudio, and more in the pipeline, we are on a mission to simplify how people build, sell, and scale online.
+
+**What You'll Do:**
+
+* Conduct user research, interviews, journey mapping, and usability tests
+* Create wireframes, user flows, prototypes, and high-fidelity UI designs
+* Design dashboards, SaaS interfaces, and component-based layouts
+* Work closely with Product & Engineering teams throughout the product lifecycle
+* Develop and maintain a scalable Design System
+* Present design concepts and rationale to stakeholders
+* Gather user feedback & data to iterate on designs
+* Ensure responsiveness, accessibility, and UI consistency across all devices
+* Stay updated with modern SaaS UX trends, Figma standards, and interaction patterns
+
+**Who Can Apply?**
+
+* Proven experience (2+ years) leading a design team within a tech-driven or SaaS company.
+* Proficiency in Figma (Auto layout, components, prototyping, design systems)
+* Experience designing dashboards, workflow tools, or SaaS interfaces
+* Deep understanding of typography, layout, color theory, interaction design, and design systems.
+* Knowledge of responsive design
+* Familiarity with Web/App constraints (basic HTML/CSS understanding preferred)
+* Bonus: Familiarity with no-code platforms, LMS interfaces, AI/ML design concepts, or EdTech platforms.
+* Attention to detail and passion for clean, modern UI
+
+**What We Offer:**
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSdSIFejzzJo2q4pnmn1HD3jFnfmwjVagmeLojPPlW4JwmU5Jw/viewform)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Video Presenter & Content Host</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Modina Market, Sylhet |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Video Editing` `Content Creation` `Script Writing` `YouTube` `Instagram` `Facebook` 
+
+## 📝 [Description](https://www.appifylab.com/career)
+
+Appifylab Is Hiring Video Presenter & Content Host
+
+We’re looking for a confident, camera-friendly Video Presenter & Content Host to become the face of EzyCourse — someone who can explain complex ideas clearly, speak fluent English, and present in a smart, engaging, and professional manner.
+
+* Onsite (Sylhet)
+* 01 Vacancies
+* Full Time
+* At least 1.5 years Experience
+
+**Company Description:**
+
+At Appifylab, we're building the next generation of SaaS products powering the creator economy, ed-tech, and digital entrepreneurship. With platforms like EzyCourse, EzyStudio, and more in the pipeline, we are on a mission to simplify how people build, sell, and scale online.
+
+**What You'll Do:**
+
+* Be the on-screen face of EzyCourse in video content
+* Host on-camera video segments for property showcases and company updates
+* Work with the content team to script and plan video shoots
+* **Ability to create technical “how-to”** videos that clearly explain product features
+* **Ability to write scripts** for video ads, shorts, reels, and guide the video editor
+* Engage the audience with a confident, clear, and relatable presence
+* Represent the brand voice and professionalism in all video content
+
+**Who Can Apply?**
+
+* Excellent spoken and written English (neutral/clear accent preferred)
+* Strong on-camera presence with a confident and engaging style
+* Comfortable explaining digital products or software
+* Good understanding of online platforms like YouTube, Facebook, Instagram, etc.
+* Previous experience in video presentation, media, or content creation is a big bonus
+
+**What We Offer:**
+
+* Salary review at least once a year based on performance
+* Opportunity to work on fast-growing products used globally
+* Collaborative culture with talented, friendly teammates
+* Regular performance reviews with constructive feedback
+* Paid leaves, festival holidays, etc.
+
+**Other Perks:**
+
+* Separate female room for extra privacy
+* Two weekly holidays
+* Fully subsidized lunch
+* Unlimited tea and coffee to recharge your day
+* Separate prayer rooms for male and female members
+
+**Working hours:**
+
+10 AM - 7 PM with an hour break
+
+Working days:
+
+5 days in a week
+
+---
+* 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
 ---
 
 </details>
@@ -1818,21 +1794,21 @@ Working days:
 ## 🏢 BJIT Ltd.
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 BJIT Academy - Trainee Software Engineer (ERP Solution – Salesforce & SAP)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 AI Architect</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | Internship |
+| **Employment** | Full Time |
+| **Role** | Architect |
+
+**🛠️ Tags**: `AI` `Generative AI` `Architecture` 
 
 ## 📝 [Description](https://bjitgroup.com/career)
 
-BJIT is looking for highly motivated individuals to join as “Trainee Software Engineer” in our ERP Team. This will be a great opportunity for freshers to get professional training and gain practical...
+We are seeking a highly capable AI Architect to design, scale, and oversee end-to-end AI solutions for global clients across diverse industries. Experience with modern AI paradigms including Generat...
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/salesforcetrainee)
-## 🛠️ Tech Stack
-
-`ERP Solution` `Salesforce` `SAP` 
-
+---
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/architect-ai)
 ---
 
 </details>
@@ -1844,15 +1820,33 @@ BJIT is looking for highly motivated individuals to join as “Trainee Software 
 | ----- | ----------- |
 | **Employment** | Internship |
 
+**🛠️ Tags**: `DevOps` `Cloud` `AI` 
+
 ## 📝 [Description](https://bjitgroup.com/career)
 
 BJIT Academy is offering a 4-month, hands-on cloud-native and AI-augmented engineering program for fresh graduates and early-career professionals. We are looking for motivated trainees who want to g...Read more
 
+---
 * 🌐 [Apply on Website](https://bjitgroup.com/career-apply/devtrainee)
-## 🛠️ Tech Stack
+---
 
-`DevOps` `Cloud` `AI` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 BJIT Academy - Trainee Software Engineer (ERP Solution – Salesforce & SAP)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+
+**🛠️ Tags**: `ERP Solution` `Salesforce` `SAP` 
+
+## 📝 [Description](https://bjitgroup.com/career)
+
+BJIT is looking for highly motivated individuals to join as “Trainee Software Engineer” in our ERP Team. This will be a great opportunity for freshers to get professional training and gain practical...
+
+---
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/salesforcetrainee)
 ---
 
 </details>
@@ -1864,36 +1858,14 @@ BJIT Academy is offering a 4-month, hands-on cloud-native and AI-augmented engin
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Data Science` `Machine Learning` `Predictive Modeling` 
+
 ## 📝 [Description](https://bjitgroup.com/career)
 
 We are looking for a motivated Data Scientist to analyze data, build predictive models, and generate actionable insights for global client projects. This role requires the ability to work across div...
 
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/data-scientist)
-## 🛠️ Tech Stack
-
-`Data Science` `Machine Learning` `Predictive Modeling` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 AI Architect</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Role** | Architect |
-
-## 📝 [Description](https://bjitgroup.com/career)
-
-We are seeking a highly capable AI Architect to design, scale, and oversee end-to-end AI solutions for global clients across diverse industries. Experience with modern AI paradigms including Generat...
-
-* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/architect-ai)
-## 🛠️ Tech Stack
-
-`AI` `Generative AI` `Architecture` 
-
+* 🌐 [Apply on Website](https://bjitgroup.com/career-apply/data-scientist)
 ---
 
 </details>
@@ -1905,322 +1877,19 @@ We are seeking a highly capable AI Architect to design, scale, and oversee end-t
 | ----- | ----------- |
 | **Employment** | Internship |
 
+**🛠️ Tags**: `HR` `Recruitment` 
+
 ## 📝 [Description](https://bjitgroup.com/career)
 
 BJIT is looking for a HR Intern - Recruitment to join our dynamic team.
 
+---
 * 🌐 [Apply on Website](https://bjitgroup.com/career-apply/HR%20Intern%20-%20Recruitment)
-## 🛠️ Tech Stack
-
-`HR` `Recruitment` 
-
 ---
 
 </details>
 
 ## 🏢 Bangladesh Software Solution
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Microsoft Dynamics Business Central Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Developer |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-We are seeking a highly motivated, skilled, and autonomous **Microsoft Dynamics Business Central Developer**  to join our growing engineering team. In this role, you will design, customize, and maintain robust ERP solutions built on Microsoft Dynamics 365 Business Central for enterprise clients and international workflows.
-
-You will own ERP features end-to-end—developing AL extensions, integrating third-party APIs and e-commerce/WMS platforms, and translating client business logic into scalable technical architecture. This is a hands-on developer role where technical precision, modern Business Central extension design patterns, and an automated approach to development are paramount.
-
-At **Bangladesh Software Solution**, we build scalable, high-performance web and enterprise applications for our European and international clients. If you are driven, detail-oriented, and eager to deliver impactful ERP systems, we would love to have you on our team in Dhaka.
-
-## Key Responsibilities
-
-*   **AL & ERP Feature Ownership:** Design, develop, test, and maintain custom extensions and features in Microsoft Dynamics 365 Business Central using AL language and Visual Studio Code.
-*   **System Integration & Automation:** Build and support seamless integrations connecting Business Central with external systems (e-commerce platforms, CRM, WMS, payment gateways) using REST APIs, OData, and Web Services.
-*   **Migration & Upgrades:** Plan and execute data migrations, environment upgrades, and customizations from legacy NAV/C/AL systems to cloud/on-prem D365 Business Central.
-*   **Report & Document Development:** Create and modify complex Business Central layouts, including RDLC, Word layouts, and Power BI reporting dashboards.
-*   **Troubleshooting & Optimization:**Diagnose performance bottlenecks, optimize SQL queries, resolve custom AL code conflicts, and ensure system uptime and stability.
-*   **Technical Collaboration & Client Communication:** Build clean review and dashboard interfaces using Tailwind CSS without relying on a dedicated designer.
-
-## Technical Requirements
-
-*   **Core Technical Stack:** Extensive hands-on experience with Microsoft Dynamics 365 Business Central development, AL Language, Visual Studio Code, and C/AL (legacy NAV exposure).
-*   **Integration & API Expertise:** Strong proficiency with OData, RESTful APIs, SOAP web services, JSON/XML handling, and event-driven architecture.
-*   **Database & SQL Knowledge:** Solid background in Microsoft SQL Server, dataset optimization, database schema design, and data migration strategies.
-*   **Power Platform & Cloud:** Familiarity with Azure services, Power Apps, Power Automate, and Power BI integrations with D365 Business Central.
-*   **DevOps & Version Control:** Experience using Git/GitHub/Azure DevOps for source code management, pull requests, and standard CI/CD deployment pipelines.
-
-## Nice-to-Have (Skills to Grow Into)
-
-*   Official Microsoft Certification (e.g., **MB-800: Microsoft Dynamics 365 Business Central Functional Consultant** or developer equivalents)
-*   E-commerce & Logistics Domain Knowledge (Shopify, Magento, warehouse management, accounting flows, inventory lifecycle).
-*   Familiarity with European business rules, VAT/tax compliance, and data privacy regulations (GDPR).
-
-## Profile & Way of Thinking
-
-*   **Pragmatic & Autonomous:** You pick proven modern tools, follow Microsoft AL guidelines, and deliver clean, maintainable extension architectures without over-engineering.
-*   **Problem Solver:** Excellent analytical skills to debug complex business logic and performance issues in production environments.
-*   **Excellent Communicator:** Fluent written and spoken English is required to collaborate directly with international team members and European clients.
-
-## What We Offer
-
-*   **Competitive Salary:** Package aligned with top industry standards in Bangladesh.
-*   **Career Growth:** Direct involvement in complex, international projects with opportunities to lead project tracks.
-*   **High-Performing Culture:** Collaborative, agile, and technology-focused working environment.
-*   **Work-Life Balance:** Flexible schedule arrangements and supportive team dynamics.
-
-* 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`Microsoft Dynamics Business Central` `AL Language` `Visual Studio Code` `C/AL` `OData` `RESTful APIs` `SOAP` `Microsoft SQL Server` `Azure` `Power Apps` `Power Automate` `Power BI` `Git` `GitHub` `Azure DevOps` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior AI Engineer (Fullstack)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Senior |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-We are seeking a highly motivated, senior, and autonomous **Senior AI Engineer (Full-Stack)** to join our team. In this role, you will build and ship AI-powered automation products that eliminate recurring operational tasks for e-commerce and enterprise workflows end-to-end.You will own features from database to interface—building everything from Shopify and REST API integrations to Claude-driven LLM pipelines and the review dashboards that clients interact with daily. This is a hands-on builder role where comfort with an AI-assisted development workflow (such as Claude Code or similar tools) is expected.
-
-We are a fast-growing team at **Bangladesh Software Solution**, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
-
-## Key Responsibilities
-
-*   **Feature Ownership:** Take a rough project scope and a known stack, and autonomously ship working, production-ready systems.
-*   **AI/LLM Pipeline Development:** Design and implement end-to-end RAG (Retrieval-Augmented Generation) pipelines, managing chunking, embeddings, pgvector similarity search, reranking, and grounded answers with source attribution.
-*   **Full-Stack Engineering:** Write strict, maintainable full-stack TypeScript using React/Next.js (App Router) on the frontend and Supabase/PostgreSQL on the backend.
-*   **Workflow & Integration Automation:** Build code-first event-driven architectures and background jobs utilizing event queues/orchestrators (e.g., Inngest, Trigger.dev) with human-in-the-loop approval gates.
-*   **API Connectors:** Build and maintain robust OAuth2 and client-credential API connectors for platforms like Shopify Admin GraphQL, Lightspeed eCom, Akeneo (PIM), and headless CMS platforms.
-*   **UI/UX Implementation:** Build clean review and dashboard interfaces using Tailwind CSS without relying on a dedicated designer.
-*   **Client Communication:** Interface directly with non-technical clients, translating complex engineering structures into plain language.
-
-## Technical Requirements
-
-*   **Core Stack:** Extensive experience with full-stack TypeScript, React, Next.js (App Router), and Tailwind CSS.
-*   **Database Expertise:** Strong proficiency in Supabase/PostgreSQL, including schema design, Row Level Security (RLS), Auth, and writing native SQL and Postgres functions.
-*   **AI & LLM Application Work:** Direct, hands-on experience with the Anthropic Claude API (or equivalent), prompt engineering, prompt caching, streaming, tool use, and structured JSON output.
-*   **RAG Architecture:** Proven capability with vector databases, embeddings (Voyage, Cohere, or OpenAI), hybrid search, and metadata filtering.
-*   **Backend Workflows:** Experience with background jobs, retries, concurrency/throttle controls, and fan-out structures
-*   **DevOps & Deployments:** Familiarity with Git/GitHub, template-repo models, per-client-fork workflows, and shipping to Vercel or cloud VPS architectures.
-
-## Nice-to-Have (Skills to Grow Into)
-
-*   E-commerce domain knowledge (Shopify catalogs, metafields/metaobjects, SEO, multi-language storefronts).
-*   Data privacy regulations (GDPR, anonymization, EU data residency contexts).
-*   Security fundamentals (RBAC, encryption at rest, audit logging).
-*   OCR/document parsing pipelines for unstructured data ingestion.
-
-## Profile & Way of Thinking
-
-*   **Pragmatic & Autonomous:** You pick proven tools, verify choices against official documentation, and avoid over-engineering.
-*   **Iterative Mindset:** You prefer shipping working systems incrementally and iterating monthly rather than waiting for one big drop at the end.
-*   **Excellent Communicator:** Fluent English is required to maintain smooth transparency and good relationships with international clients.
-
-## What We Offer
-
-*   Competitive salary matching top market standards.
-*   Career growth in a rapidly expanding AI engineering department.
-*   A collaborative, high-performing agile environment.
-*   Flexible schedule arrangements.
-
-* 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `PostgreSQL` `AI` `LLM` `RAG` `Shopify` `Git` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 AI Engineer (Junior/Trainee)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Junior/Trainee |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-Are you passionate about 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐀𝐈), 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, and eager to gain hands-on experience in a dynamic and innovative environment? Bangladesh Software Solution is seeking a motivated AI, Machine Learning, and Software Engineer to join our team.
-
-You’ll get the chance to work on exciting, real-world projects while exploring different areas of AI, Machine Learning, and Software Engineering. It’s a hands-on learning experience designed to help you grow your skills and build confidence in the field. Does this sound like the challenge you’ve been looking for? Read on to discover what we have to offer!
-
-We are a fast-growing team at **Bangladesh Software Solution**, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
-
-## Key Responsibilities
-
-*   Work closely with cross-functional teams including senior software engineers.
-*   Write clean, well-documented, and testable code.
-*   Engage actively in team meetings, stand-ups, and brainstorming sessions, asking questions and contributing ideas.
-*   Collaborate with designers to deliver pixel-perfect web applications.
-*   Stay updated with the latest technologies and implement best practices.
-
-## Requirements
-
-*   Understanding of object-oriented software development.
-*   Creative thinking and strong problem-solving skills.
-*   Knowledge in Machine Learning (ML) / Deep Learning (DL) is a plus.
-*   Strong academic background in programming is preferred.
-*   Ability to quickly learn new technologies, tools, and techniques with guidance from senior developers.
-*   Good knowledge of Python / PHP / C#.NET / SQL.
-*   Good understanding of HTML, CSS, JavaScript.
-*   Familiarity with CSS preprocessors (SASS), Bootstrap, Tailwind.
-*   Strong English communication skills (written & spoken).
-
-## What We Offer
-
-*   Competitive salary allowance package.
-*   Opportunities for learning and career growth.
-*   Friendly, collaborative, and innovative work environment.
-
-* 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`AI` `Machine Learning` `Deep Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Node.js)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Senior |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-**Bangladesh Software Solution** is seeking highly motivated Senior **Software Engineer (Node.js)** to join our team and support an existing project. The ideal candidate is passionate about innovative technologies and thrives in a fast-paces environment.
-
-We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
-
-## Key Responsibilities
-
-*   Work closely with cross-functional teams including senior software engineers.
-*   Write clean, well-documented, and testable code.
-*   Engage actively in team brainstorming sessions, asking questions and contributing ideas.
-*   Collaborate with designers to deliver pixel-perfect web applications.
-*   Stay updated with the latest technologies and implement best practices.
-
-## Requirements
-
-*   Minimum 6+ years of hands-on experience in software development
-*   Strong experience with:
-
-*   ReactJS for frontend development
-*   Node.js for backend or middleware services.
-*   Experience in .NET Framework will added advantage
-
-*   Proficiency in database design and development using MS SQL and PostgreSQL.
-*   Solid experience with AWS cloud services, including: EC2, ECS, Lambda, S3, SQS, SNS, DLQ, AWS Step Functions etc.
-*   Experience developing and deploying serverless and event-driven architectures.
-*   Strong programming skills in Python for scripting, automation, or backend services
-*   Good understanding of RESTful API design and microservices architecture
-*   Experience with CI/CD pipelines and cloud-native deployment practices.
-*   Familiarity with Git and modern version control workflows
-*   Experience with application security best practices and vulnerability remediation.
-*   Experience with automated testing frameworks.
-*   Experience using AI tools (e.g., GitHub Copilot, ChatGPT, Claude, Cursor, or similar) in software development workflows.
-*   Strong problem-solving and analytical skills
-*   Good communication and stakeholder management skills
-*   Ability to work independently as well as in a team environment.
-
-## What We Offer
-
-*   Attractive Salary for deserving candidates
-*   Two festival bonus
-*   Opportunities for learning and career growth.
-*   Friendly, collaborative, and innovative work environment.
-
-* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-* 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`Node.js` `ReactJS` `.NET` `MS SQL` `PostgreSQL` `AWS` `Python` `RESTful API` `Microservices` `CI/CD` `Git` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (.NET)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Senior |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-**Bangladesh Software Solution** is seeking highly motivated Senior **Software Engineer (.NET)** to join our team and support an existing project. The ideal candidate is passionate about innovative technologies and thrives in a fast-paces environment.
-
-We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
-
-## Key Responsibilities
-
-*   Work closely with cross-functional teams including senior software engineers.
-*   Write clean, well-documented, and testable code.
-*   Engage actively in team brainstorming sessions, asking questions and contributing ideas.
-*   Collaborate with designers to deliver pixel-perfect web applications.
-*   Stay updated with the latest technologies and implement best practices.
-
-## Requirements
-
-*   Extensive experience with C# and .NET / .NET Core.
-*   Strong knowledge of object-oriented design principles, architectural patterns, and clean-code practices.
-*   Strong analytical and mathematical skills, ideally with exposure to geometric modeling, CAD/CAM, or computer graphics.
-*   Experience with Revit plug-ins and 3D geometric processing is considered a strong plus.
-*   Knowledge in Machine Learning (ML) / Deep Learning (DL) is a plus.
-*   Solid understanding of RESTful APIs
-*   Experience working with Azure cloud environments
-*   Familiarity with CI/CD pipelines and DevOps tooling.
-*   Good understanding of HTML, CSS, JavaScript Framework.
-*   Strong English communication skills (written & spoken).
-
-## What We Offer
-
-*   Attractive Salary for deserving candidates
-*   Two festival bonus
-*   Opportunities for learning and career growth.
-*   Friendly, collaborative, and innovative work environment.
-
-* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-## 🛠️ Tech Stack
-
-`C#` `.NET` `.NET Core` `CAD/CAM` `Revit` `Machine Learning` `Deep Learning` `RESTful APIs` `Azure` `CI/CD` `DevOps` `HTML` `CSS` `JavaScript` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 AI Engineer</strong> </summary>
@@ -2229,6 +1898,8 @@ We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼�
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
+
+**🛠️ Tags**: `Python` `PyTorch` `TensorFlow` `Scikit-learn` `LLMs` `SQL` `Pinecone` `Milvus` `ChromaDB` `Git` `AI` `Machine Learning` 
 
 ## 📝 [Description](https://bssoln.com/careers)
 
@@ -2270,119 +1941,61 @@ We are looking for a skilled and motivated **AI Engineer** to join our team and 
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+---
 * 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-## 🛠️ Tech Stack
-
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `LLMs` `SQL` `Pinecone` `Milvus` `ChromaDB` `Git` `AI` `Machine Learning` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer (Junior & Intern)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 AI Engineer (Junior/Trainee)</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
-| **Role** | Junior & Intern |
+| **Role** | Junior/Trainee |
+
+**🛠️ Tags**: `AI` `Machine Learning` `Deep Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
 
 ## 📝 [Description](https://bssoln.com/careers)
 
 ## Overview
 
-At Bangladesh Software Solution, we are looking for highly creative, motivated, and enthusiastic UI/UX Designer (Junior & Intern)to join our design team. We value individuals who have a strong understanding of user-centered design principles, possess a keen eye for detail, and can create elegant and intuitive interfaces for web and mobile applications.
+Are you passionate about 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐀𝐈), 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, and eager to gain hands-on experience in a dynamic and innovative environment? Bangladesh Software Solution is seeking a motivated AI, Machine Learning, and Software Engineer to join our team.
+
+You’ll get the chance to work on exciting, real-world projects while exploring different areas of AI, Machine Learning, and Software Engineering. It’s a hands-on learning experience designed to help you grow your skills and build confidence in the field. Does this sound like the challenge you’ve been looking for? Read on to discover what we have to offer!
+
+We are a fast-growing team at **Bangladesh Software Solution**, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
 
 ## Key Responsibilities
 
-* Assist in designing intuitive and user-friendly interfaces for web and mobile applications
-* Create wireframes, prototypes, and high-fidelity UI designs
-* Develop user journeys, user stories, and design mockups
-* Conduct basic user research and usability testing
-* Conduct basic user research and usability testing
-* Collaborate with developers and product teams to improve user experience
-* Stay updated with the latest UI/UX trends and technologies
-* Support the design team with UI improvements and visual assets
-
-## Requirements
-
-* Basic knowledge of Figma, Adobe XD, Sketch, or similar design tools
-* Strong understanding of UI/UX principles and user-centered design
-* Familiarity with wireframing and prototyping
-* Good knowledge of HTML5, CSS3, and JavaScript
-* Strong sense of design (typography, color, layout)
-* Interest in designing for both mobile apps and web/dashboard interfaces
-* Creative mindset with strong attention to detail
-* Good communication skills and willingness to learn
-
-## What We Offer
-
-* Competitive salary package.
-* Opportunities for learning and career growth.
-* Friendly, collaborative, and innovative work environment.
-
-Ready to join us?
-
-Apply now and take the next step in your career with **Bangladesh Software Solution**. We’re excited to learn more about you.
-
-* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-* 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`Figma` `Adobe XD` `Sketch` `HTML5` `CSS3` `JavaScript` `UI/UX` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Front-end Engineer (Junior/Intern)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Junior/Intern |
-
-## 📝 [Description](https://bssoln.com/careers)
-
-## Overview
-
-**Bangladesh Software Solution** is looking for a passionate Front-end Engineer **(Junior/Intern)** to build modern, user-friendly web applications. You will develop responsive interfaces, optimize performance, and ensure a seamless user experience across devices.
-
-You will collaborate with designers and developers to turn ideas into functional, visually appealing products. This role is ideal for someone who enjoys writing clean code and building intuitive user interfaces.
-
-## Key Responsibilities
-
-*   Collaborate with developers to deliver pixel-perfect web applications.
-*   Work closely with cross-functional teams including senior Developers and business stakeholders.
+*   Work closely with cross-functional teams including senior software engineers.
+*   Write clean, well-documented, and testable code.
 *   Engage actively in team meetings, stand-ups, and brainstorming sessions, asking questions and contributing ideas.
+*   Collaborate with designers to deliver pixel-perfect web applications.
 *   Stay updated with the latest technologies and implement best practices.
 
 ## Requirements
 
-*   Basic knowledge / experience specifically with frontend technologies
-*   Extensive experience with 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 is a requirement
-*   Familiarity with CSS preprocessors (SASS), Bootstrap, Tailwind.
-*   Knowledge with C#.NET/ Python / PHP /WordPress is a plus
-*   Maintain best practices, responsiveness, pixel perfection, and quality code.
+*   Understanding of object-oriented software development.
 *   Creative thinking and strong problem-solving skills.
+*   Knowledge in Machine Learning (ML) / Deep Learning (DL) is a plus.
 *   Strong academic background in programming is preferred.
 *   Ability to quickly learn new technologies, tools, and techniques with guidance from senior developers.
+*   Good knowledge of Python / PHP / C#.NET / SQL.
+*   Good understanding of HTML, CSS, JavaScript.
+*   Familiarity with CSS preprocessors (SASS), Bootstrap, Tailwind.
 *   Strong English communication skills (written & spoken).
 
 ## What We Offer
 
-*   Competitive salary package.
+*   Competitive salary allowance package.
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
-* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-## 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` `C#.NET` `Python` `PHP` `WordPress` 
-
+---
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ---
 
 </details>
@@ -2395,6 +2008,8 @@ You will collaborate with designers and developers to turn ideas into functional
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Junior/Intern |
+
+**🛠️ Tags**: `AI` `Machine Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `Bootstrap` `Tailwind` 
 
 ## 📝 [Description](https://bssoln.com/careers)
 
@@ -2475,11 +2090,109 @@ Dhaka, Bangladesh
 
 Share This Job
 
+---
 * 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-## 🛠️ Tech Stack
+---
 
-`AI` `Machine Learning` `Python` `PHP` `C#.NET` `SQL` `HTML` `CSS` `Bootstrap` `Tailwind` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Databricks Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Databricks` `Python` `SQL` `Delta Lake` `Azure` `Terraform` `CI/CD` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+We are seeking highly motivated **Databricks Engineer** to join our team and support an exciting project for one of our **Dutch Clients**. The ideal candidate is passionate about innovative technologies and thrives in a fast-paced environment.
+
+We are a fast-growing team at **Bangladesh Software Solution**, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
+
+## Key Responsibilities
+
+*   Design, build, and maintain end-to-end data pipelines in cloud environments.
+*   Develop and manage Lakehouse architectures using 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬 , Delta Lake, and Medallion architecture (Bronze/Silver/Gold layers).
+*   Use Python and SQL to transform, clean, and validate large-scale datasets.
+*   Implement CI/CD pipelines and Infrastructure as Code (Terraform) to enable scalable and reliable deployments.
+*   Monitor and maintain data pipelines with proper logging, monitoring, and alerting to ensure reliability and performance.
+*   Prepare high-quality datasets suitable for analytics, machine learning training, and model inference.
+
+## Requirements
+
+*   **Minimum 2 years of experience as a Data Engineer.**
+*   Strong expertise in **Python and SQL.**
+*   Hands-on experience with **Databricks**.
+*   Experience with cloud platforms such as Azure Cloud Platform
+*   Strong understanding of modern data architectures, including Delta Lake and Medallion architecture.
+*   Experience with real-time streaming and batch data processing.
+*   Fluent in English both written and spoken.
+
+## What We Offer
+
+*   Attractive Salary for deserving candidates
+*   Two festival bonus
+*   Opportunities for learning and career growth.
+*   Friendly, collaborative, and innovative work environment.
+
+---
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Front-end Engineer (Junior/Intern)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Junior/Intern |
+
+**🛠️ Tags**: `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` `C#.NET` `Python` `PHP` `WordPress` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+**Bangladesh Software Solution** is looking for a passionate Front-end Engineer **(Junior/Intern)** to build modern, user-friendly web applications. You will develop responsive interfaces, optimize performance, and ensure a seamless user experience across devices.
+
+You will collaborate with designers and developers to turn ideas into functional, visually appealing products. This role is ideal for someone who enjoys writing clean code and building intuitive user interfaces.
+
+## Key Responsibilities
+
+*   Collaborate with developers to deliver pixel-perfect web applications.
+*   Work closely with cross-functional teams including senior Developers and business stakeholders.
+*   Engage actively in team meetings, stand-ups, and brainstorming sessions, asking questions and contributing ideas.
+*   Stay updated with the latest technologies and implement best practices.
+
+## Requirements
+
+*   Basic knowledge / experience specifically with frontend technologies
+*   Extensive experience with 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 is a requirement
+*   Familiarity with CSS preprocessors (SASS), Bootstrap, Tailwind.
+*   Knowledge with C#.NET/ Python / PHP /WordPress is a plus
+*   Maintain best practices, responsiveness, pixel perfection, and quality code.
+*   Creative thinking and strong problem-solving skills.
+*   Strong academic background in programming is preferred.
+*   Ability to quickly learn new technologies, tools, and techniques with guidance from senior developers.
+*   Strong English communication skills (written & spoken).
+
+## What We Offer
+
+*   Competitive salary package.
+*   Opportunities for learning and career growth.
+*   Friendly, collaborative, and innovative work environment.
+
+---
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 ---
 
 </details>
@@ -2493,6 +2206,8 @@ Share This Job
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Intern |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `AI` `Machine Learning` `Software Engineering` `Python` `PHP` `C#.NET` `SQL` `WordPress` `Laravel` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
 
 ## 📝 [Description](https://bssoln.com/careers)
 
@@ -2531,51 +2246,179 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+---
 * 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
 * 🌐 [Apply on Website](https://bssoln.com/careers)
-## 🛠️ Tech Stack
-
-`AI` `Machine Learning` `Software Engineering` `Python` `PHP` `C#.NET` `SQL` `WordPress` `Laravel` `HTML` `CSS` `JavaScript` `SASS` `Bootstrap` `Tailwind` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Databricks Engineer</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Microsoft Dynamics Business Central Developer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
-| **Vacancies** | 1 |
+| **Role** | Developer |
+
+**🛠️ Tags**: `Microsoft Dynamics Business Central` `AL Language` `Visual Studio Code` `C/AL` `OData` `RESTful APIs` `SOAP` `Microsoft SQL Server` `Azure` `Power Apps` `Power Automate` `Power BI` `Git` `GitHub` `Azure DevOps` 
 
 ## 📝 [Description](https://bssoln.com/careers)
 
 ## Overview
 
-We are seeking highly motivated **Databricks Engineer** to join our team and support an exciting project for one of our **Dutch Clients**. The ideal candidate is passionate about innovative technologies and thrives in a fast-paced environment.
+We are seeking a highly motivated, skilled, and autonomous **Microsoft Dynamics Business Central Developer**  to join our growing engineering team. In this role, you will design, customize, and maintain robust ERP solutions built on Microsoft Dynamics 365 Business Central for enterprise clients and international workflows.
+
+You will own ERP features end-to-end—developing AL extensions, integrating third-party APIs and e-commerce/WMS platforms, and translating client business logic into scalable technical architecture. This is a hands-on developer role where technical precision, modern Business Central extension design patterns, and an automated approach to development are paramount.
+
+At **Bangladesh Software Solution**, we build scalable, high-performance web and enterprise applications for our European and international clients. If you are driven, detail-oriented, and eager to deliver impactful ERP systems, we would love to have you on our team in Dhaka.
+
+## Key Responsibilities
+
+*   **AL & ERP Feature Ownership:** Design, develop, test, and maintain custom extensions and features in Microsoft Dynamics 365 Business Central using AL language and Visual Studio Code.
+*   **System Integration & Automation:** Build and support seamless integrations connecting Business Central with external systems (e-commerce platforms, CRM, WMS, payment gateways) using REST APIs, OData, and Web Services.
+*   **Migration & Upgrades:** Plan and execute data migrations, environment upgrades, and customizations from legacy NAV/C/AL systems to cloud/on-prem D365 Business Central.
+*   **Report & Document Development:** Create and modify complex Business Central layouts, including RDLC, Word layouts, and Power BI reporting dashboards.
+*   **Troubleshooting & Optimization:**Diagnose performance bottlenecks, optimize SQL queries, resolve custom AL code conflicts, and ensure system uptime and stability.
+*   **Technical Collaboration & Client Communication:** Build clean review and dashboard interfaces using Tailwind CSS without relying on a dedicated designer.
+
+## Technical Requirements
+
+*   **Core Technical Stack:** Extensive hands-on experience with Microsoft Dynamics 365 Business Central development, AL Language, Visual Studio Code, and C/AL (legacy NAV exposure).
+*   **Integration & API Expertise:** Strong proficiency with OData, RESTful APIs, SOAP web services, JSON/XML handling, and event-driven architecture.
+*   **Database & SQL Knowledge:** Solid background in Microsoft SQL Server, dataset optimization, database schema design, and data migration strategies.
+*   **Power Platform & Cloud:** Familiarity with Azure services, Power Apps, Power Automate, and Power BI integrations with D365 Business Central.
+*   **DevOps & Version Control:** Experience using Git/GitHub/Azure DevOps for source code management, pull requests, and standard CI/CD deployment pipelines.
+
+## Nice-to-Have (Skills to Grow Into)
+
+*   Official Microsoft Certification (e.g., **MB-800: Microsoft Dynamics 365 Business Central Functional Consultant** or developer equivalents)
+*   E-commerce & Logistics Domain Knowledge (Shopify, Magento, warehouse management, accounting flows, inventory lifecycle).
+*   Familiarity with European business rules, VAT/tax compliance, and data privacy regulations (GDPR).
+
+## Profile & Way of Thinking
+
+*   **Pragmatic & Autonomous:** You pick proven modern tools, follow Microsoft AL guidelines, and deliver clean, maintainable extension architectures without over-engineering.
+*   **Problem Solver:** Excellent analytical skills to debug complex business logic and performance issues in production environments.
+*   **Excellent Communicator:** Fluent written and spoken English is required to collaborate directly with international team members and European clients.
+
+## What We Offer
+
+*   **Competitive Salary:** Package aligned with top industry standards in Bangladesh.
+*   **Career Growth:** Direct involvement in complex, international projects with opportunities to lead project tracks.
+*   **High-Performing Culture:** Collaborative, agile, and technology-focused working environment.
+*   **Work-Life Balance:** Flexible schedule arrangements and supportive team dynamics.
+
+---
+* 🌐 [Apply on Website](https://bssoln.com/careers)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior AI Engineer (Fullstack)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Senior |
+
+**🛠️ Tags**: `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `PostgreSQL` `AI` `LLM` `RAG` `Shopify` `Git` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+We are seeking a highly motivated, senior, and autonomous **Senior AI Engineer (Full-Stack)** to join our team. In this role, you will build and ship AI-powered automation products that eliminate recurring operational tasks for e-commerce and enterprise workflows end-to-end.You will own features from database to interface—building everything from Shopify and REST API integrations to Claude-driven LLM pipelines and the review dashboards that clients interact with daily. This is a hands-on builder role where comfort with an AI-assisted development workflow (such as Claude Code or similar tools) is expected.
 
 We are a fast-growing team at **Bangladesh Software Solution**, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
 
 ## Key Responsibilities
 
-*   Design, build, and maintain end-to-end data pipelines in cloud environments.
-*   Develop and manage Lakehouse architectures using 𝐃𝐚𝐭𝐚𝐛𝐫𝐢𝐜𝐤𝐬 , Delta Lake, and Medallion architecture (Bronze/Silver/Gold layers).
-*   Use Python and SQL to transform, clean, and validate large-scale datasets.
-*   Implement CI/CD pipelines and Infrastructure as Code (Terraform) to enable scalable and reliable deployments.
-*   Monitor and maintain data pipelines with proper logging, monitoring, and alerting to ensure reliability and performance.
-*   Prepare high-quality datasets suitable for analytics, machine learning training, and model inference.
+*   **Feature Ownership:** Take a rough project scope and a known stack, and autonomously ship working, production-ready systems.
+*   **AI/LLM Pipeline Development:** Design and implement end-to-end RAG (Retrieval-Augmented Generation) pipelines, managing chunking, embeddings, pgvector similarity search, reranking, and grounded answers with source attribution.
+*   **Full-Stack Engineering:** Write strict, maintainable full-stack TypeScript using React/Next.js (App Router) on the frontend and Supabase/PostgreSQL on the backend.
+*   **Workflow & Integration Automation:** Build code-first event-driven architectures and background jobs utilizing event queues/orchestrators (e.g., Inngest, Trigger.dev) with human-in-the-loop approval gates.
+*   **API Connectors:** Build and maintain robust OAuth2 and client-credential API connectors for platforms like Shopify Admin GraphQL, Lightspeed eCom, Akeneo (PIM), and headless CMS platforms.
+*   **UI/UX Implementation:** Build clean review and dashboard interfaces using Tailwind CSS without relying on a dedicated designer.
+*   **Client Communication:** Interface directly with non-technical clients, translating complex engineering structures into plain language.
+
+## Technical Requirements
+
+*   **Core Stack:** Extensive experience with full-stack TypeScript, React, Next.js (App Router), and Tailwind CSS.
+*   **Database Expertise:** Strong proficiency in Supabase/PostgreSQL, including schema design, Row Level Security (RLS), Auth, and writing native SQL and Postgres functions.
+*   **AI & LLM Application Work:** Direct, hands-on experience with the Anthropic Claude API (or equivalent), prompt engineering, prompt caching, streaming, tool use, and structured JSON output.
+*   **RAG Architecture:** Proven capability with vector databases, embeddings (Voyage, Cohere, or OpenAI), hybrid search, and metadata filtering.
+*   **Backend Workflows:** Experience with background jobs, retries, concurrency/throttle controls, and fan-out structures
+*   **DevOps & Deployments:** Familiarity with Git/GitHub, template-repo models, per-client-fork workflows, and shipping to Vercel or cloud VPS architectures.
+
+## Nice-to-Have (Skills to Grow Into)
+
+*   E-commerce domain knowledge (Shopify catalogs, metafields/metaobjects, SEO, multi-language storefronts).
+*   Data privacy regulations (GDPR, anonymization, EU data residency contexts).
+*   Security fundamentals (RBAC, encryption at rest, audit logging).
+*   OCR/document parsing pipelines for unstructured data ingestion.
+
+## Profile & Way of Thinking
+
+*   **Pragmatic & Autonomous:** You pick proven tools, verify choices against official documentation, and avoid over-engineering.
+*   **Iterative Mindset:** You prefer shipping working systems incrementally and iterating monthly rather than waiting for one big drop at the end.
+*   **Excellent Communicator:** Fluent English is required to maintain smooth transparency and good relationships with international clients.
+
+## What We Offer
+
+*   Competitive salary matching top market standards.
+*   Career growth in a rapidly expanding AI engineering department.
+*   A collaborative, high-performing agile environment.
+*   Flexible schedule arrangements.
+
+---
+* 🌐 [Apply on Website](https://bssoln.com/careers)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (.NET)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Senior |
+
+**🛠️ Tags**: `C#` `.NET` `.NET Core` `CAD/CAM` `Revit` `Machine Learning` `Deep Learning` `RESTful APIs` `Azure` `CI/CD` `DevOps` `HTML` `CSS` `JavaScript` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+**Bangladesh Software Solution** is seeking highly motivated Senior **Software Engineer (.NET)** to join our team and support an existing project. The ideal candidate is passionate about innovative technologies and thrives in a fast-paces environment.
+
+We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
+
+## Key Responsibilities
+
+*   Work closely with cross-functional teams including senior software engineers.
+*   Write clean, well-documented, and testable code.
+*   Engage actively in team brainstorming sessions, asking questions and contributing ideas.
+*   Collaborate with designers to deliver pixel-perfect web applications.
+*   Stay updated with the latest technologies and implement best practices.
 
 ## Requirements
 
-*   **Minimum 2 years of experience as a Data Engineer.**
-*   Strong expertise in **Python and SQL.**
-*   Hands-on experience with **Databricks**.
-*   Experience with cloud platforms such as Azure Cloud Platform
-*   Strong understanding of modern data architectures, including Delta Lake and Medallion architecture.
-*   Experience with real-time streaming and batch data processing.
-*   Fluent in English both written and spoken.
+*   Extensive experience with C# and .NET / .NET Core.
+*   Strong knowledge of object-oriented design principles, architectural patterns, and clean-code practices.
+*   Strong analytical and mathematical skills, ideally with exposure to geometric modeling, CAD/CAM, or computer graphics.
+*   Experience with Revit plug-ins and 3D geometric processing is considered a strong plus.
+*   Knowledge in Machine Learning (ML) / Deep Learning (DL) is a plus.
+*   Solid understanding of RESTful APIs
+*   Experience working with Azure cloud environments
+*   Familiarity with CI/CD pipelines and DevOps tooling.
+*   Good understanding of HTML, CSS, JavaScript Framework.
+*   Strong English communication skills (written & spoken).
 
 ## What We Offer
 
@@ -2584,11 +2427,128 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 *   Opportunities for learning and career growth.
 *   Friendly, collaborative, and innovative work environment.
 
+---
 * 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
-## 🛠️ Tech Stack
+---
 
-`Databricks` `Python` `SQL` `Delta Lake` `Azure` `Terraform` `CI/CD` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Node.js)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Senior |
+
+**🛠️ Tags**: `Node.js` `ReactJS` `.NET` `MS SQL` `PostgreSQL` `AWS` `Python` `RESTful API` `Microservices` `CI/CD` `Git` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+**Bangladesh Software Solution** is seeking highly motivated Senior **Software Engineer (Node.js)** to join our team and support an existing project. The ideal candidate is passionate about innovative technologies and thrives in a fast-paces environment.
+
+We are a fast-growing team at 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻, building scalable and user-friendly web solutions for our European clients . To strengthen our team, internationally minded, enthusiastic, and driven fresh graduates to join our team in Dhaka.
+
+## Key Responsibilities
+
+*   Work closely with cross-functional teams including senior software engineers.
+*   Write clean, well-documented, and testable code.
+*   Engage actively in team brainstorming sessions, asking questions and contributing ideas.
+*   Collaborate with designers to deliver pixel-perfect web applications.
+*   Stay updated with the latest technologies and implement best practices.
+
+## Requirements
+
+*   Minimum 6+ years of hands-on experience in software development
+*   Strong experience with:
+
+*   ReactJS for frontend development
+*   Node.js for backend or middleware services.
+*   Experience in .NET Framework will added advantage
+
+*   Proficiency in database design and development using MS SQL and PostgreSQL.
+*   Solid experience with AWS cloud services, including: EC2, ECS, Lambda, S3, SQS, SNS, DLQ, AWS Step Functions etc.
+*   Experience developing and deploying serverless and event-driven architectures.
+*   Strong programming skills in Python for scripting, automation, or backend services
+*   Good understanding of RESTful API design and microservices architecture
+*   Experience with CI/CD pipelines and cloud-native deployment practices.
+*   Familiarity with Git and modern version control workflows
+*   Experience with application security best practices and vulnerability remediation.
+*   Experience with automated testing frameworks.
+*   Experience using AI tools (e.g., GitHub Copilot, ChatGPT, Claude, Cursor, or similar) in software development workflows.
+*   Strong problem-solving and analytical skills
+*   Good communication and stakeholder management skills
+*   Ability to work independently as well as in a team environment.
+
+## What We Offer
+
+*   Attractive Salary for deserving candidates
+*   Two festival bonus
+*   Opportunities for learning and career growth.
+*   Friendly, collaborative, and innovative work environment.
+
+---
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+* 🌐 [Apply on Website](https://bssoln.com/careers)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer (Junior & Intern)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Junior & Intern |
+
+**🛠️ Tags**: `Figma` `Adobe XD` `Sketch` `HTML5` `CSS3` `JavaScript` `UI/UX` 
+
+## 📝 [Description](https://bssoln.com/careers)
+
+## Overview
+
+At Bangladesh Software Solution, we are looking for highly creative, motivated, and enthusiastic UI/UX Designer (Junior & Intern)to join our design team. We value individuals who have a strong understanding of user-centered design principles, possess a keen eye for detail, and can create elegant and intuitive interfaces for web and mobile applications.
+
+## Key Responsibilities
+
+* Assist in designing intuitive and user-friendly interfaces for web and mobile applications
+* Create wireframes, prototypes, and high-fidelity UI designs
+* Develop user journeys, user stories, and design mockups
+* Conduct basic user research and usability testing
+* Conduct basic user research and usability testing
+* Collaborate with developers and product teams to improve user experience
+* Stay updated with the latest UI/UX trends and technologies
+* Support the design team with UI improvements and visual assets
+
+## Requirements
+
+* Basic knowledge of Figma, Adobe XD, Sketch, or similar design tools
+* Strong understanding of UI/UX principles and user-centered design
+* Familiarity with wireframing and prototyping
+* Good knowledge of HTML5, CSS3, and JavaScript
+* Strong sense of design (typography, color, layout)
+* Interest in designing for both mobile apps and web/dashboard interfaces
+* Creative mindset with strong attention to detail
+* Good communication skills and willingness to learn
+
+## What We Offer
+
+* Competitive salary package.
+* Opportunities for learning and career growth.
+* Friendly, collaborative, and innovative work environment.
+
+Ready to join us?
+
+Apply now and take the next step in your career with **Bangladesh Software Solution**. We’re excited to learn more about you.
+
+---
+* 📧 [Send Resume via Email](mailto:bssolnjobs@gmail.com)
+* 🌐 [Apply on Website](https://bssoln.com/careers)
 ---
 
 </details>
@@ -2596,119 +2556,139 @@ We are a fast-growing team at **Bangladesh Software Solution**, building scalabl
 ## 🏢 Bdtask
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Software Sales & Marketing Executive</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 12K |
-| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
-| **Vacancies** | 10 |
-
-## 📝 [Description](https://www.bdtask.com/career.php)
-
-### Job Detail
-
-#### Department
-
-Sales & Marketing
-
-#### Vacancy
-
-10
-
-#### Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-#### Email
-
-hr@bdtask.com
-
-### Bdtask Ltd.
-
-Bdtask is a leading international branded software company. We are exporting our software and services to more than 100 countries over the world. We are looking for young, energetic and smart experience people who are looking for a wonderful work environment and the opportunity to work in a software company for Software Sales and marketing position.
-
-### Job Responsibilities:
-
-* Achieve weekly and monthly sales Target, able to fulfill responsibilities.
-* Conduct market research to identify selling possibilities and evaluate customer needs.
-* Support sales strategy by tele calling, fixing appointments for demo, and digital data mining.
-* Generating leads for new customers, and onboarding new sales areas/ outlets.
-* Set up meetings with potential clients and listen to their wishes and concerns.
-* Negotiate/ close deals and handle complaints or objections.
-* Reporting Daily/ Monthly. Perform according to company policy.
-* Assist Business managers with daily reports on a daily basis
-* Generate sales leads (prospects)
-* Post-sales activities - check customer experience
-
-### Employment Status
-
-Full Time
-
-### Educational Experience Requirements
-
-* BBA or Minimum Graduate in any discipline from a reputed University.
-* Experience on software sales and marketing to retail customer for Software Company.
-* Will get priority who have experience in marketing POS or restaurant management software.
-
-### Workplace
-
-Work at office
-
-### Job Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-### Salary
-
-12,000 – 15,000/- (including TA & DA)
-
-### Compensation & Other Benefits
-
-* Mobile bill
-* Sales Commission
-* Provident Fund
-* Insurance
-
-### Send your updated CV with cover letter to:
-
-hr@bdtask.com
-
-* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
-
-`Sales` `Marketing` `BBA` `POS` `Tele Calling` `Lead Generation` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Python/Django)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 AWS Software Engineer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
-| **Role** | Senior Software Engineer |
-| **Vacancies** | 5 |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `AWS` `Lambda` `API Gateway` `EKS` `RDS` `DynamoDB` `IAM` `Cloud Formation` 
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
+
+## AWS Software Engineer
 
 #### Job Detail
 
 #### Department
 
-Senior Software Engineer (Python/Django)
+AWS Software Engineer
 
 #### Vacancy
 
-5
+2
 
 #### Location
 
 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+#### Qualifications
+
+Bachelor degree in CSE/CS/EEE/ECE
+
+#### Experience
+
+3-7 Years
+
+#### Email
+
+hr@bdtask.com
+
+### Job Context
+
+*   We are looking for an AWS Infra Architect for an immediate need. This is a client-facing role & the candidate will have regular interactions with various client managers.
+*   The client is looking for an AWS Infra architect.
+
+### Job Requirements
+
+*   Architect and implement highly innovative cloud solutions that are secure, scalable, and reliable
+*   Lead/Participate in customer workshops with technical leaders to gather requirements.
+*   Build cloud infrastructure, including scripting and delivering infrastructure as code solutions
+*   Expertise in AWS Foundation Setup - including logging monitoring other native AWS security controls.
+*   AWS networking areas (VPN Transit Gateway VPC) build network setup between Data Center Client Offices and AWS.
+*   Well experienced with IAM Cognito ADFS Organizations AWS WAF
+*   Has experience in server-less architecture and AWS Services such as Lambda API Gateway R53 ALB EKS RDS DynamoDB
+*   Code Build Code Deploy
+*   Develop high-quality reusable infrastructure code using Cloud Formation.
+*   Collaborate with Security & Operation team & provide foundational Architectural solution & build in AWS
+*   Solve complex technical issues and develop solutions that extend service capabilities to meet customer needs
+
+### Employment Status
+
+Full Time
+
+### Experience Requirements
+
+3 to 7 Year(s)
+
+### Additional Requirements
+
+*   Age 25 to 40 years
+*   Only males are allowed to apply.
+
+### Job Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+### Educational Requirements
+
+Bachelor degree in CSE/CS/EEE/ECE
+
+### Salary
+
+Negotiable
+
+### Compensation & Other Benefits
+
+*   Profit share
+*   Provident fund
+*   Overtime allowance
+*   Festival Bonus: 2 (Yearly)
+
+### Send your updated CV with cover letter:
+
+Email: hr@bdtask.com
+
+---
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Business Development Executive</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `Business Process` `Digital Marketing` `Technical Documentation` `Sales IT Marketing` 
+
+## 📝 [Description](https://www.bdtask.com/career.php)
+
+## Business Development Executive
+
+#### Job Detail
+
+#### Department
+
+Business Development Executive
+
+#### Vacancy
+
+3
+
+#### Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+#### Qualifications
+
+Bachelor degree in BBA & MBA
 
 #### Experience
 
@@ -2720,19 +2700,23 @@ hr@bdtask.com
 
 ### Job Context
 
-*   We a leading international branded software company. We export our software and services more than 100 countries over the world. We are planning to add more technical members in our team.
-*   We pay for your single minute effort to our company who is finally selected for our team.
+*   Bdtask Limited is a leading international standard software company. We already export our software and services to more than 100 countries over the world. We are planning to add more business development executives with its team.
+*   We follow an hourly-based payment policy.
 
-### Job Responsibilities:
+### Job Requirements
 
-*   We're looking for Python/Django developers to join our core team. Responsibilities include developing core components for our SaaS based airlines platform with Python web frameworks.
-*   Provide technical guidance and assistance to other Jr. software engineers.
-*   Develop POCs/MVPs quickly.
-*   Optimize performance of web applications and create and utilize best standards.
-*   Design and documentation REST APIs, working with Facebook/Google Analytics etc. APIs
-*   Perform DevOps tasks with various CI/CD tools.
-*   AWS implementation knowledge
-*   Github/Bitbucket usability
+*   Local and International tender bidding
+*   Conducting local and international training
+*   Procuring new clients through direct contact, word-of-mouth, and collaboration with the marketing department
+*   Attend all the networking activities for research and creates connections with prospective clients
+*   Formulate, implement and review plans & policies
+*   Ensure effective coordination with the management for Business Development.
+*   Analyze the trend and take actions to cope up with it
+*   Negotiating with clients to secure the most attractive prices
+*   Adhere to quality control & ethical standards regarding the acquisition of customers, opportunities & vendors.
+*   Fixating the targets and achieving the goals
+*   Managing team and update the work regularly
+*   Any other assignment was given by the management
 
 ### Employment Status
 
@@ -2740,23 +2724,35 @@ Full Time
 
 ### Educational Requirements
 
-*   Bachelor of Science (B.Sc.) in Computer Science & Engineering
-*   Professional Certification: AWS
-*   Skills Required: Python and Django
+*   Bachelor degree in BBA & MBA
+*   Local and international tender experience with soft skill
+
+### Skills Required:
+
+*   Business Process
+*   Fluent in English speaking
+*   Digital Marketing
+*   Technical Documentation
+*   Sales IT Marketing
 
 ### Experience Requirements:
 
-*   At least 2 year(s)
-*   The applicants should have experience in the following area(s): Aamzon AWS, Mongo DB, Python Django, Restful Web API, Serverless
-
-### Additional Requirements
-
-*   Both males and females are encourage to apply.
+At least 2 year(s)
 
 ### The applicants should have experience in the following area(s):
 
-*   Programmer/ Software Engineer
-*   Web Developer/ Web Designer
+*   Product Training
+*   Should have knowledge on Govt. tender process
+*   Tender document
+
+### The applicants should have experience in the following business area(s):
+
+*   Software Company
+*   Training Institutes
+
+### Additional Requirements
+
+*   Age: 28 to 50
 
 ### Workplace
 
@@ -2772,19 +2768,15 @@ Negotiable
 
 ### Compensation & Other Benefits
 
-*   Pension policy, Performance bonus, Profit share, Provident fund, Insurance, Over-time allowance
-*   Salary Review: Yearly
+*   Provident fund, Overtime allowance
 *   Festival Bonus: 2 (Yearly)
 
 ### Send your updated CV with cover letter:
 
 Email: hr@bdtask.com
 
+---
 * 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
-
-`Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `Github` `Bitbucket` 
-
 ---
 
 </details>
@@ -2798,6 +2790,8 @@ Email: hr@bdtask.com
 | **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Junior |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `CI/CD` `GitHub` `Bitbucket` 
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
 
@@ -2875,11 +2869,136 @@ Negotiable
 
 Email: hr@bdtask.com
 
+---
 * 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
+---
 
-`Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `CI/CD` `GitHub` `Bitbucket` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Frontend Developer (React JS)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
+| **Role** | Senior Frontend Developer |
+| **Vacancies** | 5 |
+
+**🛠️ Tags**: `React Application` `React Native` `ReactJS` `REST API` `AWS` `ES6` `Redux` `Redux-saga` `Redux-persist` `Styled-Components` `Git` `Jira` 
+
+## 📝 [Description](https://www.bdtask.com/career.php)
+
+## Senior Frontend Developer (React JS)
+
+#### Job Detail
+
+#### Department
+
+Sr. Frontend Developer (React JS)
+
+#### Vacancy
+
+5
+
+#### Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+#### Skills
+
+React Application, React Native, ReactJS, REST API development experience.
+
+#### Qualifications
+
+Bachelor degree in CSE/CS/EEE/ECE
+
+#### Experience
+
+2 Years
+
+#### Email
+
+hr@bdtask.com
+
+### Job Context
+
+* (Please note) all positions at EIT require relevant experience. Applications without the required experience won’t be considered.
+* The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company.
+* The ideal candidate needs to manage frontend react projects, distribute tasks, create CI/CD, participate actively during UI/UX design, and give inputs.
+
+### Job Requirements
+
+* Development and maintenance of mobile applications of the company (React Native)
+* Design and development of new functionality
+* Refactoring, unifying, and maintaining existing development in working condition
+* Teamwork (close and structured interaction with colleagues)
+
+### Employment Status
+
+Full Time
+
+### Educational Requirements
+
+Bachelor degree in CSE/CS/EEE/ECE
+
+### Skills Required:
+
+React Application, React Native, ReactJS, REST API development experience.
+
+### Experience Requirements:
+
+At least 2 year(s)
+
+### The applicants should have experience in the following area(s):
+
+AWS, React Native, ReactJS, REST API
+
+### The applicants should have experience in the following business area(s):
+
+Software Company
+
+### Additional Requirements
+
+* Age: 25 to 40
+* Both males and females are allowed to apply.
+* React Native, ES6 / 7, Redux, Redux-saga, Redux-persist, Styled-Components;
+* Experience with version control systems and bug trackers (Git, Jira)
+* Experience with mobile applications (examples of published works will be a plus);
+* Confident understanding of the principles of the PLO;
+* Initiative, responsibility, attentiveness;
+* Experience of practical use of version control system (Git)
+
+### Workplace
+
+Work at office
+
+### Job Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+### Salary
+
+Negotiable
+
+### Compensation & Other Benefits
+
+* Credit card
+* Performance bonus
+* Profit share
+* Provident fund
+* Overtime allowance
+
+### Salary Review:
+
+Yearly
+
+### Send your updated CV with cover letter:
+
+Email: hr@bdtask.com
+
+---
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ---
 
 </details>
@@ -2893,6 +3012,8 @@ Email: hr@bdtask.com
 | **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
 | **Role** | Senior PHP Developer |
 | **Vacancies** | 10 |
+
+**🛠️ Tags**: `Ajax` `CodeIgniter` `jQuery` `Laravel` `MySQL` `PHP` 
 
 ## 📝 [Description](https://www.bdtask.com/career.php)
 
@@ -3031,137 +3152,31 @@ Yearly
 
 Email: hr@bdtask.com
 
+---
 * 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
-
-`Ajax` `CodeIgniter` `jQuery` `Laravel` `MySQL` `PHP` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 AWS Software Engineer</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Python/Django)</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.bdtask.com/career.php)
-
-## AWS Software Engineer
-
-#### Job Detail
-
-#### Department
-
-AWS Software Engineer
-
-#### Vacancy
-
-2
-
-#### Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-#### Qualifications
-
-Bachelor degree in CSE/CS/EEE/ECE
-
-#### Experience
-
-3-7 Years
-
-#### Email
-
-hr@bdtask.com
-
-### Job Context
-
-*   We are looking for an AWS Infra Architect for an immediate need. This is a client-facing role & the candidate will have regular interactions with various client managers.
-*   The client is looking for an AWS Infra architect.
-
-### Job Requirements
-
-*   Architect and implement highly innovative cloud solutions that are secure, scalable, and reliable
-*   Lead/Participate in customer workshops with technical leaders to gather requirements.
-*   Build cloud infrastructure, including scripting and delivering infrastructure as code solutions
-*   Expertise in AWS Foundation Setup - including logging monitoring other native AWS security controls.
-*   AWS networking areas (VPN Transit Gateway VPC) build network setup between Data Center Client Offices and AWS.
-*   Well experienced with IAM Cognito ADFS Organizations AWS WAF
-*   Has experience in server-less architecture and AWS Services such as Lambda API Gateway R53 ALB EKS RDS DynamoDB
-*   Code Build Code Deploy
-*   Develop high-quality reusable infrastructure code using Cloud Formation.
-*   Collaborate with Security & Operation team & provide foundational Architectural solution & build in AWS
-*   Solve complex technical issues and develop solutions that extend service capabilities to meet customer needs
-
-### Employment Status
-
-Full Time
-
-### Experience Requirements
-
-3 to 7 Year(s)
-
-### Additional Requirements
-
-*   Age 25 to 40 years
-*   Only males are allowed to apply.
-
-### Job Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-### Educational Requirements
-
-Bachelor degree in CSE/CS/EEE/ECE
-
-### Salary
-
-Negotiable
-
-### Compensation & Other Benefits
-
-*   Profit share
-*   Provident fund
-*   Overtime allowance
-*   Festival Bonus: 2 (Yearly)
-
-### Send your updated CV with cover letter:
-
-Email: hr@bdtask.com
-
-* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
-
-`AWS` `Lambda` `API Gateway` `EKS` `RDS` `DynamoDB` `IAM` `Cloud Formation` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Frontend Developer (React JS)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
-| **Role** | Senior Frontend Developer |
+| **Role** | Senior Software Engineer |
 | **Vacancies** | 5 |
 
-## 📝 [Description](https://www.bdtask.com/career.php)
+**🛠️ Tags**: `Python` `Django` `AWS` `MongoDB` `Restful Web API` `Serverless` `Github` `Bitbucket` 
 
-## Senior Frontend Developer (React JS)
+## 📝 [Description](https://www.bdtask.com/career.php)
 
 #### Job Detail
 
 #### Department
 
-Sr. Frontend Developer (React JS)
+Senior Software Engineer (Python/Django)
 
 #### Vacancy
 
@@ -3171,14 +3186,6 @@ Sr. Frontend Developer (React JS)
 
 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
 
-#### Skills
-
-React Application, React Native, ReactJS, REST API development experience.
-
-#### Qualifications
-
-Bachelor degree in CSE/CS/EEE/ECE
-
 #### Experience
 
 2 Years
@@ -3189,16 +3196,19 @@ hr@bdtask.com
 
 ### Job Context
 
-* (Please note) all positions at EIT require relevant experience. Applications without the required experience won’t be considered.
-* The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company.
-* The ideal candidate needs to manage frontend react projects, distribute tasks, create CI/CD, participate actively during UI/UX design, and give inputs.
+*   We a leading international branded software company. We export our software and services more than 100 countries over the world. We are planning to add more technical members in our team.
+*   We pay for your single minute effort to our company who is finally selected for our team.
 
-### Job Requirements
+### Job Responsibilities:
 
-* Development and maintenance of mobile applications of the company (React Native)
-* Design and development of new functionality
-* Refactoring, unifying, and maintaining existing development in working condition
-* Teamwork (close and structured interaction with colleagues)
+*   We're looking for Python/Django developers to join our core team. Responsibilities include developing core components for our SaaS based airlines platform with Python web frameworks.
+*   Provide technical guidance and assistance to other Jr. software engineers.
+*   Develop POCs/MVPs quickly.
+*   Optimize performance of web applications and create and utilize best standards.
+*   Design and documentation REST APIs, working with Facebook/Google Analytics etc. APIs
+*   Perform DevOps tasks with various CI/CD tools.
+*   AWS implementation knowledge
+*   Github/Bitbucket usability
 
 ### Employment Status
 
@@ -3206,34 +3216,23 @@ Full Time
 
 ### Educational Requirements
 
-Bachelor degree in CSE/CS/EEE/ECE
-
-### Skills Required:
-
-React Application, React Native, ReactJS, REST API development experience.
+*   Bachelor of Science (B.Sc.) in Computer Science & Engineering
+*   Professional Certification: AWS
+*   Skills Required: Python and Django
 
 ### Experience Requirements:
 
-At least 2 year(s)
-
-### The applicants should have experience in the following area(s):
-
-AWS, React Native, ReactJS, REST API
-
-### The applicants should have experience in the following business area(s):
-
-Software Company
+*   At least 2 year(s)
+*   The applicants should have experience in the following area(s): Aamzon AWS, Mongo DB, Python Django, Restful Web API, Serverless
 
 ### Additional Requirements
 
-* Age: 25 to 40
-* Both males and females are allowed to apply.
-* React Native, ES6 / 7, Redux, Redux-saga, Redux-persist, Styled-Components;
-* Experience with version control systems and bug trackers (Git, Jira)
-* Experience with mobile applications (examples of published works will be a plus);
-* Confident understanding of the principles of the PLO;
-* Initiative, responsibility, attentiveness;
-* Experience of practical use of version control system (Git)
+*   Both males and females are encourage to apply.
+
+### The applicants should have experience in the following area(s):
+
+*   Programmer/ Software Engineer
+*   Web Developer/ Web Designer
 
 ### Workplace
 
@@ -3249,155 +3248,572 @@ Negotiable
 
 ### Compensation & Other Benefits
 
-* Credit card
-* Performance bonus
-* Profit share
-* Provident fund
-* Overtime allowance
-
-### Salary Review:
-
-Yearly
-
-### Send your updated CV with cover letter:
-
-Email: hr@bdtask.com
-
-* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
-
-`React Application` `React Native` `ReactJS` `REST API` `AWS` `ES6` `Redux` `Redux-saga` `Redux-persist` `Styled-Components` `Git` `Jira` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Business Development Executive</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
-| **Vacancies** | 3 |
-
-## 📝 [Description](https://www.bdtask.com/career.php)
-
-## Business Development Executive
-
-#### Job Detail
-
-#### Department
-
-Business Development Executive
-
-#### Vacancy
-
-3
-
-#### Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-#### Qualifications
-
-Bachelor degree in BBA & MBA
-
-#### Experience
-
-2 Years
-
-#### Email
-
-hr@bdtask.com
-
-### Job Context
-
-*   Bdtask Limited is a leading international standard software company. We already export our software and services to more than 100 countries over the world. We are planning to add more business development executives with its team.
-*   We follow an hourly-based payment policy.
-
-### Job Requirements
-
-*   Local and International tender bidding
-*   Conducting local and international training
-*   Procuring new clients through direct contact, word-of-mouth, and collaboration with the marketing department
-*   Attend all the networking activities for research and creates connections with prospective clients
-*   Formulate, implement and review plans & policies
-*   Ensure effective coordination with the management for Business Development.
-*   Analyze the trend and take actions to cope up with it
-*   Negotiating with clients to secure the most attractive prices
-*   Adhere to quality control & ethical standards regarding the acquisition of customers, opportunities & vendors.
-*   Fixating the targets and achieving the goals
-*   Managing team and update the work regularly
-*   Any other assignment was given by the management
-
-### Employment Status
-
-Full Time
-
-### Educational Requirements
-
-*   Bachelor degree in BBA & MBA
-*   Local and international tender experience with soft skill
-
-### Skills Required:
-
-*   Business Process
-*   Fluent in English speaking
-*   Digital Marketing
-*   Technical Documentation
-*   Sales IT Marketing
-
-### Experience Requirements:
-
-At least 2 year(s)
-
-### The applicants should have experience in the following area(s):
-
-*   Product Training
-*   Should have knowledge on Govt. tender process
-*   Tender document
-
-### The applicants should have experience in the following business area(s):
-
-*   Software Company
-*   Training Institutes
-
-### Additional Requirements
-
-*   Age: 28 to 50
-
-### Workplace
-
-Work at office
-
-### Job Location
-
-4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
-
-### Salary
-
-Negotiable
-
-### Compensation & Other Benefits
-
-*   Provident fund, Overtime allowance
+*   Pension policy, Performance bonus, Profit share, Provident fund, Insurance, Over-time allowance
+*   Salary Review: Yearly
 *   Festival Bonus: 2 (Yearly)
 
 ### Send your updated CV with cover letter:
 
 Email: hr@bdtask.com
 
+---
 * 📧 [Send Resume via Email](mailto:hr@bdtask.com)
-## 🛠️ Tech Stack
+---
 
-`Business Process` `Digital Marketing` `Technical Documentation` `Sales IT Marketing` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Sales & Marketing Executive</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 12K |
+| **Location** | 4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229 |
+| **Vacancies** | 10 |
+
+**🛠️ Tags**: `Sales` `Marketing` `BBA` `POS` `Tele Calling` `Lead Generation` 
+
+## 📝 [Description](https://www.bdtask.com/career.php)
+
+### Job Detail
+
+#### Department
+
+Sales & Marketing
+
+#### Vacancy
+
+10
+
+#### Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+#### Email
+
+hr@bdtask.com
+
+### Bdtask Ltd.
+
+Bdtask is a leading international branded software company. We are exporting our software and services to more than 100 countries over the world. We are looking for young, energetic and smart experience people who are looking for a wonderful work environment and the opportunity to work in a software company for Software Sales and marketing position.
+
+### Job Responsibilities:
+
+* Achieve weekly and monthly sales Target, able to fulfill responsibilities.
+* Conduct market research to identify selling possibilities and evaluate customer needs.
+* Support sales strategy by tele calling, fixing appointments for demo, and digital data mining.
+* Generating leads for new customers, and onboarding new sales areas/ outlets.
+* Set up meetings with potential clients and listen to their wishes and concerns.
+* Negotiate/ close deals and handle complaints or objections.
+* Reporting Daily/ Monthly. Perform according to company policy.
+* Assist Business managers with daily reports on a daily basis
+* Generate sales leads (prospects)
+* Post-sales activities - check customer experience
+
+### Employment Status
+
+Full Time
+
+### Educational Experience Requirements
+
+* BBA or Minimum Graduate in any discipline from a reputed University.
+* Experience on software sales and marketing to retail customer for Software Company.
+* Will get priority who have experience in marketing POS or restaurant management software.
+
+### Workplace
+
+Work at office
+
+### Job Location
+
+4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229
+
+### Salary
+
+12,000 – 15,000/- (including TA & DA)
+
+### Compensation & Other Benefits
+
+* Mobile bill
+* Sales Commission
+* Provident Fund
+* Insurance
+
+### Send your updated CV with cover letter to:
+
+hr@bdtask.com
+
+---
+* 📧 [Send Resume via Email](mailto:hr@bdtask.com)
 ---
 
 </details>
 
 ## 🏢 Brain Station 23 PLC
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Analyst — Proposals & Presales Assets</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 20 Aug, 2026 |
+| **Location** | Mohakhali, Dhaka, Bangladesh (Hybrid) |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Analyst` `Pre-sales` `Proposal` `Content Writing` `Microsoft PowerPoint` `Google Slides` `FinTech` `AI` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl... [Read more](javascript:void(0);)
+
+Skills
+
+AnalystPre-salesProposal
+
+# Description
+
+We are looking for an Analyst — Proposals & Presales Assets who can turn raw inputs into clear, structured, and client-ready materials that help the entire presales function move faster and with higher consistency.
+
+This is a writing and asset-building role at the core of the presales engine. You will take discovery notes, solution inputs, and senior guidance, and transform them into polished proposals, presentations, and reusable commercial materials. Your work directly influences how quickly opportunities move and how convincingly we communicate with clients.
+
+Fintech23 is the FinTech business unit of Brain Station 23 PLC, building digital banking, lending, payments, remittance, eKYC, AML, and AI-driven automation solutions across Bangladesh and international markets. Alongside this, we are developing AI-enabled delivery capabilities that improve speed, quality, and execution efficiency.
+
+In this role, clarity, structure, and attention to detail matter as much as writing ability. Every document you produce is part of how we compete.
+
+# Job Responsibilities
+
+*   Draft client-facing proposals based on discovery notes, briefs, and inputs from senior team members
+*   Build presales assets including solution decks, capability documents, one-pagers, case studies, demo scripts, and compliance matrices
+*   Translate complex FinTech and AI solutions into clear, structured, and persuasive client-ready narratives
+*   Maintain and organize the presales asset library, including templates, reusable content, credentials, and reference materials
+*   Ensure consistency and version control across all presales documents, avoiding outdated or conflicting content
+*   Improve the structure, formatting, readability, and visual quality of all deliverables before client submission
+*   Identify and fix inconsistencies such as incorrect figures, missing assumptions, scope gaps, or unsupported claims
+*   Collaborate with presales, solution, and technical teams to refine content and ensure accuracy
+*   Use AI tools to accelerate drafting, structuring, and content creation while validating output quality and correctness
+*   Continuously refine standard documents and reusable assets to improve team efficiency over time
+
+## We Are Looking For
+
+*   A strong writer who can convert unstructured inputs into clear, persuasive, and professional documents
+*   Someone who is highly structured in thinking and can organize complex ideas into simple, readable formats
+*   A detail-oriented professional who notices inconsistencies, gaps, and errors before they reach the client
+*   A visually aware communicator who can create clean, professional-looking decks and documents
+*   Someone comfortable working with AI tools to accelerate drafting while applying strong judgment to refine output
+*   A self-motivated individual who takes ownership of quality and consistency in every deliverable
+*   Someone curious and willing to learn FinTech and AI concepts quickly enough to communicate them effectively
+*   A team player who understands that strong presales output is a combination of speed, clarity, and accuracy
+
+## Requirements / Required Skills
+
+*   1–2 years of experience in content writing, business writing, presales support, consulting support, business analysis, or a related role; strong portfolios from fresh graduates may also be considered
+*   Excellent written communication skills with the ability to produce structured, concise, and persuasive content
+*   Strong ability to translate technical or complex inputs into simple client-friendly narratives
+*   Proficiency in Microsoft PowerPoint, Google Slides, Word, and similar documentation tools
+*   Good understanding of document structure, storytelling, and presentation flow
+*   Strong attention to detail with the ability to spot errors in logic, numbers, formatting, and assumptions
+*   Comfortable working in fast-paced environments with multiple parallel requests and deadlines
+*   Familiarity with AI-assisted writing and content creation tools, with the ability to validate outputs critically
+*   Basic understanding or willingness to learn FinTech and AI domain concepts
+
+## Nice to Have
+
+*   Experience creating business proposals, pitch decks, or consulting-style presentations
+*   Exposure to FinTech domains such as digital banking, lending, payments, remittance, eKYC, or AML
+*   Familiarity with AI use cases such as automation, chatbots, or workflow optimization
+*   Experience working with templates, branding guidelines, or corporate communication standards
+*   Basic knowledge of design tools such as Canva, Figma, or advanced PowerPoint design techniques
+*   Experience maintaining content libraries, documentation systems, or knowledge bases
+*   Exposure to working in software companies, consulting firms, or presales environments
+*   Understanding of B2B sales cycles and client proposal processes
+
+Benefits
+
+*   Attractive Salary for deserving candidates
+*   Medical Coverage
+*   Yearly Salary Review
+*   Weekly two holidays
+*   Provident fund
+*   Gratuity fund
+*   Two festival bonus
+*   Monthly Performance Bonus
+*   WPPF.
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/analyst-proposals-presales-assets/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Asp.Net Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 14 Aug, 2026 |
+| **Location** | Dhaka, Bangladesh |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Asp.Net` `React` `ASP.NET Core` `C#` `Entity Framework Core` `React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL Server` `PostgreSQL` `Git` `Docker` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
+
+Skills
+
+Asp.NetReact
+
+# Description
+
+We are seeking skilled and versatile **ASP.NET Engineer** to join our team. As an ASP.NET Engineer, you will be responsible for developing high-quality web applications using both backend and frontend technologies, including **ASP.NET Core, React.**
+
+# Job Responsibilities
+
+**Backend (.NET Core)**
+
+*   Design, develop, and maintain RESTful APIs using ASP.NET Core
+*   Implement business logic, data access layers, and microservices architecture
+*   Optimize application performance and scalability
+*   Integrate third-party services and APIs
+*   Ensure security best practices (authentication, authorization, data protection)
+
+**Frontend (React.js)**
+
+*   Build responsive and dynamic user interfaces using React
+*   Manage application state using Redux or Context API
+*   Implement reusable components and UI libraries
+*   Collaborate with UX/UI designers to translate designs into functional interfaces
+*   Ensure cross-browser compatibility and accessibility
+
+**General**
+
+*   Participate in Agile/Scrum ceremonies and sprint planning
+*   Write unit, integration, and end-to-end tests
+*   Conduct code reviews and mentor junior developers
+*   Collaborate with DevOps for CI/CD pipelines and cloud deployments
+*   Document technical specifications and architecture decisions
+
+**Required Skills & Qualifications**
+
+*   3 to 6 years of professional experience in full stack development
+*   Strong proficiency in **C#**, **ASP.NET Core**, **Entity Framework Core**
+*   Solid experience with **React.js**, **JavaScript/TypeScript**, **HTML5**, **CSS3**
+*   Familiarity with **SQL Server**, **PostgreSQL**, or other relational databases
+*   Experience with **Git**, **Docker**, and cloud platforms
+*   Understanding of software design patterns and SOLID principles
+*   Excellent problem-solving and communication skills
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - Cyber Security</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 20 Aug, 2026 |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Manager |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `cyber Security` `software sales` `SOC` `VAPT` `CRM` `Salesforce` `HubSpot` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl...
+
+# Description
+
+We are seeking a results-driven Manager, Sales (Cyber Security) to join our **Cyber Security business team,** focusing on enterprise security solutions and managed security services. In this role, you will be responsible for identifying and engaging potential clients, managing opportunities through CRM, conducting impactful solution presentations, and driving successful deal closures. You will collaborate with technology partners, security vendors, and internal technical teams to expand market reach and deliver business value to clients.
+
+This position requires strong communication and consultative selling skills, a solid understanding of cyber security solutions, and the ability to translate technical capabilities into business outcomes for enterprise customers.
+
+# Job Responsibilities
+
+1. Lead Generation & Prospecting
+* Research and identify potential clients across industries including banking, financial services, telecommunications, manufacturing, healthcare, retail, and government sectors.
+* Generate qualified opportunities for cyber security solutions and services, including managed security services, security assessments, vulnerability management, SOC services, cloud security, and compliance solutions.
+* Build and maintain a healthy sales pipeline through outbound prospecting, referrals, partner channels, industry events, and networking activities.
+* Maintain and manage leads in CRM with proper qualification, segmentation, and follow-up tracking.
+
+2. Outreach & Client Engagement
+* Conduct outreach through LinkedIn, email campaigns, cold calls, networking events, conferences, and industry forums.
+* Engage with inbound inquiries and marketing-generated leads to ensure timely follow-up and qualification.
+* Build strong relationships with key decision-makers, including CIOs, CISOs, CTOs, IT Managers, Security Managers, and business stakeholders.
+* Understand customer security challenges, business risks, compliance requirements, and strategic objectives.
+
+3. Sales Conversion & Solution Selling
+* Assess client security needs and recommend appropriate cyber security solutions and services.
+* Conduct solution presentations, demonstrations, workshops, and executive-level discussions aligned with client requirements.
+* Manage the complete sales lifecycle from Lead → Opportunity → Proposal → Negotiation → Deal Closure.
+* Prepare commercial proposals, RFP/RFQ responses, and solution recommendations in collaboration with technical teams.
+* Negotiate commercial terms, close deals, and ensure smooth project handover and customer onboarding.
+
+4. Partnership & Collaboration
+* Collaborate with cyber security technology vendors, cloud providers, and strategic partners to identify joint business opportunities.
+* Work closely with pre-sales, security consultants, delivery teams, and solution architects to ensure solution feasibility and client satisfaction.
+* Support partner-driven campaigns, webinars, events, and co-marketing initiatives to expand market reach.
+* Maintain strong relationships with key technology vendors and channel partners.
+
+5. Reporting & Business Growth
+* Maintain accurate and up-to-date CRM records for all sales activities and opportunities.
+* Provide regular pipeline reports, revenue forecasts, sales performance metrics, and market intelligence updates.
+* Monitor industry trends, emerging cyber threats, regulatory developments, and competitive activities.
+* Gather customer feedback and market insights to support service improvement and business growth strategies.
+* Consistently achieve or exceed assigned revenue, pipeline, and business development targets.
+
+## Requirements
+
+* 5–8 years of experience in Cyber Security Sales, IT Solution Sales, Enterprise Technology Sales, or B2B Solution Selling.
+* Strong understanding of cyber security domains such as Security Operations Center (SOC), Vulnerability Assessment & Penetration Testing (VAPT), Managed Security Services, Cloud Security, Endpoint Security, Identity & Access Management (IAM), SIEM, EDR/XDR, Network Security, and Compliance Solutions.
+* Proven track record of generating pipeline, managing enterprise accounts, and closing high-value technology deals.
+* Excellent communication, negotiation, presentation, and stakeholder management skills.
+* Ability to understand client security requirements and translate them into business-driven security solutions.
+* Experience working with CRM platforms such as Salesforce, HubSpot, Odoo, Zoho CRM, or similar systems.
+* Strong relationship-building skills with enterprise decision-makers and executive stakeholders.
+* Self-driven, proactive, and target-oriented with strong ownership of revenue generation and client success.
+
+## Nice to Have
+
+* Experience selling managed security services (MSSP), SOC-as-a-Service, VAPT, cloud security, or compliance solutions.
+* Exposure to security frameworks and standards such as ISO 27001, PCI DSS, NIST, CIS Controls, GDPR, or local regulatory requirements.
+* Experience working with security vendors such as Microsoft Security, Cisco, Fortinet, Palo Alto Networks, CrowdStrike, Check Point, Tenable, Qualys, Splunk, or similar technologies.
+* Existing network within enterprise IT, cyber security, banking, telecom, or government sectors.
+* Experience responding to enterprise RFPs, tenders, and procurement processes.
+* Knowledge of cloud platforms such as AWS, Microsoft Azure, or Google Cloud.
+* Experience managing strategic accounts and long-term client relationships.
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - Fintech</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 20 Aug, 2026 |
+| **Location** | Dhaka, Bangladesh |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `sales` `FinTech` `B2B sales` `SaaS` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
+
+Skills
+
+sales
+
+# Description
+
+Brain Station 23 PLC is looking for a highly motivated **Manager, Sales** with mandatory experience in selling FinTech solutions. The ideal candidate must have hands-on experience in promoting and closing deals for financial technology products and should be confident in selling our broader digital transformation and IT services.
+
+# Job Responsibilities
+
+*   Sell and promote Brain Station 23’s FinTech solutions (e.g., payment systems, digital banking, lending platforms, financial automation tools) to banks, financial institutions, fintech startups, and enterprise clients.
+*   Conduct impactful product demos, presentations, and requirement discovery sessions tailored to FinTech solutions.
+*   Build and maintain an active sales pipeline through continuous lead generation, cold outreach, networking, and follow-ups.
+*   Understand client pain points and collaborate with internal technical teams to create customized FinTech proposals and solutions.
+*   Own the complete sales cycle including lead generation, product positioning, proposal development, negotiation, and deal closure.
+*   Meet monthly/quarterly sales targets and ensure consistent revenue growth.
+*   Maintain strong client relationships to ensure repeat business, renewals, and upsell opportunities.
+*   Stay updated on market trends, competitor offerings, regulatory changes, and technological advancements in the FinTech industry.
+*   Prepare proposals, quotations, sales reports, and necessary documentation.
+
+**Skills & Qualifications**
+
+**Must-Have Requirements**
+
+*   Minimum **4 years of experience in selling FinTech solutions** (mandatory).
+*   Demonstrated track record of achieving sales targets within the FinTech or financial services domain.
+*   Strong understanding of FinTech products such as payment gateways, digital wallets, core banking systems, or lending platforms.
+*   Ability to run professional product demos and handle technical discussions related to FinTech solutions.
+
+**Additional Qualifications**
+
+*   Bachelor’s degree in Business, Marketing, IT, or any relevant field (MBA preferred).
+*   Experience in B2B sales within IT/software services.
+*   Strong communication, negotiation, and presentation skills.
+*   Understanding of digital transformation technologies and SaaS products.
+*   Proactive, self-driven, and able to work independently.
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpek-manager-sales-fintech/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - eCommerce</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 20 Aug, 2026 |
+| **Location** | Mirpur DOHS, Dhaka, Bangladesh |
+| **Vacancies** | 4 |
+
+**🛠️ Tags**: `sales` `Odoo CRM` `Shopify` `WooCommerce` `Magento` `SaaS Sales` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
+
+Skills
+
+salesExcellent communication skills.
+
+# Description
+
+We are seeking a results-driven **Salesperson** to join our nopStation team, focusing on **enterprise eCommerce and software solutions**. In this role, you will be responsible for identifying and engaging potential clients, managing leads through our **Odoo CRM**, conducting impactful product demos, and driving successful deal closures. You will also collaborate with global partner networks, including **nopCommerce, ABP**, to expand market reach. This position requires strong communication skills, a passion for technology, and the ability to **translate complex products into business value** for clients.
+
+# Job Responsibilities
+
+**1\. Lead Generation & Prospecting**
+
+*   Research and identify potential eCommerce businesses, online retailers, D2C brands, and marketplace sellers.
+*   Generate leads from platforms such as Shopify, WooCommerce, Magento, and other eCommerce ecosystems.
+*   Maintain and manage leads in CRM (Odoo or similar) with proper segmentation, qualification, and follow-up tracking.
+
+**2\. Outreach & Engagement**
+
+*   Conduct outreach via LinkedIn, email campaigns, cold calls, and eCommerce communities/events.
+*   Engage with inbound leads from website inquiries, digital campaigns, and referrals to ensure timely response.
+*   Build strong relationships with decision-makers (Founders, eCommerce Managers, Marketing Heads).
+
+**3\. Sales Conversion**
+
+*   Understand client business models and propose tailored eCommerce solutions (website development, optimization, integrations, etc.).
+*   Conduct product/service demos and presentations aligned with client needs.
+*   Manage the full sales pipeline (Lead → Opportunity → Deal) within CRM.
+*   Negotiate pricing, close deals, and ensure a smooth onboarding experience for new clients.
+
+**4\. Partnership & Collaboration**
+
+*   Collaborate with e-commerce platforms, payment gateways, logistics partners, and digital agencies for joint opportunities.
+*   Work closely with internal teams (development, UI/UX, marketing) to ensure solution alignment and delivery excellence.
+*   Support co-marketing initiatives, campaigns, and partnership programs to expand business reach.
+
+**5\. Reporting & Optimization**
+
+*   Maintain accurate and updated CRM data for all sales activities.
+*   Provide regular reports on pipeline status, revenue forecasts, and conversion metrics.
+*   Gather market insights and client feedback to improve offerings and sales strategies.
+
+**Requirements**
+
+*   4–7 years of experience in **eCommerce Sales / Digital Commerce / SaaS Sales**.
+*   Strong understanding of eCommerce platforms (Shopify, WooCommerce, Magento, etc.) and online business models.
+*   Excellent communication, negotiation, and presentation skills.
+*   Ability to understand client requirements and translate them into business-driven eCommerce solutions.
+*   Hands-on experience with CRM tools (preferably Odoo or similar).
+*   Self-driven, proactive, and target-oriented with a strong focus on client relationship management.
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/manager-sales-ecommerce/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 NetSuite Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 20 Aug, 2026 |
+| **Location** | Dhaka, Dhaka, Bangladesh |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `NetSuite` `SuiteQL` `SuiteCloud` `iPaaS platform` 
+
+## 📝 [Description](https://brainstation-23.easy.jobs/)
+
+# Company Description
+
+It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
+
+# Description
+
+We run NetSuite as our system of record for finance and operations, with a meaningful layer of customization built up over several years. We're looking for a developer who can step into that environment, get fluent in what already exists, and extend it safely. This is not a greenfield build — comfort working inside someone else's design decisions is the core of the job.
+
+# Job Responsibilities
+
+*   Build and maintain SuiteScript 2.x customizations (User Event, Client, Scheduled, Map/Reduce, RESTlets, Suitelets)
+*   Take ownership of existing scripts, workflows, and custom records — trace behavior, document what you find, and improve it incrementally
+*   Configure and troubleshoot SuiteFlow workflows, saved searches, custom fields/records, and role-based permissions
+*   Support integrations between NetSuite and adjacent systems (CRM, middleware, third-party services) via RESTlets, SuiteTalk, and iPaaS connections
+*   Partner with finance and operations stakeholders to translate process needs into technical solutions
+*   Follow disciplined SDLC practices: sandbox development, testing, documented deployments
+
+**What we're looking for**
+
+*   3–5 years of hands-on NetSuite development experience
+*   Strong SuiteScript 2.x proficiency; solid SuiteQL/saved search skills
+*   Demonstrated experience inheriting and maintaining an existing customized NetSuite instance
+*   Working knowledge of core NetSuite modules (order-to-cash, procure-to-pay, billing, revenue)
+*   Ability to reverse-engineer undocumented logic and explain it clearly to non-technical stakeholders
+*   Comfortable owning work end-to-end with limited hand-holding
+
+**Nice to have**
+
+*   SuiteCloud Development Framework (SDF) and source-control-based deployment
+*   Experience with an iPaaS platform (Boomi)
+*   NetSuite certification (SuiteFoundation or Developer)
+*   Exposure to logistics, distribution, or services businesses
+
+Benefits
+
+*   Attractive Salary for deserving candidates
+*   Medical Coverage
+*   Yearly Salary Review
+*   Weekly two holidays
+*   Provident fund
+*   Gratuity fund
+*   Two festival bonus
+*   Monthly Performance Bonus
+*   WPPF.
+
+Life at Brain Station 23
+
+---
+* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/netsuite-developer/apply)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Project Manager - Fintech</strong> </summary>
@@ -3408,6 +3824,8 @@ Email: hr@bdtask.com
 | **Deadline** | 14 Aug, 2026 |
 | **Location** | Dhaka, Bangladesh |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `Project Management` `DevOps` `Jira` `Agile/Scrum` 
 
 ## 📝 [Description](https://brainstation-23.easy.jobs/)
 
@@ -3495,480 +3913,8 @@ Success Metrics
 
 Life at Brain Station 23
 
+---
 * 🌐 [Apply on Website](https://brainstation-23.easy.jobs/zyepnczvzp-project-manager-fintech/apply)
-## 🛠️ Tech Stack
-
-`Project Management` `DevOps` `Jira` `Agile/Scrum` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Asp.Net Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 14 Aug, 2026 |
-| **Location** | Dhaka, Bangladesh |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
-
-Skills
-
-Asp.NetReact
-
-# Description
-
-We are seeking skilled and versatile **ASP.NET Engineer** to join our team. As an ASP.NET Engineer, you will be responsible for developing high-quality web applications using both backend and frontend technologies, including **ASP.NET Core, React.**
-
-# Job Responsibilities
-
-**Backend (.NET Core)**
-
-*   Design, develop, and maintain RESTful APIs using ASP.NET Core
-*   Implement business logic, data access layers, and microservices architecture
-*   Optimize application performance and scalability
-*   Integrate third-party services and APIs
-*   Ensure security best practices (authentication, authorization, data protection)
-
-**Frontend (React.js)**
-
-*   Build responsive and dynamic user interfaces using React
-*   Manage application state using Redux or Context API
-*   Implement reusable components and UI libraries
-*   Collaborate with UX/UI designers to translate designs into functional interfaces
-*   Ensure cross-browser compatibility and accessibility
-
-**General**
-
-*   Participate in Agile/Scrum ceremonies and sprint planning
-*   Write unit, integration, and end-to-end tests
-*   Conduct code reviews and mentor junior developers
-*   Collaborate with DevOps for CI/CD pipelines and cloud deployments
-*   Document technical specifications and architecture decisions
-
-**Required Skills & Qualifications**
-
-*   3 to 6 years of professional experience in full stack development
-*   Strong proficiency in **C#**, **ASP.NET Core**, **Entity Framework Core**
-*   Solid experience with **React.js**, **JavaScript/TypeScript**, **HTML5**, **CSS3**
-*   Familiarity with **SQL Server**, **PostgreSQL**, or other relational databases
-*   Experience with **Git**, **Docker**, and cloud platforms
-*   Understanding of software design patterns and SOLID principles
-*   Excellent problem-solving and communication skills
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpnk-aspnet-developer/apply)
-## 🛠️ Tech Stack
-
-`Asp.Net` `React` `ASP.NET Core` `C#` `Entity Framework Core` `React.js` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL Server` `PostgreSQL` `Git` `Docker` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Analyst — Proposals & Presales Assets</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 20 Aug, 2026 |
-| **Location** | Mohakhali, Dhaka, Bangladesh (Hybrid) |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl... [Read more](javascript:void(0);)
-
-Skills
-
-AnalystPre-salesProposal
-
-# Description
-
-We are looking for an Analyst — Proposals & Presales Assets who can turn raw inputs into clear, structured, and client-ready materials that help the entire presales function move faster and with higher consistency.
-
-This is a writing and asset-building role at the core of the presales engine. You will take discovery notes, solution inputs, and senior guidance, and transform them into polished proposals, presentations, and reusable commercial materials. Your work directly influences how quickly opportunities move and how convincingly we communicate with clients.
-
-Fintech23 is the FinTech business unit of Brain Station 23 PLC, building digital banking, lending, payments, remittance, eKYC, AML, and AI-driven automation solutions across Bangladesh and international markets. Alongside this, we are developing AI-enabled delivery capabilities that improve speed, quality, and execution efficiency.
-
-In this role, clarity, structure, and attention to detail matter as much as writing ability. Every document you produce is part of how we compete.
-
-# Job Responsibilities
-
-*   Draft client-facing proposals based on discovery notes, briefs, and inputs from senior team members
-*   Build presales assets including solution decks, capability documents, one-pagers, case studies, demo scripts, and compliance matrices
-*   Translate complex FinTech and AI solutions into clear, structured, and persuasive client-ready narratives
-*   Maintain and organize the presales asset library, including templates, reusable content, credentials, and reference materials
-*   Ensure consistency and version control across all presales documents, avoiding outdated or conflicting content
-*   Improve the structure, formatting, readability, and visual quality of all deliverables before client submission
-*   Identify and fix inconsistencies such as incorrect figures, missing assumptions, scope gaps, or unsupported claims
-*   Collaborate with presales, solution, and technical teams to refine content and ensure accuracy
-*   Use AI tools to accelerate drafting, structuring, and content creation while validating output quality and correctness
-*   Continuously refine standard documents and reusable assets to improve team efficiency over time
-
-## We Are Looking For
-
-*   A strong writer who can convert unstructured inputs into clear, persuasive, and professional documents
-*   Someone who is highly structured in thinking and can organize complex ideas into simple, readable formats
-*   A detail-oriented professional who notices inconsistencies, gaps, and errors before they reach the client
-*   A visually aware communicator who can create clean, professional-looking decks and documents
-*   Someone comfortable working with AI tools to accelerate drafting while applying strong judgment to refine output
-*   A self-motivated individual who takes ownership of quality and consistency in every deliverable
-*   Someone curious and willing to learn FinTech and AI concepts quickly enough to communicate them effectively
-*   A team player who understands that strong presales output is a combination of speed, clarity, and accuracy
-
-## Requirements / Required Skills
-
-*   1–2 years of experience in content writing, business writing, presales support, consulting support, business analysis, or a related role; strong portfolios from fresh graduates may also be considered
-*   Excellent written communication skills with the ability to produce structured, concise, and persuasive content
-*   Strong ability to translate technical or complex inputs into simple client-friendly narratives
-*   Proficiency in Microsoft PowerPoint, Google Slides, Word, and similar documentation tools
-*   Good understanding of document structure, storytelling, and presentation flow
-*   Strong attention to detail with the ability to spot errors in logic, numbers, formatting, and assumptions
-*   Comfortable working in fast-paced environments with multiple parallel requests and deadlines
-*   Familiarity with AI-assisted writing and content creation tools, with the ability to validate outputs critically
-*   Basic understanding or willingness to learn FinTech and AI domain concepts
-
-## Nice to Have
-
-*   Experience creating business proposals, pitch decks, or consulting-style presentations
-*   Exposure to FinTech domains such as digital banking, lending, payments, remittance, eKYC, or AML
-*   Familiarity with AI use cases such as automation, chatbots, or workflow optimization
-*   Experience working with templates, branding guidelines, or corporate communication standards
-*   Basic knowledge of design tools such as Canva, Figma, or advanced PowerPoint design techniques
-*   Experience maintaining content libraries, documentation systems, or knowledge bases
-*   Exposure to working in software companies, consulting firms, or presales environments
-*   Understanding of B2B sales cycles and client proposal processes
-
-Benefits
-
-*   Attractive Salary for deserving candidates
-*   Medical Coverage
-*   Yearly Salary Review
-*   Weekly two holidays
-*   Provident fund
-*   Gratuity fund
-*   Two festival bonus
-*   Monthly Performance Bonus
-*   WPPF.
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/analyst-proposals-presales-assets/apply)
-## 🛠️ Tech Stack
-
-`Analyst` `Pre-sales` `Proposal` `Content Writing` `Microsoft PowerPoint` `Google Slides` `FinTech` `AI` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - eCommerce</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 20 Aug, 2026 |
-| **Location** | Mirpur DOHS, Dhaka, Bangladesh |
-| **Vacancies** | 4 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
-
-Skills
-
-salesExcellent communication skills.
-
-# Description
-
-We are seeking a results-driven **Salesperson** to join our nopStation team, focusing on **enterprise eCommerce and software solutions**. In this role, you will be responsible for identifying and engaging potential clients, managing leads through our **Odoo CRM**, conducting impactful product demos, and driving successful deal closures. You will also collaborate with global partner networks, including **nopCommerce, ABP**, to expand market reach. This position requires strong communication skills, a passion for technology, and the ability to **translate complex products into business value** for clients.
-
-# Job Responsibilities
-
-**1\. Lead Generation & Prospecting**
-
-*   Research and identify potential eCommerce businesses, online retailers, D2C brands, and marketplace sellers.
-*   Generate leads from platforms such as Shopify, WooCommerce, Magento, and other eCommerce ecosystems.
-*   Maintain and manage leads in CRM (Odoo or similar) with proper segmentation, qualification, and follow-up tracking.
-
-**2\. Outreach & Engagement**
-
-*   Conduct outreach via LinkedIn, email campaigns, cold calls, and eCommerce communities/events.
-*   Engage with inbound leads from website inquiries, digital campaigns, and referrals to ensure timely response.
-*   Build strong relationships with decision-makers (Founders, eCommerce Managers, Marketing Heads).
-
-**3\. Sales Conversion**
-
-*   Understand client business models and propose tailored eCommerce solutions (website development, optimization, integrations, etc.).
-*   Conduct product/service demos and presentations aligned with client needs.
-*   Manage the full sales pipeline (Lead → Opportunity → Deal) within CRM.
-*   Negotiate pricing, close deals, and ensure a smooth onboarding experience for new clients.
-
-**4\. Partnership & Collaboration**
-
-*   Collaborate with e-commerce platforms, payment gateways, logistics partners, and digital agencies for joint opportunities.
-*   Work closely with internal teams (development, UI/UX, marketing) to ensure solution alignment and delivery excellence.
-*   Support co-marketing initiatives, campaigns, and partnership programs to expand business reach.
-
-**5\. Reporting & Optimization**
-
-*   Maintain accurate and updated CRM data for all sales activities.
-*   Provide regular reports on pipeline status, revenue forecasts, and conversion metrics.
-*   Gather market insights and client feedback to improve offerings and sales strategies.
-
-**Requirements**
-
-*   4–7 years of experience in **eCommerce Sales / Digital Commerce / SaaS Sales**.
-*   Strong understanding of eCommerce platforms (Shopify, WooCommerce, Magento, etc.) and online business models.
-*   Excellent communication, negotiation, and presentation skills.
-*   Ability to understand client requirements and translate them into business-driven eCommerce solutions.
-*   Hands-on experience with CRM tools (preferably Odoo or similar).
-*   Self-driven, proactive, and target-oriented with a strong focus on client relationship management.
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/manager-sales-ecommerce/apply)
-## 🛠️ Tech Stack
-
-`sales` `Odoo CRM` `Shopify` `WooCommerce` `Magento` `SaaS Sales` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - Cyber Security</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 20 Aug, 2026 |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Manager |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,  UAE, Malaysia, UK, Netherl...
-
-# Description
-
-We are seeking a results-driven Manager, Sales (Cyber Security) to join our **Cyber Security business team,** focusing on enterprise security solutions and managed security services. In this role, you will be responsible for identifying and engaging potential clients, managing opportunities through CRM, conducting impactful solution presentations, and driving successful deal closures. You will collaborate with technology partners, security vendors, and internal technical teams to expand market reach and deliver business value to clients.
-
-This position requires strong communication and consultative selling skills, a solid understanding of cyber security solutions, and the ability to translate technical capabilities into business outcomes for enterprise customers.
-
-# Job Responsibilities
-
-1. Lead Generation & Prospecting
-* Research and identify potential clients across industries including banking, financial services, telecommunications, manufacturing, healthcare, retail, and government sectors.
-* Generate qualified opportunities for cyber security solutions and services, including managed security services, security assessments, vulnerability management, SOC services, cloud security, and compliance solutions.
-* Build and maintain a healthy sales pipeline through outbound prospecting, referrals, partner channels, industry events, and networking activities.
-* Maintain and manage leads in CRM with proper qualification, segmentation, and follow-up tracking.
-
-2. Outreach & Client Engagement
-* Conduct outreach through LinkedIn, email campaigns, cold calls, networking events, conferences, and industry forums.
-* Engage with inbound inquiries and marketing-generated leads to ensure timely follow-up and qualification.
-* Build strong relationships with key decision-makers, including CIOs, CISOs, CTOs, IT Managers, Security Managers, and business stakeholders.
-* Understand customer security challenges, business risks, compliance requirements, and strategic objectives.
-
-3. Sales Conversion & Solution Selling
-* Assess client security needs and recommend appropriate cyber security solutions and services.
-* Conduct solution presentations, demonstrations, workshops, and executive-level discussions aligned with client requirements.
-* Manage the complete sales lifecycle from Lead → Opportunity → Proposal → Negotiation → Deal Closure.
-* Prepare commercial proposals, RFP/RFQ responses, and solution recommendations in collaboration with technical teams.
-* Negotiate commercial terms, close deals, and ensure smooth project handover and customer onboarding.
-
-4. Partnership & Collaboration
-* Collaborate with cyber security technology vendors, cloud providers, and strategic partners to identify joint business opportunities.
-* Work closely with pre-sales, security consultants, delivery teams, and solution architects to ensure solution feasibility and client satisfaction.
-* Support partner-driven campaigns, webinars, events, and co-marketing initiatives to expand market reach.
-* Maintain strong relationships with key technology vendors and channel partners.
-
-5. Reporting & Business Growth
-* Maintain accurate and up-to-date CRM records for all sales activities and opportunities.
-* Provide regular pipeline reports, revenue forecasts, sales performance metrics, and market intelligence updates.
-* Monitor industry trends, emerging cyber threats, regulatory developments, and competitive activities.
-* Gather customer feedback and market insights to support service improvement and business growth strategies.
-* Consistently achieve or exceed assigned revenue, pipeline, and business development targets.
-
-## Requirements
-
-* 5–8 years of experience in Cyber Security Sales, IT Solution Sales, Enterprise Technology Sales, or B2B Solution Selling.
-* Strong understanding of cyber security domains such as Security Operations Center (SOC), Vulnerability Assessment & Penetration Testing (VAPT), Managed Security Services, Cloud Security, Endpoint Security, Identity & Access Management (IAM), SIEM, EDR/XDR, Network Security, and Compliance Solutions.
-* Proven track record of generating pipeline, managing enterprise accounts, and closing high-value technology deals.
-* Excellent communication, negotiation, presentation, and stakeholder management skills.
-* Ability to understand client security requirements and translate them into business-driven security solutions.
-* Experience working with CRM platforms such as Salesforce, HubSpot, Odoo, Zoho CRM, or similar systems.
-* Strong relationship-building skills with enterprise decision-makers and executive stakeholders.
-* Self-driven, proactive, and target-oriented with strong ownership of revenue generation and client success.
-
-## Nice to Have
-
-* Experience selling managed security services (MSSP), SOC-as-a-Service, VAPT, cloud security, or compliance solutions.
-* Exposure to security frameworks and standards such as ISO 27001, PCI DSS, NIST, CIS Controls, GDPR, or local regulatory requirements.
-* Experience working with security vendors such as Microsoft Security, Cisco, Fortinet, Palo Alto Networks, CrowdStrike, Check Point, Tenable, Qualys, Splunk, or similar technologies.
-* Existing network within enterprise IT, cyber security, banking, telecom, or government sectors.
-* Experience responding to enterprise RFPs, tenders, and procurement processes.
-* Knowledge of cloud platforms such as AWS, Microsoft Azure, or Google Cloud.
-* Experience managing strategic accounts and long-term client relationships.
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/glzmktkvjo-manager-sales-cyber-security/apply)
-## 🛠️ Tech Stack
-
-`cyber Security` `software sales` `SOC` `VAPT` `CRM` `Salesforce` `HubSpot` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Manager, Sales - Fintech</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 20 Aug, 2026 |
-| **Location** | Dhaka, Bangladesh |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
-
-Skills
-
-sales
-
-# Description
-
-Brain Station 23 PLC is looking for a highly motivated **Manager, Sales** with mandatory experience in selling FinTech solutions. The ideal candidate must have hands-on experience in promoting and closing deals for financial technology products and should be confident in selling our broader digital transformation and IT services.
-
-# Job Responsibilities
-
-*   Sell and promote Brain Station 23’s FinTech solutions (e.g., payment systems, digital banking, lending platforms, financial automation tools) to banks, financial institutions, fintech startups, and enterprise clients.
-*   Conduct impactful product demos, presentations, and requirement discovery sessions tailored to FinTech solutions.
-*   Build and maintain an active sales pipeline through continuous lead generation, cold outreach, networking, and follow-ups.
-*   Understand client pain points and collaborate with internal technical teams to create customized FinTech proposals and solutions.
-*   Own the complete sales cycle including lead generation, product positioning, proposal development, negotiation, and deal closure.
-*   Meet monthly/quarterly sales targets and ensure consistent revenue growth.
-*   Maintain strong client relationships to ensure repeat business, renewals, and upsell opportunities.
-*   Stay updated on market trends, competitor offerings, regulatory changes, and technological advancements in the FinTech industry.
-*   Prepare proposals, quotations, sales reports, and necessary documentation.
-
-**Skills & Qualifications**
-
-**Must-Have Requirements**
-
-*   Minimum **4 years of experience in selling FinTech solutions** (mandatory).
-*   Demonstrated track record of achieving sales targets within the FinTech or financial services domain.
-*   Strong understanding of FinTech products such as payment gateways, digital wallets, core banking systems, or lending platforms.
-*   Ability to run professional product demos and handle technical discussions related to FinTech solutions.
-
-**Additional Qualifications**
-
-*   Bachelor’s degree in Business, Marketing, IT, or any relevant field (MBA preferred).
-*   Experience in B2B sales within IT/software services.
-*   Strong communication, negotiation, and presentation skills.
-*   Understanding of digital transformation technologies and SaaS products.
-*   Proactive, self-driven, and able to work independently.
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/oqwvmsgpek-manager-sales-fintech/apply)
-## 🛠️ Tech Stack
-
-`sales` `FinTech` `B2B sales` `SaaS` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 NetSuite Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 20 Aug, 2026 |
-| **Location** | Dhaka, Dhaka, Bangladesh |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://brainstation-23.easy.jobs/)
-
-# Company Description
-
-It was in 2006, with little capital but a pocketful of belief, our CEO, Raisul Kabir, started Brain Station 23, a software company, right after graduating from BUET. The new company initially focused on the international market, with the local market added in 2010. Since then, the company has shown continuous growth and currently employs over 800+ professionals. Brain Station 23 is now not only an established name in Bangladesh but also in countries like the USA,   UAE, Malaysia, UK, Netherl... [Read more](javascript:void\(0\);)
-
-# Description
-
-We run NetSuite as our system of record for finance and operations, with a meaningful layer of customization built up over several years. We're looking for a developer who can step into that environment, get fluent in what already exists, and extend it safely. This is not a greenfield build — comfort working inside someone else's design decisions is the core of the job.
-
-# Job Responsibilities
-
-*   Build and maintain SuiteScript 2.x customizations (User Event, Client, Scheduled, Map/Reduce, RESTlets, Suitelets)
-*   Take ownership of existing scripts, workflows, and custom records — trace behavior, document what you find, and improve it incrementally
-*   Configure and troubleshoot SuiteFlow workflows, saved searches, custom fields/records, and role-based permissions
-*   Support integrations between NetSuite and adjacent systems (CRM, middleware, third-party services) via RESTlets, SuiteTalk, and iPaaS connections
-*   Partner with finance and operations stakeholders to translate process needs into technical solutions
-*   Follow disciplined SDLC practices: sandbox development, testing, documented deployments
-
-**What we're looking for**
-
-*   3–5 years of hands-on NetSuite development experience
-*   Strong SuiteScript 2.x proficiency; solid SuiteQL/saved search skills
-*   Demonstrated experience inheriting and maintaining an existing customized NetSuite instance
-*   Working knowledge of core NetSuite modules (order-to-cash, procure-to-pay, billing, revenue)
-*   Ability to reverse-engineer undocumented logic and explain it clearly to non-technical stakeholders
-*   Comfortable owning work end-to-end with limited hand-holding
-
-**Nice to have**
-
-*   SuiteCloud Development Framework (SDF) and source-control-based deployment
-*   Experience with an iPaaS platform (Boomi)
-*   NetSuite certification (SuiteFoundation or Developer)
-*   Exposure to logistics, distribution, or services businesses
-
-Benefits
-
-*   Attractive Salary for deserving candidates
-*   Medical Coverage
-*   Yearly Salary Review
-*   Weekly two holidays
-*   Provident fund
-*   Gratuity fund
-*   Two festival bonus
-*   Monthly Performance Bonus
-*   WPPF.
-
-Life at Brain Station 23
-
-* 🌐 [Apply on Website](https://brainstation-23.easy.jobs/netsuite-developer/apply)
-## 🛠️ Tech Stack
-
-`NetSuite` `SuiteQL` `SuiteCloud` `iPaaS platform` 
-
 ---
 
 </details>
@@ -3983,6 +3929,8 @@ Life at Brain Station 23
 | **Salary** | 30K - 50K |
 | **Location** | Panthapath, Dhaka |
 
+**🛠️ Tags**: `PHP` 
+
 ## 📝 [Description](https://figlab.io/career)
 
 ## Software Engineer (PHP)
@@ -3995,11 +3943,8 @@ Life at Brain Station 23
 
 Apply →
 
+---
 * 🌐 [Apply on Website](https://figlab.io/career)
-## 🛠️ Tech Stack
-
-`PHP` 
-
 ---
 
 </details>
@@ -4011,6 +3956,8 @@ Apply →
 | ----- | ----------- |
 | **Salary** | 25K - 50K |
 | **Location** | Panthapath, Dhaka |
+
+**🛠️ Tags**: `QA` 
 
 ## 📝 [Description](https://figlab.io/career)
 
@@ -4024,11 +3971,8 @@ Apply →
 
 Apply →
 
+---
 * 🌐 [Apply on Website](https://figlab.io/career)
-## 🛠️ Tech Stack
-
-`QA` 
-
 ---
 
 </details>
@@ -4040,6 +3984,8 @@ Apply →
 | ----- | ----------- |
 | **Salary** | 25K - 50K |
 | **Location** | Panthapath, Dhaka |
+
+**🛠️ Tags**: `UI/UX` 
 
 ## 📝 [Description](https://figlab.io/career)
 
@@ -4053,11 +3999,8 @@ Apply →
 
 Apply →
 
+---
 * 🌐 [Apply on Website](https://figlab.io/career)
-## 🛠️ Tech Stack
-
-`UI/UX` 
-
 ---
 
 </details>
@@ -4072,15 +4015,14 @@ Apply →
 | **Employment** | Full Time |
 | **Location** | DHAKA |
 
+**🛠️ Tags**: `frontend` 
+
 ## 📝 [Description](https://flytesolutions.com/career/frontend-developer)
 
 Looking to hire frontend developers who can bring your digital product to life? Our vetted frontend experts specialize in crafting intuitive, pixel-perfect user interfaces that align with your business goals and provide seamless user experiences across all devices.
 
+---
 * 🌐 [Apply on Website](https://flytesolutions.com/career/frontend-developer)
-## 🛠️ Tech Stack
-
-`frontend` 
-
 ---
 
 </details>
@@ -4088,79 +4030,12 @@ Looking to hire frontend developers who can bring your digital product to life? 
 ## 🏢 Furqan Software
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 JavaScript Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-
-## 📝 [Description](https://furqansoftware.com/careers)
-
-### About Furqan Software
-
-Furqan Software is a team of expert software engineers specializing in building modern web and mobile applications. We use our domain and technology expertise to help companies worldwide build high-quality and cost-effective software solutions.
-
-We, as a team, are particularly keen on developing good software. If you know what that means, you are exactly the type of person we are looking for.
-
-### Position Description
-
-We use JavaScript to build modern web applications, and we are always looking for expert JavaScript developers to help us reach the next level.
-
-As a member of our team, you will get the opportunity to work on many of our JavaScript projects and collaborate with a highly skilled team. At Furqan Software, we deliver more than just code. You will be involved in defining how things work, what they do, and why we do that instead of something else.
-
-We are all about building quality software. We create beautifully architected JavaScript applications that are polished, fast, well-tested, and a joy to use.
-
-### Responsibilities
-
-*   Research, guide, and execute back-end and front-end architecture changes.
-*   Write efficient, reusable, and reliable JavaScript code.
-*   Integrate user-facing elements developed by front-end developers with server-side logic.
-*   Identify bottlenecks and bugs and devise elegant solutions.
-*   Help put tools, processes, and documentation in place to improve our code quality.
-*   Review code written by other team members or other teams.
-*   Onboard and mentor new team members.
-*   Give back to the community via open source and blog posts.
-
-### Requirements
-
-*   You can reason about software, algorithms, and performance from a high level.
-*   You must have a solid grasp of object-oriented programming, databases, development, and testing methodologies.
-*   You must have experience with modern web frameworks.
-*   Be interested in working across the software stack (JavaScript, Express, MongoDB).
-*   Be comfortable with iterative and incremental development.
-*   Be willing to help your teammates, share your knowledge with them, and learn from them.
-*   Be open to receiving feedback.
-*   You must be a self-motivated contributor to thrive at Furqan Software.
-
-## Apply now
-
-Think you are fit? Apply by filling out the form below:
-
-Why do you think you're a good candidate for Furqan Software?
-
-Can you share with us a snippet of code that you are proud of, or that you think represents an important aspect of your coding philosophy?
-
-Can you tell us about a hard problem you have had to solve and how you went about solving it?
-
-Can you tell us briefly about yourself (not a resume or CV)?
-
-All fields are required.
-
-Submit
-
-## 🛠️ Tech Stack
-
-`JavaScript` `Express` `MongoDB` `Object-Oriented Programming` 
-
----
-
-</details>
-
-<details>
 <summary> <strong style="font-size: 1.3em;">💼 Front-end Developer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
+
+**🛠️ Tags**: `JavaScript` `CSS3` `HTML5` `Backbone.js` `React` `CoffeeScript` `Stylus` `Underscore.js` `Webpack` `Gulp` `Laravel` 
 
 ## 📝 [Description](https://furqansoftware.com/careers)
 
@@ -4220,10 +4095,6 @@ All fields are required.
 
 Submit
 
-## 🛠️ Tech Stack
-
-`JavaScript` `CSS3` `HTML5` `Backbone.js` `React` `CoffeeScript` `Stylus` `Underscore.js` `Webpack` `Gulp` `Laravel` 
-
 ---
 
 </details>
@@ -4234,6 +4105,8 @@ Submit
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
+
+**🛠️ Tags**: `Go` `Javascript` `MongoDB` `Redis` `RabbitMQ` 
 
 ## 📝 [Description](https://furqansoftware.com/bn/careers/go-developer)
 
@@ -4273,10 +4146,74 @@ We are all about building quality software. We create beautifully architected Go
 * Be open to receiving feedback.
 * You must be a self-motivated contributor to thrive at Furqan Software.
 
+---
 * 🌐 [Apply on Website](https://furqansoftware.com/bn/careers/go-developer)
-## 🛠️ Tech Stack
+---
 
-`Go` `Javascript` `MongoDB` `Redis` `RabbitMQ` 
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 JavaScript Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+
+**🛠️ Tags**: `JavaScript` `Express` `MongoDB` `Object-Oriented Programming` 
+
+## 📝 [Description](https://furqansoftware.com/careers)
+
+### About Furqan Software
+
+Furqan Software is a team of expert software engineers specializing in building modern web and mobile applications. We use our domain and technology expertise to help companies worldwide build high-quality and cost-effective software solutions.
+
+We, as a team, are particularly keen on developing good software. If you know what that means, you are exactly the type of person we are looking for.
+
+### Position Description
+
+We use JavaScript to build modern web applications, and we are always looking for expert JavaScript developers to help us reach the next level.
+
+As a member of our team, you will get the opportunity to work on many of our JavaScript projects and collaborate with a highly skilled team. At Furqan Software, we deliver more than just code. You will be involved in defining how things work, what they do, and why we do that instead of something else.
+
+We are all about building quality software. We create beautifully architected JavaScript applications that are polished, fast, well-tested, and a joy to use.
+
+### Responsibilities
+
+*   Research, guide, and execute back-end and front-end architecture changes.
+*   Write efficient, reusable, and reliable JavaScript code.
+*   Integrate user-facing elements developed by front-end developers with server-side logic.
+*   Identify bottlenecks and bugs and devise elegant solutions.
+*   Help put tools, processes, and documentation in place to improve our code quality.
+*   Review code written by other team members or other teams.
+*   Onboard and mentor new team members.
+*   Give back to the community via open source and blog posts.
+
+### Requirements
+
+*   You can reason about software, algorithms, and performance from a high level.
+*   You must have a solid grasp of object-oriented programming, databases, development, and testing methodologies.
+*   You must have experience with modern web frameworks.
+*   Be interested in working across the software stack (JavaScript, Express, MongoDB).
+*   Be comfortable with iterative and incremental development.
+*   Be willing to help your teammates, share your knowledge with them, and learn from them.
+*   Be open to receiving feedback.
+*   You must be a self-motivated contributor to thrive at Furqan Software.
+
+## Apply now
+
+Think you are fit? Apply by filling out the form below:
+
+Why do you think you're a good candidate for Furqan Software?
+
+Can you share with us a snippet of code that you are proud of, or that you think represents an important aspect of your coding philosophy?
+
+Can you tell us about a hard problem you have had to solve and how you went about solving it?
+
+Can you tell us briefly about yourself (not a resume or CV)?
+
+All fields are required.
+
+Submit
 
 ---
 
@@ -4285,66 +4222,128 @@ We are all about building quality software. We create beautifully architected Go
 ## 🏢 HawarIT
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Revit Engineer</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 .Net Application Developer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Posted** | June 21, 2026 |
-| **Deadline** | Aug 15, 2026 |
+| **Posted** | April 29, 2024 |
+| **Location** | Dhaka(Dhaka Sadar) |
+
+**🛠️ Tags**: `.Net Core` `Angular` `ASP.NET Core` `C#` `ASP.NET` `Rest Api` `Bootstrap` `CSS` `Javascript` `Jquery` `MSSQL` `Azure Cloud` `DevOps` 
 
 ## 📝 [Description](https://www.hawarit.com/career)
 
-# Revit Engineer
+##### Job Responsibilities
 
-**Are you a young professional who enjoys taking on challenges within a multicultural team?** Or are you a drafting engineer ready for the next step in your career? With us, you can further develop as a project leader on fun, varied projects. Does this appeal to you? Then we have the right vacancy open for you!
+*   Need to understand the requirements and build products according to customer needs. Enhance/modify existing solutions as per specification.
+*   Work directly with the Dutch/ Offshore client Implement solutions to the client end for the offshore project.
 
-**J𝐨𝐛 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:**
+##### Employment Status
 
-Strong skills in Revit and a good understanding of BIM is a must. Applicants with solid technical and analytical skills, good at finding their way around different software and learning new tools and workflows independently for inter-disciplinary works will be preferred. (If possible, please demonstrate that in your CV). A good command over English is a must, as it is needed to directly work with Bangladeshi colleagues. Applicants who are only looking for short-term roles are not encouraged to apply. 
+Full-time
 
-**Job Qualifications:** 
+##### Educational Requirements
 
-*   Bachelor’s degree or relevant engineering or technical field (preferred)
-*   Strong proficiency in Autodesk Revit
-*   Good understanding of BIM (Building Information Modeling)
-*   Strong technical and analytical skills
-*   Ability to learn new software and tools independently
-*   Ability to work on interdisciplinary projects
-*   Good problem-solving skills
-*   Good written and spoken English communication
-*   Detail-oriented and self-motivated
-*   Ability to work independently and in a team
-*   Willingness to work in a multicultural environment
-*   Fresh graduates are encouraged to apply
+*   Bachelor in Engineering (BEngg) in CSE
+*   Skills Required: .Net Core, Angular, ASP.NET Core, C#
 
-**𝐀𝐛𝐨𝐮𝐭 𝐇𝐚𝐰𝐚𝐫𝐈𝐓**
+##### Experience Requirements
 
-HawarIT is a Dutch/Bangladeshi company specialized in independent IT services in the fields of Custom Software and GIS Applications Development, Engineering Drawing and Modeling, GIS Data Services and Photogrammetry.
+*   1 to 4 year(s)
+*   The applicants should have experience in the following area(s):
+    *   Database Engineer/ Database Programmer, Programmer/ Software Engineer
 
-HawarIT was established in 1994 from the need of Dijkoraad Engineering to associate administrative processes with data drawings. The successful collaboration between ambitious newly graduated engineers from the Technical University Enschede and Dijkoraad Engineering created a lot of work for customers including some from the market in process engineering. From this HawarIT became an autonomous and independent consulting and software agency in the field of CAD, GIS, Database and Web technology.
+##### Additional Requirements
 
-**What we offer:**
+*   Age 22 to 28 years
+*   Both males and females are allowed to apply.
+    *   Technical requirement for developer are as follows:
+    *   C#, ASP.NET, .NET Core
+    *   Angular
+    *   Rest Api
+    *   Bootstrap, CSS
+    *   Javascript, Jquery
+    *   MSSQL
+    *   Azure Cloud
+    *   DevOps
 
-HawarIT is an equal opportunity employer. We celebrate diversity and strive to create an inclusive environment for all employees. We offer you a positive work environment featuring, among other things:
+##### Workplace
 
-*   A leadership role in an international and multicultural team.
-*   Opportunities for learning and growth.
-*   A permanent contract.
-*   Great flexibility, with the option to work from home upon consultation.
-*   A competitive salary package.
+*   Work at office
 
-Are you interested and would you like to know more about us? Please visit our website: [www.hawarIT.com](http://www.hawarIT.com)
+##### Job Location
 
-**𝐇𝐨𝐰 𝐭𝐨 𝐀𝐩𝐩𝐥𝐲:**
+Dhaka(Dhaka Sadar)
 
-Are you excited to join our dynamic and multicultural team? Please send your CV and a cover letter to **career@hawarit.com 𝐛𝐲 Aug 𝟏𝟓, 𝟐𝟎𝟐𝟔** with the subject line “Revit Engineer – [Your Name]”. Applications will be reviewed on a rolling basis until the position is filled.
+---
+* 🌐 [Apply on Website](https://www.hawarit.com/career-at-hawarit)
+---
 
-* 📧 [Send Resume via Email](mailto:career@hawarit.com)
-## 🛠️ Tech Stack
+</details>
 
-`Revit` `BIM` `Building Information Modeling` `Autodesk Revit` `CAD` 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 CAD/ GIS Operator</strong> </summary>
 
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | July 16, 2024 |
+| **Location** | Dhaka (Ashulia) |
+
+**🛠️ Tags**: `ArcGIS` `AutoCAD Map 3D` `Revit3D` `AutoCAD Map` 
+
+## 📝 [Description](https://www.hawarit.com/career)
+
+##### Education
+
+*   Diploma in Engineering, Bachelor of Science (BSc)
+
+##### Additional Requirements
+
+*   Age 20 to 25 years
+*   Applicant should have good experience in ArcGIS, AutoCAD Map 3D / Revit3D.
+
+#### Responsibilities & Context
+
+*   Drafting work for European clients using ArcGIS, AutoCAD Map, Revit 3D & Special data management.
+
+#### Compensation & Other Benefits
+
+*   Profit share, Performance bonus, Provident fund, Weekly 2 holidays
+*   Lunch Facilities: Full Subsidize
+*   Festival Bonus: 3
+
+#### Workplace
+
+Work at office
+
+#### Employment Status
+
+Full Time
+
+#### Job Location
+
+Dhaka (Ashulia)
+
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Django / Python Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+
+**🛠️ Tags**: `Django` `Python` 
+
+## 📝 [Description](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
+
+Job Opening for Django / Python Developer
+
+---
+* 🌐 [Apply on Website](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
 ---
 
 </details>
@@ -4358,6 +4357,8 @@ Are you excited to join our dynamic and multicultural team? Please send your CV 
 | **Posted** | January 16, 2025 |
 | **Location** | Sneek, Nederland |
 | **Role** | Projectleider |
+
+**🛠️ Tags**: `BIM` `GIS` `Engineering` `Management` 
 
 ## 📝 [Description](https://www.hawarit.com/career)
 
@@ -4408,142 +4409,72 @@ Ben je geïnteresseerd en wil je meer over ons weten? Kijk dan eens op onze webs
 
 Ben je enthousiast om deel uit te maken van ons dynamische en multiculturele team? Stuur dan je CV met een motivatiebrief naar **career@hawarit.com** met als onderwerpregel “Projectleider – [Jouw Naam]”. Sollicitaties worden doorlopend beoordeeld totdat de functie is ingevuld.
 
+---
 * 📧 [Send Resume via Email](mailto:career@hawarit.com)
-## 🛠️ Tech Stack
-
-`BIM` `GIS` `Engineering` `Management` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Django / Python Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-
-## 📝 [Description](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
-
-Job Opening for Django / Python Developer
-
-* 🌐 [Apply on Website](https://www.hawarit.com/?post_type=awsm_job_openings&p=3148)
-## 🛠️ Tech Stack
-
-`Django` `Python` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 CAD/ GIS Operator</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Revit Engineer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Posted** | July 16, 2024 |
-| **Location** | Dhaka (Ashulia) |
+| **Posted** | June 21, 2026 |
+| **Deadline** | Aug 15, 2026 |
+
+**🛠️ Tags**: `Revit` `BIM` `Building Information Modeling` `Autodesk Revit` `CAD` 
 
 ## 📝 [Description](https://www.hawarit.com/career)
 
-##### Education
+# Revit Engineer
 
-*   Diploma in Engineering, Bachelor of Science (BSc)
+**Are you a young professional who enjoys taking on challenges within a multicultural team?** Or are you a drafting engineer ready for the next step in your career? With us, you can further develop as a project leader on fun, varied projects. Does this appeal to you? Then we have the right vacancy open for you!
 
-##### Additional Requirements
+**J𝐨𝐛 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:**
 
-*   Age 20 to 25 years
-*   Applicant should have good experience in ArcGIS, AutoCAD Map 3D / Revit3D.
+Strong skills in Revit and a good understanding of BIM is a must. Applicants with solid technical and analytical skills, good at finding their way around different software and learning new tools and workflows independently for inter-disciplinary works will be preferred. (If possible, please demonstrate that in your CV). A good command over English is a must, as it is needed to directly work with Bangladeshi colleagues. Applicants who are only looking for short-term roles are not encouraged to apply. 
 
-#### Responsibilities & Context
+**Job Qualifications:** 
 
-*   Drafting work for European clients using ArcGIS, AutoCAD Map, Revit 3D & Special data management.
+*   Bachelor’s degree or relevant engineering or technical field (preferred)
+*   Strong proficiency in Autodesk Revit
+*   Good understanding of BIM (Building Information Modeling)
+*   Strong technical and analytical skills
+*   Ability to learn new software and tools independently
+*   Ability to work on interdisciplinary projects
+*   Good problem-solving skills
+*   Good written and spoken English communication
+*   Detail-oriented and self-motivated
+*   Ability to work independently and in a team
+*   Willingness to work in a multicultural environment
+*   Fresh graduates are encouraged to apply
 
-#### Compensation & Other Benefits
+**𝐀𝐛𝐨𝐮𝐭 𝐇𝐚𝐰𝐚𝐫𝐈𝐓**
 
-*   Profit share, Performance bonus, Provident fund, Weekly 2 holidays
-*   Lunch Facilities: Full Subsidize
-*   Festival Bonus: 3
+HawarIT is a Dutch/Bangladeshi company specialized in independent IT services in the fields of Custom Software and GIS Applications Development, Engineering Drawing and Modeling, GIS Data Services and Photogrammetry.
 
-#### Workplace
+HawarIT was established in 1994 from the need of Dijkoraad Engineering to associate administrative processes with data drawings. The successful collaboration between ambitious newly graduated engineers from the Technical University Enschede and Dijkoraad Engineering created a lot of work for customers including some from the market in process engineering. From this HawarIT became an autonomous and independent consulting and software agency in the field of CAD, GIS, Database and Web technology.
 
-Work at office
+**What we offer:**
 
-#### Employment Status
+HawarIT is an equal opportunity employer. We celebrate diversity and strive to create an inclusive environment for all employees. We offer you a positive work environment featuring, among other things:
 
-Full Time
+*   A leadership role in an international and multicultural team.
+*   Opportunities for learning and growth.
+*   A permanent contract.
+*   Great flexibility, with the option to work from home upon consultation.
+*   A competitive salary package.
 
-#### Job Location
+Are you interested and would you like to know more about us? Please visit our website: [www.hawarIT.com](http://www.hawarIT.com)
 
-Dhaka (Ashulia)
+**𝐇𝐨𝐰 𝐭𝐨 𝐀𝐩𝐩𝐥𝐲:**
 
-## 🛠️ Tech Stack
-
-`ArcGIS` `AutoCAD Map 3D` `Revit3D` `AutoCAD Map` 
+Are you excited to join our dynamic and multicultural team? Please send your CV and a cover letter to **career@hawarit.com 𝐛𝐲 Aug 𝟏𝟓, 𝟐𝟎𝟐𝟔** with the subject line “Revit Engineer – [Your Name]”. Applications will be reviewed on a rolling basis until the position is filled.
 
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 .Net Application Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | April 29, 2024 |
-| **Location** | Dhaka(Dhaka Sadar) |
-
-## 📝 [Description](https://www.hawarit.com/career)
-
-##### Job Responsibilities
-
-*   Need to understand the requirements and build products according to customer needs. Enhance/modify existing solutions as per specification.
-*   Work directly with the Dutch/ Offshore client Implement solutions to the client end for the offshore project.
-
-##### Employment Status
-
-Full-time
-
-##### Educational Requirements
-
-*   Bachelor in Engineering (BEngg) in CSE
-*   Skills Required: .Net Core, Angular, ASP.NET Core, C#
-
-##### Experience Requirements
-
-*   1 to 4 year(s)
-*   The applicants should have experience in the following area(s):
-    *   Database Engineer/ Database Programmer, Programmer/ Software Engineer
-
-##### Additional Requirements
-
-*   Age 22 to 28 years
-*   Both males and females are allowed to apply.
-    *   Technical requirement for developer are as follows:
-    *   C#, ASP.NET, .NET Core
-    *   Angular
-    *   Rest Api
-    *   Bootstrap, CSS
-    *   Javascript, Jquery
-    *   MSSQL
-    *   Azure Cloud
-    *   DevOps
-
-##### Workplace
-
-*   Work at office
-
-##### Job Location
-
-Dhaka(Dhaka Sadar)
-
-* 🌐 [Apply on Website](https://www.hawarit.com/career-at-hawarit)
-## 🛠️ Tech Stack
-
-`.Net Core` `Angular` `ASP.NET Core` `C#` `ASP.NET` `Rest Api` `Bootstrap` `CSS` `Javascript` `Jquery` `MSSQL` `Azure Cloud` `DevOps` 
-
+* 📧 [Send Resume via Email](mailto:career@hawarit.com)
 ---
 
 </details>
@@ -4559,6 +4490,8 @@ Dhaka(Dhaka Sadar)
 | **Location** | Dhaka |
 | **Vacancies** | 2 |
 
+**🛠️ Tags**: `Data Engineering` 
+
 ## 📝 [Description](https://ixorasolution.com/career)
 
 ### Data Engineer
@@ -4567,89 +4500,8 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+---
 * 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/data-engineer-40)
-## 🛠️ Tech Stack
-
-`Data Engineering` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Full Stack Engineer (Angular, Python)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://ixorasolution.com/career)
-
-### Full Stack Engineer (Angular, Python)
-
-*   2 Positions
-*   Full Time
-*   Dhaka
-
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-angular-python-35)
-## 🛠️ Tech Stack
-
-`Angular` `Python` `Full Stack` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Odoo Techno-Functional Consultant</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://ixorasolution.com/career)
-
-### Odoo Techno-Functional Consultant
-
-*   2 Positions
-*   Full Time
-*   Dhaka
-
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/odoo-techno-functional-consultant-37)
-## 🛠️ Tech Stack
-
-`Odoo` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Full Stack Engineer (.NET Core, Angular/ React)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://ixorasolution.com/career)
-
-### Full Stack Engineer (.NET Core, Angular/ React)
-
-*   1 Positions
-*   Full Time
-*   Dhaka
-
-* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-net-core-angular-react-38)
-## 🛠️ Tech Stack
-
-`.NET Core` `Angular` `React` `Full Stack` 
-
 ---
 
 </details>
@@ -4663,6 +4515,8 @@ Dhaka(Dhaka Sadar)
 | **Location** | Dhaka |
 | **Vacancies** | 1 |
 
+**🛠️ Tags**: `ERP` `Microsoft Business Central` `Odoo` 
+
 ## 📝 [Description](https://ixorasolution.com/career)
 
 ### Financial Consultant - ERP ( Microsoft Business Central/Odoo)
@@ -4671,16 +4525,230 @@ Dhaka(Dhaka Sadar)
 *   Full Time
 *   Dhaka
 
+---
 * 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/financial-consultant-erp-microsoft-business-central-odoo-41)
-## 🛠️ Tech Stack
+---
 
-`ERP` `Microsoft Business Central` `Odoo` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Full Stack Engineer (.NET Core, Angular/ React)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `.NET Core` `Angular` `React` `Full Stack` 
+
+## 📝 [Description](https://ixorasolution.com/career)
+
+### Full Stack Engineer (.NET Core, Angular/ React)
+
+*   1 Positions
+*   Full Time
+*   Dhaka
+
+---
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-net-core-angular-react-38)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Full Stack Engineer (Angular, Python)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Angular` `Python` `Full Stack` 
+
+## 📝 [Description](https://ixorasolution.com/career)
+
+### Full Stack Engineer (Angular, Python)
+
+*   2 Positions
+*   Full Time
+*   Dhaka
+
+---
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/full-stack-engineer-angular-python-35)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Odoo Techno-Functional Consultant</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Odoo` 
+
+## 📝 [Description](https://ixorasolution.com/career)
+
+### Odoo Techno-Functional Consultant
+
+*   2 Positions
+*   Full Time
+*   Dhaka
+
+---
+* 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/odoo-techno-functional-consultant-37)
 ---
 
 </details>
 
 ## 🏢 Inument
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Android Developer (Native)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 80K - 150K |
+| **Location** | Baridhara DOHS |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Android` `Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `MVP` `Clean Architecture` `Git` `RESTful APIs` 
+
+## 📝 [Description](https://inument.com/career)
+
+Inument Solutions (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
+
+At Inument, we are looking for a skilled Native Android Developer with strong, recent hands-on experience in Android application development. You will work on building reliable, high-performance Android apps using modern Android frameworks and best practices for international clients.
+
+**Job Details:**
+
+*   **Workplace:** On-site
+*   **Working Hours:** 9:00 AM – 6:00 PM (Dhaka Time), Sunday to Thursday
+*   **Vacancies:** 1
+*   **Experience Required:** 3 – 6 years (minimum 3 years of recent, solid experience in Native Android)
+*   **Salary:** BDT 80,000 – 150,000/monthly (Negotiable based on skills and experience)
+*   **Must-Have:** Strong recent experience in Native Android development (Kotlin). Experience working with outsourcing is a plus.
+
+**Job Description:**
+
+*   Design, develop, and maintain high-quality Android applications.
+*   Build clean, scalable, and maintainable code following best practices.
+*   Work with Android SDK, Jetpack components, and modern Android architecture.
+*   Implement UI/UX designs with pixel-perfect accuracy and smooth performance.
+*   Integrate RESTful APIs, third-party SDKs, and backend services.
+*   Contribute to the design and implementation of scalable mobile application architecture, collaborating on system design decisions for high-traffic, large-scale production systems.
+*   Handle app lifecycle management, performance optimization, and memory management.
+*   Debug, troubleshoot, and resolve issues across different Android devices and OS versions.
+*   Collaborate with backend, QA, and product teams to deliver reliable solutions.
+*   Participate in code reviews and contribute to technical decisions.
+*   Communicate with international clients to understand requirements and provide updates.
+
+**Additional Job Requirements:**
+
+*   Strong proficiency in Kotlin (Java experience is a plus).
+*   Solid understanding of Android architecture patterns (MVVM/MVP/Clean Architecture).
+*   Experience with Jetpack components (ViewModel, LiveData, Room, Navigation, etc.)
+*   Knowledge of background processing, notifications, and offline storage.
+*   Experience with Git and collaborative development workflows.
+*   Familiarity with app publishing, versioning, and Play Store release process.
+*   Strong analytical, problem-solving, and communication skills.
+*   Ability to work independently and within a team with minimal supervision.
+
+**Education:**
+
+*   Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+**Benefits:**
+
+*   Two festival bonuses per year.
+*   Subsidized lunch and snacks. 
+*   Regular indoor and outdoor team events.
+*   Frequent knowledge-sharing sessions.
+*   Long-term growth opportunities in a high-quality work environment.
+*   Friendly, fun-loving team culture with a competitive salary package.
+
+---
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2906)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Lead React Native Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 100K - 250K |
+| **Deadline** | Open until the position is filled |
+| **Location** | Baridhara DOHS |
+| **Role** | Lead |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `React Native` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `GraphQL` `RESTful APIs` `Swift` `Objective-C` `Java` `Flutter` 
+
+## 📝 [Description](https://inument.com/career)
+
+**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
+
+We are looking for an experienced very senior level React Native Engineer to join our mobile development team. You’ll work with cutting-edge technologies to build high-quality, scalable cross-platform mobile applications for international clients. Your primary responsibility will be to lead the design and development of robust mobile appsusing React Native, delivering seamless experiences across iOS and Android. You must have a proven track record of shipping production-grade apps, writing clean and maintainable code, and following industry best practices.
+
+**Job Details:**
+* Workplace: On-site (Baridhara DOHS)
+* Working Hours: 8:30 AM – 5:30 PM (Dhaka Time), Monday to Friday
+* Vacancies: 2
+* Experience Required: 8–15 years
+* Salary: BDT 100,000–250,000 (Negotiable based on skills and experience)
+* Must-Have: Strong React Native expertise, experience using AI-assisted development tools (e.g., GitHub Copilot, ChatGPT, Cursor), and excellent communication skills in English. Prior experience working with international clients or in an outsourcing environment is must.
+
+**Job Description:**
+* Solid understanding of cloud-based mobile app architecture and services (e.g., Firebase, AWS Amplify), along with CI/CD pipelines (e.g., Bitrise, GitHub Actions), mobile DevOps practices, and automated testing in React Native.
+* Build and maintain high-performance, cross-platform mobile applications using React Native.
+* Successfully developed and deployed multiple iOS/Android apps via App Store and Google Play.
+* Minimum 10 years of experience in mobile development with at least 5 years hands-on expertise in React Native.
+* Deep knowledge of mobile application architecture, lifecycle, and platform-specific APIs (iOS & Android).
+* Proficient in building complex, responsive, and pixel-perfect UIs across multiple screen sizes and OS versions.
+* Strong understanding of React development practices, performance optimization, and code reusability.
+* Experience with native modules and platform-specific code (Java, Swift/Obj-C) when needed.
+* Skilled in app-store deployment processes and managing releases across environments.
+* Integration experience with RESTful APIs, GraphQL, cloud messaging, and push notifications.
+* Experience working with device features such as location services, interactive maps, background tasks (sync), offline storage, and network status handling across platforms.
+* Manage end-to-end deployment processes for both Android and iOS apps, including App Store and Google Play submissions.
+* Integrate third-party APIs, GraphQL, RESTful services, cloud messaging platforms, and push notifications.
+* Demonstrated leadership skills in managing mobile teams, mentoring junior developers, and driving technical decisions.
+
+**Additional Requirements:**
+* Excellent analytical, problem-solving, debugging and decision-making abilities.
+* Strong in object-oriented programming, clean architecture, and patterns such as MVVM/MVP.
+* Ability to identify bottlenecks, debug issues, and optimize performance.
+* Translate complex product requirements into technical specifications and scalable implementations.
+* Collaborate with cross-functional teams (backend, UI/UX, QA, PM) and communicate clearly in English.
+* Experience working in Agile environments and contributing to CI/CD workflows for mobile app delivery.
+* Exposure to AI-assisted tools (like GitHub Copilot, ChatGPT, or Cursor) to accelerate development and improve code quality.
+* Experience with native development in Swift, Objective-C, Java, or Flutter is a strong plus.
+
+**Education:**
+* Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+**Benefits:**
+* Two festival bonuses per year.
+* Subsidized lunch and snacks.
+* Regular indoor and outdoor team events.
+* Frequent knowledge-sharing sessions.
+* Long-term growth opportunities in a high-quality work environment.
+* Friendly, fun-loving team culture with a competitive salary package.
+
+---
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2020)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 SQA Engineer</strong> </summary>
@@ -4691,6 +4759,8 @@ Dhaka(Dhaka Sadar)
 | **Salary** | 25K - 50K |
 | **Location** | Baridhara DOHS |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `SQA` `API testing` `Backend validation` `SQL` `Automation` `Manual testing` `Quality Assurance` 
 
 ## 📝 [Description](https://inument.com/careers)
 
@@ -4737,12 +4807,215 @@ At Inument, we are looking for SQA Engineers who own quality at the system level
 
 **Email subject format:** SQA Engineer_3yr_25k_DUET
 
+---
 * 🌐 [Apply on Website](https://inument.com/apply-job?id=2965)
 * 📧 [Send Resume via Email](mailto:jobs@inument.com)
-## 🛠️ Tech Stack
+---
 
-`SQA` `API testing` `Backend validation` `SQL` `Automation` `Manual testing` `Quality Assurance` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Drupal Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 100K - 200K |
+| **Deadline** | Open until the position is filled |
+| **Location** | Baridhara DOHS |
+| **Role** | Senior |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Drupal` `PHP` `React` `JavaScript` `HTML5` `CSS3` `REST` `GraphQL` `Composer` `Git` `Docker` `Kubernetes` `CI/CD` 
+
+## 📝 [Description](https://inument.com/career)
+
+Inument Solutions Ltd. (www.inument.com) is a global software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients across the USA, UK, Australia, Japan, and Europe — delivering top-tier software solutions in custom app development, cloud engineering, DevOps, AI/ML, and staff augmentation.
+
+We’re currently seeking a Senior Drupal Developer to join our growing CMS engineering team. The ideal candidate is someone who thrives on ownership, writes clean and sc…
+
+**Job Details:**
+• Workplace: On-site (Baridhara DOHS)
+• Working Hours: 8:30 AM – 5:30 PM (Dhaka Time), Monday to Friday
+• Vacancies: 2
+• Experience Required: 5–12 years (minimum 3+ years in Drupal)
+• Salary: BDT 100,000–200,000 (Negotiable based on skills and experience)
+• Must-Have: Strong expertise in Drupal 9/10, PHP (OOP), and Drupal APIs. Experience with custom module/theme development, version upgrades, performance optimization, and modern front-end integration (React/JavaScript). Prior experience with international clients or outsourcing environments is highly preferred.
+
+**Job Description:**
+• Architect, develop, and maintain Drupal 9/10-based applications.
+• Build and extend custom modules and themes aligned with best practices.
+• Manage major version upgrades (Drupal 9 → 10) efficiently.
+• Work with Drupal APIs, hooks, services, and plugin systems.
+• Implement responsive front-end design using HTML5, CSS3, JavaScript, and frameworks like React.
+• Integrate Drupal with REST/GraphQL APIs and third-party platforms.
+• Optimize performance, caching, and database queries for speed and scalability.
+• Ensure adherence to Drupal coding standards, security, and maintainability.
+• Collaborate with product managers, DevOps, and QA teams in Agile environments.
+• Lead code reviews, mentor junior developers, and document development processes.
+
+**Additional Requirements:**
+• Proficiency in Composer, Git, and configuration management.
+• Familiarity with LAMP/LEMP stack, Drush, and build automation tools.
+• Experience with Docker/Kubernetes, CI/CD pipelines, and automated deployments is a plus.
+• Knowledge of Acquia, Pantheon, or Platform.sh hosting platforms.
+• Experience in headless/decoupled Drupal, accessibility (WCAG), and SEO best practices.
+• Contributions to the Drupal community are highly valued.
+• Strong debugging, problem-solving, and documentation skills.
+• Excellent communication — can translate complex requirements into technical action.
+• Self-driven, proactive, and eager to stay updated with new Drupal advancements.
+
+**Education:**
+• Bachelor’s degree in Computer Science, Information Technology, or a related field. (Flexible if the candidate has top-notch skillset)
+
+**Benefits:**
+• Two festival bonuses per year.
+• Subsidized lunch and snacks.
+• Regular indoor and outdoor team events.
+• Frequent knowledge-sharing sessions and mentorship programs.
+• Long-term growth opportunities in a global, high-quality engineering culture.
+• Friendly, collaborative environment with competitive pay and international exposure.
+
+---
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2092)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Flutter Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 70K - 150K |
+| **Deadline** | Open until the position is filled |
+| **Location** | Baridhara DOHS |
+| **Role** | Senior |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Flutter` `Dart` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `Bloc` `GetX` `Riverpod` `Provider` `GraphQL` `RESTful` `OAuth 2.0` `JWT` `React` `React Native` 
+
+## 📝 [Description](https://inument.com/career)
+
+**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
+
+We are looking for experienced Senior Flutter Engineers to join our team. You’ll work with modern mobile technologies to build high-quality, scalable cross-platform applications. Your primary responsibility will be to design and develop robust mobile applications using Flutter and Dart. You must have proven experience building and publishing performant mobile apps, writing clean, maintainable code, and following best practices in Flutterdevelopment. Experience working both independently and collaboratively in cross-functional teams is essential.
+
+**Job Details:**
+* Workplace: On-site (Baridhara/Mohakhali)
+* Working Hours: 9:30 AM – 6:30 PM (Dhaka Time), Sunday to Thursday
+* Vacancies: 2
+* Experience Required: 3–7 years
+* Salary: BDT 70,000–150,000 (Negotiable based on skills and experience)
+* Must-Have: Strong Flutter expertise, hands-on experience with AI-assisted development tools (e.g., GitHub Copilot, ChatGPT, Cursor), and excellent English communication skills.
+
+**Job Description:**
+* Solid understanding of cloud-based mobile app architecture and services (e.g., Firebase, AWS Amplify), along with CI/CD pipelines (e.g., Bitrise, GitHub Actions), mobile DevOps practices, and automated testing in Flutter.
+* Build and maintain high-quality cross-platform mobile applications using Flutter.
+* Successfully developed and published at least two Flutter apps to both the App Store and Google Play.
+* Deep experience with native iOS and Android development, and ability to write platform-specific code when needed.
+* Strong understanding of Flutter Widgets, animations, platform channels, and performance optimization.
+* Implement complex, responsive UI/UX designs optimized for various screen sizes and OS versions.
+* Solid understanding of Android and iOS SDKs, with strong familiarity with native UI/UX guidelines and platform best practices.
+* Manage end-to-end app store deployment processes for both Android and iOS platforms.
+* Experience working with state management solutions like Bloc, GetX, Riverpod, or Provider.
+* Integrate third-party APIs, GraphQL, RESTful services, cloud messaging APIs, and push notifications.
+* Proficiency in OAuth 2.0, JWT, and other modern authentication mechanisms.
+* Experience working with location services, maps, background services, and offline capabilities.
+
+**Additional Requirements:**
+* Excellent analytical, problem-solving, and decision-making abilities.
+* Strong in object-oriented programming, clean architecture, and patterns such as MVVM/MVP.
+* Ability to identify bottlenecks, debug issues, and optimize performance.
+* Translate complex product requirements into technical specifications and scalable implementations.
+* Collaborate with cross-functional teams (backend, UI/UX, QA, PM) and communicate clearly in English.
+* Familiarity with React or React Native is a plus.
+* Experience working in Agile environments and contributing to CI/CD workflows for mobile app delivery.
+* Exposure to AI-assisted tools (like GitHub Copilot, ChatGPT, or Cursor) to accelerate development and improve code quality.
+
+**Education:**
+* Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+**Benefits:**
+* Two festival bonuses per year.
+* Subsidized lunch and snacks.
+* Regular indoor and outdoor team events.
+* Frequent knowledge-sharing sessions.
+* Long-term growth opportunities in a high-quality work environment.
+* Friendly, fun-loving team culture with a competitive salary package.
+
+---
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2021)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Frontend Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 120K - 180K |
+| **Location** | Baridhara DOHS |
+| **Role** | Senior |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `HTML` `CSS` `JavaScript` `SASS` `LESS` `React` `Angular` `Vue.js` `Git` `WCAG` 
+
+## 📝 [Description](https://inument.com/career)
+
+**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
+
+We are looking for a Senior Front-end Engineer to develop and maintain elegant, responsive, fast, and pixel-perfect user interfaces using HTML, CSS, and JavaScript. You will be responsible for creating fast, scalable, and user-friendly web applications, writing clean, reusable code while following best practices and understanding core browser behavior.
+
+**Job Details:**
+* Workplace: On-site (Baridhara DOHS)
+* Working Hours: 8.30 AM – 5.30 PM (Dhaka Time), Monday to Friday
+* Vacancies: 1
+* Experience Required: 5 – 10 years
+* Salary: BDT 1,20,000 – 1,80,000/monthly (Negotiable based on skills and experience)
+* Must-Have: The candidate must be very strong on HTML, CSS & JS, and proficient English speaker to communicate with clients. Having experience with outsourcing clients will be preferred.
+
+**Job Description:**
+* Develop and maintain elegant, responsive, fast, and pixel-perfect user interfaces using HTML, CSS, and JavaScript.
+* Strong proficiency in CSS preprocessors like SASS or LESS.
+* Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+* Experience with modern UI frameworks and libraries such as React, Angular, or Vue.js.
+* Familiarity with responsive design principles and mobile-first development.
+* Solid understanding of web accessibility standards and practices (WCAG).
+* Work with the design team, project managers, business analysts, software developers and users across the organization and create a fast, intuitive, and easy-to-use frontend.
+* Collaborate with product & UX team in brainstorming, research, and wireframe translation into reusable components for use across the organization.
+* Do daily communications with foreign clients, understand their needs, discuss the approach, and work accordingly.
+* Good communication skill in English is a must.
+
+**Additional Job Requirements:**
+* Optimize web applications for performance, ensuring fast load times and smooth user interactions.
+* Knowledge of version control systems, such as Git.
+* Stay updated with the latest UI/UX trends, best practices, and emerging technologies.
+* Conduct code reviews and ensure code quality and adherence to coding standards.
+* Experience with browser-based debugging and performance testing software.
+* Excellent analytical, problem-solving, communication, and decision-making skills.
+* Good project management skills.
+
+**Benefits:**
+* Two festival bonuses per year.
+* Subsidized lunch and snacks.
+* Regular indoor and outdoor team events.
+* Frequent knowledge-sharing sessions.
+* Long-term growth opportunities in a high-quality work environment.
+* Friendly, fun-loving team culture with a competitive salary package.
+
+**Education:**
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+
+**How to Apply:**
+Send your CV to jobs@inument.com with your photo and expected salary. Email subjectformat: Frontend_6yr_90k_JU
+
+---
+* 📧 [Send Resume via Email](mailto:jobs@inument.com)
+* 🌐 [Apply on Website](https://inument.com/apply-job?id=2019)
 ---
 
 </details>
@@ -4757,6 +5030,8 @@ At Inument, we are looking for SQA Engineers who own quality at the system level
 | **Location** | Baridhara DOHS |
 | **Role** | Senior |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `SQA` `API Testing` `Automation` `Manual Testing` `SQL` `CI/CD` 
 
 ## 📝 [Description](https://inument.com/career)
 
@@ -4804,12 +5079,9 @@ At Inument, we are looking for Senior SQA Engineers who own quality at the syste
 *   Long-term growth opportunities in a high-quality work environment.
 *   Friendly, fun-loving team culture with a competitive salary package.
 
+---
 * 🌐 [Apply on Website](https://inument.com/apply-job?id=2916)
 * 📧 [Send Resume via Email](mailto:jobs@inument.com)
-## 🛠️ Tech Stack
-
-`SQA` `API Testing` `Automation` `Manual Testing` `SQL` `CI/CD` 
-
 ---
 
 </details>
@@ -4823,6 +5095,8 @@ At Inument, we are looking for Senior SQA Engineers who own quality at the syste
 | **Salary** | 80K |
 | **Location** | Baridhara DOHS |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `iOS` `Swift` `UIKit` `SwiftUI` `Git` `MVC` `MVVM` `RESTful APIs` 
 
 ## 📝 [Description](https://inument.com/career)
 
@@ -4878,369 +5152,78 @@ At Inument, we are looking for a skilled Native Android Developer with strong, r
 *   Long-term growth opportunities in a high-quality work environment.
 *   Friendly, fun-loving team culture with a competitive salary package.
 
+---
 * 🌐 [Apply on Website](https://inument.com/apply-job?id=2907)
-## 🛠️ Tech Stack
-
-`iOS` `Swift` `UIKit` `SwiftUI` `Git` `MVC` `MVVM` `RESTful APIs` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Android Developer (Native)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 80K - 150K |
-| **Location** | Baridhara DOHS |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://inument.com/career)
-
-Inument Solutions (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
-
-At Inument, we are looking for a skilled Native Android Developer with strong, recent hands-on experience in Android application development. You will work on building reliable, high-performance Android apps using modern Android frameworks and best practices for international clients.
-
-**Job Details:**
-
-*   **Workplace:** On-site
-*   **Working Hours:** 9:00 AM – 6:00 PM (Dhaka Time), Sunday to Thursday
-*   **Vacancies:** 1
-*   **Experience Required:** 3 – 6 years (minimum 3 years of recent, solid experience in Native Android)
-*   **Salary:** BDT 80,000 – 150,000/monthly (Negotiable based on skills and experience)
-*   **Must-Have:** Strong recent experience in Native Android development (Kotlin). Experience working with outsourcing is a plus.
-
-**Job Description:**
-
-*   Design, develop, and maintain high-quality Android applications.
-*   Build clean, scalable, and maintainable code following best practices.
-*   Work with Android SDK, Jetpack components, and modern Android architecture.
-*   Implement UI/UX designs with pixel-perfect accuracy and smooth performance.
-*   Integrate RESTful APIs, third-party SDKs, and backend services.
-*   Contribute to the design and implementation of scalable mobile application architecture, collaborating on system design decisions for high-traffic, large-scale production systems.
-*   Handle app lifecycle management, performance optimization, and memory management.
-*   Debug, troubleshoot, and resolve issues across different Android devices and OS versions.
-*   Collaborate with backend, QA, and product teams to deliver reliable solutions.
-*   Participate in code reviews and contribute to technical decisions.
-*   Communicate with international clients to understand requirements and provide updates.
-
-**Additional Job Requirements:**
-
-*   Strong proficiency in Kotlin (Java experience is a plus).
-*   Solid understanding of Android architecture patterns (MVVM/MVP/Clean Architecture).
-*   Experience with Jetpack components (ViewModel, LiveData, Room, Navigation, etc.)
-*   Knowledge of background processing, notifications, and offline storage.
-*   Experience with Git and collaborative development workflows.
-*   Familiarity with app publishing, versioning, and Play Store release process.
-*   Strong analytical, problem-solving, and communication skills.
-*   Ability to work independently and within a team with minimal supervision.
-
-**Education:**
-
-*   Bachelor’s degree in Computer Science, Information Technology, or a related field.
-
-**Benefits:**
-
-*   Two festival bonuses per year.
-*   Subsidized lunch and snacks. 
-*   Regular indoor and outdoor team events.
-*   Frequent knowledge-sharing sessions.
-*   Long-term growth opportunities in a high-quality work environment.
-*   Friendly, fun-loving team culture with a competitive salary package.
-
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2906)
-## 🛠️ Tech Stack
-
-`Android` `Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `MVP` `Clean Architecture` `Git` `RESTful APIs` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Drupal Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 100K - 200K |
-| **Deadline** | Open until the position is filled |
-| **Location** | Baridhara DOHS |
-| **Role** | Senior |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://inument.com/career)
-
-Inument Solutions Ltd. (www.inument.com) is a global software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients across the USA, UK, Australia, Japan, and Europe — delivering top-tier software solutions in custom app development, cloud engineering, DevOps, AI/ML, and staff augmentation.
-
-We’re currently seeking a Senior Drupal Developer to join our growing CMS engineering team. The ideal candidate is someone who thrives on ownership, writes clean and sc…
-
-**Job Details:**
-• Workplace: On-site (Baridhara DOHS)
-• Working Hours: 8:30 AM – 5:30 PM (Dhaka Time), Monday to Friday
-• Vacancies: 2
-• Experience Required: 5–12 years (minimum 3+ years in Drupal)
-• Salary: BDT 100,000–200,000 (Negotiable based on skills and experience)
-• Must-Have: Strong expertise in Drupal 9/10, PHP (OOP), and Drupal APIs. Experience with custom module/theme development, version upgrades, performance optimization, and modern front-end integration (React/JavaScript). Prior experience with international clients or outsourcing environments is highly preferred.
-
-**Job Description:**
-• Architect, develop, and maintain Drupal 9/10-based applications.
-• Build and extend custom modules and themes aligned with best practices.
-• Manage major version upgrades (Drupal 9 → 10) efficiently.
-• Work with Drupal APIs, hooks, services, and plugin systems.
-• Implement responsive front-end design using HTML5, CSS3, JavaScript, and frameworks like React.
-• Integrate Drupal with REST/GraphQL APIs and third-party platforms.
-• Optimize performance, caching, and database queries for speed and scalability.
-• Ensure adherence to Drupal coding standards, security, and maintainability.
-• Collaborate with product managers, DevOps, and QA teams in Agile environments.
-• Lead code reviews, mentor junior developers, and document development processes.
-
-**Additional Requirements:**
-• Proficiency in Composer, Git, and configuration management.
-• Familiarity with LAMP/LEMP stack, Drush, and build automation tools.
-• Experience with Docker/Kubernetes, CI/CD pipelines, and automated deployments is a plus.
-• Knowledge of Acquia, Pantheon, or Platform.sh hosting platforms.
-• Experience in headless/decoupled Drupal, accessibility (WCAG), and SEO best practices.
-• Contributions to the Drupal community are highly valued.
-• Strong debugging, problem-solving, and documentation skills.
-• Excellent communication — can translate complex requirements into technical action.
-• Self-driven, proactive, and eager to stay updated with new Drupal advancements.
-
-**Education:**
-• Bachelor’s degree in Computer Science, Information Technology, or a related field. (Flexible if the candidate has top-notch skillset)
-
-**Benefits:**
-• Two festival bonuses per year.
-• Subsidized lunch and snacks.
-• Regular indoor and outdoor team events.
-• Frequent knowledge-sharing sessions and mentorship programs.
-• Long-term growth opportunities in a global, high-quality engineering culture.
-• Friendly, collaborative environment with competitive pay and international exposure.
-
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2092)
-## 🛠️ Tech Stack
-
-`Drupal` `PHP` `React` `JavaScript` `HTML5` `CSS3` `REST` `GraphQL` `Composer` `Git` `Docker` `Kubernetes` `CI/CD` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Flutter Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 70K - 150K |
-| **Deadline** | Open until the position is filled |
-| **Location** | Baridhara DOHS |
-| **Role** | Senior |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://inument.com/career)
-
-**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
-
-We are looking for experienced Senior Flutter Engineers to join our team. You’ll work with modern mobile technologies to build high-quality, scalable cross-platform applications. Your primary responsibility will be to design and develop robust mobile applications using Flutter and Dart. You must have proven experience building and publishing performant mobile apps, writing clean, maintainable code, and following best practices in Flutterdevelopment. Experience working both independently and collaboratively in cross-functional teams is essential.
-
-**Job Details:**
-* Workplace: On-site (Baridhara/Mohakhali)
-* Working Hours: 9:30 AM – 6:30 PM (Dhaka Time), Sunday to Thursday
-* Vacancies: 2
-* Experience Required: 3–7 years
-* Salary: BDT 70,000–150,000 (Negotiable based on skills and experience)
-* Must-Have: Strong Flutter expertise, hands-on experience with AI-assisted development tools (e.g., GitHub Copilot, ChatGPT, Cursor), and excellent English communication skills.
-
-**Job Description:**
-* Solid understanding of cloud-based mobile app architecture and services (e.g., Firebase, AWS Amplify), along with CI/CD pipelines (e.g., Bitrise, GitHub Actions), mobile DevOps practices, and automated testing in Flutter.
-* Build and maintain high-quality cross-platform mobile applications using Flutter.
-* Successfully developed and published at least two Flutter apps to both the App Store and Google Play.
-* Deep experience with native iOS and Android development, and ability to write platform-specific code when needed.
-* Strong understanding of Flutter Widgets, animations, platform channels, and performance optimization.
-* Implement complex, responsive UI/UX designs optimized for various screen sizes and OS versions.
-* Solid understanding of Android and iOS SDKs, with strong familiarity with native UI/UX guidelines and platform best practices.
-* Manage end-to-end app store deployment processes for both Android and iOS platforms.
-* Experience working with state management solutions like Bloc, GetX, Riverpod, or Provider.
-* Integrate third-party APIs, GraphQL, RESTful services, cloud messaging APIs, and push notifications.
-* Proficiency in OAuth 2.0, JWT, and other modern authentication mechanisms.
-* Experience working with location services, maps, background services, and offline capabilities.
-
-**Additional Requirements:**
-* Excellent analytical, problem-solving, and decision-making abilities.
-* Strong in object-oriented programming, clean architecture, and patterns such as MVVM/MVP.
-* Ability to identify bottlenecks, debug issues, and optimize performance.
-* Translate complex product requirements into technical specifications and scalable implementations.
-* Collaborate with cross-functional teams (backend, UI/UX, QA, PM) and communicate clearly in English.
-* Familiarity with React or React Native is a plus.
-* Experience working in Agile environments and contributing to CI/CD workflows for mobile app delivery.
-* Exposure to AI-assisted tools (like GitHub Copilot, ChatGPT, or Cursor) to accelerate development and improve code quality.
-
-**Education:**
-* Bachelor’s degree in Computer Science, Information Technology, or a related field.
-
-**Benefits:**
-* Two festival bonuses per year.
-* Subsidized lunch and snacks.
-* Regular indoor and outdoor team events.
-* Frequent knowledge-sharing sessions.
-* Long-term growth opportunities in a high-quality work environment.
-* Friendly, fun-loving team culture with a competitive salary package.
-
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2021)
-## 🛠️ Tech Stack
-
-`Flutter` `Dart` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `Bloc` `GetX` `Riverpod` `Provider` `GraphQL` `RESTful` `OAuth 2.0` `JWT` `React` `React Native` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Lead React Native Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 100K - 250K |
-| **Deadline** | Open until the position is filled |
-| **Location** | Baridhara DOHS |
-| **Role** | Lead |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://inument.com/career)
-
-**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
-
-We are looking for an experienced very senior level React Native Engineer to join our mobile development team. You’ll work with cutting-edge technologies to build high-quality, scalable cross-platform mobile applications for international clients. Your primary responsibility will be to lead the design and development of robust mobile appsusing React Native, delivering seamless experiences across iOS and Android. You must have a proven track record of shipping production-grade apps, writing clean and maintainable code, and following industry best practices.
-
-**Job Details:**
-* Workplace: On-site (Baridhara DOHS)
-* Working Hours: 8:30 AM – 5:30 PM (Dhaka Time), Monday to Friday
-* Vacancies: 2
-* Experience Required: 8–15 years
-* Salary: BDT 100,000–250,000 (Negotiable based on skills and experience)
-* Must-Have: Strong React Native expertise, experience using AI-assisted development tools (e.g., GitHub Copilot, ChatGPT, Cursor), and excellent communication skills in English. Prior experience working with international clients or in an outsourcing environment is must.
-
-**Job Description:**
-* Solid understanding of cloud-based mobile app architecture and services (e.g., Firebase, AWS Amplify), along with CI/CD pipelines (e.g., Bitrise, GitHub Actions), mobile DevOps practices, and automated testing in React Native.
-* Build and maintain high-performance, cross-platform mobile applications using React Native.
-* Successfully developed and deployed multiple iOS/Android apps via App Store and Google Play.
-* Minimum 10 years of experience in mobile development with at least 5 years hands-on expertise in React Native.
-* Deep knowledge of mobile application architecture, lifecycle, and platform-specific APIs (iOS & Android).
-* Proficient in building complex, responsive, and pixel-perfect UIs across multiple screen sizes and OS versions.
-* Strong understanding of React development practices, performance optimization, and code reusability.
-* Experience with native modules and platform-specific code (Java, Swift/Obj-C) when needed.
-* Skilled in app-store deployment processes and managing releases across environments.
-* Integration experience with RESTful APIs, GraphQL, cloud messaging, and push notifications.
-* Experience working with device features such as location services, interactive maps, background tasks (sync), offline storage, and network status handling across platforms.
-* Manage end-to-end deployment processes for both Android and iOS apps, including App Store and Google Play submissions.
-* Integrate third-party APIs, GraphQL, RESTful services, cloud messaging platforms, and push notifications.
-* Demonstrated leadership skills in managing mobile teams, mentoring junior developers, and driving technical decisions.
-
-**Additional Requirements:**
-* Excellent analytical, problem-solving, debugging and decision-making abilities.
-* Strong in object-oriented programming, clean architecture, and patterns such as MVVM/MVP.
-* Ability to identify bottlenecks, debug issues, and optimize performance.
-* Translate complex product requirements into technical specifications and scalable implementations.
-* Collaborate with cross-functional teams (backend, UI/UX, QA, PM) and communicate clearly in English.
-* Experience working in Agile environments and contributing to CI/CD workflows for mobile app delivery.
-* Exposure to AI-assisted tools (like GitHub Copilot, ChatGPT, or Cursor) to accelerate development and improve code quality.
-* Experience with native development in Swift, Objective-C, Java, or Flutter is a strong plus.
-
-**Education:**
-* Bachelor’s degree in Computer Science, Information Technology, or a related field.
-
-**Benefits:**
-* Two festival bonuses per year.
-* Subsidized lunch and snacks.
-* Regular indoor and outdoor team events.
-* Frequent knowledge-sharing sessions.
-* Long-term growth opportunities in a high-quality work environment.
-* Friendly, fun-loving team culture with a competitive salary package.
-
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2020)
-## 🛠️ Tech Stack
-
-`React Native` `GitHub Copilot` `ChatGPT` `Cursor` `Firebase` `AWS Amplify` `Bitrise` `GitHub Actions` `iOS` `Android` `GraphQL` `RESTful APIs` `Swift` `Objective-C` `Java` `Flutter` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Frontend Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 120K - 180K |
-| **Location** | Baridhara DOHS |
-| **Role** | Senior |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://inument.com/career)
-
-**Inument Solutions** (www.inument.com) is a software outsourcing company headquartered in Singapore, with its Engineering Hub in Dhaka. We work with clients from Australia and Europe.
-
-We are looking for a Senior Front-end Engineer to develop and maintain elegant, responsive, fast, and pixel-perfect user interfaces using HTML, CSS, and JavaScript. You will be responsible for creating fast, scalable, and user-friendly web applications, writing clean, reusable code while following best practices and understanding core browser behavior.
-
-**Job Details:**
-* Workplace: On-site (Baridhara DOHS)
-* Working Hours: 8.30 AM – 5.30 PM (Dhaka Time), Monday to Friday
-* Vacancies: 1
-* Experience Required: 5 – 10 years
-* Salary: BDT 1,20,000 – 1,80,000/monthly (Negotiable based on skills and experience)
-* Must-Have: The candidate must be very strong on HTML, CSS & JS, and proficient English speaker to communicate with clients. Having experience with outsourcing clients will be preferred.
-
-**Job Description:**
-* Develop and maintain elegant, responsive, fast, and pixel-perfect user interfaces using HTML, CSS, and JavaScript.
-* Strong proficiency in CSS preprocessors like SASS or LESS.
-* Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
-* Experience with modern UI frameworks and libraries such as React, Angular, or Vue.js.
-* Familiarity with responsive design principles and mobile-first development.
-* Solid understanding of web accessibility standards and practices (WCAG).
-* Work with the design team, project managers, business analysts, software developers and users across the organization and create a fast, intuitive, and easy-to-use frontend.
-* Collaborate with product & UX team in brainstorming, research, and wireframe translation into reusable components for use across the organization.
-* Do daily communications with foreign clients, understand their needs, discuss the approach, and work accordingly.
-* Good communication skill in English is a must.
-
-**Additional Job Requirements:**
-* Optimize web applications for performance, ensuring fast load times and smooth user interactions.
-* Knowledge of version control systems, such as Git.
-* Stay updated with the latest UI/UX trends, best practices, and emerging technologies.
-* Conduct code reviews and ensure code quality and adherence to coding standards.
-* Experience with browser-based debugging and performance testing software.
-* Excellent analytical, problem-solving, communication, and decision-making skills.
-* Good project management skills.
-
-**Benefits:**
-* Two festival bonuses per year.
-* Subsidized lunch and snacks.
-* Regular indoor and outdoor team events.
-* Frequent knowledge-sharing sessions.
-* Long-term growth opportunities in a high-quality work environment.
-* Friendly, fun-loving team culture with a competitive salary package.
-
-**Education:**
-Bachelor’s degree in Computer Science, Information Technology, or a related field.
-
-**How to Apply:**
-Send your CV to jobs@inument.com with your photo and expected salary. Email subjectformat: Frontend_6yr_90k_JU
-
-* 📧 [Send Resume via Email](mailto:jobs@inument.com)
-* 🌐 [Apply on Website](https://inument.com/apply-job?id=2019)
-## 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `SASS` `LESS` `React` `Angular` `Vue.js` `Git` `WCAG` 
-
 ---
 
 </details>
 
 ## 🏢 LeadSoft
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Lead/Principal Software Engineer (AML expertise preferred)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | 2 months ago |
+| **Location** | Dhaka |
+| **Role** | Lead / Principal |
+
+**🛠️ Tags**: `softwarecompany` `aml` `java` `Spring Boot` `Angular` `RESTful API` `Microservices` `SQL` 
+
+## 📝 [Description](https://leads.com.bd/jobs)
+
+Seeking a developer who will develop and enhance Anti-Money Laundering (AML) software solutions for financial institutions. The role focuses on building secure, scalable, and high-performance applications using Java for backend services and Angular for modern web interfaces. Candidates with strong algorithmic thinking and competitive programming experience are highly encouraged to apply.
+
+**Key Responsibilities**
+
+* Design, develop, and maintain AML software applications using Java and Angular.
+* Implement features related to transaction monitoring, customer risk profiling, sanctions screening, and case management.
+* Develop RESTful APIs and backend services using Java frameworks such as Spring Boot.
+* Build responsive and user-friendly front-end interfaces using Angular.
+* Integrate AML systems with banking platforms, payment systems, and external data sources.
+* Apply strong algorithmic and data structure knowledge to solve complex data processing and transaction analysis problems.
+* Ensure system security, performance, scalability, and reliability.
+* Write clean, maintainable, and well-documented code following development standards.
+* Participate in design discussions, code reviews, testing, and deployment.
+* Collaborate with business analysts and compliance teams to translate regulatory requirements into technical solutions.
+
+**Required Qualifications**
+
+* Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+* 3–6 years of professional software development experience.
+* Strong programming experience in **Java** and **Spring Boot**.
+* Experience with **Angular** for front-end application development.
+* Strong knowledge of **data structures, algorithms, and problem-solving techniques**.
+* Experience with **REST APIs, microservices architecture, and distributed systems**.
+* Experience with **SQL databases** and ORM frameworks such as JPA/Hibernate.
+* Familiarity with **Git, Maven/Gradle, and CI/CD pipelines**.
+* Strong analytical and system design skills.
+
+**Preferred Qualifications**
+
+* Participation in **competitive programming contests** (ICPC, Codeforces, HackerRank, or similar).
+* Experience developing **AML, compliance, or banking software solutions**.
+* Knowledge of AML domains such as **transaction monitoring, KYC, sanctions screening, and suspicious activity reporting**.
+* Experience with **message queues or event-driven systems**.
+* Familiarity with **Docker, Kubernetes, or cloud platforms**.
+
+**Key Skills**
+
+* Java, Spring Boot
+* Angular
+* Data Structures & Algorithms
+* RESTful API Development
+* Microservices Architecture
+* SQL & Database Design
+* Secure and Scalable Software Development
+
+---
+* 📧 [Send Resume via Email](mailto:info@leads-bd.com)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Software Engineer (Android & iOS | Multiplatform)</strong> </summary>
@@ -5251,6 +5234,8 @@ Send your CV to jobs@inument.com with your photo and expected salary. Email subj
 | **Posted** | 1 month ago |
 | **Location** | Dhaka |
 | **Role** | Software Engineer |
+
+**🛠️ Tags**: `android` `ios` `kotlin` `swift` `kmp` `jetpack-compose` `ktor` `firebase` `git` 
 
 ## 📝 [Description](https://leads.com.bd/jobs)
 
@@ -5283,10 +5268,6 @@ We’re looking for a talented **Mobile Software Engineer** with hands-on experi
 * Knowledge of AI integrations (Gemini/OpenAI APIs).
 * Familiarity with Unit Testing, CI/CD pipelines, and Agile methodologies.
 
-## 🛠️ Tech Stack
-
-`android` `ios` `kotlin` `swift` `kmp` `jetpack-compose` `ktor` `firebase` `git` 
-
 ---
 
 </details>
@@ -5299,6 +5280,8 @@ We’re looking for a talented **Mobile Software Engineer** with hands-on experi
 | **Employment** | Full Time |
 | **Posted** | 1 month ago |
 | **Location** | Dhaka |
+
+**🛠️ Tags**: `softwarecompany` `sqa` `testengineer` `Cypress` `JMeter` `Git` `DevOps` `CI/CD` 
 
 ## 📝 [Description](https://leads.com.bd/jobs)
 
@@ -5349,76 +5332,6 @@ We’re looking for a passionate Software Test Engineer to help us deliver top-q
 * Expert in industry standard development methodologies.
 * Requires strong problem solving and analytic skills to identify business bugs in software.
 
-## 🛠️ Tech Stack
-
-`softwarecompany` `sqa` `testengineer` `Cypress` `JMeter` `Git` `DevOps` `CI/CD` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Lead/Principal Software Engineer (AML expertise preferred)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | 2 months ago |
-| **Location** | Dhaka |
-| **Role** | Lead / Principal |
-
-## 📝 [Description](https://leads.com.bd/jobs)
-
-Seeking a developer who will develop and enhance Anti-Money Laundering (AML) software solutions for financial institutions. The role focuses on building secure, scalable, and high-performance applications using Java for backend services and Angular for modern web interfaces. Candidates with strong algorithmic thinking and competitive programming experience are highly encouraged to apply.
-
-**Key Responsibilities**
-
-* Design, develop, and maintain AML software applications using Java and Angular.
-* Implement features related to transaction monitoring, customer risk profiling, sanctions screening, and case management.
-* Develop RESTful APIs and backend services using Java frameworks such as Spring Boot.
-* Build responsive and user-friendly front-end interfaces using Angular.
-* Integrate AML systems with banking platforms, payment systems, and external data sources.
-* Apply strong algorithmic and data structure knowledge to solve complex data processing and transaction analysis problems.
-* Ensure system security, performance, scalability, and reliability.
-* Write clean, maintainable, and well-documented code following development standards.
-* Participate in design discussions, code reviews, testing, and deployment.
-* Collaborate with business analysts and compliance teams to translate regulatory requirements into technical solutions.
-
-**Required Qualifications**
-
-* Bachelor’s degree in Computer Science, Software Engineering, or a related field.
-* 3–6 years of professional software development experience.
-* Strong programming experience in **Java** and **Spring Boot**.
-* Experience with **Angular** for front-end application development.
-* Strong knowledge of **data structures, algorithms, and problem-solving techniques**.
-* Experience with **REST APIs, microservices architecture, and distributed systems**.
-* Experience with **SQL databases** and ORM frameworks such as JPA/Hibernate.
-* Familiarity with **Git, Maven/Gradle, and CI/CD pipelines**.
-* Strong analytical and system design skills.
-
-**Preferred Qualifications**
-
-* Participation in **competitive programming contests** (ICPC, Codeforces, HackerRank, or similar).
-* Experience developing **AML, compliance, or banking software solutions**.
-* Knowledge of AML domains such as **transaction monitoring, KYC, sanctions screening, and suspicious activity reporting**.
-* Experience with **message queues or event-driven systems**.
-* Familiarity with **Docker, Kubernetes, or cloud platforms**.
-
-**Key Skills**
-
-* Java, Spring Boot
-* Angular
-* Data Structures & Algorithms
-* RESTful API Development
-* Microservices Architecture
-* SQL & Database Design
-* Secure and Scalable Software Development
-
-* 📧 [Send Resume via Email](mailto:info@leads-bd.com)
-## 🛠️ Tech Stack
-
-`softwarecompany` `aml` `java` `Spring Boot` `Angular` `RESTful API` `Microservices` `SQL` 
-
 ---
 
 </details>
@@ -5435,6 +5348,8 @@ Seeking a developer who will develop and enhance Anti-Money Laundering (AML) sof
 | **Deadline** | 31 August, 2026 |
 | **Location** | 24/1 & 24/2, Floor 8, Shiya Mashjid Mor, Tajmahal Road, Mohammadpur, Dhaka- 1207 |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `LinkedIn` `ChatGPT` `Gemini` `Claude` `AI tools` 
 
 ## 📝 [Description](https://www.mediusware.com/career)
 
@@ -5495,414 +5410,13 @@ Fresh graduates with excellent communication skills are encouraged to apply.
 
 24/1 & 24/2, Floor 8, Shiya Mashjid Mor, Tajmahal Road, Mohammadpur, Dhaka- 1207
 
+---
 * 🌐 [Apply on Website](https://www.mediusware.com/career/jobs/Client-Relationship-Executive/apply)
-## 🛠️ Tech Stack
-
-`LinkedIn` `ChatGPT` `Gemini` `Claude` `AI tools` 
-
 ---
 
 </details>
 
 ## 🏢 Next Ventures
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Head of Quant</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Remote |
-| **Role** | Head |
-
-## 📝 [Description](https://nextventures.io/career)
-
-# Head of Quant
-
-**Who We Are**
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**How You’ll Make an Impact**
-
-**Build the Quant Stack (0 → 1)**
-
-*   Design and develop the full trading system:
-    *   Data pipeline
-    *   Backtesting framework
-    *   Execution infrastructure
-    *   Monitoring & analytics
-*   Work with tick-level and real-time trading data
-
-**Develop & Run Trading Strategies**
-
-*   Build and deploy systematic strategies (MM / stat arb / execution)
-*   Optimize execution, slippage, and liquidity usage
-*   Continuously iterate strategies based on performance
-
-**Monetize Trading Flow**
-
-*   Extract value from trading flow and user behavior
-*   Design hedging and internalization logic
-*   Identify and exploit inefficiencies across cohorts
-
-**Signal & Data Layer**
-
-*   Generate signals from:
-    *   Market data
-    *   Trader behavior and cohorts
-*   Build and maintain backtesting and evaluation frameworks
-
-**Sim → Live Pipeline**
-
-*   Transition strategies from simulation to live trading
-*   Monitor performance, risk, and capital efficiency
-*   Continuously improve strategy robustness
-
-**Ownership**
-
-*   Own strategy performance and PnL
-*   Operate independently in a fast-moving environment
-*   Build and lead the quant team over time
-
-**What You Bring**
-
-*   **Must Have**
-    *   Proven experience building **end-to-end trading systems (0→1)**
-    *   Strong programming skills (Python required; C++ is a plus)
-    *   Hands-on experience in:
-        *   Market making OR
-        *   Statistical arbitrage OR
-        *   Execution strategies
-    *   Deep understanding of:
-        *   Market microstructure
-        *   Liquidity, spreads, and slippage
-    *   Experience taking strategies from **idea → backtest → live**
-
-    **Strong Plus**
-    *   Experience in:
-        *   CFD brokers / market making / central risk book
-        *   Multi-asset trading (FX, equities, crypto, futures)
-    *   Familiarity with:
-        *   Tick-level data
-        *   Low-latency systems
-        *   Time-series databases (e.g. KDB)
-
-**Your Journey after Applying**
-
-*   30 minute HR interview with the Talent Acquisition team member
-*   45 minute Session (with talent acquisition team & department front line manager)
-*   60-minute Final Interview Session (with head of department & talent acquisition lead)
-
-**Why Join NEXT?**
-
-This is a rare opportunity to build a hedge-fund-grade system from the ground up, backed by the data and capital of one of the world's fastest-growing prop firms. You will not be a cog in a machine; you will be the engine builder.
-
-The future of fintech is algorithmic. Come build it with us.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Python` `C++` `Market Making` `Statistical Arbitrage` `KDB` `Quantitative Trading` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Head of Risk</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Remote |
-| **Role** | Head |
-
-## 📝 [Description](https://nextventures.io/career)
-
-**Who We Are**
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**Your Role in Our Mission**
-
-As Head of Risk at FundedNext, you will own the most strategically important function in any prop trading firm: the discipline that protects platform integrity and stabilises the economics that fund every trader’s journey. You will report directly to the FundedNext CEO and become the senior owner of risk decisions across CFD and Futures — and the lead architect of risk infrastructure for the upcoming Crypto programme.
-
-This is not a role where you inherit a fully-built function. You inherit ambition, complex data, and a team that needs senior leadership. Your first 90 days are a diagnostic. From that diagnosis, you build.
-
-**How You’ll Make an Impact**
-
-**Stabilise the Book**
-* Reduce payout ratio variance and bring discipline to the firm’s primary health metric across CFD and Futures. Translate trader behaviour data into product-rule decisions that protect long-term sustainability without throttling the trader experience.
-
-**Audit, Then Build**
-* In your first 90 days, conduct an end-to-end gap analysis of our existing risk framework — surveillance tooling, policies, escalation paths, dealing operations integration. From that diagnostic, design and implement a risk operating model fit for FundedNext’s scale through 2028.
-
-**Lead Crypto Risk Readiness**
-* Design risk policies, surveillance models, drawdown rules, and operational guardrails for the Crypto programme launching. Crypto carries different volatility, exposure, and abuse patterns than CFD or Futures — your work here defines whether we launch safely.
-
-**Hunt Fraud and Abuse**
-* Strengthen detection and response to multi-account abuse, identity fraud, and toxic trading patterns. Partner with Engineering, Data, Compliance, and Customer Operations to build a defensible, scalable abuse-prevention capability.
-
-**Partner Across the Firm**
-* Be the trusted risk voice in product design, dealing operations, engineering, compliance, and analytics. Influence — and where required, veto — decisions that materially shift FundedNext’s risk profile. You will report directly to the CEO and have the authority to escalate independently when material risk events demand it.
-
-**What You Bring**
-* 8–12 years of risk experience across prop trading, CFD brokerage, or multi-asset financial services.
-* Genuine multi-asset fluency — you understand CFD, Futures, and ideally Crypto economics, instruments, and abuse patterns.
-* A track record of building or rebuilding a risk function — frameworks, policies, surveillance tooling, team.
-* Hands-on credibility on B-book and dealing operations; you have personal exposure to payout ratio management at scale.
-* Strong cross-functional influence — you can hold your own with Product, Engineering, and Trading leaders.
-* Comfort with ambiguity — you can step into an under-defined function and bring clarity quickly.
-* Excellent communication — to traders, to your CEO, to your future board.
-
-**Your X-Factor**
-What sets the strongest candidates apart:
-* You have personal scar tissue from a payout-ratio crisis or major abuse incident — and you can talk about how you turned it around.
-* You speak the language of data and engineering well enough to design surveillance models with quants and ML engineers, even if you don’t write production code yourself.
-* You have led risk policy design for a new asset class launch — ideally Crypto.
-* You think about trader experience and risk economics in the same sentence — not as opposing forces.
-* You see AI and machine learning as the future of risk surveillance and bring opinions about how to deploy them responsibly.
-
-**Your Journey After Applying**
-1. Initial conversation with our Talent Acquisition team.
-2. 60 minutes interview with management team and HoD
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Risk Management` `Trading` `CFD` `Crypto` `Futures` `Compliance` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Trading and Risk Advisor - Futures</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Global multiple locations (Hybrid) |
-| **Role** | Advisor |
-
-## 📝 [Description](https://career.nextventures.io/)
-
-## Job description
-
-**Who We Are**
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm — 220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**Trading Operations & Execution Oversight**
-
-*   Advise on the end-to-end futures trading operations stack across multiple platforms and different asset classes. 
-
-*   Advice to oversee aggregate trader activity across futures platforms to understand how the trader population behaves, sim farming detection, how profitable vs unprofitable cohorts operate, and where risk concentrates
-
-*   Advise on pattern analysis, odd-trade detection, and gamification reviews to identify behaviour inconsistent with legitimate trading and share what action is recommended. 
-
-*   Translate complex findings into clear recommendations that inform rule design and risk posture. 
-
-*   Advice on managing emerging risk patterns before they materialise as losses. 
-
-*   Help the team create risk scoring frameworks and trader profiles to help department for the broader terms.
-
-*   Advise on A-book / B-book routing logic, internalisation strategy, and the conditions under which trader flow is hedged externally.
-
-**Risk Framework Design & Margin Oversight**
-
-*   Propose the architecture of the abuse detection framework, risk parameters, and behavioural constraints that govern the trader population
-
-*    Set and review limits at instrument, asset class, client tier, and book level; advise on stress testing and scenario analysis.
-
-*   Act as the subject-matter expert for trading and risk infrastructure, ensuring accuracy, consistency, and operational resilience under stress.
-
-*   Recommend trader-profile taxonomies that segment the population by strategy, behaviour, and risk contribution.
-
-*   Design and supervise risk frameworks covering market exposure, liquidity, basis, and execution risk on the futures book. 
-
-*   Guide A-book vs. internalisation framework decisions based on cohort behaviour, P&L distribution, and risk concentration — informed by industry practice.
-
-**What You Bring**
-
-*   Bachelor's or Master's degree in Finance, Economics, Mathematics, Engineering, or a related quantitative discipline.
-
-*   8+ years in trading, execution, or risk roles within listed derivatives, with deep expertise in at least two of: equity index futures, rates futures, FX futures, energy futures, or metals futures.
-
-*   Direct, hands-on experience with the funded-trader / prop firm model — either inside a futures prop firm or advising one. You understand how this business actually makes and loses money, and where traders find edge against the house.
-
-*   Working knowledge of the major players in the futures prop space and a clear view of what each has done well or poorly on risk and rule design.
-
-*   Working knowledge of regulated entities under NFA, CFTC, and/or CME Group.
-
-*   Sharp judgement on trader-behaviour patterns: sim farming, account cycling, hedging exploits, gap arbitrage, news abuse, micro-scalping concentration.
-
-*   Strong written communication — you can turn complex risk findings into recommendations a CEO and a Head of Trading can act on quickly.
-
-**Your X-Factor**
-
-*   Combines market intuition with engineering rigor — designing trading systems that balance speed, control, and resilience.
-
-*   Speaks the language of both markets and code, bridging traders, quants, engineers, and risk teams with equal fluency.
-
-*   Thrives in complexity — bringing structure and clarity to fast-moving, multi-jurisdictional trading environments.
-
-*   Champions a culture of operational excellence rooted in transparency, accountability, and continuous improvement.
-
-**Your Journey After Applying**
-
-*   30-minute HR Session with the Talent Acquisition team
-
-*   60-minute Session with the Top Management
-
-**Why Join NEXT**
-
-At NEXT Ventures, performance is more than numbers — it's the pulse that drives innovation and impact. Join us to architect a world-class trading and risk ecosystem that powers performance-based capital across continents. Be part of the team that turns market opportunity into operational excellence and ambition into measurable results.
-
-Your next chapter in global trading leadership begins here.
-
-## 🛠️ Tech Stack
-
-`Finance` `Economics` `Derivatives` `Risk Management` `Trading Operations` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Trading Platform Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Singapore, Sydney, Taipei, New York, Hong Kong, São Paulo, Beijing (Hybrid) |
-| **Role** | Engineer |
-
-## 📝 [Description](https://career.nextventures.io/)
-
-# Trading Platform Engineer
-
-**Who We Are**
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**Your Role in Our Mission**
-
-As a **Trading Platform Engineer (MetaTrader)**, you will ensure the stability, reliability, and performance of our **MetaTrader-based CFD and brokerage trading platforms**. You will work at the intersection of **trading technology, infrastructure, and DevOps/SRE**, managing MT4/MT5 environments primarily hosted on **AWS**.
-
-In this role, you will collaborate closely with **trading, risk, operations, and engineering teams** to maintain high availability trading systems, support integrations with liquidity providers and internal systems, and continuously improve platform reliability. Your expertise in **MetaTrader ecosystems and trading infrastructure** will help sustain a secure and scalable trading platform.
-
-**How You’ll Make an Impact**
-
-**MetaTrader Platform Ownership**
-
-*   Install, configure, and maintain **MT4/MT5 servers** (live, demo, and test) across AWS or other infrastructure environments.
-
-*   Manage **MetaTrader Admin/Manager terminals**, including trading accounts, groups, permissions, and trading instrument configurations.
-
-*   Support **plugins, liquidity bridges, and trading integrations**, working with trading and risk teams to implement new CFDs and trading conditions.
-
-**Reliability, Monitoring & Incident Management**
-
-*   Implement monitoring and alerting for **platform health, latency, connectivity, and trading performance indicators**.
-
-*   Investigate and resolve platform incidents such as **disconnects, abnormal trading activity, and system instability**.
-
-*   Perform **log analysis and root cause investigations**, contributing to incident reviews and reliability improvements.
-
-**AWS & Infrastructure Operations**
-
-*   Deploy and operate **MetaTrader infrastructure on AWS**, including EC2 instances, VPC networking, storage, and security groups.
-
-*   Manage **backups, snapshots, and infrastructure performance tuning** to ensure system stability and availability.
-
-*   Collaborate with engineering teams to implement **Infrastructure-as-Code and secure infrastructure practices**.
-
-**Integration & Ecosystem Support**
-
-*   Support integrations between MetaTrader and **internal systems such as back office, CRM, client portals, and reporting tools**.
-
-*   Assist with connectivity to **liquidity providers, trading bridges, and FIX integrations**.
-
-*   Work with developers and quant teams to **deploy and test Expert Advisors (EAs), plugins, and custom components**.
-
-**Platform Operations & Continuous Improvement**
-
-*   Maintain **separate environments (dev, test, demo, live)** with structured change and release processes.
-
-*   Plan and execute **platform upgrades, patches, and configuration changes** with minimal disruption to trading operations.
-
-*   Create and maintain **runbooks, SOPs, and documentation** while applying DevOps/SRE practices to improve reliability.
-
-**What You Bring**
-
-*   **1–4 years of experience** working with MetaTrader platforms (MT4 and/or MT5).
-
-*   Experience in **brokerage, liquidity provider, prop trading, or trading technology environments**.
-
-*   Hands-on experience supporting **production trading platforms and operational environments**.
-
-*   Experience using **MetaTrader Admin/Manager terminals** for account, group, and symbol management.
-
-*   Strong knowledge of configuring **trading conditions such as leverage, margin, commissions, swaps, and spreads**.
-
-*   Experience troubleshooting **plugins, bridges, and trading platform integrations**.
-
-*   Experience with **Windows Server administration** for MetaTrader environments and basic Linux support.
-
-*   Familiarity with **AWS infrastructure such as EC2, VPC networking, and security groups**.
-
-*   Basic scripting or automation using **PowerShell, Bash, or Python**.
-
-*   Strong **troubleshooting and analytical skills**, particularly in time-sensitive trading environments.
-
-*   Good **communication and collaboration skills** with cross-functional teams including trading, risk, and engineering.
-
-*   Willingness to participate in **on-call support during critical trading periods**.
-
-**Your X-Factor**
-
-*   Experience managing **MetaTrader environments on AWS production infrastructure**.
-
-*   Exposure to other trading platforms such as **Match-Trader, cTrader, or similar systems**.
-
-*   Familiarity with **MQL4/MQL5, Expert Advisors, and trading automation logic**.
-
-*   Knowledge of **FIX protocol, liquidity connectivity, and trade routing mechanisms**.
-
-*   Experience supporting **risk management systems and liquidity bridges**.
-
-*   Understanding of **trading platform ecosystem architecture and data flows**.
-
-*   Experience with **monitoring tools such as Prometheus, Grafana, Zabbix, CloudWatch, or ELK**.
-
-*   Exposure to **CI/CD pipelines and automated deployment processes**.
-
-*   Familiarity with **Infrastructure-as-Code tools such as Terraform or Ansible**.
-
-**Your Journey after Applying**
-
-*   30 minute HR interview with the Talent Acquisition team member
-
-*   45 minute Technical Get-To-Know-You Session (with talent acquisition team & department front line manager)
-
-*   60-minute Final Interview Session (with head of department & talent acquisition lead)
-
-**Why Join NEXT**
-
-At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you're driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.
-
-Apply now and be part of our journey — the future is calling, and it starts with you.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`MetaTrader` `MT4` `MT5` `AWS` `DevOps` `SRE` `Windows Server` `Linux` `PowerShell` `Bash` `Python` `MQL4` `MQL5` `FIX protocol` `Prometheus` `Grafana` `Zabbix` `CloudWatch` `ELK` `Terraform` `Ansible` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Applied AI Engineer</strong> </summary>
@@ -5912,6 +5426,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh / Kuala Lumpur, Malaysia (Hybrid) |
 | **Role** | Applied AI Engineer |
+
+**🛠️ Tags**: `Python` `LangChain` `LangGraph` `Agno` `LlamaIndex` `Hugging Face` `vLLM` `RAG` `Vector Databases` `Docker` `AWS` `GCP` `Azure` `Claude API` `Claude Code` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -5993,11 +5509,512 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
+---
 
-`Python` `LangChain` `LangGraph` `Agno` `LlamaIndex` `Hugging Face` `vLLM` `RAG` `Vector Databases` `Docker` `AWS` `GCP` `Azure` `Claude API` `Claude Code` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Assistant Manager — Employee Experience & Administration</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates (Hybrid) |
+| **Role** | Assistant Manager |
+
+**🛠️ Tags**: `HR Operations` `HRIS` `Benefits Administration` `Office Management` `UAE Labour Law` `Fintech` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+Employee Experience Specialist driving the execution of accurate, compliant, and seamless HR operations for the Dubai hub at NEXT Ventures. Partnering with the Global Head of Employee Experience, IT, Finance, and PRO services to deliver every moment of the employee lifecycle — from offer to exit — with rigor and care. Owning visa lifecycles, benefits, office operations, and cross-hub mobility to keep our Dubai team productive, supported, and Day 1 ready.
+
+## How You'll Make an Impact
+
+### Employee Onboarding & Lifecycle
+* Run end-to-end onboarding for new joiners in Dubai: offer issuance, background verification, documentation, visa and labour contract coordination, and Day 1 readiness (workstation, email, access, orientation).
+* Own lifecycle transactions — confirmations, transfers, role changes, promotions, exits — keeping HRIS records, contracts, and payroll inputs accurate and current.
+* Manage offboarding: clearance, exit interview coordination, final settlement inputs (including end-of-service gratuity), visa cancellation coordination, asset recovery, and handover documentation.
+* Maintain employee files (digital and physical) and keep the function audit-ready at all times, in line with UAE labour and data-retention requirements.
+* Own the end-to-end work visa and permit lifecycle for employees and their dependents — employment visas, Emirates ID, labour cards, medical typing, renewals, amendments, and cancellations — coordinating with PRO services, MOHRE, GDRFA, and the relevant free zone authorities.
+
+### Benefits Administration
+* Administer employee benefits — health insurance (including dependents where applicable), group life, leave, allowances, and any local benefits — covering enrolments, changes, claims coordination, and vendor follow-ups.
+* Serve as the first point of contact for benefits queries; resolve or escalate against clear SLAs.
+* Track utilisation and costs; flag anomalies or policy gaps to the Global Head of Employee Experience.
+* Coordinate annual renewals with insurance brokers and benefits vendors; support benchmarking and policy refinement.
+
+### Office Administration
+* Keep the Dubai office running: front-desk, housekeeping, pantry, meeting rooms, courier, supplies, and vendor management.
+* Manage travel, accommodation, and visa support for employees — including cross-hub movements under the Foreign Assignment & Relocation Policy.
+* Oversee office-related vendor contracts (cleaning, security, maintenance, stationery, pantry) and coordinate payments with Finance.
+* Support event execution — town halls, offsites, leadership visits, celebrations, and visitor logistics in the Dubai hub.
+* Liaise with building management, free zone / mainland authorities, and PRO services as required.
+
+### IT & Equipment Enablement
+* Partner with IT to ensure every employee has the right equipment — laptop, peripherals, phone, software licenses, access cards — before Day 1, and functioning equipment throughout their tenure.
+* Maintain the asset register for the Dubai hub: issuance, returns, repairs, replacements, and write-offs.
+* Triage and route IT tickets, escalate blockers, and close the loop with employees.
+* Coordinate with IT on access provisioning and de-provisioning for joiners, movers, and leavers.
+
+### Cross-Hub Coordination
+* Act as the Dubai-side operational partner for the Global Head of Employee Experience on org-wide HR operations initiatives.
+* Support cross-hub employee transfers and relocations into and out of Dubai, including logistics, documentation, and settling-in.
+* Contribute to the standardisation of HR operations processes, SLAs, and tooling across hubs.
+
+## What You Bring
+* 4–6 years of experience in HR Operations, HR Shared Services, or a combined HR–Admin role — preferably in a multi-location organisation in fintech, financial services, or technology.
+* Hands-on experience running onboarding, HRIS data management, benefits administration, and office / vendor management.
+* Prior experience in the UAE (or wider GCC) with hands-on exposure to UAE labour law, employment visa and work permit processes, Emirates ID issuance, and MOHRE / free zone requirements is strongly preferred.
+* Bachelor's degree required; Master's / MBA in HR or a related field preferred.
+* High attention to detail, strong sense of confidentiality, and ability to manage sensitive data.
+* Comfortable working with stakeholders across multiple geographies and time zones.
+* Excellent written and verbal English communication.
+* Experience in fintech, trading, or fast-scaling tech environments.
+* Familiarity with HRIS platforms (BambooHR, Workday, etc.) and ATS systems.
+* Working relationships with PRO service providers and free zone authorities in Dubai (DMCC, DIFC, DAFZA, IFZA, or similar).
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Database Reliability Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
+| **Role** | Database Reliability Engineer |
+
+**🛠️ Tags**: `MySQL` `PostgreSQL` `AWS` `RDS` `Aurora` `Redis` `ElastiCache` `Python` `Bash` `Prometheus` `Grafana` `Datadog` `Terraform` `CloudFormation` `S3` `Athena` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Job description
+
+**Who We Are**
+
+NEXT Ventures is a global fintech group powering FundedNext — one of the world's fastest-growing proprietary trading platforms — and FNmarkets, a regulated CFD brokerage. Across offices in Bangladesh, Malaysia, Sri Lanka, Cyprus, and Dubai, we build and operate the technology that lets traders access global markets at scale. Our Platform Engineering team owns the infrastructure, reliability, and observability backbone that every product squad depends on.
+
+**Your Role in Our Mission**
+
+As our Database Reliability Engineer, you are the specialist who ensures our data layer never becomes the bottleneck. You own database performance, archiving pipelines, caching reliability, and BC/DR for the data tier that underpins all FundedNext services. Working within the Platform Engineering squad, you execute the scaling and optimization initiatives designed by the squad lead — and you are the reason our databases stay fast, durable, and cost-efficient as trading data and traffic grow.
+
+**How You'll Make an Impact**
+
+**Data Performance & Scalability**
+
+*   Execute database optimization and scaling initiatives — implement partitioning strategies, sharding schemes, and replication configurations; independently diagnose and fix slow queries across the platform.
+*   Own performance diagnostics on high-volume tables — EXPLAIN plan analysis, index tuning, buffer cache hit-ratio investigation, lock contention, and replication lag on 100M+ row tables.
+*   Build and maintain data archiving pipelines — move historical records (trade logs, transaction data, audit trails) from production tables to cold storage (S3/Parquet/Athena/Glacier) while preserving query access for compliance and reporting.
+*   Implement and maintain data lifecycle automation — TTL policies, scheduled archival jobs, partition rotation, and retention enforcement.
+*   Conduct regular performance profiling across the data tier — identify bottlenecks in MySQL/PostgreSQL and the caching layer, then implement measurable fixes.
+*   Support load testing and capacity planning for the data layer — analyze growth trends, identify breaking points, and implement fixes before traffic growth causes production issues.
+
+**Data Reliability & Infrastructure**
+
+*   Implement and maintain data-tier BC/DR infrastructure — multi-AZ deployments, read replicas, Aurora Global Database/cross-region replication, backup schedules, and failover triggers targeting RTO/RPO under 5 minutes; participate in regular DR drills.
+*   Implement and maintain caching strategies (Redis, ElastiCache) — cache invalidation logic, read-through/write-behind patterns, TTL hygiene, and cache hit-rate monitoring.
+*   Define and track reliability metrics (SLIs/SLOs) for the data layer — query latency, availability, replication health — and drive improvements against them.
+*   Implement monitoring, alerting, and observability for the data tier — dashboards, slow-query alerting, and replication/cache health monitoring targeting fast MTTD on data incidents.
+*   Maintain and improve database-level automation — stored procedures, dynamic partitioning scripts, and scheduled maintenance jobs.
+
+**Cross-Team Support**
+
+*   Collaborate with application and product squads to design schemas, indexes, and access patterns that scale.
+*   Remediate data-related security findings from the Cyber Security Squad — implement fixes and verify through retesting.
+*   Write and maintain infrastructure-as-code for data resources — Terraform or equivalent for reproducible, version-controlled provisioning.
+*   Document runbooks, archiving procedures, and operational guidance so any engineer can respond to data-tier incidents with clear guidance.
+
+**What You Bring**
+
+*   4–6 years of professional engineering experience, with at least 2 years in database-focused infrastructure work at moderate-to-high scale.
+*   Strong expertise in MySQL and PostgreSQL — EXPLAIN plan analysis, index design, partitioning, sharding, and replication setup — with direct experience on 100M+ row tables.
+*   Able to build data archiving pipelines to cold storage (S3/Parquet/Athena/Glacier) while keeping records queryable for compliance and reporting.
+*   Proficient with AWS managed database services — RDS and Aurora — including provisioning, read replicas, parameter group tuning, and monitoring; Aurora Global Database experience is a plus.
+*   Hands-on with Redis and ElastiCache — cache invalidation patterns, TTL hygiene, hit-rate monitoring, and incident diagnosis.
+*   Automates archival, maintenance, and diagnostic work using Python and/or Bash.
+*   Familiar with monitoring and observability tooling (Prometheus, Grafana, Datadog, or similar) for slow-query alerting, dashboards, and data-tier incident analysis.
+*   Understands multi-AZ and cross-region DR architectures, backup strategies, and failover triggers targeting RTO/RPO under 5 minutes.
+*   Comfortable writing Terraform or CloudFormation to provision data resources in a version-controlled, reproducible way.
+*   Can write and debug stored procedures and dynamic partitioning logic for database-level automation.
+*   Evidence-driven — profiles and measures before guessing; validates every optimization against before/after data.
+*   Performance-oriented — treats data-tier latency as a first-class reliability problem, not a tuning afterthought.
+*   Good communicator — works with product squads to shape schemas and access patterns, and explains data constraints clearly.
+
+**X-Factor: AI-Native Engineering**
+
+*   You actively use modern AI agentic workflows daily — not limited to Copilot autocomplete.
+*   You are proficient with Claude Code, Cursor, Windsurf, or equivalent tools.
+*   You are comfortable with project-level AI configuration (CLAUDE.md, rules files), agentic task delegation, and AI-driven code review.
+*   You think in terms of 5–10x productivity through AI-augmented development — and you can demonstrate it.
+
+**Your Journey After Applying**
+
+*   Stage 1 — TA Interview
+*   Stage 2 — Screening Questionnaire
+*   Stage 3 — Hiring Manager Interview
+*   Stage 4 — Head of IT Interview
+
+**Why Join NEXT**
+
+*   Work on data challenges at real scale — 100M+ row tables, 1TB+ databases, high-frequency trading transaction volumes.
+*   A team that treats database performance and data-tier reliability as first-class engineering problems, not DBAs on the side.
+*   Flat structure — your work directly shapes the platform's data infrastructure, not filtered through layers of process.
+*   Offices across Bangladesh, Malaysia, Sri Lanka, Cyprus, and Dubai — a genuinely global engineering team.
+*   Competitive compensation benchmarked to your market, with room to grow as the team scales.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 DevSecOps Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
+| **Role** | Engineer |
+
+**🛠️ Tags**: `DevSecOps` `AWS` `Kubernetes` `Cloudflare` `Terraform` `Docker` `Python` `Bash` `Go` `CI/CD` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Job description
+
+**Who We Are**
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm — 220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**Your Role in Our Mission**
+We're growing our Platform Engineering team and looking for a DevSecOps Engineer who lives and breathes modern DevSecOps and cloud-native practices. You'll help build, automate, secure, and operate the infrastructure behind multiple customer-facing SaaS products running on AWS and Kubernetes, fronted by Cloudflare at the edge.
+
+This is a hands-on role for someone who treats infrastructure as code, automates relentlessly, and uses AI tooling to move faster without cutting corners. You'll share ownership of reliability, deployment pipelines, and platform tooling — and have real influence over how we scale as the team and the load grow.
+
+**How You'll Make An Impact**
+- Build and operate cloud-native infrastructure on AWS using infrastructure-as-code.
+- Own and improve CI/CD pipelines — making deployments faster, safer, and more self-service for product engineering teams.
+- Run and harden Kubernetes (EKS) workloads: scaling, resource management, observability, and cluster health.
+- Manage edge, CDN, and security through Cloudflare — DNS, WAF, rate limiting, and DDoS protection.
+- Embed security into the platform — secrets management, least-privilege IAM, and shift-left practices baked into pipelines.
+- Leverage AI tooling (coding assistants, automation, ops copilots) to accelerate delivery, reduce toil, and improve quality.
+- Participate in a shared on-call rotation with solid runbooks and blameless post-incident reviews.
+- Continuously reduce manual toil through automation and better tooling.
+
+**What You Bring**
+- 3–5 years of hands-on experience in DevOps or Infrastructure engineering.
+- Strong command of DevOps practices and tooling — CI/CD, version control (Git), automated testing/deployment, and configuration management.
+- Solid cloud-native experience: containers (Docker), orchestration (Kubernetes), and a major cloud provider (AWS strongly preferred).
+- Proficiency with infrastructure-as-code (Terraform, CloudFormation, Pulumi, or similar).
+- Scripting/automation ability in Python, Bash, or Go.
+- Security-aware engineering — secrets management, least-privilege IAM, and shift-left security baked into pipelines.
+- Edge / CDN / WAF experience — managing DNS, WAF, and DDoS protection at the edge (Cloudflare strongly preferred).
+- AI-efficient mindset — you actively use AI/LLM tools to boost productivity and problem-solving, and have good judgment about where they help and where they don't.
+- Strong troubleshooting instincts across DNS, CDN, networking, origin, and application layers.
+- You must demonstrate active, daily use of modern AI agentic workflows — well beyond basic ChatGPT prompts or Copilot autocomplete. We expect fluency with AI coding agents (Claude Code, Cursor, Windsurf, or similar), project-level AI configuration (CLAUDE.md, rules files), agentic task delegation, and AI-driven code review. The bar is 5–10x productivity through AI-augmented development. Candidates who are not AI-native in their engineering workflow will not advance.
+- Deep hands-on Cloudflare experience — WAF custom rules, Workers, Bot Management, or Turnstile. Strong Cloudflare knowledge is a significant advantage and will be prioritized.
+- Experience operating fintech, trading, or other high-availability / regulated platforms.
+- EKS-specific production experience (HPA, cluster autoscaling, PDBs, service mesh).
+
+**Your Journey After Applying**
+- 30-minute HR session with the Talent Acquisition team.
+- 60-minute technical session with the Platform Squad Lead (hiring manager).
+- Technical assessment — a hands-on infrastructure / system-design exercise.
+- Final session with Engineering leadership.
+
+**Why Join NEXT**
+At NEXT Ventures, performance is more than numbers — it's the pulse that drives innovation and impact. Join us to build and harden the platform that lets a global community of traders perform at their best, every second of every day. Here, infrastructure isn't a back office — it's the engine room of the entire business, and the engineers who run it shape how fast we can grow.
+
+**Your next chapter in building at scale begins here.**
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Employee Relations Specialist</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
+| **Role** | Employee Relations Specialist |
+
+**🛠️ Tags**: `Human Resources` `Employee Relations` `Compliance` `Conflict Resolution` `Investigations` `HR Advisory` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As an Employee Relations Specialist, you will establish and lead the Employee Relations function within NEXT Ventures. You will serve as the trusted point of contact for sensitive workplace matters, ensuring that employee concerns, investigations, and disciplinary processes are handled with fairness, professionalism, and compliance.
+
+This role will bring structure to how complex people matters are managed across the organization—reducing legal risk, supporting leadership decision-making, and strengthening a culture rooted in accountability and respect.
+
+## How You’ll Make an Impact
+
+### Employee Relations & Case Management
+
+*   Lead and manage employee relations cases including grievances, behavioral concerns, performance issues, conflicts, and disciplinary matters.
+*   Conduct structured, objective investigations while maintaining confidentiality and procedural integrity.
+*   Ensure fair and consistent case handling aligned with company policy and legal standards.
+
+### Policy Interpretation & Compliance Governance
+
+*   Provide clear, practical guidance to managers and employees on policies, employment practices, and workplace standards.
+*   Partner with HR Operations to maintain up-to-date, legally compliant ER policies.
+*   Strengthen governance frameworks to ensure consistency in decision-making across departments.
+
+### Manager Coaching & Advisory Support
+
+*   Coach leaders on performance discussions, corrective actions, and conflict resolution strategies.
+*   Equip managers with structured tools to address issues early and prevent escalation.
+*   Support leadership in navigating complex, high-risk people situations with sound judgment.
+
+### Culture & Workplace Integrity
+
+*   Support initiatives that promote psychological safety, respectful communication, and workplace fairness.
+*   Monitor emerging trends in employee concerns and proactively recommend interventions.
+*   Strengthen trust in internal processes by ensuring transparency and professionalism in case handling.
+
+### Reporting & Continuous Improvement
+
+*   Track, analyze, and report ER metrics and case trends to inform leadership decisions.
+*   Identify patterns and recommend process improvements to reduce recurrence of issues.
+*   Contribute to building scalable ER workflows and documentation standards.
+
+## What You Bring
+
+*   Bachelor’s degree in Human Resources, Business, Psychology, or a related field.
+*   5–6+ years of progressive experience in employee relations, HR advisory, or related roles.
+*   Demonstrated experience conducting investigations and advising on policy interpretation.
+*   Strong understanding of employment law and compliance standards.
+*   Experience in multinational or matrixed organizational environments is preferred.
+*   Professional HR certification (CIPD, SHRM, or similar) is a plus.
+*   Strong investigation and conflict resolution capabilities.
+*   Sound judgment and discretion when handling sensitive matters.
+*   Excellent stakeholder management and advisory skills.
+*   Strong communication skills across leadership and employee levels.
+*   Ability to remain composed and analytical under pressure.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Employee Relations Specialist (Mid Senior / Managerial Level)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (Hybrid) |
+| **Role** | Mid Senior / Managerial Level |
+
+**🛠️ Tags**: `Employee Relations` `HR Advisory` `Investigations` `Policy Compliance` `Performance Management` `HR Operations` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As the Employee Relations Specialist at NEXT Ventures, you will be the trusted point of contact for employee relations matters, helping to strengthen workplace relationships, ensuring fairness, and supporting both employees and leaders through complex people situations. You’re the person teams turn to for clarity, fairness, and confidence when navigating sensitive workplace issues.
+
+## How You’ll Make an Impact
+
+### Employee Relations & Issue Resolution
+
+*   Lead and support employee relations cases, including inquiries, concerns, behavioural issues, conflicts, performance challenges, and grievances.
+*   Conduct objective, thorough investigations with a people-centric approach while ensuring confidentiality and compliance with company policy and legal requirements.
+
+### Policy Interpretation & Compliance
+
+*   Provide clear, practical guidance to employees and managers on policies, procedures, and employment practices.
+*   Partner with HR Operations to ensure ER policies are up-to-date, legally compliant, and aligned with global standards.
+
+### Coaching & Manager Partnership
+
+*   Coach leaders on handling people issues effectively — from performance discussions to corrective conversations.
+*   Empower managers with tools and best practices to resolve issues at the earliest stage possible.
+
+### Culture & Employee Experience
+
+*   Support initiatives that promote psychological safety, open communication, and a respectful workplace.
+*   Gather insights, feedback, and trends to identify emerging issues and recommend forward-looking solutions.
+
+### Reporting & Continuous Improvement
+
+*   Track, analyze, and report on employee relations trends and metrics to inform strategic decisions.
+*   Recommend improvements to employee relations processes and tools.
+
+## What You Bring
+
+*   Bachelor’s degree in Human Resources, Business, Psychology, or related field.
+*   5–6+ years of progressive experience in employee relations, HR advisory, or a related human resources role — ideally in a dynamic, high-growth environment.
+*   Experience conducting investigations, advising on policy, and interpreting employment laws.
+*   Strong interpersonal and communication skills — you can build trust quickly at all levels.
+*   Excellent analytical skills with the ability to interpret data and feedback.
+*   Sound judgement and a high degree of professionalism and discretion.
+*   A proactive problem-solver who stays calm under pressure and prioritize people centric solutions.
+*   Experience working in multinational or matrix environments.
+*   Added advantage: Professional HR certification (e.g., CIPD, SHRM)
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Engineering Lead (Laravel & Node.js/Next.js)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
+| **Role** | Engineering Lead |
+
+**🛠️ Tags**: `PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+### Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+### Your Role in Our Mission
+
+As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-end payment journey across FundedNext, FNmarkets, and FNPay. You will architect resilient PSP integrations, optimize payment conversion, and deliver wallet and card products that scale globally. In this role, you will lead engineering squads, embed financial integrity into every transaction, and drive measurable business outcomes across payout automation, settlement accuracy, and FNPay adoption.
+
+### How You'll Make an Impact
+
+**PSP Integration & Optimization**
+* Architect and manage integrations with multiple PSPs (Payprocc, Confirmo, BinancePay, PayPal).
+* Design intelligent routing logic to optimize success rate, cost, speed, and geographic coverage.
+* Drive conversion improvements: tokenization, streamlined checkout, and reduced activation delays.
+
+**Payout & Settlement**
+* Own all payout method integrations (card, bank transfer, crypto).
+* Build payout-to-purchase bridges to enable cross-product flywheel effects.
+* Design reconciliation engines ensuring every transaction is matched, discrepancies flagged, and audit trails complete.
+* Lead ERP integration with Oracle NetSuite for automated reporting and revenue recognition.
+
+**Wallet & Card Product**
+* Deliver FNPay wallet product: deposits, withdrawals, transfers, and transaction tracking.
+* Architect card issuance systems with lifecycle management and 99%+ success rates.
+* Drive adoption metrics: 1,000+ signups, $100K+ withdrawals, 500+ cards issued.
+* Implement robust wallet ledgers with real-time balance management and compliance.
+
+**Web3 & Crypto Payments**
+* Own crypto payment infrastructure: blockchain integrations, wallet management, secure flows.
+* Evaluate Web3 technologies to improve speed, reduce costs, and expand corridors.
+* Ensure compliance with evolving crypto regulations across jurisdictions.
+
+**Leadership & Business Outcomes**
+* Lead multiple engineering squads across Payment, Payout, FNPay, and FNmarkets.
+* Own the payment domain roadmap across 20+ projects, prioritizing by impact.
+* Deliver measurable outcomes: 30% fewer payout support tickets, resilient payment diversity, and FNPay product-market fit.
+* Manage stakeholders across finance, compliance, operations, and CX.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Engineering Lead (Laravel & Node.js/Next.js)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
+| **Role** | Engineering Lead |
+
+**🛠️ Tags**: `PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-end payment journey across FundedNext, FNmarkets, and FNPay. You will architect resilient PSP integrations, optimize payment conversion, and deliver wallet and card products that scale globally. In this role, you will lead engineering squads, embed financial integrity into every transaction, and drive measurable business outcomes across payout automation, settlement accuracy, and FNPay adoption.
+
+## How You'll Make an Impact
+
+### PSP Integration & Optimization
+
+*   Architect and manage integrations with multiple PSPs (Payprocc, Confirmo, BinancePay, PayPal).
+*   Design intelligent routing logic to optimize success rate, cost, speed, and geographic coverage.
+*   Drive conversion improvements: tokenization, streamlined checkout, and reduced activation delays.
+
+### Payout & Settlement
+
+*   Own all payout method integrations (card, bank transfer, crypto).
+*   Build payout-to-purchase bridges to enable cross-product flywheel effects.
+*   Design reconciliation engines ensuring every transaction is matched, discrepancies flagged, and audit trails complete.
+*   Lead ERP integration with Oracle NetSuite for automated reporting and revenue recognition.
+
+### Wallet & Card Product
+
+*   Deliver FNPay wallet product: deposits, withdrawals, transfers, and transaction tracking.
+*   Architect card issuance systems with lifecycle management and 99%+ success rates.
+*   Drive adoption metrics: 1,000+ signups, $100K+ withdrawals, 500+ cards issued.
+*   Implement robust wallet ledgers with real-time balance management and compliance.
+
+### Web3 & Crypto Payments
+
+*   Own crypto payment infrastructure: blockchain integrations, wallet management, secure flows.
+*   Evaluate Web3 technologies to improve speed, reduce costs, and expand corridors.
+*   Ensure compliance with evolving crypto regulations across jurisdictions.
+
+### Leadership & Business Outcomes
+
+*   Lead multiple engineering squads across Payment, Payout, FNPay, and FNmarkets.
+*   Own the payment domain roadmap across 20+ projects, prioritizing by impact.
+*   Deliver measurable outcomes: 30% fewer payout support tickets, resilient payment diversity, and FNPay product-market fit.
+*   Manage stakeholders across finance, compliance, operations, and CX.
+
+## What You Bring
+
+*   Bachelor’s/Master’s in Computer Science, Software Engineering, or related field.
+*   7+ years in software engineering, 3+ in technical leadership for fintech/payment systems.
+*   Expert in PHP/Laravel for backend reliability; strong in Node.js (event-driven) and Next.js (dashboards/checkout).
+*   Deep PSP integration experience (3–4 providers minimum) and PCI-DSS knowledge.
+*   Proven track record in payout systems (card, bank, crypto) and reconciliation engines.
+*   ERP integration experience (Oracle NetSuite preferred).
+*   Working knowledge of Web3, blockchain networks, and crypto payment infrastructure.
+*   Experience with wallet/card issuance products and ledger system design.
+*   Strong database architecture skills (ACID compliance, high-throughput event logging).
+*   Experience managing multiple engineering teams simultaneously.
+*   Excellent stakeholder communication across technical and business functions.
+*   Background in prop trading, brokerage, or financial services payments highly preferred.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ---
 
 </details>
@@ -6010,6 +6027,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Employment** | Full Time |
 | **Location** | Dhaka,Dhaka,Bangladesh |
 | **Role** | Executive |
+
+**🛠️ Tags**: `QuickBooks` `Xero` `Google Workspace` `MS Office` `Excel` `GAAP` `IFRS` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6074,11 +6093,8 @@ Dispute Resolution & Internal Controls
 
 At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you’re driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`QuickBooks` `Xero` `Google Workspace` `MS Office` `Excel` `GAAP` `IFRS` 
-
 ---
 
 </details>
@@ -6091,6 +6107,8 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 | **Employment** | Full Time |
 | **Location** | Dhaka, Dhaka, Bangladesh |
 | **Role** | Executive |
+
+**🛠️ Tags**: `Operations` `Customer Support` `Case Resolution` `Excel` `Google Sheets` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6181,11 +6199,115 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
+---
 
-`Operations` `Customer Support` `Case Resolution` `Excel` `Google Sheets` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Executive - Risk & Fraud Management</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Location** | Colombo, Western Province, Sri Lanka |
+| **Role** | Executive |
+
+**🛠️ Tags**: `Risk Management` `Fraud Detection` `Compliance` `Fintech` `Data Analysis` `Excel` `Google Sheets` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers and turn potential into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As an Executive in Risk & Fraud Management, you will safeguard the integrity of our global trading platform by proactively identifying, investigating, and mitigating fraud risks. Your analytical insights and precision-driven decisions will help protect client trust, ensure compliance, and maintain the high operational standards NEXT is known for. In a fast-paced fintech landscape, your contributions will directly impact business security and trader confidence.
+
+## How You’ll Make an Impact
+
+### Risk Monitoring & Investigation
+* Analyze client accounts to detect anomalies, compliance gaps, or suspicious activity
+* Conduct identity verifications and due diligence procedures
+* Escalate high-risk cases for deeper review and resolution
+
+### Fraud Pattern Analysis & Reporting
+* Identify emerging fraud patterns using manual and automated tools
+* Collaborate with internal teams to close loopholes in existing systems
+* Report findings clearly to relevant departments for preventive action
+
+### Workflow Optimization & Innovation
+* Support the integration of AI-driven tools for smarter risk detection
+* Continuously assess existing fraud detection processes and suggest improvements
+* Contribute to scalable and secure fraud mitigation frameworks
+
+## What You Bring
+* Strong English communication skills (both written and verbal)
+* Bachelor’s degree in Finance, Economics, Business, or related fields (preferred)
+* High attention to detail and strong analytical mindset
+* Comfortable using Excel, Google Sheets, and basic data visualization tools
+* Eagerness to learn and adapt in a tech-driven environment
+* Exposure to risk tools or compliance systems is a plus
+
+## Your X-Factor
+* Approaches problems with curiosity and urgency
+* Operates with discretion, integrity, and a solution-first mindset
+* Thrives in ambiguity and responds quickly to unexpected developments
+* Continuously looks for ways to improve processes and protect users
+
+## Your Pay & Perks
+* Food and Beverage
+* Entertainment
+* Learning Opportunities
+* Employee Centric Policies
+* Fast Paced Career Progression
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Executive / Senior Executive – Media & Strategy</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
+| **Role** | Executive / Senior Executive |
+
+**🛠️ Tags**: `Google Ads` `Meta Ads` `DV360` `Microsoft Ads` `Performance Marketing` `Google Analytics` `Data Studio` `Fintech` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Executive / Senior Executive – Media & Strategy
+
+Senior Executive – Media & Strategy at FundedNext: Lead global performance marketing across Google, Meta & DV360. Drive ROAS, scale paid campaigns, analyze data, and fuel fintech growth.
+
+### Who We Are
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance.
+
+### Your Role in Our Mission
+As a Executive / Senior Executive – Media & Strategy under FundedNext’s Marketing Department, you will drive performance marketing excellence across global digital platforms. You will be responsible for planning, executing, and optimizing paid campaigns across Google, Meta, Microsoft, Twitter, and DV360.
+
+### How You’ll Make an Impact
+* **Campaign Planning & Execution:** Plan, execute, and optimize multi-platform ad campaigns. Maintain optimal structures, targeting, and bidding strategies. Implement A/B testing. Monitor daily performance to achieve ROAS and CAC targets.
+* **Performance Optimization & Analytics:** Analyze campaign data to identify trends and growth opportunities. Prepare performance reports. Track performance across funnels using Google Analytics and Data Studio.
+* **Media Strategy & Innovation:** Research new media channels and ad formats. Monitor competitor campaigns and platform trends. Maintain compliance with ad policies.
+* **Cross-Functional Collaboration:** Partner with Creative, Product, and Strategy teams to ensure alignment.
+
+### What You Bring
+* Bachelor’s degree in Marketing, Business, or a related field.
+* Minimum 2 years of hands-on experience running and optimizing paid media campaigns.
+* Proven expertise in at least two major platforms: Google Ads, Meta Ads, DV360, or Microsoft Ads.
+* Strong understanding of performance marketing metrics and tracking principles.
+* Proficiency in Google Analytics, Data Studio, or similar analytics tools.
+* Global campaign management experience preferred.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ---
 
 </details>
@@ -6199,6 +6321,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Salary** | 35K - 60K |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Executive |
+
+**🛠️ Tags**: `SQL` `Power BI` `Excel` `Google Sheets` `Metabase` `Tableau` `Business Intelligence` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6344,11 +6468,598 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
+---
 
-`SQL` `Power BI` `Excel` `Google Sheets` `Metabase` `Tableau` `Business Intelligence` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Full Stack Developer - Partner Experience (AI Native)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia |
+| **Role** | Lead |
+
+**🛠️ Tags**: `PHP` `Laravel` `Next.js` `React` `MySQL` `PostgreSQL` `AI-native engineering` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+You will lead the Partnership Experience Squad, owning the systems that power FundedNext’s affiliate and partner ecosystem. From attribution tracking and commission engines to partner onboarding and payout workflows, you will drive the technical direction, delivery execution, and scalability of a financially critical platform that directly impacts partner growth, trust, and operational reliability.
+
+## How You’ll Make an Impact
+
+### Affiliate Platform & Partner Experience
+* Lead development of the in-house affiliate and partner platform, including onboarding, tracking dashboards, payout visibility, commission statements, and campaign management tools
+* Build scalable partner-facing experiences using PHP/Laravel and Next.js with strong focus on usability, performance, and operational reliability
+* Improve partner workflows and platform adoption by reducing friction across onboarding, reporting, and payout experiences
+
+### Attribution, Tracking & Fraud Prevention
+* Architect and maintain affiliate tracking infrastructure including attribution logic, conversion processing, postback systems, and deep-link tracking
+* Build scalable server-side tracking systems designed for modern browser restrictions and cross-session attribution reliability
+* Implement fraud detection systems to identify suspicious affiliate activity, tracking abuse, duplicate conversions, and payout manipulation
+
+### Commission Engine & Financial Systems
+* Lead development of commission engines supporting CPA, revenue share, hybrid, and multi-tier partner structures
+* Build auditable payout, reconciliation, and approval systems with strong emphasis on financial accuracy and traceability
+* Ensure scalability and operational stability across financially sensitive backend workflows
+
+### Squad Leadership & Cross-Functional Collaboration
+* Own sprint planning, technical direction, delivery cadence, and engineering standards within the squad
+* Collaborate closely with Partnerships, Finance, Product, and Operations teams to align platform capabilities with business goals
+* Mentor engineers, establish scalable engineering practices, and drive maintainable architecture decisions across the stack
+
+### AI-Native Engineering & System Scalability
+* Leverage AI-native engineering workflows using tools such as Claude Code, Cursor, Windsurf, or similar AI coding agents
+* Drive engineering productivity through AI-assisted development, debugging, code review, and workflow automation
+* Build scalable event-driven systems capable of supporting high-volume partner traffic and financial transactions
+
+## What You Bring
+* 6+ years of software engineering experience, including leadership or squad ownership responsibilities
+* Strong expertise in PHP/Laravel, Next.js/React, and scalable backend system architecture
+* Proven experience building affiliate platforms, attribution systems, referral engines, martech infrastructure, or partner ecosystems
+* Deep understanding of attribution tracking, conversion pipelines, commission logic, fraud prevention, and payout workflows
+* Strong database architecture and optimization skills using MySQL or PostgreSQL for financial and event-driven systems
+* Experience leading technically complex customer-facing or partner-facing platforms in high-growth environments
+* Strong stakeholder communication skills with ability to collaborate across Partnerships, Finance, Product, and Engineering teams
+* Mandatory hands-on experience with AI-native engineering workflows and modern AI coding agents
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Full Stack Software Engineer - Affiliate Platform (AI-Accelerated Development)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia (Hybrid) |
+| **Role** | Full Stack Software Engineer |
+
+**🛠️ Tags**: `PHP` `Laravel` `Next.js` `React` `Node.js` `MySQL` `PostgreSQL` `AI-native engineering` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+You will help build and scale FundedNext’s in-house affiliate and partner platform, powering the systems that drive partner onboarding, attribution tracking, commission management, and campaign performance visibility. Working within the Partnership Experience Squad, you will develop high-performance partner-facing products and financially critical backend systems that directly impact partner trust, revenue accuracy, and platform scalability.
+
+## How You’ll Make an Impact
+
+### Affiliate Partner Platform Development
+* Build and enhance the in-house partner portal including onboarding flows, tracking link generation, analytics dashboards, commission statements, payout management, and sub-affiliate tools
+* Develop responsive, high-performance partner experiences using Next.js and React with strong focus on usability and scalability
+* Build internal admin tools for campaign management, partner approvals, payout workflows, fraud review, and communication management
+
+### Tracking, Attribution & Fraud Detection
+* Implement affiliate tracking systems including click tracking, attribution logic, conversion processing, postback handling, and deep-link generation
+* Build server-side and cross-session attribution solutions that maintain tracking accuracy across modern browser restrictions
+* Develop fraud detection features to identify suspicious affiliate activity such as click fraud, cookie stuffing, duplicate conversions, and self-referrals
+
+### Commission Engine & Financial Workflows
+* Build commission calculation systems supporting CPA, revenue share, hybrid, and multi-tier referral models
+* Implement qualification pipelines, payout workflows, reconciliation systems, and audit trails with strong focus on financial accuracy
+* Ensure commission and payout systems remain scalable, traceable, and operationally reliable
+
+### Platform Migration & System Integration
+* Support migration from FirstPromoter to Adapt by building migration scripts, validation tooling, and tracking continuity checks
+* Integrate affiliate systems with payout, CRM, and external partner tools while ensuring data integrity and operational consistency
+* Build automated communication systems for partner lifecycle notifications, commission events, and campaign updates
+
+### Engineering Excellence & AI-Native Development
+* Write maintainable, test-heavy code for financially critical systems and end-to-end tracking flows
+* Collaborate closely with the partnerships team to translate business requirements into scalable technical solutions
+* Leverage AI-native engineering workflows using tools such as Claude Code, Cursor, Windsurf, or similar AI coding agents
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Fullstack Lead (Laravel & Node.js)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
+| **Role** | Lead |
+
+**🛠️ Tags**: `PHP` `Laravel` `Node.js` `Next.js` `React` `Fintech` `Web3` `PSP` `Oracle NetSuite` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+You will lead the design and delivery of NEXT Ventures’ global payment infrastructure across FundedNext, FNmarkets, and FNPay. You will own the end‑to‑end payment journey, from checkout to settlement, while driving payout systems, wallet and card products, and crypto payment solutions that enable seamless trader experiences. By guiding multiple engineering squads and embedding AI‑native workflows, you will accelerate delivery, reduce friction, and ensure compliance across all payment flows.
+
+## Qualifications & Expertise
+
+*   Bachelor’s/Master’s in Computer Science or related field; 7+ years in software engineering with 3+ in payment/fintech leadership.
+*   Expertise in PHP/Laravel, Node.js, Next.js, PSP integrations, payout systems, reconciliation engines, and ERP integration.
+*   Strong knowledge of Web3, wallet/card issuance, database architecture, and stakeholder management; fintech/trading experience preferred.
+*   Mandatory AI‑Native Engineering: daily use of agentic AI workflows (Claude Code, Cursor, Windsurf, etc.) for coding, review, and task delegation.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Global Head of Client Experience</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Colombo, Sri Lanka; Kuala Lumpur, Malaysia |
+| **Role** | Global Head of Client Experience |
+
+**🛠️ Tags**: `BPO Operations` `Customer Experience` `Service Management` `Fintech` `Leadership` `Operational Excellence` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+### **Who We Are**
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+### **Your Role in Our Mission**
+
+As the **Global Head of Client Experience**, you will lead the strategy, structure, and operational excellence of NEXT Ventures’ global customer-facing organization. You will oversee large-scale support operations across multiple products and regions while driving customer satisfaction, operational efficiency, workforce optimization, service quality, and scalable operational governance.
+
+This role requires a strategic operator capable of building world-class customer operations while balancing business performance, customer experience, and operational scalability in a fast-paced global environment.
+
+### **How You’ll Make an Impact**
+
+**Global Customer Experience Leadership:**
+
+* Lead and scale the global client experience organization and end to end operations, across all regions and products
+* Build operational frameworks that support scalability, consistency, and performance
+* Drive customer-centric operational excellence across all customer touch-points
+* Partner with senior leadership to align operations with business strategy
+
+**Operational Excellence & Service Delivery**
+
+* Oversee customer support operations across live chat, email, escalations, and specialized support functions
+* Improve operational performance, workforce efficiency, and service delivery standards
+* Drive SLA adherence, escalation management, and productivity optimization.
+* Develop scalable operational structures, workflows, and governance models. 
+
+**Customer Quality & Experience Optimization**
+
+* Lead initiatives focused on improving customer satisfaction and service quality
+* Strengthen operational quality frameworks, coaching practices, and performance management
+* Drive continuous improvement initiatives across customer-facing operations
+* Ensure consistency in customer handling standards and operational processes
+
+**Workforce Strategy & Operational Intelligence**
+
+* Oversee workforce planning, operational reporting, and customer operations analytics
+* Utilize operational insights and performance metrics to improve efficiency and decision-making
+* Support resource planning and operational forecasting across multiple regions and functions
+* Drive operational visibility through dashboards, reporting, and performance reviews
+
+**Leadership & Cross-Functional Collaboration**
+
+* Build and develop high-performing operational leadership teams
+* Lead organizational transformation and operational restructuring initiatives
+* Foster a culture of accountability, agility, and continuous improvement
+* Partner closely with cross-functional stakeholders to improve operational efficiency, customer experience, and business performance.
+
+### **What You Bring**
+
+* 10 - 15 years of experience in BPO Operations, Customer Experience, or Service Management. Minimum 7-8 years of Leadership Experience in the relevant domain.
+* Experience managing large-scale customer support operations across multiple regions
+* Strong leadership and stakeholder management capability
+* Experience building scalable operational structures and governance frameworks
+* Strong analytical and operational problem-solving skills
+* Ability to manage high-growth operational environments with speed and adaptability
+* Experience with fintech, brokerage, SaaS, trading, or high-growth digital businesses preferred
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 HER NEXT Returnship - Executive, Client Experience</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Location** | Colombo, Western Province, Sri Lanka |
+| **Role** | Executive |
+
+**🛠️ Tags**: `Customer Experience` `Client Support` `CRM` `Communication` `Data Management` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Why Choose NEXT
+
+At NEXT, we don’t just fill roles; we build futures. We understand that life happens, and we believe a career break shouldn't be a barrier, it should be a bridge to your next great chapter. We work hard, play harder, and celebrate every win, big or small.
+
+## Your Role in Our Mission
+
+As an Executive – Client Experience, you will be the frontline ambassador of NEXT Ventures' global customer success strategy. This role ensures that client interactions are handled with precision, empathy, and professionalism—supporting our mission to deliver remarkable, tech-driven financial experiences to users in 190+ countries. You’ll play a vital role in maintaining client trust and converting feedback into continuous improvement.
+
+## How You’ll Make an Impact
+
+*   **Real-Time Client Support:** Respond promptly to customer inquiries via Instant CRM and help desk systems; Escalate complex or sensitive issues in accordance with escalation protocols; Ensure client satisfaction by adhering to defined service timeframes.
+*   **Feedback Collection & Service Improvement:** Capture and relay client feedback to relevant internal teams; Identify recurring issues and propose solutions to enhance the client journey; Contribute ideas that align with our client-first service culture.
+*   **Data Management & Team Collaboration:** Collect and maintain accurate client records in the support database; Support the team by executing daily tasks as directed by the supervisor; Foster collaboration and maintain a vibrant, solution-oriented team culture.
+
+## What You Bring
+
+*   **A Fresh Perspective:** You are looking to relaunch your career after a break of 1–2 years and are ready to bring your energy back into the professional world.
+*   **Foundational Roots:** Relevant experience in Customer Experience, Sales, or Marketing is preferred.
+*   **Communication Mastery:** Excellent English writing and speaking skills, with the ability to build rapport effortlessly across email, live chat, and internal tools.
+*   **The "Calm in the Storm":** High adaptability and patience. You have a knack for staying composed under pressure and a meticulous eye for detail.
+*   **Technical Literacy:** Fast and accurate typing speeds and a strong comfort level with Google Sheets and Microsoft Office.
+*   **Growth Mindset:** An openness to new ideas and a genuine desire to evolve alongside a fast-paced team.
+
+## Your Perks
+
+*   **Comprehensive Health:** Medical insurance to keep you and your loved ones protected.
+*   **Wellness & Balance:** Access to our dedicated game zone and relaxation areas to recharge during the day.
+*   **Hassle-Free Days:** Enjoy subsidized lunch, one less thing to plan in your busy morning.
+*   **Continuous Growth:** Robust learning opportunities to help you bridge any skill gaps and advance quickly.
+*   **People-First Culture:** Employee-centric policies designed to support your transition back into the workforce.
+
+## Your Journey After Applying
+
+*   30-minute Get-To-Know-You Session (with TA Lead)
+*   Assessment Session
+*   60-minute Final Interview Session (with Management)
+
+## Training
+
+Every new joiner undergoes a dedicated 15-day specialized training program in Client Experience.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Head of Brands and Communications</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates; Kuala Lumpur, Malaysia |
+| **Role** | Head of Brands and Communications |
+
+**🛠️ Tags**: `Marketing` `Brand Strategy` `Communications` `Social Media` `Event Management` `Video Production` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As **Head of Brand & Communications**, you will be the strategic owner of FundedNext’s brand identity, positioning, and message across all internal and external touchpoints. You will build brand equity over one‑, two‑, and three‑year horizons while contributing directly to revenue generation through **360° marketing channel execution**, monthly event and roadshow planning, and ensuring brand message virality across owned, earned, and paid channels.
+
+## How You’ll Make an Impact
+
+### Brand Strategy & Positioning
+
+*   Define and own the company’s brand identity, position, and message.
+*   Build phased brand strategies covering 1‑year, 2‑year, and 3‑year horizons.
+*   Ensure brand consistency across all communications.
+
+### Marketing Channel Ownership
+
+*   Lead 360° marketing channels including events, social media, video production, media, roadshows, and IB partnerships.
+*   Own platform‑level strategy across X, TikTok, Facebook, Instagram, Reddit, and Discord.
+*   Direct video production and media output aligned to brand message.
+
+### Revenue & Growth Contribution
+
+*   Drive brand‑led acquisition and retention efforts.
+*   Ensure brand content achieves virality and measurable reach.
+*   Translate brand message into market awareness and pipeline impact.
+
+### Planning & Execution
+
+*   Lead monthly planning of roadshows, events, and brand activations.
+*   Coordinate cross‑functional execution with sales, product, and partnership teams.
+*   Manage calendar, budget, and resource allocation across channels.
+
+## What You Bring
+
+*   8–12 years of experience in brand, marketing, or communications leadership.
+*   70% background in sales/marketing with proven brand/growth leadership.
+*   30% product management exposure, able to engage substantively on product roadmap and USP.
+*   Strong grasp of external stakeholders, customer segments, and competitor positioning.
+*   Hands‑on fluency across events, social media platforms (X, TikTok, Facebook, Instagram, Reddit, Discord), video production, media relations, and IB partnerships.
+*   Ability to translate product features into compelling brand narratives.
+*   Comfortable operating across strategic planning and hands‑on execution.
+
+## Your X‑Factor
+
+*   Strategic thinker with hands‑on execution capability.
+*   Ability to embed brand strategy into measurable growth outcomes.
+*   Trusted partner to leadership, sales, and product teams.
+*   Positions FundedNext as a differentiated brand in competitive financial markets.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Head of Quant</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Remote |
+| **Role** | Head |
+
+**🛠️ Tags**: `Python` `C++` `Market Making` `Statistical Arbitrage` `KDB` `Quantitative Trading` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+# Head of Quant
+
+**Who We Are**
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**How You’ll Make an Impact**
+
+**Build the Quant Stack (0 → 1)**
+
+*   Design and develop the full trading system:
+    *   Data pipeline
+    *   Backtesting framework
+    *   Execution infrastructure
+    *   Monitoring & analytics
+*   Work with tick-level and real-time trading data
+
+**Develop & Run Trading Strategies**
+
+*   Build and deploy systematic strategies (MM / stat arb / execution)
+*   Optimize execution, slippage, and liquidity usage
+*   Continuously iterate strategies based on performance
+
+**Monetize Trading Flow**
+
+*   Extract value from trading flow and user behavior
+*   Design hedging and internalization logic
+*   Identify and exploit inefficiencies across cohorts
+
+**Signal & Data Layer**
+
+*   Generate signals from:
+    *   Market data
+    *   Trader behavior and cohorts
+*   Build and maintain backtesting and evaluation frameworks
+
+**Sim → Live Pipeline**
+
+*   Transition strategies from simulation to live trading
+*   Monitor performance, risk, and capital efficiency
+*   Continuously improve strategy robustness
+
+**Ownership**
+
+*   Own strategy performance and PnL
+*   Operate independently in a fast-moving environment
+*   Build and lead the quant team over time
+
+**What You Bring**
+
+*   **Must Have**
+    *   Proven experience building **end-to-end trading systems (0→1)**
+    *   Strong programming skills (Python required; C++ is a plus)
+    *   Hands-on experience in:
+        *   Market making OR
+        *   Statistical arbitrage OR
+        *   Execution strategies
+    *   Deep understanding of:
+        *   Market microstructure
+        *   Liquidity, spreads, and slippage
+    *   Experience taking strategies from **idea → backtest → live**
+
+    **Strong Plus**
+    *   Experience in:
+        *   CFD brokers / market making / central risk book
+        *   Multi-asset trading (FX, equities, crypto, futures)
+    *   Familiarity with:
+        *   Tick-level data
+        *   Low-latency systems
+        *   Time-series databases (e.g. KDB)
+
+**Your Journey after Applying**
+
+*   30 minute HR interview with the Talent Acquisition team member
+*   45 minute Session (with talent acquisition team & department front line manager)
+*   60-minute Final Interview Session (with head of department & talent acquisition lead)
+
+**Why Join NEXT?**
+
+This is a rare opportunity to build a hedge-fund-grade system from the ground up, backed by the data and capital of one of the world's fastest-growing prop firms. You will not be a cog in a machine; you will be the engine builder.
+
+The future of fintech is algorithmic. Come build it with us.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Head of Risk</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Remote |
+| **Role** | Head |
+
+**🛠️ Tags**: `Risk Management` `Trading` `CFD` `Crypto` `Futures` `Compliance` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+**Who We Are**
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**Your Role in Our Mission**
+
+As Head of Risk at FundedNext, you will own the most strategically important function in any prop trading firm: the discipline that protects platform integrity and stabilises the economics that fund every trader’s journey. You will report directly to the FundedNext CEO and become the senior owner of risk decisions across CFD and Futures — and the lead architect of risk infrastructure for the upcoming Crypto programme.
+
+This is not a role where you inherit a fully-built function. You inherit ambition, complex data, and a team that needs senior leadership. Your first 90 days are a diagnostic. From that diagnosis, you build.
+
+**How You’ll Make an Impact**
+
+**Stabilise the Book**
+* Reduce payout ratio variance and bring discipline to the firm’s primary health metric across CFD and Futures. Translate trader behaviour data into product-rule decisions that protect long-term sustainability without throttling the trader experience.
+
+**Audit, Then Build**
+* In your first 90 days, conduct an end-to-end gap analysis of our existing risk framework — surveillance tooling, policies, escalation paths, dealing operations integration. From that diagnostic, design and implement a risk operating model fit for FundedNext’s scale through 2028.
+
+**Lead Crypto Risk Readiness**
+* Design risk policies, surveillance models, drawdown rules, and operational guardrails for the Crypto programme launching. Crypto carries different volatility, exposure, and abuse patterns than CFD or Futures — your work here defines whether we launch safely.
+
+**Hunt Fraud and Abuse**
+* Strengthen detection and response to multi-account abuse, identity fraud, and toxic trading patterns. Partner with Engineering, Data, Compliance, and Customer Operations to build a defensible, scalable abuse-prevention capability.
+
+**Partner Across the Firm**
+* Be the trusted risk voice in product design, dealing operations, engineering, compliance, and analytics. Influence — and where required, veto — decisions that materially shift FundedNext’s risk profile. You will report directly to the CEO and have the authority to escalate independently when material risk events demand it.
+
+**What You Bring**
+* 8–12 years of risk experience across prop trading, CFD brokerage, or multi-asset financial services.
+* Genuine multi-asset fluency — you understand CFD, Futures, and ideally Crypto economics, instruments, and abuse patterns.
+* A track record of building or rebuilding a risk function — frameworks, policies, surveillance tooling, team.
+* Hands-on credibility on B-book and dealing operations; you have personal exposure to payout ratio management at scale.
+* Strong cross-functional influence — you can hold your own with Product, Engineering, and Trading leaders.
+* Comfort with ambiguity — you can step into an under-defined function and bring clarity quickly.
+* Excellent communication — to traders, to your CEO, to your future board.
+
+**Your X-Factor**
+What sets the strongest candidates apart:
+* You have personal scar tissue from a payout-ratio crisis or major abuse incident — and you can talk about how you turned it around.
+* You speak the language of data and engineering well enough to design surveillance models with quants and ML engineers, even if you don’t write production code yourself.
+* You have led risk policy design for a new asset class launch — ideally Crypto.
+* You think about trader experience and risk economics in the same sentence — not as opposing forces.
+* You see AI and machine learning as the future of risk surveillance and bring opinions about how to deploy them responsibly.
+
+**Your Journey After Applying**
+1. Initial conversation with our Talent Acquisition team.
+2. 60 minutes interview with management team and HoD
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Influencer Partnership Onboarding & Negotiation Specialist (Junior / Senior)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Dubai, Limassol |
+| **Role** | Junior / Senior |
+
+**🛠️ Tags**: `Negotiation` `Partnership Management` `Communication` `Marketing` `Business Development` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+**Who We Are**
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**Your Role in Our Mission**
+
+The Onboarding Specialist leads negotiation meetings with Western influencers and high-value affiliate partners to secure strategic collaborations. The role involves reviewing pre-meeting briefs and preparing clear negotiation strategies with defined target outcomes. The specialist executes negotiations to close partnerships within approved commercial terms. All agreed outcomes are accurately documented to ensure smooth handover to the Partner Management team. This role plays a key part in expanding and strengthening the affiliate partner network.
+
+**How You’ll Make an Impact**
+
+*   Lead negotiation meetings with Western influencers and high-value affiliate prospects.
+*   Receive pre-meeting briefs (typically 24 hours prior) containing affiliate background, context, and strategic parameters.
+*   Prepare negotiation strategy for each engagement, including identifying our walk-away points and target outcomes.
+*   Execute negotiations with the goal of securing partnerships at or below our target terms.
+*   Document outcomes and hand off closed deals to the Partner Management team for ongoing relationship management.
+
+**What you Bring**
+
+*   Bachelor’s degree or above in Business, Marketing, Communications, International Relations, or a related field.
+*   Open to interns, fresh graduates, and early-career candidates with strong potential.
+*   Excellent coordination, negotiation, and communication skills, with the ability to engage confidently with Western influencers and high-value partners.
+*   Strong interpersonal skills and the ability to manage stakeholder expectations professionally.
+*   Ability to prepare and execute negotiation strategies based on provided briefs and commercial parameters.
+*   Detail-oriented with strong documentation and handover capabilities.
+*   Comfortable working in a fast-paced, target-driven environment.
+*   Proficient in spoken and written English.
+
+**Your Journey after Applying**
+
+• Initial Screening Session with Talent Acquisitions Team.
+
+• 45-minute Online Session (with talent acquisition team & department front line manager).
+
+• 60-minute Final Interview Session (with head of department & talent acquisition lead).
+
+**Why Join NEXT**
+
+At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you’re driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.
+
+Apply now and be part of our journey — the future is calling, and it starts with you.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ---
 
 </details>
@@ -6361,6 +7072,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Employment** | Internship |
 | **Salary** | 10K |
 | **Location** | Dhaka, Dhaka, Bangladesh |
+
+**🛠️ Tags**: `Google Ads` `Meta Ads Manager` `Google Analytics` `Excel` `Google Sheets` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6439,11 +7152,8 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Google Ads` `Meta Ads Manager` `Google Analytics` `Excel` `Google Sheets` 
-
 ---
 
 </details>
@@ -6456,6 +7166,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Lead |
+
+**🛠️ Tags**: `Python` `AWS` `Snowflake` `Google Cloud` `PostgreSQL` `MySQL` `Amazon Redshift` `ETL` `ELT` `CDC` `Airflow` `Kafka` `Kinesis` `Flink` `Terraform` `GitHub Actions` `Metabase` `Tableau` `Power BI` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6583,11 +7295,8 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Python` `AWS` `Snowflake` `Google Cloud` `PostgreSQL` `MySQL` `Amazon Redshift` `ETL` `ELT` `CDC` `Airflow` `Kafka` `Kinesis` `Flink` `Terraform` `GitHub Actions` `Metabase` `Tableau` `Power BI` 
-
 ---
 
 </details>
@@ -6600,6 +7309,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | **Employment** | Full Time |
 | **Location** | Dhaka, Dhaka, Bangladesh |
 | **Role** | Lead |
+
+**🛠️ Tags**: `SEO` `LLM Optimization` `LLMO` `Retrieval-Augmented Generation` `RAG` `Generative Engine Optimization` `GEO` `Technical SEO` `Ahrefs` `SEMrush` `Moz` `Google Analytics` `Google Search Console` `Screaming Frog` `HTML` `CSS` `JavaScript` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6673,11 +7384,8 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`SEO` `LLM Optimization` `LLMO` `Retrieval-Augmented Generation` `RAG` `Generative Engine Optimization` `GEO` `Technical SEO` `Ahrefs` `SEMrush` `Moz` `Google Analytics` `Google Search Console` `Screaming Frog` `HTML` `CSS` `JavaScript` 
-
 ---
 
 </details>
@@ -6689,6 +7397,8 @@ Apply now and be part of our journey — the future is calling, and it starts wi
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Dhaka, Bangladesh |
+
+**🛠️ Tags**: `Adobe After Effects` `Illustrator` `Photoshop` `Premiere Pro` `Cinema 4D` `Blender` `Figma` `3D animation` `VFX` `UI/UX` 
 
 ## 📝 [Description](https://career.nextventures.io/)
 
@@ -6775,11 +7485,431 @@ As a Motion Designer, you will craft dynamic visual experiences that define how 
 *   Unlimited tea & coffee
 *   Vending machine credits
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
+---
 
-`Adobe After Effects` `Illustrator` `Photoshop` `Premiere Pro` `Cinema 4D` `Blender` `Figma` `3D animation` `VFX` `UI/UX` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Office Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dubai, United Arab Emirates (Hybrid) |
+| **Role** | Office Manager |
+
+**🛠️ Tags**: `HR Administration` `Office Management` `Facilities Management` `Onboarding` `Travel Coordination` `IT Asset Management` `BambooHR` `Workday` `Google Workspace` `Excel` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+The operational backbone of our hub — making sure the office runs smoothly, new joiners land on Day 1 fully set up, and every team member has the space, supplies, equipment, and travel support they need to do their best work. Partnering with the People team, IT, Finance, and external vendors to keep day-to-day administration accurate, responsive, and seamless.
+
+## How You'll Make an Impact
+
+### New Joiner Onboarding
+* Coordinate end-to-end onboarding for new hires: documentation collection and Day 1 readiness — desk, access card, welcome kit, and orientation logistics.
+* Partner with IT to ensure laptops, peripherals, phones, software licenses, and system access are provisioned and tested before the start date.
+* Be the friendly first point of contact for new joiners' admin and workplace questions, resolving or routing them quickly.
+* Keep onboarding checklists, trackers, and records accurate and up to date.
+
+### Office Building & Facility Management
+* Keep the office running day to day: front desk, meeting rooms, cleanliness, seating, and general upkeep.
+* Liaise with building management on maintenance, access, security, parking, and facility requests or issues.
+* Manage facilities vendors (cleaning, maintenance, security, fit-out) — scheduling, quality checks, and coordinating payments with Finance.
+* Conduct regular walkthroughs to pre-empt issues and keep the workplace safe, functional, and presentable.
+
+### Pantry & Office Supplies
+* Own pantry stock — monitor consumption, replenish supplies, and manage relationships with pantry and grocery vendors.
+* Maintain stationery and consumables inventory; reorder before stock runs out.
+* Track spend against budget and flag anomalies or opportunities to optimise.
+
+### Travel & Logistics (Business Trips)
+* Arrange business travel for employees — flights, accommodation, ground transport, and itineraries — in line with company travel policy.
+* Coordinate travel documentation and visa support for business trips where required.
+* Manage bookings, changes, and cancellations; reconcile travel expenses and invoices with Finance.
+* Serve as the go-to contact for travel queries and on-trip support.
+
+### IT Asset Management
+* Maintain the office asset register: issuance, returns, repairs, replacements, and write-offs.
+* Partner with IT to track laptops, peripherals, phones, access cards, and licenses across their lifecycle.
+* Coordinate asset provisioning for joiners and recovery for leavers; keep records audit-ready.
+* Triage and route basic IT and equipment requests, and close the loop with employees.
+
+## What You Bring
+* 4 years + of experience in HR administration, office administration, facilities, or a combined HR–Admin role — ideally in a fast-paced tech, fintech, or financial services environment.
+* Hands-on experience with onboarding coordination, office and vendor management, and travel arrangements.
+* Strong organisational skills and attention to detail; comfortable juggling multiple requests and priorities at once.
+* A proactive, service-minded approach — you anticipate needs and solve problems before they escalate.
+* Comfortable with HRIS and admin tools and spreadsheets (e.g., BambooHR, Workday, Google Workspace, Excel).
+* Discretion and reliability in handling sensitive employee information.
+* Bachelor's degree preferred.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Product Manager — Trading Platform, Rules & Risk</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
+| **Role** | Product Manager |
+
+**🛠️ Tags**: `Product Management` `Trading Systems` `Risk Management` `CFD` `Data Visualization` `Algorithmic Systems` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm — 220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As Product Manager — Trading Platform, Rules & Risk, you sit at the most consequential intersection in our product organisation — where trader experience meets financial integrity. You will lead the squad responsible for the rule engine that governs every CFD challenge: designing new challenge types, defining how rules are surfaced to traders, building the simulation and backtesting infrastructure that lets us model change before we ship it, and partnering with Trading and Risk Management to close off abuse vectors before they reach scale. Every decision you make carries direct financial consequence — and that weight is exactly what makes this role compelling.
+
+## How You'll Make an Impact
+
+### Challenge Design & Rule Architecture
+
+*   Design and launch new challenge types (beyond Stellar, Express, Evaluation) targeting new trader segments and creating incremental revenue streams
+*   Run competitive analysis on how other prop firms structure their challenges, rules, and risk parameters — ensure FundedNext’s rule design is differentiated and continuously innovated
+*   Lead the CFDs Trading Rules & Risk squad — write specs for heavy backend algorithmic work including the rule engine, simulation tools, and backtesting infrastructure
+
+### Trader-Facing Experience & Communication
+
+*   Define how trading rules are visualised on the trader-facing dashboard — work closely with the Trader Success squad to ensure rule statuses, drawdown levels, violation warnings, and account health are displayed clearly and accurately
+*   Design and own the end-to-end rule violation communication process — define what triggers a notification, what the messaging says, which channel it goes through (in-app alert, email, dashboard warning), and how disputes are escalated and resolved
+
+### Internal Tooling & Simulation Infrastructure
+
+*   Build internal admin tools requirements — define the interfaces that let the operations and risk team configure, monitor, simulate, and audit rules effectively
+*   Partner with engineering to build rule simulation and backtesting tools — enable what-if analysis so the team can model rule changes against historical trade data before deploying them
+
+### Abuse Detection & Risk Partnership
+
+*   Collaborate deeply with FundedNext’s Trading and Risk Management team on abuse detection and management — translate abusive trading patterns (rule loopholes, coordinated trading, hedging abuse) into product-level rule adjustments, detection parameters, and enforcement workflows
+
+### Measurement & OKR Ownership
+
+*   Define and track squad OKRs: GP margin per challenge type, pass/fail ratios, rule-change impact modelling accuracy, false-positive violation rate, and trader dispute volume related to rules
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Regional Workforce Management Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Colombo, Western Province, Sri Lanka (Hybrid) |
+| **Role** | Regional Workforce Management Manager |
+
+**🛠️ Tags**: `Workforce Management` `Forecasting` `Capacity Planning` `CX` `Fintech` `Data Analysis` `Operations Management` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As the **Regional Workforce Management Manager**, you will lead workforce planning and operational capacity management for our **Client Experience (CX) operations across Bangladesh and Sri Lanka**. This role is critical in ensuring the right staffing strategies are in place to support service excellence, operational efficiency, and sustainable growth.
+
+## How You’ll Make an Impact
+
+### Regional Workforce Planning & Governance
+* Lead workforce management strategy for CX operations across Bangladesh and Sri Lanka.
+* Establish standardized WFM processes, forecasting methodologies, and reporting frameworks.
+
+### Forecasting & Capacity Planning
+* Develop and manage demand forecasting models using historical data, seasonality, and operational trends.
+* Translate volume forecasts into capacity plans, staffing requirements, and shift scheduling strategies.
+
+### Scheduling Optimization & Operational Efficiency
+* Optimize shift planning, roster management, and schedule adherence.
+* Collaborate with operations leaders to balance service level performance, agent productivity, and cost discipline.
+
+### Performance Analytics & Reporting
+* Track and analyze key WFM metrics including forecast accuracy, shrinkage, schedule adherence, productivity, and service levels.
+* Build dashboards and reports to provide visibility into workforce performance.
+
+### Cross-Functional Collaboration
+* Act as the regional WFM partner to CX operations, HR, Finance, and business stakeholders.
+
+## What You Bring
+* Bachelor’s degree in Business Administration, Operations Management, Statistics, Economics, or related field.
+* 6–10 years of experience in Workforce Management, preferably within customer support, contact centers, BPO, fintech, or technology operations.
+* Strong experience in forecasting, capacity planning, scheduling optimization, and workforce analytics.
+* Proficiency in Excel / Google Sheets; experience with WFM platforms such as NICE, Verint, Genesys, or similar is a plus.
+* Solid understanding of CX operational metrics (SLA, AHT, shrinkage, utilization, schedule adherence).
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Product Design Manager (Open for relocation to Malaysia/Dubai)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur |
+| **Role** | Manager |
+
+**🛠️ Tags**: `Figma` `UI/UX` `Fintech` `Product Design` `Trading` `Management` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Job description
+
+**Who We Are**
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**Your Role in Our Mission**
+
+As a Product Designer Manager, you'll be the creative and strategic force behind products used by traders worldwide. You'll work independently across overlapping time zones, collaborating with product, engineering, and leadership to deliver experiences that are intuitive, fast, and trader-obsessed. This isn't a hand-holding role. You'll drive design vision from concept to launch, influencing product strategy and defining what world-class looks like in prop trading platforms.
+
+**How You’ll Make an Impact**
+
+As the Product Design Manager at FNmarkets, you will define and drive the product design vision for our trading and brokerage ecosystem, ensuring seamless experiences across client-facing platforms and internal operations. By aligning user needs, business priorities, and regulatory requirements, you will lead cross-functional teams to deliver scalable, high-impact fintech products that strengthen our competitive edge. This is a leadership role with significant managerial capacity, not a pure IC position. You will set the
+
+design vision, manage and mentor a team of product designers, lead and drive performance across your team, and ensure design excellence at every touchpoint. You’ll be responsible for building a high-performing design function that ships world-class trading experiences at scale.
+
+**What you’ll be doing**
+
+* Setting and driving the product design vision across FNmarkets’ trading and brokerage platforms, from trader dashboards and onboarding flows to execution interfaces and compliance experiences
+* Managing, mentoring, and growing a team of product designers by setting clear expectations, running performance reviews, and creating development paths that elevate individual and team output
+* Leading cross-functional collaboration with product managers, engineers, and stakeholders across regions to ship fast without compromising quality
+* Establishing and evolving design systems, processes, and standards that ensure consistency, scalability, and speed across web and mobile
+* Conducting and overseeing user research, synthesizing insights from active traders to inform design decisions that move metrics
+* Championing user-centered design while balancing business goals, technical constraints, and regulatory requirements
+* Prototyping, testing, and iterating rapidly; we value speed and learning over perfection
+* Traveling occasionally for co-working sessions, team offsites, user research, and/or strategic planning sessions
+
+**What you’ll need**
+
+* 7-10+ years of product design experience with at least 2+ years in a design management or lead role, with a portfolio that proves you can ship beautiful, functional products at scale
+* Demonstrated success launching and scaling trading or brokerage products in competitive fintech environments
+* Strong commercial acumen: balancing user experience, regulatory requirements, and revenue impact
+* Proven ability to build, manage, and develop high-performing design teams; you know how to hire well, set vision, and get the best out of people
+* Deep fluency in Figma, prototyping tools, and design systems; you’re the person teammates come to for Figma wizardry
+* Experience designing for fintech, trading platforms, SaaS, or similarly complex, data-rich products
+
+**Perks**
+
+* Strong collaboration and communication skills; you can articulate design rationale to engineers, PMs, and executives
+* Ownership mindset with a track record of delivering measurable product outcomes in high-growth settings
+* A bias for action: you prototype fast, test early, and iterate based on feedback and data (and actually feel comfortable speaking to users to validate early)
+* Bonus: Experience with prop trading, brokerages, fintech, crypto, or global-first products
+* Demonstrated experience integrating AI tools into the design workflow (e.g., ideation, prototyping, research synthesis, or production) with clear examples of how AI has accelerated or improved your work.
+* Shape the future of fintech and proprietary trading; your work will empower thousands of traders globally
+* Work with a vibrant, young, fast-moving team that values autonomy, ownership, and speed
+* Global exposure with travel opportunities
+* Competitive compensation package
+* Access to cutting-edge tools, resources, and continuous learning opportunities
+
+**Your Journey After Applying**
+
+* 30-minute HR Session with the Talent Acquisition team
+* 60-minute Session with the Direct Supervisor
+* 60-minute Session with Chief Strategy Officer
+
+**Why Join NEXT**
+
+At NEXT Ventures, performance is more than numbers — it’s the pulse that drives innovation and impact. Join us to architect a world-class performance and rewards ecosystem that shapes how success is recognized across continents. Be part of the team that turns ambition into achievement and potential into performance.
+
+Your next chapter in global leadership begins here.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Product Designer (Open to relocate to Dubai/Malaysia)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kuala Lumpur, Singapore, Jakarta, Hong Kong, Taipei, Dubai, Colombo |
+| **Role** | Senior |
+
+**🛠️ Tags**: `Figma` `Fintech` `SaaS` `Trading Platforms` `Design Systems` `Prototyping` `User Research` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+**Who We Are**
+
+NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+**Your Role in Our Mission**
+
+As a Senior Product Designer, you'll be the creative and strategic force behind products used by traders worldwide. You'll work independently across overlapping time zones, collaborating with product, engineering, and leadership to deliver experiences that are intuitive, fast, and trader-obsessed. This isn't a hand-holding role. You'll drive design vision from concept to launch, influencing product strategy and defining what world-class looks like in prop trading platforms.
+
+**How You’ll Make an Impact**
+
+**Product & Experience Design Leadership**
+* Lead end-to-end design for high-impact features across CFD and Futures platforms
+* Design trader dashboards, challenge flows, payout experiences, and performance analytics
+* Own the full product lifecycle from discovery to delivery
+
+**Research & Data-Driven Decision Making**
+* Conduct user research across 43K+ active traders
+* Synthesize insights into actionable design improvements
+* Use data to inform decisions that drive measurable impact
+
+**Cross-Functional & Global Collaboration**
+* Work closely with product managers, engineers, and stakeholders
+* Collaborate across Malaysia, Europe, and other regions
+* Ship quickly while maintaining quality standards
+
+**Design Systems & Scalable Foundations**
+* Build and evolve the design system for web and mobile
+* Ensure consistency, scalability, and speed across platforms
+* Maintain governance and design standards
+
+**Rapid Prototyping & Iteration**
+* Prototype, test, and iterate at speed
+* Prioritize learning and experimentation over perfection
+* Validate ideas before full-scale implementation
+
+**Strategic Balance & Compliance Awareness**
+* Champion user-centered design
+* Balance business objectives, technical constraints, and regulatory requirements
+
+**Design Leadership & Team Development**
+* Mentor junior designers
+* Elevate overall design quality and craft across the organization
+
+**Global Engagement & Strategic Travel**
+* Participate in co-working sessions, offsites, user research, and planning sessions
+* Travel occasionally to support collaboration and strategic initiatives
+
+**What You Bring**
+* 5-8+ years of product design experience, with a portfolio that proves you can ship beautiful, functional products at scale
+* Deep fluency in Figma, prototyping tools, and design systems; you're the person teammates come to for Figma wizardry
+* A track record of working independently and driving projects from 0 to 1 without heavy oversight
+* Experience designing for fintech, trading platforms, SaaS, or similarly complex, data-rich products
+* Strong collaboration and communication skills; you can articulate design rationale to engineers, PMs, and executives
+* A bias for action: you prototype fast, test early, and iterate based on feedback and data (and actually feel comfortable speaking to users to validate early)
+* Bonus: Experience with prop trading, brokerages, web3, crypto, or global-first products
+
+**Your Journey After Applying**
+* 30-minute HR Session with the Talent Acquisition team
+* 60-minute Session with the Direct Supervisor
+* 60-minute Session with Chief Strategy Officer
+
+**Why Join NEXT**
+
+At NEXT Ventures, performance is more than numbers — it’s the pulse that drives innovation and impact. Join us to architect a world-class performance and rewards ecosystem that shapes how success is recognized across continents. Be part of the team that turns ambition into achievement and potential into performance.
+
+Your next chapter in global leadership begins here.
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Talent Acquisition Partner / TA Partner</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Colombo, Western Province, Sri Lanka |
+| **Role** | Senior Talent Acquisition Partner |
+
+**🛠️ Tags**: `Talent Acquisition` `Recruitment` `ATS` `Sourcing` `Stakeholder Management` 
+
+## 📝 [Description](https://nextventures.io/career)
+
+## Who We Are
+
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+
+## Your Role in Our Mission
+
+As a Senior Talent Acquisition Partner, you will take full ownership of hiring for key business functions including Marketing, Community & Partner Management (CPM), Trading & Risk Management (TRM), and Trading & Risk Operations (TRO).
+
+You will operate as a strategic recruitment partner—not just a recruiter—bringing structure, sourcing depth, stakeholder alignment, and data discipline to every hire. Your role will directly influence hiring speed, quality, and long-term talent density across critical growth functions.
+
+This role is open to both Sri Lanka and Bangladesh markets, with the strongest candidate selected regardless of location.
+
+## How You’ll Make an Impact
+
+### End-to-End Recruitment Execution
+* Manage the complete hiring lifecycle—from intake alignment and sourcing strategy to offer rollout and onboarding handover.
+* Partner closely with hiring managers to define role scope, expectations, and hiring timelines.
+* Apply structured screening and interviewing methodologies to assess competency, capability, and cultural alignment.
+* Drive disciplined feedback loops and decision-making processes to reduce delays and misalignment.
+
+### Sourcing Strategy & Talent Pipeline Development
+* Execute niche and targeted sourcing strategies through LinkedIn Recruiter, headhunting, referrals, and industry-specific channels.
+* Build and maintain proactive talent pipelines for recurring, technical, and strategic roles.
+* Engage and nurture passive candidates to maintain long-term talent readiness.
+* Develop sourcing playbooks tailored to Marketing, CPM, TRM, and TRO verticals.
+
+### ATS & Process Ownership
+* Maintain accurate and structured data within the Applicant Tracking System (ATS).
+* Track pipeline metrics and generate insights to support data-driven hiring decisions.
+* Ensure compliance, documentation discipline, and reporting accuracy across all roles.
+* Manage scheduling, candidate communication, and interview coordination with operational precision.
+
+### Stakeholder & Candidate Experience Excellence
+* Act as a trusted partner to hiring managers through influencing, negotiation, and structured advisory.
+* Ensure a strong and professional candidate experience across all stages.
+* Maintain clarity, transparency, and communication discipline throughout the hiring process.
+
+## What You Bring
+* 5–7 years of experience in recruitment, preferably within fast-paced, scaling environments.
+* Strong expertise in headhunting and LinkedIn-based sourcing strategies.
+* Demonstrated hands-on experience with ATS platforms and recruitment analytics.
+* Deep understanding of end-to-end recruitment cycles and structured hiring methodologies.
+* Strong stakeholder management and influencing capabilities.
+* Excellent communication skills with strong candidate and hiring manager engagement ability.
+
+## Your Pay & Perks
+* Monthly salary: Competitive and aligned with market benchmarks.
+* Bi-annual salary review (Eligibility Condition Applies)
+* Festival bonus (Eligibility Condition Applies)
+* Start your next chapter with our special honeymoon package
+* Unwind together at annual company retreats
+* Get moving with an in-house fitness trainer to keep your mind and body in sync
+* Enjoy comprehensive health insurance — for you, your parents, your spouse, and your children
+* Build long-term security with our Provident Fund contribution
+* No birthday is complete without a cake and a break; both are on us
+* Kick back with game nights and all-access sports zones — billiards, foosball, PlayStation, cricket, football & badminton
+* Opportunities for relocation to Sri Lanka and Malaysia, subject to business needs, with travel allowances
+
+## Your Daily Source of Energy
+* Subsidized lunch
+* Unlimited tea & coffee
+* Vending machine credits
+
+---
+* 🌐 [Apply on Website](https://nextventures.io/career)
 ---
 
 </details>
@@ -6792,6 +7922,8 @@ As a Motion Designer, you will craft dynamic visual experiences that define how 
 | **Employment** | Full Time |
 | **Location** | Kuala Lumpur, Malaysia / Singapore / Dhaka, Bangladesh (Hybrid) |
 | **Role** | Lead / Senior |
+
+**🛠️ Tags**: `PHP` `Laravel` `Node.js` `Next.js` `MySQL` `PostgreSQL` `AI-Native` 
 
 ## 📝 [Description](https://nextventures.io/career)
 
@@ -6868,1487 +8000,231 @@ At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If 
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Node.js` `Next.js` `MySQL` `PostgreSQL` `AI-Native` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Influencer Partnership Onboarding & Negotiation Specialist (Junior / Senior)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Trading Platform Engineer</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Dubai, Limassol |
-| **Role** | Junior / Senior |
+| **Location** | Kuala Lumpur, Singapore, Sydney, Taipei, New York, Hong Kong, São Paulo, Beijing (Hybrid) |
+| **Role** | Engineer |
 
-## 📝 [Description](https://nextventures.io/career)
+**🛠️ Tags**: `MetaTrader` `MT4` `MT5` `AWS` `DevOps` `SRE` `Windows Server` `Linux` `PowerShell` `Bash` `Python` `MQL4` `MQL5` `FIX protocol` `Prometheus` `Grafana` `Zabbix` `CloudWatch` `ELK` `Terraform` `Ansible` 
+
+## 📝 [Description](https://career.nextventures.io/)
+
+# Trading Platform Engineer
 
 **Who We Are**
 
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
+NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
 
 **Your Role in Our Mission**
 
-The Onboarding Specialist leads negotiation meetings with Western influencers and high-value affiliate partners to secure strategic collaborations. The role involves reviewing pre-meeting briefs and preparing clear negotiation strategies with defined target outcomes. The specialist executes negotiations to close partnerships within approved commercial terms. All agreed outcomes are accurately documented to ensure smooth handover to the Partner Management team. This role plays a key part in expanding and strengthening the affiliate partner network.
+As a **Trading Platform Engineer (MetaTrader)**, you will ensure the stability, reliability, and performance of our **MetaTrader-based CFD and brokerage trading platforms**. You will work at the intersection of **trading technology, infrastructure, and DevOps/SRE**, managing MT4/MT5 environments primarily hosted on **AWS**.
+
+In this role, you will collaborate closely with **trading, risk, operations, and engineering teams** to maintain high availability trading systems, support integrations with liquidity providers and internal systems, and continuously improve platform reliability. Your expertise in **MetaTrader ecosystems and trading infrastructure** will help sustain a secure and scalable trading platform.
 
 **How You’ll Make an Impact**
 
-*   Lead negotiation meetings with Western influencers and high-value affiliate prospects.
-*   Receive pre-meeting briefs (typically 24 hours prior) containing affiliate background, context, and strategic parameters.
-*   Prepare negotiation strategy for each engagement, including identifying our walk-away points and target outcomes.
-*   Execute negotiations with the goal of securing partnerships at or below our target terms.
-*   Document outcomes and hand off closed deals to the Partner Management team for ongoing relationship management.
+**MetaTrader Platform Ownership**
 
-**What you Bring**
+*   Install, configure, and maintain **MT4/MT5 servers** (live, demo, and test) across AWS or other infrastructure environments.
 
-*   Bachelor’s degree or above in Business, Marketing, Communications, International Relations, or a related field.
-*   Open to interns, fresh graduates, and early-career candidates with strong potential.
-*   Excellent coordination, negotiation, and communication skills, with the ability to engage confidently with Western influencers and high-value partners.
-*   Strong interpersonal skills and the ability to manage stakeholder expectations professionally.
-*   Ability to prepare and execute negotiation strategies based on provided briefs and commercial parameters.
-*   Detail-oriented with strong documentation and handover capabilities.
-*   Comfortable working in a fast-paced, target-driven environment.
-*   Proficient in spoken and written English.
+*   Manage **MetaTrader Admin/Manager terminals**, including trading accounts, groups, permissions, and trading instrument configurations.
+
+*   Support **plugins, liquidity bridges, and trading integrations**, working with trading and risk teams to implement new CFDs and trading conditions.
+
+**Reliability, Monitoring & Incident Management**
+
+*   Implement monitoring and alerting for **platform health, latency, connectivity, and trading performance indicators**.
+
+*   Investigate and resolve platform incidents such as **disconnects, abnormal trading activity, and system instability**.
+
+*   Perform **log analysis and root cause investigations**, contributing to incident reviews and reliability improvements.
+
+**AWS & Infrastructure Operations**
+
+*   Deploy and operate **MetaTrader infrastructure on AWS**, including EC2 instances, VPC networking, storage, and security groups.
+
+*   Manage **backups, snapshots, and infrastructure performance tuning** to ensure system stability and availability.
+
+*   Collaborate with engineering teams to implement **Infrastructure-as-Code and secure infrastructure practices**.
+
+**Integration & Ecosystem Support**
+
+*   Support integrations between MetaTrader and **internal systems such as back office, CRM, client portals, and reporting tools**.
+
+*   Assist with connectivity to **liquidity providers, trading bridges, and FIX integrations**.
+
+*   Work with developers and quant teams to **deploy and test Expert Advisors (EAs), plugins, and custom components**.
+
+**Platform Operations & Continuous Improvement**
+
+*   Maintain **separate environments (dev, test, demo, live)** with structured change and release processes.
+
+*   Plan and execute **platform upgrades, patches, and configuration changes** with minimal disruption to trading operations.
+
+*   Create and maintain **runbooks, SOPs, and documentation** while applying DevOps/SRE practices to improve reliability.
+
+**What You Bring**
+
+*   **1–4 years of experience** working with MetaTrader platforms (MT4 and/or MT5).
+
+*   Experience in **brokerage, liquidity provider, prop trading, or trading technology environments**.
+
+*   Hands-on experience supporting **production trading platforms and operational environments**.
+
+*   Experience using **MetaTrader Admin/Manager terminals** for account, group, and symbol management.
+
+*   Strong knowledge of configuring **trading conditions such as leverage, margin, commissions, swaps, and spreads**.
+
+*   Experience troubleshooting **plugins, bridges, and trading platform integrations**.
+
+*   Experience with **Windows Server administration** for MetaTrader environments and basic Linux support.
+
+*   Familiarity with **AWS infrastructure such as EC2, VPC networking, and security groups**.
+
+*   Basic scripting or automation using **PowerShell, Bash, or Python**.
+
+*   Strong **troubleshooting and analytical skills**, particularly in time-sensitive trading environments.
+
+*   Good **communication and collaboration skills** with cross-functional teams including trading, risk, and engineering.
+
+*   Willingness to participate in **on-call support during critical trading periods**.
+
+**Your X-Factor**
+
+*   Experience managing **MetaTrader environments on AWS production infrastructure**.
+
+*   Exposure to other trading platforms such as **Match-Trader, cTrader, or similar systems**.
+
+*   Familiarity with **MQL4/MQL5, Expert Advisors, and trading automation logic**.
+
+*   Knowledge of **FIX protocol, liquidity connectivity, and trade routing mechanisms**.
+
+*   Experience supporting **risk management systems and liquidity bridges**.
+
+*   Understanding of **trading platform ecosystem architecture and data flows**.
+
+*   Experience with **monitoring tools such as Prometheus, Grafana, Zabbix, CloudWatch, or ELK**.
+
+*   Exposure to **CI/CD pipelines and automated deployment processes**.
+
+*   Familiarity with **Infrastructure-as-Code tools such as Terraform or Ansible**.
 
 **Your Journey after Applying**
 
-• Initial Screening Session with Talent Acquisitions Team.
+*   30 minute HR interview with the Talent Acquisition team member
 
-• 45-minute Online Session (with talent acquisition team & department front line manager).
+*   45 minute Technical Get-To-Know-You Session (with talent acquisition team & department front line manager)
 
-• 60-minute Final Interview Session (with head of department & talent acquisition lead).
+*   60-minute Final Interview Session (with head of department & talent acquisition lead)
 
 **Why Join NEXT**
 
-At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you’re driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.
+At NEXT Ventures, we believe the right talent fuels breakthrough innovation. If you're driven to connect great minds with big ideas and want to shape the future of fintech, we’d love to meet you. Join our team of bold thinkers where technology meets transformation.
 
 Apply now and be part of our journey — the future is calling, and it starts with you.
 
+---
 * 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Negotiation` `Partnership Management` `Communication` `Marketing` `Business Development` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Product Design Manager (Open for relocation to Malaysia/Dubai)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Trading and Risk Advisor - Futures</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Location** | Kuala Lumpur |
-| **Role** | Manager |
+| **Location** | Global multiple locations (Hybrid) |
+| **Role** | Advisor |
 
-## 📝 [Description](https://nextventures.io/career)
+**🛠️ Tags**: `Finance` `Economics` `Derivatives` `Risk Management` `Trading Operations` 
+
+## 📝 [Description](https://career.nextventures.io/)
 
 ## Job description
 
 **Who We Are**
 
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**Your Role in Our Mission**
-
-As a Product Designer Manager, you'll be the creative and strategic force behind products used by traders worldwide. You'll work independently across overlapping time zones, collaborating with product, engineering, and leadership to deliver experiences that are intuitive, fast, and trader-obsessed. This isn't a hand-holding role. You'll drive design vision from concept to launch, influencing product strategy and defining what world-class looks like in prop trading platforms.
-
-**How You’ll Make an Impact**
-
-As the Product Design Manager at FNmarkets, you will define and drive the product design vision for our trading and brokerage ecosystem, ensuring seamless experiences across client-facing platforms and internal operations. By aligning user needs, business priorities, and regulatory requirements, you will lead cross-functional teams to deliver scalable, high-impact fintech products that strengthen our competitive edge. This is a leadership role with significant managerial capacity, not a pure IC position. You will set the
-
-design vision, manage and mentor a team of product designers, lead and drive performance across your team, and ensure design excellence at every touchpoint. You’ll be responsible for building a high-performing design function that ships world-class trading experiences at scale.
-
-**What you’ll be doing**
-
-* Setting and driving the product design vision across FNmarkets’ trading and brokerage platforms, from trader dashboards and onboarding flows to execution interfaces and compliance experiences
-* Managing, mentoring, and growing a team of product designers by setting clear expectations, running performance reviews, and creating development paths that elevate individual and team output
-* Leading cross-functional collaboration with product managers, engineers, and stakeholders across regions to ship fast without compromising quality
-* Establishing and evolving design systems, processes, and standards that ensure consistency, scalability, and speed across web and mobile
-* Conducting and overseeing user research, synthesizing insights from active traders to inform design decisions that move metrics
-* Championing user-centered design while balancing business goals, technical constraints, and regulatory requirements
-* Prototyping, testing, and iterating rapidly; we value speed and learning over perfection
-* Traveling occasionally for co-working sessions, team offsites, user research, and/or strategic planning sessions
-
-**What you’ll need**
-
-* 7-10+ years of product design experience with at least 2+ years in a design management or lead role, with a portfolio that proves you can ship beautiful, functional products at scale
-* Demonstrated success launching and scaling trading or brokerage products in competitive fintech environments
-* Strong commercial acumen: balancing user experience, regulatory requirements, and revenue impact
-* Proven ability to build, manage, and develop high-performing design teams; you know how to hire well, set vision, and get the best out of people
-* Deep fluency in Figma, prototyping tools, and design systems; you’re the person teammates come to for Figma wizardry
-* Experience designing for fintech, trading platforms, SaaS, or similarly complex, data-rich products
-
-**Perks**
-
-* Strong collaboration and communication skills; you can articulate design rationale to engineers, PMs, and executives
-* Ownership mindset with a track record of delivering measurable product outcomes in high-growth settings
-* A bias for action: you prototype fast, test early, and iterate based on feedback and data (and actually feel comfortable speaking to users to validate early)
-* Bonus: Experience with prop trading, brokerages, fintech, crypto, or global-first products
-* Demonstrated experience integrating AI tools into the design workflow (e.g., ideation, prototyping, research synthesis, or production) with clear examples of how AI has accelerated or improved your work.
-* Shape the future of fintech and proprietary trading; your work will empower thousands of traders globally
-* Work with a vibrant, young, fast-moving team that values autonomy, ownership, and speed
-* Global exposure with travel opportunities
-* Competitive compensation package
-* Access to cutting-edge tools, resources, and continuous learning opportunities
-
-**Your Journey After Applying**
-
-* 30-minute HR Session with the Talent Acquisition team
-* 60-minute Session with the Direct Supervisor
-* 60-minute Session with Chief Strategy Officer
-
-**Why Join NEXT**
-
-At NEXT Ventures, performance is more than numbers — it’s the pulse that drives innovation and impact. Join us to architect a world-class performance and rewards ecosystem that shapes how success is recognized across continents. Be part of the team that turns ambition into achievement and potential into performance.
-
-Your next chapter in global leadership begins here.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Figma` `UI/UX` `Fintech` `Product Design` `Trading` `Management` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Product Designer (Open to relocate to Dubai/Malaysia)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Singapore, Jakarta, Hong Kong, Taipei, Dubai, Colombo |
-| **Role** | Senior |
-
-## 📝 [Description](https://nextventures.io/career)
-
-**Who We Are**
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-**Your Role in Our Mission**
-
-As a Senior Product Designer, you'll be the creative and strategic force behind products used by traders worldwide. You'll work independently across overlapping time zones, collaborating with product, engineering, and leadership to deliver experiences that are intuitive, fast, and trader-obsessed. This isn't a hand-holding role. You'll drive design vision from concept to launch, influencing product strategy and defining what world-class looks like in prop trading platforms.
-
-**How You’ll Make an Impact**
-
-**Product & Experience Design Leadership**
-* Lead end-to-end design for high-impact features across CFD and Futures platforms
-* Design trader dashboards, challenge flows, payout experiences, and performance analytics
-* Own the full product lifecycle from discovery to delivery
-
-**Research & Data-Driven Decision Making**
-* Conduct user research across 43K+ active traders
-* Synthesize insights into actionable design improvements
-* Use data to inform decisions that drive measurable impact
-
-**Cross-Functional & Global Collaboration**
-* Work closely with product managers, engineers, and stakeholders
-* Collaborate across Malaysia, Europe, and other regions
-* Ship quickly while maintaining quality standards
-
-**Design Systems & Scalable Foundations**
-* Build and evolve the design system for web and mobile
-* Ensure consistency, scalability, and speed across platforms
-* Maintain governance and design standards
-
-**Rapid Prototyping & Iteration**
-* Prototype, test, and iterate at speed
-* Prioritize learning and experimentation over perfection
-* Validate ideas before full-scale implementation
-
-**Strategic Balance & Compliance Awareness**
-* Champion user-centered design
-* Balance business objectives, technical constraints, and regulatory requirements
-
-**Design Leadership & Team Development**
-* Mentor junior designers
-* Elevate overall design quality and craft across the organization
-
-**Global Engagement & Strategic Travel**
-* Participate in co-working sessions, offsites, user research, and planning sessions
-* Travel occasionally to support collaboration and strategic initiatives
-
-**What You Bring**
-* 5-8+ years of product design experience, with a portfolio that proves you can ship beautiful, functional products at scale
-* Deep fluency in Figma, prototyping tools, and design systems; you're the person teammates come to for Figma wizardry
-* A track record of working independently and driving projects from 0 to 1 without heavy oversight
-* Experience designing for fintech, trading platforms, SaaS, or similarly complex, data-rich products
-* Strong collaboration and communication skills; you can articulate design rationale to engineers, PMs, and executives
-* A bias for action: you prototype fast, test early, and iterate based on feedback and data (and actually feel comfortable speaking to users to validate early)
-* Bonus: Experience with prop trading, brokerages, web3, crypto, or global-first products
-
-**Your Journey After Applying**
-* 30-minute HR Session with the Talent Acquisition team
-* 60-minute Session with the Direct Supervisor
-* 60-minute Session with Chief Strategy Officer
-
-**Why Join NEXT**
-
-At NEXT Ventures, performance is more than numbers — it’s the pulse that drives innovation and impact. Join us to architect a world-class performance and rewards ecosystem that shapes how success is recognized across continents. Be part of the team that turns ambition into achievement and potential into performance.
-
-Your next chapter in global leadership begins here.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Figma` `Fintech` `SaaS` `Trading Platforms` `Design Systems` `Prototyping` `User Research` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Database Reliability Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
-| **Role** | Database Reliability Engineer |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Job description
-
-**Who We Are**
-
-NEXT Ventures is a global fintech group powering FundedNext — one of the world's fastest-growing proprietary trading platforms — and FNmarkets, a regulated CFD brokerage. Across offices in Bangladesh, Malaysia, Sri Lanka, Cyprus, and Dubai, we build and operate the technology that lets traders access global markets at scale. Our Platform Engineering team owns the infrastructure, reliability, and observability backbone that every product squad depends on.
-
-**Your Role in Our Mission**
-
-As our Database Reliability Engineer, you are the specialist who ensures our data layer never becomes the bottleneck. You own database performance, archiving pipelines, caching reliability, and BC/DR for the data tier that underpins all FundedNext services. Working within the Platform Engineering squad, you execute the scaling and optimization initiatives designed by the squad lead — and you are the reason our databases stay fast, durable, and cost-efficient as trading data and traffic grow.
-
-**How You'll Make an Impact**
-
-**Data Performance & Scalability**
-
-*   Execute database optimization and scaling initiatives — implement partitioning strategies, sharding schemes, and replication configurations; independently diagnose and fix slow queries across the platform.
-*   Own performance diagnostics on high-volume tables — EXPLAIN plan analysis, index tuning, buffer cache hit-ratio investigation, lock contention, and replication lag on 100M+ row tables.
-*   Build and maintain data archiving pipelines — move historical records (trade logs, transaction data, audit trails) from production tables to cold storage (S3/Parquet/Athena/Glacier) while preserving query access for compliance and reporting.
-*   Implement and maintain data lifecycle automation — TTL policies, scheduled archival jobs, partition rotation, and retention enforcement.
-*   Conduct regular performance profiling across the data tier — identify bottlenecks in MySQL/PostgreSQL and the caching layer, then implement measurable fixes.
-*   Support load testing and capacity planning for the data layer — analyze growth trends, identify breaking points, and implement fixes before traffic growth causes production issues.
-
-**Data Reliability & Infrastructure**
-
-*   Implement and maintain data-tier BC/DR infrastructure — multi-AZ deployments, read replicas, Aurora Global Database/cross-region replication, backup schedules, and failover triggers targeting RTO/RPO under 5 minutes; participate in regular DR drills.
-*   Implement and maintain caching strategies (Redis, ElastiCache) — cache invalidation logic, read-through/write-behind patterns, TTL hygiene, and cache hit-rate monitoring.
-*   Define and track reliability metrics (SLIs/SLOs) for the data layer — query latency, availability, replication health — and drive improvements against them.
-*   Implement monitoring, alerting, and observability for the data tier — dashboards, slow-query alerting, and replication/cache health monitoring targeting fast MTTD on data incidents.
-*   Maintain and improve database-level automation — stored procedures, dynamic partitioning scripts, and scheduled maintenance jobs.
-
-**Cross-Team Support**
-
-*   Collaborate with application and product squads to design schemas, indexes, and access patterns that scale.
-*   Remediate data-related security findings from the Cyber Security Squad — implement fixes and verify through retesting.
-*   Write and maintain infrastructure-as-code for data resources — Terraform or equivalent for reproducible, version-controlled provisioning.
-*   Document runbooks, archiving procedures, and operational guidance so any engineer can respond to data-tier incidents with clear guidance.
-
-**What You Bring**
-
-*   4–6 years of professional engineering experience, with at least 2 years in database-focused infrastructure work at moderate-to-high scale.
-*   Strong expertise in MySQL and PostgreSQL — EXPLAIN plan analysis, index design, partitioning, sharding, and replication setup — with direct experience on 100M+ row tables.
-*   Able to build data archiving pipelines to cold storage (S3/Parquet/Athena/Glacier) while keeping records queryable for compliance and reporting.
-*   Proficient with AWS managed database services — RDS and Aurora — including provisioning, read replicas, parameter group tuning, and monitoring; Aurora Global Database experience is a plus.
-*   Hands-on with Redis and ElastiCache — cache invalidation patterns, TTL hygiene, hit-rate monitoring, and incident diagnosis.
-*   Automates archival, maintenance, and diagnostic work using Python and/or Bash.
-*   Familiar with monitoring and observability tooling (Prometheus, Grafana, Datadog, or similar) for slow-query alerting, dashboards, and data-tier incident analysis.
-*   Understands multi-AZ and cross-region DR architectures, backup strategies, and failover triggers targeting RTO/RPO under 5 minutes.
-*   Comfortable writing Terraform or CloudFormation to provision data resources in a version-controlled, reproducible way.
-*   Can write and debug stored procedures and dynamic partitioning logic for database-level automation.
-*   Evidence-driven — profiles and measures before guessing; validates every optimization against before/after data.
-*   Performance-oriented — treats data-tier latency as a first-class reliability problem, not a tuning afterthought.
-*   Good communicator — works with product squads to shape schemas and access patterns, and explains data constraints clearly.
-
-**X-Factor: AI-Native Engineering**
-
-*   You actively use modern AI agentic workflows daily — not limited to Copilot autocomplete.
-*   You are proficient with Claude Code, Cursor, Windsurf, or equivalent tools.
-*   You are comfortable with project-level AI configuration (CLAUDE.md, rules files), agentic task delegation, and AI-driven code review.
-*   You think in terms of 5–10x productivity through AI-augmented development — and you can demonstrate it.
-
-**Your Journey After Applying**
-
-*   Stage 1 — TA Interview
-*   Stage 2 — Screening Questionnaire
-*   Stage 3 — Hiring Manager Interview
-*   Stage 4 — Head of IT Interview
-
-**Why Join NEXT**
-
-*   Work on data challenges at real scale — 100M+ row tables, 1TB+ databases, high-frequency trading transaction volumes.
-*   A team that treats database performance and data-tier reliability as first-class engineering problems, not DBAs on the side.
-*   Flat structure — your work directly shapes the platform's data infrastructure, not filtered through layers of process.
-*   Offices across Bangladesh, Malaysia, Sri Lanka, Cyprus, and Dubai — a genuinely global engineering team.
-*   Competitive compensation benchmarked to your market, with room to grow as the team scales.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`MySQL` `PostgreSQL` `AWS` `RDS` `Aurora` `Redis` `ElastiCache` `Python` `Bash` `Prometheus` `Grafana` `Datadog` `Terraform` `CloudFormation` `S3` `Athena` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 DevSecOps Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia / Dubai, United Arab Emirates (Hybrid) |
-| **Role** | Engineer |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Job description
-
-**Who We Are**
 NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm — 220,000+ daily users from 170+ nations, each chasing greatness in their own way.
 
-**Your Role in Our Mission**
-We're growing our Platform Engineering team and looking for a DevSecOps Engineer who lives and breathes modern DevSecOps and cloud-native practices. You'll help build, automate, secure, and operate the infrastructure behind multiple customer-facing SaaS products running on AWS and Kubernetes, fronted by Cloudflare at the edge.
+**Trading Operations & Execution Oversight**
 
-This is a hands-on role for someone who treats infrastructure as code, automates relentlessly, and uses AI tooling to move faster without cutting corners. You'll share ownership of reliability, deployment pipelines, and platform tooling — and have real influence over how we scale as the team and the load grow.
+*   Advise on the end-to-end futures trading operations stack across multiple platforms and different asset classes. 
 
-**How You'll Make An Impact**
-- Build and operate cloud-native infrastructure on AWS using infrastructure-as-code.
-- Own and improve CI/CD pipelines — making deployments faster, safer, and more self-service for product engineering teams.
-- Run and harden Kubernetes (EKS) workloads: scaling, resource management, observability, and cluster health.
-- Manage edge, CDN, and security through Cloudflare — DNS, WAF, rate limiting, and DDoS protection.
-- Embed security into the platform — secrets management, least-privilege IAM, and shift-left practices baked into pipelines.
-- Leverage AI tooling (coding assistants, automation, ops copilots) to accelerate delivery, reduce toil, and improve quality.
-- Participate in a shared on-call rotation with solid runbooks and blameless post-incident reviews.
-- Continuously reduce manual toil through automation and better tooling.
+*   Advice to oversee aggregate trader activity across futures platforms to understand how the trader population behaves, sim farming detection, how profitable vs unprofitable cohorts operate, and where risk concentrates
+
+*   Advise on pattern analysis, odd-trade detection, and gamification reviews to identify behaviour inconsistent with legitimate trading and share what action is recommended. 
+
+*   Translate complex findings into clear recommendations that inform rule design and risk posture. 
+
+*   Advice on managing emerging risk patterns before they materialise as losses. 
+
+*   Help the team create risk scoring frameworks and trader profiles to help department for the broader terms.
+
+*   Advise on A-book / B-book routing logic, internalisation strategy, and the conditions under which trader flow is hedged externally.
+
+**Risk Framework Design & Margin Oversight**
+
+*   Propose the architecture of the abuse detection framework, risk parameters, and behavioural constraints that govern the trader population
+
+*    Set and review limits at instrument, asset class, client tier, and book level; advise on stress testing and scenario analysis.
+
+*   Act as the subject-matter expert for trading and risk infrastructure, ensuring accuracy, consistency, and operational resilience under stress.
+
+*   Recommend trader-profile taxonomies that segment the population by strategy, behaviour, and risk contribution.
+
+*   Design and supervise risk frameworks covering market exposure, liquidity, basis, and execution risk on the futures book. 
+
+*   Guide A-book vs. internalisation framework decisions based on cohort behaviour, P&L distribution, and risk concentration — informed by industry practice.
 
 **What You Bring**
-- 3–5 years of hands-on experience in DevOps or Infrastructure engineering.
-- Strong command of DevOps practices and tooling — CI/CD, version control (Git), automated testing/deployment, and configuration management.
-- Solid cloud-native experience: containers (Docker), orchestration (Kubernetes), and a major cloud provider (AWS strongly preferred).
-- Proficiency with infrastructure-as-code (Terraform, CloudFormation, Pulumi, or similar).
-- Scripting/automation ability in Python, Bash, or Go.
-- Security-aware engineering — secrets management, least-privilege IAM, and shift-left security baked into pipelines.
-- Edge / CDN / WAF experience — managing DNS, WAF, and DDoS protection at the edge (Cloudflare strongly preferred).
-- AI-efficient mindset — you actively use AI/LLM tools to boost productivity and problem-solving, and have good judgment about where they help and where they don't.
-- Strong troubleshooting instincts across DNS, CDN, networking, origin, and application layers.
-- You must demonstrate active, daily use of modern AI agentic workflows — well beyond basic ChatGPT prompts or Copilot autocomplete. We expect fluency with AI coding agents (Claude Code, Cursor, Windsurf, or similar), project-level AI configuration (CLAUDE.md, rules files), agentic task delegation, and AI-driven code review. The bar is 5–10x productivity through AI-augmented development. Candidates who are not AI-native in their engineering workflow will not advance.
-- Deep hands-on Cloudflare experience — WAF custom rules, Workers, Bot Management, or Turnstile. Strong Cloudflare knowledge is a significant advantage and will be prioritized.
-- Experience operating fintech, trading, or other high-availability / regulated platforms.
-- EKS-specific production experience (HPA, cluster autoscaling, PDBs, service mesh).
+
+*   Bachelor's or Master's degree in Finance, Economics, Mathematics, Engineering, or a related quantitative discipline.
+
+*   8+ years in trading, execution, or risk roles within listed derivatives, with deep expertise in at least two of: equity index futures, rates futures, FX futures, energy futures, or metals futures.
+
+*   Direct, hands-on experience with the funded-trader / prop firm model — either inside a futures prop firm or advising one. You understand how this business actually makes and loses money, and where traders find edge against the house.
+
+*   Working knowledge of the major players in the futures prop space and a clear view of what each has done well or poorly on risk and rule design.
+
+*   Working knowledge of regulated entities under NFA, CFTC, and/or CME Group.
+
+*   Sharp judgement on trader-behaviour patterns: sim farming, account cycling, hedging exploits, gap arbitrage, news abuse, micro-scalping concentration.
+
+*   Strong written communication — you can turn complex risk findings into recommendations a CEO and a Head of Trading can act on quickly.
+
+**Your X-Factor**
+
+*   Combines market intuition with engineering rigor — designing trading systems that balance speed, control, and resilience.
+
+*   Speaks the language of both markets and code, bridging traders, quants, engineers, and risk teams with equal fluency.
+
+*   Thrives in complexity — bringing structure and clarity to fast-moving, multi-jurisdictional trading environments.
+
+*   Champions a culture of operational excellence rooted in transparency, accountability, and continuous improvement.
 
 **Your Journey After Applying**
-- 30-minute HR session with the Talent Acquisition team.
-- 60-minute technical session with the Platform Squad Lead (hiring manager).
-- Technical assessment — a hands-on infrastructure / system-design exercise.
-- Final session with Engineering leadership.
+
+*   30-minute HR Session with the Talent Acquisition team
+
+*   60-minute Session with the Top Management
 
 **Why Join NEXT**
-At NEXT Ventures, performance is more than numbers — it's the pulse that drives innovation and impact. Join us to build and harden the platform that lets a global community of traders perform at their best, every second of every day. Here, infrastructure isn't a back office — it's the engine room of the entire business, and the engineers who run it shape how fast we can grow.
 
-**Your next chapter in building at scale begins here.**
+At NEXT Ventures, performance is more than numbers — it's the pulse that drives innovation and impact. Join us to architect a world-class trading and risk ecosystem that powers performance-based capital across continents. Be part of the team that turns market opportunity into operational excellence and ambition into measurable results.
 
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`DevSecOps` `AWS` `Kubernetes` `Cloudflare` `Terraform` `Docker` `Python` `Bash` `Go` `CI/CD` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Employee Relations Specialist</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
-| **Role** | Employee Relations Specialist |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As an Employee Relations Specialist, you will establish and lead the Employee Relations function within NEXT Ventures. You will serve as the trusted point of contact for sensitive workplace matters, ensuring that employee concerns, investigations, and disciplinary processes are handled with fairness, professionalism, and compliance.
-
-This role will bring structure to how complex people matters are managed across the organization—reducing legal risk, supporting leadership decision-making, and strengthening a culture rooted in accountability and respect.
-
-## How You’ll Make an Impact
-
-### Employee Relations & Case Management
-
-*   Lead and manage employee relations cases including grievances, behavioral concerns, performance issues, conflicts, and disciplinary matters.
-*   Conduct structured, objective investigations while maintaining confidentiality and procedural integrity.
-*   Ensure fair and consistent case handling aligned with company policy and legal standards.
-
-### Policy Interpretation & Compliance Governance
-
-*   Provide clear, practical guidance to managers and employees on policies, employment practices, and workplace standards.
-*   Partner with HR Operations to maintain up-to-date, legally compliant ER policies.
-*   Strengthen governance frameworks to ensure consistency in decision-making across departments.
-
-### Manager Coaching & Advisory Support
-
-*   Coach leaders on performance discussions, corrective actions, and conflict resolution strategies.
-*   Equip managers with structured tools to address issues early and prevent escalation.
-*   Support leadership in navigating complex, high-risk people situations with sound judgment.
-
-### Culture & Workplace Integrity
-
-*   Support initiatives that promote psychological safety, respectful communication, and workplace fairness.
-*   Monitor emerging trends in employee concerns and proactively recommend interventions.
-*   Strengthen trust in internal processes by ensuring transparency and professionalism in case handling.
-
-### Reporting & Continuous Improvement
-
-*   Track, analyze, and report ER metrics and case trends to inform leadership decisions.
-*   Identify patterns and recommend process improvements to reduce recurrence of issues.
-*   Contribute to building scalable ER workflows and documentation standards.
-
-## What You Bring
-
-*   Bachelor’s degree in Human Resources, Business, Psychology, or a related field.
-*   5–6+ years of progressive experience in employee relations, HR advisory, or related roles.
-*   Demonstrated experience conducting investigations and advising on policy interpretation.
-*   Strong understanding of employment law and compliance standards.
-*   Experience in multinational or matrixed organizational environments is preferred.
-*   Professional HR certification (CIPD, SHRM, or similar) is a plus.
-*   Strong investigation and conflict resolution capabilities.
-*   Sound judgment and discretion when handling sensitive matters.
-*   Excellent stakeholder management and advisory skills.
-*   Strong communication skills across leadership and employee levels.
-*   Ability to remain composed and analytical under pressure.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Human Resources` `Employee Relations` `Compliance` `Conflict Resolution` `Investigations` `HR Advisory` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Employee Relations Specialist (Mid Senior / Managerial Level)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia (Hybrid) |
-| **Role** | Mid Senior / Managerial Level |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As the Employee Relations Specialist at NEXT Ventures, you will be the trusted point of contact for employee relations matters, helping to strengthen workplace relationships, ensuring fairness, and supporting both employees and leaders through complex people situations. You’re the person teams turn to for clarity, fairness, and confidence when navigating sensitive workplace issues.
-
-## How You’ll Make an Impact
-
-### Employee Relations & Issue Resolution
-
-*   Lead and support employee relations cases, including inquiries, concerns, behavioural issues, conflicts, performance challenges, and grievances.
-*   Conduct objective, thorough investigations with a people-centric approach while ensuring confidentiality and compliance with company policy and legal requirements.
-
-### Policy Interpretation & Compliance
-
-*   Provide clear, practical guidance to employees and managers on policies, procedures, and employment practices.
-*   Partner with HR Operations to ensure ER policies are up-to-date, legally compliant, and aligned with global standards.
-
-### Coaching & Manager Partnership
-
-*   Coach leaders on handling people issues effectively — from performance discussions to corrective conversations.
-*   Empower managers with tools and best practices to resolve issues at the earliest stage possible.
-
-### Culture & Employee Experience
-
-*   Support initiatives that promote psychological safety, open communication, and a respectful workplace.
-*   Gather insights, feedback, and trends to identify emerging issues and recommend forward-looking solutions.
-
-### Reporting & Continuous Improvement
-
-*   Track, analyze, and report on employee relations trends and metrics to inform strategic decisions.
-*   Recommend improvements to employee relations processes and tools.
-
-## What You Bring
-
-*   Bachelor’s degree in Human Resources, Business, Psychology, or related field.
-*   5–6+ years of progressive experience in employee relations, HR advisory, or a related human resources role — ideally in a dynamic, high-growth environment.
-*   Experience conducting investigations, advising on policy, and interpreting employment laws.
-*   Strong interpersonal and communication skills — you can build trust quickly at all levels.
-*   Excellent analytical skills with the ability to interpret data and feedback.
-*   Sound judgement and a high degree of professionalism and discretion.
-*   A proactive problem-solver who stays calm under pressure and prioritize people centric solutions.
-*   Experience working in multinational or matrix environments.
-*   Added advantage: Professional HR certification (e.g., CIPD, SHRM)
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Employee Relations` `HR Advisory` `Investigations` `Policy Compliance` `Performance Management` `HR Operations` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Engineering Lead (Laravel & Node.js/Next.js)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia |
-| **Role** | Engineering Lead |
-
-## 📝 [Description](https://nextventures.io/career)
-
-### Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-### Your Role in Our Mission
-
-As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-end payment journey across FundedNext, FNmarkets, and FNPay. You will architect resilient PSP integrations, optimize payment conversion, and deliver wallet and card products that scale globally. In this role, you will lead engineering squads, embed financial integrity into every transaction, and drive measurable business outcomes across payout automation, settlement accuracy, and FNPay adoption.
-
-### How You'll Make an Impact
-
-**PSP Integration & Optimization**
-* Architect and manage integrations with multiple PSPs (Payprocc, Confirmo, BinancePay, PayPal).
-* Design intelligent routing logic to optimize success rate, cost, speed, and geographic coverage.
-* Drive conversion improvements: tokenization, streamlined checkout, and reduced activation delays.
-
-**Payout & Settlement**
-* Own all payout method integrations (card, bank transfer, crypto).
-* Build payout-to-purchase bridges to enable cross-product flywheel effects.
-* Design reconciliation engines ensuring every transaction is matched, discrepancies flagged, and audit trails complete.
-* Lead ERP integration with Oracle NetSuite for automated reporting and revenue recognition.
-
-**Wallet & Card Product**
-* Deliver FNPay wallet product: deposits, withdrawals, transfers, and transaction tracking.
-* Architect card issuance systems with lifecycle management and 99%+ success rates.
-* Drive adoption metrics: 1,000+ signups, $100K+ withdrawals, 500+ cards issued.
-* Implement robust wallet ledgers with real-time balance management and compliance.
-
-**Web3 & Crypto Payments**
-* Own crypto payment infrastructure: blockchain integrations, wallet management, secure flows.
-* Evaluate Web3 technologies to improve speed, reduce costs, and expand corridors.
-* Ensure compliance with evolving crypto regulations across jurisdictions.
-
-**Leadership & Business Outcomes**
-* Lead multiple engineering squads across Payment, Payout, FNPay, and FNmarkets.
-* Own the payment domain roadmap across 20+ projects, prioritizing by impact.
-* Deliver measurable outcomes: 30% fewer payout support tickets, resilient payment diversity, and FNPay product-market fit.
-* Manage stakeholders across finance, compliance, operations, and CX.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Engineering Lead (Laravel & Node.js/Next.js)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia |
-| **Role** | Engineering Lead |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As **AI Native Engineering Lead (Payment Industry)**, you will own the end-to-end payment journey across FundedNext, FNmarkets, and FNPay. You will architect resilient PSP integrations, optimize payment conversion, and deliver wallet and card products that scale globally. In this role, you will lead engineering squads, embed financial integrity into every transaction, and drive measurable business outcomes across payout automation, settlement accuracy, and FNPay adoption.
-
-## How You'll Make an Impact
-
-### PSP Integration & Optimization
-
-*   Architect and manage integrations with multiple PSPs (Payprocc, Confirmo, BinancePay, PayPal).
-*   Design intelligent routing logic to optimize success rate, cost, speed, and geographic coverage.
-*   Drive conversion improvements: tokenization, streamlined checkout, and reduced activation delays.
-
-### Payout & Settlement
-
-*   Own all payout method integrations (card, bank transfer, crypto).
-*   Build payout-to-purchase bridges to enable cross-product flywheel effects.
-*   Design reconciliation engines ensuring every transaction is matched, discrepancies flagged, and audit trails complete.
-*   Lead ERP integration with Oracle NetSuite for automated reporting and revenue recognition.
-
-### Wallet & Card Product
-
-*   Deliver FNPay wallet product: deposits, withdrawals, transfers, and transaction tracking.
-*   Architect card issuance systems with lifecycle management and 99%+ success rates.
-*   Drive adoption metrics: 1,000+ signups, $100K+ withdrawals, 500+ cards issued.
-*   Implement robust wallet ledgers with real-time balance management and compliance.
-
-### Web3 & Crypto Payments
-
-*   Own crypto payment infrastructure: blockchain integrations, wallet management, secure flows.
-*   Evaluate Web3 technologies to improve speed, reduce costs, and expand corridors.
-*   Ensure compliance with evolving crypto regulations across jurisdictions.
-
-### Leadership & Business Outcomes
-
-*   Lead multiple engineering squads across Payment, Payout, FNPay, and FNmarkets.
-*   Own the payment domain roadmap across 20+ projects, prioritizing by impact.
-*   Deliver measurable outcomes: 30% fewer payout support tickets, resilient payment diversity, and FNPay product-market fit.
-*   Manage stakeholders across finance, compliance, operations, and CX.
-
-## What You Bring
-
-*   Bachelor’s/Master’s in Computer Science, Software Engineering, or related field.
-*   7+ years in software engineering, 3+ in technical leadership for fintech/payment systems.
-*   Expert in PHP/Laravel for backend reliability; strong in Node.js (event-driven) and Next.js (dashboards/checkout).
-*   Deep PSP integration experience (3–4 providers minimum) and PCI-DSS knowledge.
-*   Proven track record in payout systems (card, bank, crypto) and reconciliation engines.
-*   ERP integration experience (Oracle NetSuite preferred).
-*   Working knowledge of Web3, blockchain networks, and crypto payment infrastructure.
-*   Experience with wallet/card issuance products and ledger system design.
-*   Strong database architecture skills (ACID compliance, high-throughput event logging).
-*   Experience managing multiple engineering teams simultaneously.
-*   Excellent stakeholder communication across technical and business functions.
-*   Background in prop trading, brokerage, or financial services payments highly preferred.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Node.js` `Next.js` `Fintech` `Payments` `Web3` `Blockchain` `Oracle NetSuite` `PCI-DSS` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Executive / Senior Executive – Media & Strategy</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia |
-| **Role** | Executive / Senior Executive |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Executive / Senior Executive – Media & Strategy
-
-Senior Executive – Media & Strategy at FundedNext: Lead global performance marketing across Google, Meta & DV360. Drive ROAS, scale paid campaigns, analyze data, and fuel fintech growth.
-
-### Who We Are
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance.
-
-### Your Role in Our Mission
-As a Executive / Senior Executive – Media & Strategy under FundedNext’s Marketing Department, you will drive performance marketing excellence across global digital platforms. You will be responsible for planning, executing, and optimizing paid campaigns across Google, Meta, Microsoft, Twitter, and DV360.
-
-### How You’ll Make an Impact
-* **Campaign Planning & Execution:** Plan, execute, and optimize multi-platform ad campaigns. Maintain optimal structures, targeting, and bidding strategies. Implement A/B testing. Monitor daily performance to achieve ROAS and CAC targets.
-* **Performance Optimization & Analytics:** Analyze campaign data to identify trends and growth opportunities. Prepare performance reports. Track performance across funnels using Google Analytics and Data Studio.
-* **Media Strategy & Innovation:** Research new media channels and ad formats. Monitor competitor campaigns and platform trends. Maintain compliance with ad policies.
-* **Cross-Functional Collaboration:** Partner with Creative, Product, and Strategy teams to ensure alignment.
-
-### What You Bring
-* Bachelor’s degree in Marketing, Business, or a related field.
-* Minimum 2 years of hands-on experience running and optimizing paid media campaigns.
-* Proven expertise in at least two major platforms: Google Ads, Meta Ads, DV360, or Microsoft Ads.
-* Strong understanding of performance marketing metrics and tracking principles.
-* Proficiency in Google Analytics, Data Studio, or similar analytics tools.
-* Global campaign management experience preferred.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Google Ads` `Meta Ads` `DV360` `Microsoft Ads` `Performance Marketing` `Google Analytics` `Data Studio` `Fintech` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Full Stack Developer - Partner Experience (AI Native)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia |
-| **Role** | Lead |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-You will lead the Partnership Experience Squad, owning the systems that power FundedNext’s affiliate and partner ecosystem. From attribution tracking and commission engines to partner onboarding and payout workflows, you will drive the technical direction, delivery execution, and scalability of a financially critical platform that directly impacts partner growth, trust, and operational reliability.
-
-## How You’ll Make an Impact
-
-### Affiliate Platform & Partner Experience
-* Lead development of the in-house affiliate and partner platform, including onboarding, tracking dashboards, payout visibility, commission statements, and campaign management tools
-* Build scalable partner-facing experiences using PHP/Laravel and Next.js with strong focus on usability, performance, and operational reliability
-* Improve partner workflows and platform adoption by reducing friction across onboarding, reporting, and payout experiences
-
-### Attribution, Tracking & Fraud Prevention
-* Architect and maintain affiliate tracking infrastructure including attribution logic, conversion processing, postback systems, and deep-link tracking
-* Build scalable server-side tracking systems designed for modern browser restrictions and cross-session attribution reliability
-* Implement fraud detection systems to identify suspicious affiliate activity, tracking abuse, duplicate conversions, and payout manipulation
-
-### Commission Engine & Financial Systems
-* Lead development of commission engines supporting CPA, revenue share, hybrid, and multi-tier partner structures
-* Build auditable payout, reconciliation, and approval systems with strong emphasis on financial accuracy and traceability
-* Ensure scalability and operational stability across financially sensitive backend workflows
-
-### Squad Leadership & Cross-Functional Collaboration
-* Own sprint planning, technical direction, delivery cadence, and engineering standards within the squad
-* Collaborate closely with Partnerships, Finance, Product, and Operations teams to align platform capabilities with business goals
-* Mentor engineers, establish scalable engineering practices, and drive maintainable architecture decisions across the stack
-
-### AI-Native Engineering & System Scalability
-* Leverage AI-native engineering workflows using tools such as Claude Code, Cursor, Windsurf, or similar AI coding agents
-* Drive engineering productivity through AI-assisted development, debugging, code review, and workflow automation
-* Build scalable event-driven systems capable of supporting high-volume partner traffic and financial transactions
-
-## What You Bring
-* 6+ years of software engineering experience, including leadership or squad ownership responsibilities
-* Strong expertise in PHP/Laravel, Next.js/React, and scalable backend system architecture
-* Proven experience building affiliate platforms, attribution systems, referral engines, martech infrastructure, or partner ecosystems
-* Deep understanding of attribution tracking, conversion pipelines, commission logic, fraud prevention, and payout workflows
-* Strong database architecture and optimization skills using MySQL or PostgreSQL for financial and event-driven systems
-* Experience leading technically complex customer-facing or partner-facing platforms in high-growth environments
-* Strong stakeholder communication skills with ability to collaborate across Partnerships, Finance, Product, and Engineering teams
-* Mandatory hands-on experience with AI-native engineering workflows and modern AI coding agents
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Next.js` `React` `MySQL` `PostgreSQL` `AI-native engineering` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Full Stack Software Engineer - Affiliate Platform (AI-Accelerated Development)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia (Hybrid) |
-| **Role** | Full Stack Software Engineer |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-You will help build and scale FundedNext’s in-house affiliate and partner platform, powering the systems that drive partner onboarding, attribution tracking, commission management, and campaign performance visibility. Working within the Partnership Experience Squad, you will develop high-performance partner-facing products and financially critical backend systems that directly impact partner trust, revenue accuracy, and platform scalability.
-
-## How You’ll Make an Impact
-
-### Affiliate Partner Platform Development
-* Build and enhance the in-house partner portal including onboarding flows, tracking link generation, analytics dashboards, commission statements, payout management, and sub-affiliate tools
-* Develop responsive, high-performance partner experiences using Next.js and React with strong focus on usability and scalability
-* Build internal admin tools for campaign management, partner approvals, payout workflows, fraud review, and communication management
-
-### Tracking, Attribution & Fraud Detection
-* Implement affiliate tracking systems including click tracking, attribution logic, conversion processing, postback handling, and deep-link generation
-* Build server-side and cross-session attribution solutions that maintain tracking accuracy across modern browser restrictions
-* Develop fraud detection features to identify suspicious affiliate activity such as click fraud, cookie stuffing, duplicate conversions, and self-referrals
-
-### Commission Engine & Financial Workflows
-* Build commission calculation systems supporting CPA, revenue share, hybrid, and multi-tier referral models
-* Implement qualification pipelines, payout workflows, reconciliation systems, and audit trails with strong focus on financial accuracy
-* Ensure commission and payout systems remain scalable, traceable, and operationally reliable
-
-### Platform Migration & System Integration
-* Support migration from FirstPromoter to Adapt by building migration scripts, validation tooling, and tracking continuity checks
-* Integrate affiliate systems with payout, CRM, and external partner tools while ensuring data integrity and operational consistency
-* Build automated communication systems for partner lifecycle notifications, commission events, and campaign updates
-
-### Engineering Excellence & AI-Native Development
-* Write maintainable, test-heavy code for financially critical systems and end-to-end tracking flows
-* Collaborate closely with the partnerships team to translate business requirements into scalable technical solutions
-* Leverage AI-native engineering workflows using tools such as Claude Code, Cursor, Windsurf, or similar AI coding agents
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Next.js` `React` `Node.js` `MySQL` `PostgreSQL` `AI-native engineering` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Executive - Risk & Fraud Management</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Location** | Colombo, Western Province, Sri Lanka |
-| **Role** | Executive |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers and turn potential into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As an Executive in Risk & Fraud Management, you will safeguard the integrity of our global trading platform by proactively identifying, investigating, and mitigating fraud risks. Your analytical insights and precision-driven decisions will help protect client trust, ensure compliance, and maintain the high operational standards NEXT is known for. In a fast-paced fintech landscape, your contributions will directly impact business security and trader confidence.
-
-## How You’ll Make an Impact
-
-### Risk Monitoring & Investigation
-* Analyze client accounts to detect anomalies, compliance gaps, or suspicious activity
-* Conduct identity verifications and due diligence procedures
-* Escalate high-risk cases for deeper review and resolution
-
-### Fraud Pattern Analysis & Reporting
-* Identify emerging fraud patterns using manual and automated tools
-* Collaborate with internal teams to close loopholes in existing systems
-* Report findings clearly to relevant departments for preventive action
-
-### Workflow Optimization & Innovation
-* Support the integration of AI-driven tools for smarter risk detection
-* Continuously assess existing fraud detection processes and suggest improvements
-* Contribute to scalable and secure fraud mitigation frameworks
-
-## What You Bring
-* Strong English communication skills (both written and verbal)
-* Bachelor’s degree in Finance, Economics, Business, or related fields (preferred)
-* High attention to detail and strong analytical mindset
-* Comfortable using Excel, Google Sheets, and basic data visualization tools
-* Eagerness to learn and adapt in a tech-driven environment
-* Exposure to risk tools or compliance systems is a plus
-
-## Your X-Factor
-* Approaches problems with curiosity and urgency
-* Operates with discretion, integrity, and a solution-first mindset
-* Thrives in ambiguity and responds quickly to unexpected developments
-* Continuously looks for ways to improve processes and protect users
-
-## Your Pay & Perks
-* Food and Beverage
-* Entertainment
-* Learning Opportunities
-* Employee Centric Policies
-* Fast Paced Career Progression
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Risk Management` `Fraud Detection` `Compliance` `Fintech` `Data Analysis` `Excel` `Google Sheets` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Global Head of Client Experience</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Colombo, Sri Lanka; Kuala Lumpur, Malaysia |
-| **Role** | Global Head of Client Experience |
-
-## 📝 [Description](https://nextventures.io/career)
-
-### **Who We Are**
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-### **Your Role in Our Mission**
-
-As the **Global Head of Client Experience**, you will lead the strategy, structure, and operational excellence of NEXT Ventures’ global customer-facing organization. You will oversee large-scale support operations across multiple products and regions while driving customer satisfaction, operational efficiency, workforce optimization, service quality, and scalable operational governance.
-
-This role requires a strategic operator capable of building world-class customer operations while balancing business performance, customer experience, and operational scalability in a fast-paced global environment.
-
-### **How You’ll Make an Impact**
-
-**Global Customer Experience Leadership:**
-
-* Lead and scale the global client experience organization and end to end operations, across all regions and products
-* Build operational frameworks that support scalability, consistency, and performance
-* Drive customer-centric operational excellence across all customer touch-points
-* Partner with senior leadership to align operations with business strategy
-
-**Operational Excellence & Service Delivery**
-
-* Oversee customer support operations across live chat, email, escalations, and specialized support functions
-* Improve operational performance, workforce efficiency, and service delivery standards
-* Drive SLA adherence, escalation management, and productivity optimization.
-* Develop scalable operational structures, workflows, and governance models. 
-
-**Customer Quality & Experience Optimization**
-
-* Lead initiatives focused on improving customer satisfaction and service quality
-* Strengthen operational quality frameworks, coaching practices, and performance management
-* Drive continuous improvement initiatives across customer-facing operations
-* Ensure consistency in customer handling standards and operational processes
-
-**Workforce Strategy & Operational Intelligence**
-
-* Oversee workforce planning, operational reporting, and customer operations analytics
-* Utilize operational insights and performance metrics to improve efficiency and decision-making
-* Support resource planning and operational forecasting across multiple regions and functions
-* Drive operational visibility through dashboards, reporting, and performance reviews
-
-**Leadership & Cross-Functional Collaboration**
-
-* Build and develop high-performing operational leadership teams
-* Lead organizational transformation and operational restructuring initiatives
-* Foster a culture of accountability, agility, and continuous improvement
-* Partner closely with cross-functional stakeholders to improve operational efficiency, customer experience, and business performance.
-
-### **What You Bring**
-
-* 10 - 15 years of experience in BPO Operations, Customer Experience, or Service Management. Minimum 7-8 years of Leadership Experience in the relevant domain.
-* Experience managing large-scale customer support operations across multiple regions
-* Strong leadership and stakeholder management capability
-* Experience building scalable operational structures and governance frameworks
-* Strong analytical and operational problem-solving skills
-* Ability to manage high-growth operational environments with speed and adaptability
-* Experience with fintech, brokerage, SaaS, trading, or high-growth digital businesses preferred
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`BPO Operations` `Customer Experience` `Service Management` `Fintech` `Leadership` `Operational Excellence` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 HER NEXT Returnship - Executive, Client Experience</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Location** | Colombo, Western Province, Sri Lanka |
-| **Role** | Executive |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Why Choose NEXT
-
-At NEXT, we don’t just fill roles; we build futures. We understand that life happens, and we believe a career break shouldn't be a barrier, it should be a bridge to your next great chapter. We work hard, play harder, and celebrate every win, big or small.
-
-## Your Role in Our Mission
-
-As an Executive – Client Experience, you will be the frontline ambassador of NEXT Ventures' global customer success strategy. This role ensures that client interactions are handled with precision, empathy, and professionalism—supporting our mission to deliver remarkable, tech-driven financial experiences to users in 190+ countries. You’ll play a vital role in maintaining client trust and converting feedback into continuous improvement.
-
-## How You’ll Make an Impact
-
-*   **Real-Time Client Support:** Respond promptly to customer inquiries via Instant CRM and help desk systems; Escalate complex or sensitive issues in accordance with escalation protocols; Ensure client satisfaction by adhering to defined service timeframes.
-*   **Feedback Collection & Service Improvement:** Capture and relay client feedback to relevant internal teams; Identify recurring issues and propose solutions to enhance the client journey; Contribute ideas that align with our client-first service culture.
-*   **Data Management & Team Collaboration:** Collect and maintain accurate client records in the support database; Support the team by executing daily tasks as directed by the supervisor; Foster collaboration and maintain a vibrant, solution-oriented team culture.
-
-## What You Bring
-
-*   **A Fresh Perspective:** You are looking to relaunch your career after a break of 1–2 years and are ready to bring your energy back into the professional world.
-*   **Foundational Roots:** Relevant experience in Customer Experience, Sales, or Marketing is preferred.
-*   **Communication Mastery:** Excellent English writing and speaking skills, with the ability to build rapport effortlessly across email, live chat, and internal tools.
-*   **The "Calm in the Storm":** High adaptability and patience. You have a knack for staying composed under pressure and a meticulous eye for detail.
-*   **Technical Literacy:** Fast and accurate typing speeds and a strong comfort level with Google Sheets and Microsoft Office.
-*   **Growth Mindset:** An openness to new ideas and a genuine desire to evolve alongside a fast-paced team.
-
-## Your Perks
-
-*   **Comprehensive Health:** Medical insurance to keep you and your loved ones protected.
-*   **Wellness & Balance:** Access to our dedicated game zone and relaxation areas to recharge during the day.
-*   **Hassle-Free Days:** Enjoy subsidized lunch, one less thing to plan in your busy morning.
-*   **Continuous Growth:** Robust learning opportunities to help you bridge any skill gaps and advance quickly.
-*   **People-First Culture:** Employee-centric policies designed to support your transition back into the workforce.
-
-## Your Journey After Applying
-
-*   30-minute Get-To-Know-You Session (with TA Lead)
-*   Assessment Session
-*   60-minute Final Interview Session (with Management)
-
-## Training
-
-Every new joiner undergoes a dedicated 15-day specialized training program in Client Experience.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Customer Experience` `Client Support` `CRM` `Communication` `Data Management` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Regional Workforce Management Manager</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Colombo, Western Province, Sri Lanka (Hybrid) |
-| **Role** | Regional Workforce Management Manager |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As the **Regional Workforce Management Manager**, you will lead workforce planning and operational capacity management for our **Client Experience (CX) operations across Bangladesh and Sri Lanka**. This role is critical in ensuring the right staffing strategies are in place to support service excellence, operational efficiency, and sustainable growth.
-
-## How You’ll Make an Impact
-
-### Regional Workforce Planning & Governance
-* Lead workforce management strategy for CX operations across Bangladesh and Sri Lanka.
-* Establish standardized WFM processes, forecasting methodologies, and reporting frameworks.
-
-### Forecasting & Capacity Planning
-* Develop and manage demand forecasting models using historical data, seasonality, and operational trends.
-* Translate volume forecasts into capacity plans, staffing requirements, and shift scheduling strategies.
-
-### Scheduling Optimization & Operational Efficiency
-* Optimize shift planning, roster management, and schedule adherence.
-* Collaborate with operations leaders to balance service level performance, agent productivity, and cost discipline.
-
-### Performance Analytics & Reporting
-* Track and analyze key WFM metrics including forecast accuracy, shrinkage, schedule adherence, productivity, and service levels.
-* Build dashboards and reports to provide visibility into workforce performance.
-
-### Cross-Functional Collaboration
-* Act as the regional WFM partner to CX operations, HR, Finance, and business stakeholders.
-
-## What You Bring
-* Bachelor’s degree in Business Administration, Operations Management, Statistics, Economics, or related field.
-* 6–10 years of experience in Workforce Management, preferably within customer support, contact centers, BPO, fintech, or technology operations.
-* Strong experience in forecasting, capacity planning, scheduling optimization, and workforce analytics.
-* Proficiency in Excel / Google Sheets; experience with WFM platforms such as NICE, Verint, Genesys, or similar is a plus.
-* Solid understanding of CX operational metrics (SLA, AHT, shrinkage, utilization, schedule adherence).
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Workforce Management` `Forecasting` `Capacity Planning` `CX` `Fintech` `Data Analysis` `Operations Management` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Talent Acquisition Partner / TA Partner</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Colombo, Western Province, Sri Lanka |
-| **Role** | Senior Talent Acquisition Partner |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As a Senior Talent Acquisition Partner, you will take full ownership of hiring for key business functions including Marketing, Community & Partner Management (CPM), Trading & Risk Management (TRM), and Trading & Risk Operations (TRO).
-
-You will operate as a strategic recruitment partner—not just a recruiter—bringing structure, sourcing depth, stakeholder alignment, and data discipline to every hire. Your role will directly influence hiring speed, quality, and long-term talent density across critical growth functions.
-
-This role is open to both Sri Lanka and Bangladesh markets, with the strongest candidate selected regardless of location.
-
-## How You’ll Make an Impact
-
-### End-to-End Recruitment Execution
-* Manage the complete hiring lifecycle—from intake alignment and sourcing strategy to offer rollout and onboarding handover.
-* Partner closely with hiring managers to define role scope, expectations, and hiring timelines.
-* Apply structured screening and interviewing methodologies to assess competency, capability, and cultural alignment.
-* Drive disciplined feedback loops and decision-making processes to reduce delays and misalignment.
-
-### Sourcing Strategy & Talent Pipeline Development
-* Execute niche and targeted sourcing strategies through LinkedIn Recruiter, headhunting, referrals, and industry-specific channels.
-* Build and maintain proactive talent pipelines for recurring, technical, and strategic roles.
-* Engage and nurture passive candidates to maintain long-term talent readiness.
-* Develop sourcing playbooks tailored to Marketing, CPM, TRM, and TRO verticals.
-
-### ATS & Process Ownership
-* Maintain accurate and structured data within the Applicant Tracking System (ATS).
-* Track pipeline metrics and generate insights to support data-driven hiring decisions.
-* Ensure compliance, documentation discipline, and reporting accuracy across all roles.
-* Manage scheduling, candidate communication, and interview coordination with operational precision.
-
-### Stakeholder & Candidate Experience Excellence
-* Act as a trusted partner to hiring managers through influencing, negotiation, and structured advisory.
-* Ensure a strong and professional candidate experience across all stages.
-* Maintain clarity, transparency, and communication discipline throughout the hiring process.
-
-## What You Bring
-* 5–7 years of experience in recruitment, preferably within fast-paced, scaling environments.
-* Strong expertise in headhunting and LinkedIn-based sourcing strategies.
-* Demonstrated hands-on experience with ATS platforms and recruitment analytics.
-* Deep understanding of end-to-end recruitment cycles and structured hiring methodologies.
-* Strong stakeholder management and influencing capabilities.
-* Excellent communication skills with strong candidate and hiring manager engagement ability.
-
-## Your Pay & Perks
-* Monthly salary: Competitive and aligned with market benchmarks.
-* Bi-annual salary review (Eligibility Condition Applies)
-* Festival bonus (Eligibility Condition Applies)
-* Start your next chapter with our special honeymoon package
-* Unwind together at annual company retreats
-* Get moving with an in-house fitness trainer to keep your mind and body in sync
-* Enjoy comprehensive health insurance — for you, your parents, your spouse, and your children
-* Build long-term security with our Provident Fund contribution
-* No birthday is complete without a cake and a break; both are on us
-* Kick back with game nights and all-access sports zones — billiards, foosball, PlayStation, cricket, football & badminton
-* Opportunities for relocation to Sri Lanka and Malaysia, subject to business needs, with travel allowances
-
-## Your Daily Source of Energy
-* Subsidized lunch
-* Unlimited tea & coffee
-* Vending machine credits
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Talent Acquisition` `Recruitment` `ATS` `Sourcing` `Stakeholder Management` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Assistant Manager — Employee Experience & Administration</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dubai, United Arab Emirates (Hybrid) |
-| **Role** | Assistant Manager |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-Employee Experience Specialist driving the execution of accurate, compliant, and seamless HR operations for the Dubai hub at NEXT Ventures. Partnering with the Global Head of Employee Experience, IT, Finance, and PRO services to deliver every moment of the employee lifecycle — from offer to exit — with rigor and care. Owning visa lifecycles, benefits, office operations, and cross-hub mobility to keep our Dubai team productive, supported, and Day 1 ready.
-
-## How You'll Make an Impact
-
-### Employee Onboarding & Lifecycle
-* Run end-to-end onboarding for new joiners in Dubai: offer issuance, background verification, documentation, visa and labour contract coordination, and Day 1 readiness (workstation, email, access, orientation).
-* Own lifecycle transactions — confirmations, transfers, role changes, promotions, exits — keeping HRIS records, contracts, and payroll inputs accurate and current.
-* Manage offboarding: clearance, exit interview coordination, final settlement inputs (including end-of-service gratuity), visa cancellation coordination, asset recovery, and handover documentation.
-* Maintain employee files (digital and physical) and keep the function audit-ready at all times, in line with UAE labour and data-retention requirements.
-* Own the end-to-end work visa and permit lifecycle for employees and their dependents — employment visas, Emirates ID, labour cards, medical typing, renewals, amendments, and cancellations — coordinating with PRO services, MOHRE, GDRFA, and the relevant free zone authorities.
-
-### Benefits Administration
-* Administer employee benefits — health insurance (including dependents where applicable), group life, leave, allowances, and any local benefits — covering enrolments, changes, claims coordination, and vendor follow-ups.
-* Serve as the first point of contact for benefits queries; resolve or escalate against clear SLAs.
-* Track utilisation and costs; flag anomalies or policy gaps to the Global Head of Employee Experience.
-* Coordinate annual renewals with insurance brokers and benefits vendors; support benchmarking and policy refinement.
-
-### Office Administration
-* Keep the Dubai office running: front-desk, housekeeping, pantry, meeting rooms, courier, supplies, and vendor management.
-* Manage travel, accommodation, and visa support for employees — including cross-hub movements under the Foreign Assignment & Relocation Policy.
-* Oversee office-related vendor contracts (cleaning, security, maintenance, stationery, pantry) and coordinate payments with Finance.
-* Support event execution — town halls, offsites, leadership visits, celebrations, and visitor logistics in the Dubai hub.
-* Liaise with building management, free zone / mainland authorities, and PRO services as required.
-
-### IT & Equipment Enablement
-* Partner with IT to ensure every employee has the right equipment — laptop, peripherals, phone, software licenses, access cards — before Day 1, and functioning equipment throughout their tenure.
-* Maintain the asset register for the Dubai hub: issuance, returns, repairs, replacements, and write-offs.
-* Triage and route IT tickets, escalate blockers, and close the loop with employees.
-* Coordinate with IT on access provisioning and de-provisioning for joiners, movers, and leavers.
-
-### Cross-Hub Coordination
-* Act as the Dubai-side operational partner for the Global Head of Employee Experience on org-wide HR operations initiatives.
-* Support cross-hub employee transfers and relocations into and out of Dubai, including logistics, documentation, and settling-in.
-* Contribute to the standardisation of HR operations processes, SLAs, and tooling across hubs.
-
-## What You Bring
-* 4–6 years of experience in HR Operations, HR Shared Services, or a combined HR–Admin role — preferably in a multi-location organisation in fintech, financial services, or technology.
-* Hands-on experience running onboarding, HRIS data management, benefits administration, and office / vendor management.
-* Prior experience in the UAE (or wider GCC) with hands-on exposure to UAE labour law, employment visa and work permit processes, Emirates ID issuance, and MOHRE / free zone requirements is strongly preferred.
-* Bachelor's degree required; Master's / MBA in HR or a related field preferred.
-* High attention to detail, strong sense of confidentiality, and ability to manage sensitive data.
-* Comfortable working with stakeholders across multiple geographies and time zones.
-* Excellent written and verbal English communication.
-* Experience in fintech, trading, or fast-scaling tech environments.
-* Familiarity with HRIS platforms (BambooHR, Workday, etc.) and ATS systems.
-* Working relationships with PRO service providers and free zone authorities in Dubai (DMCC, DIFC, DAFZA, IFZA, or similar).
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`HR Operations` `HRIS` `Benefits Administration` `Office Management` `UAE Labour Law` `Fintech` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Fullstack Lead (Laravel & Node.js)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
-| **Role** | Lead |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-You will lead the design and delivery of NEXT Ventures’ global payment infrastructure across FundedNext, FNmarkets, and FNPay. You will own the end‑to‑end payment journey, from checkout to settlement, while driving payout systems, wallet and card products, and crypto payment solutions that enable seamless trader experiences. By guiding multiple engineering squads and embedding AI‑native workflows, you will accelerate delivery, reduce friction, and ensure compliance across all payment flows.
-
-## Qualifications & Expertise
-
-*   Bachelor’s/Master’s in Computer Science or related field; 7+ years in software engineering with 3+ in payment/fintech leadership.
-*   Expertise in PHP/Laravel, Node.js, Next.js, PSP integrations, payout systems, reconciliation engines, and ERP integration.
-*   Strong knowledge of Web3, wallet/card issuance, database architecture, and stakeholder management; fintech/trading experience preferred.
-*   Mandatory AI‑Native Engineering: daily use of agentic AI workflows (Claude Code, Cursor, Windsurf, etc.) for coding, review, and task delegation.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `Node.js` `Next.js` `React` `Fintech` `Web3` `PSP` `Oracle NetSuite` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Head of Brands and Communications</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dubai, United Arab Emirates; Kuala Lumpur, Malaysia |
-| **Role** | Head of Brands and Communications |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As **Head of Brand & Communications**, you will be the strategic owner of FundedNext’s brand identity, positioning, and message across all internal and external touchpoints. You will build brand equity over one‑, two‑, and three‑year horizons while contributing directly to revenue generation through **360° marketing channel execution**, monthly event and roadshow planning, and ensuring brand message virality across owned, earned, and paid channels.
-
-## How You’ll Make an Impact
-
-### Brand Strategy & Positioning
-
-*   Define and own the company’s brand identity, position, and message.
-*   Build phased brand strategies covering 1‑year, 2‑year, and 3‑year horizons.
-*   Ensure brand consistency across all communications.
-
-### Marketing Channel Ownership
-
-*   Lead 360° marketing channels including events, social media, video production, media, roadshows, and IB partnerships.
-*   Own platform‑level strategy across X, TikTok, Facebook, Instagram, Reddit, and Discord.
-*   Direct video production and media output aligned to brand message.
-
-### Revenue & Growth Contribution
-
-*   Drive brand‑led acquisition and retention efforts.
-*   Ensure brand content achieves virality and measurable reach.
-*   Translate brand message into market awareness and pipeline impact.
-
-### Planning & Execution
-
-*   Lead monthly planning of roadshows, events, and brand activations.
-*   Coordinate cross‑functional execution with sales, product, and partnership teams.
-*   Manage calendar, budget, and resource allocation across channels.
-
-## What You Bring
-
-*   8–12 years of experience in brand, marketing, or communications leadership.
-*   70% background in sales/marketing with proven brand/growth leadership.
-*   30% product management exposure, able to engage substantively on product roadmap and USP.
-*   Strong grasp of external stakeholders, customer segments, and competitor positioning.
-*   Hands‑on fluency across events, social media platforms (X, TikTok, Facebook, Instagram, Reddit, Discord), video production, media relations, and IB partnerships.
-*   Ability to translate product features into compelling brand narratives.
-*   Comfortable operating across strategic planning and hands‑on execution.
-
-## Your X‑Factor
-
-*   Strategic thinker with hands‑on execution capability.
-*   Ability to embed brand strategy into measurable growth outcomes.
-*   Trusted partner to leadership, sales, and product teams.
-*   Positions FundedNext as a differentiated brand in competitive financial markets.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Marketing` `Brand Strategy` `Communications` `Social Media` `Event Management` `Video Production` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Office Manager</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dubai, United Arab Emirates (Hybrid) |
-| **Role** | Office Manager |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and movement becomes momentum. As a global platform revolutionising access to performance-based capital, we empower the world's most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm—220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-The operational backbone of our hub — making sure the office runs smoothly, new joiners land on Day 1 fully set up, and every team member has the space, supplies, equipment, and travel support they need to do their best work. Partnering with the People team, IT, Finance, and external vendors to keep day-to-day administration accurate, responsive, and seamless.
-
-## How You'll Make an Impact
-
-### New Joiner Onboarding
-* Coordinate end-to-end onboarding for new hires: documentation collection and Day 1 readiness — desk, access card, welcome kit, and orientation logistics.
-* Partner with IT to ensure laptops, peripherals, phones, software licenses, and system access are provisioned and tested before the start date.
-* Be the friendly first point of contact for new joiners' admin and workplace questions, resolving or routing them quickly.
-* Keep onboarding checklists, trackers, and records accurate and up to date.
-
-### Office Building & Facility Management
-* Keep the office running day to day: front desk, meeting rooms, cleanliness, seating, and general upkeep.
-* Liaise with building management on maintenance, access, security, parking, and facility requests or issues.
-* Manage facilities vendors (cleaning, maintenance, security, fit-out) — scheduling, quality checks, and coordinating payments with Finance.
-* Conduct regular walkthroughs to pre-empt issues and keep the workplace safe, functional, and presentable.
-
-### Pantry & Office Supplies
-* Own pantry stock — monitor consumption, replenish supplies, and manage relationships with pantry and grocery vendors.
-* Maintain stationery and consumables inventory; reorder before stock runs out.
-* Track spend against budget and flag anomalies or opportunities to optimise.
-
-### Travel & Logistics (Business Trips)
-* Arrange business travel for employees — flights, accommodation, ground transport, and itineraries — in line with company travel policy.
-* Coordinate travel documentation and visa support for business trips where required.
-* Manage bookings, changes, and cancellations; reconcile travel expenses and invoices with Finance.
-* Serve as the go-to contact for travel queries and on-trip support.
-
-### IT Asset Management
-* Maintain the office asset register: issuance, returns, repairs, replacements, and write-offs.
-* Partner with IT to track laptops, peripherals, phones, access cards, and licenses across their lifecycle.
-* Coordinate asset provisioning for joiners and recovery for leavers; keep records audit-ready.
-* Triage and route basic IT and equipment requests, and close the loop with employees.
-
-## What You Bring
-* 4 years + of experience in HR administration, office administration, facilities, or a combined HR–Admin role — ideally in a fast-paced tech, fintech, or financial services environment.
-* Hands-on experience with onboarding coordination, office and vendor management, and travel arrangements.
-* Strong organisational skills and attention to detail; comfortable juggling multiple requests and priorities at once.
-* A proactive, service-minded approach — you anticipate needs and solve problems before they escalate.
-* Comfortable with HRIS and admin tools and spreadsheets (e.g., BambooHR, Workday, Google Workspace, Excel).
-* Discretion and reliability in handling sensitive employee information.
-* Bachelor's degree preferred.
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`HR Administration` `Office Management` `Facilities Management` `Onboarding` `Travel Coordination` `IT Asset Management` `BambooHR` `Workday` `Google Workspace` `Excel` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Product Manager — Trading Platform, Rules & Risk</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kuala Lumpur, Malaysia; Dubai, United Arab Emirates |
-| **Role** | Product Manager |
-
-## 📝 [Description](https://nextventures.io/career)
-
-## Who We Are
-
-NEXT Ventures is where ambition takes shape and momentum becomes movement. As a global platform revolutionising access to performance-based capital, we empower the world’s most driven individuals to rise. Through our flagship brand, FundedNext, we empower dreamers to become doers, and potential to turn into performance. With 500+ driven minds across five countries, we power a global rhythm — 220,000+ daily users from 170+ nations, each chasing greatness in their own way.
-
-## Your Role in Our Mission
-
-As Product Manager — Trading Platform, Rules & Risk, you sit at the most consequential intersection in our product organisation — where trader experience meets financial integrity. You will lead the squad responsible for the rule engine that governs every CFD challenge: designing new challenge types, defining how rules are surfaced to traders, building the simulation and backtesting infrastructure that lets us model change before we ship it, and partnering with Trading and Risk Management to close off abuse vectors before they reach scale. Every decision you make carries direct financial consequence — and that weight is exactly what makes this role compelling.
-
-## How You'll Make an Impact
-
-### Challenge Design & Rule Architecture
-
-*   Design and launch new challenge types (beyond Stellar, Express, Evaluation) targeting new trader segments and creating incremental revenue streams
-*   Run competitive analysis on how other prop firms structure their challenges, rules, and risk parameters — ensure FundedNext’s rule design is differentiated and continuously innovated
-*   Lead the CFDs Trading Rules & Risk squad — write specs for heavy backend algorithmic work including the rule engine, simulation tools, and backtesting infrastructure
-
-### Trader-Facing Experience & Communication
-
-*   Define how trading rules are visualised on the trader-facing dashboard — work closely with the Trader Success squad to ensure rule statuses, drawdown levels, violation warnings, and account health are displayed clearly and accurately
-*   Design and own the end-to-end rule violation communication process — define what triggers a notification, what the messaging says, which channel it goes through (in-app alert, email, dashboard warning), and how disputes are escalated and resolved
-
-### Internal Tooling & Simulation Infrastructure
-
-*   Build internal admin tools requirements — define the interfaces that let the operations and risk team configure, monitor, simulate, and audit rules effectively
-*   Partner with engineering to build rule simulation and backtesting tools — enable what-if analysis so the team can model rule changes against historical trade data before deploying them
-
-### Abuse Detection & Risk Partnership
-
-*   Collaborate deeply with FundedNext’s Trading and Risk Management team on abuse detection and management — translate abusive trading patterns (rule loopholes, coordinated trading, hedging abuse) into product-level rule adjustments, detection parameters, and enforcement workflows
-
-### Measurement & OKR Ownership
-
-*   Define and track squad OKRs: GP margin per challenge type, pass/fail ratios, rule-change impact modelling accuracy, false-positive violation rate, and trader dispute volume related to rules
-
-* 🌐 [Apply on Website](https://nextventures.io/career)
-## 🛠️ Tech Stack
-
-`Product Management` `Trading Systems` `Risk Management` `CFD` `Data Visualization` `Algorithmic Systems` 
+Your next chapter in global trading leadership begins here.
 
 ---
 
@@ -8365,6 +8241,8 @@ As Product Manager — Trading Platform, Rules & Risk, you sit at the most conse
 | **Location** | Niketon, Gulshan, Dhaka |
 | **Role** | Programmer |
 | **Vacancies** | 5 |
+
+**🛠️ Tags**: `Laravel` `Vue.js` `PHP` `Node.js` `React.js` `REST API` 
 
 ## 📝 [Description](https://nogorsolutions.com/career)
 
@@ -8394,92 +8272,14 @@ Are you a skilled Vue.js and Laravel developer ready to build impactful web appl
 *   Salary: Negotiable.
 *   Age: 22-30.
 
+---
 * 📧 [Send Resume via Email](mailto:career@nogorsolutions.com)
 * 🌐 [Apply on Website](https://nogorsolutions.com/career/job-apply-form/laravel-vuejs-developer)
-## 🛠️ Tech Stack
-
-`Laravel` `Vue.js` `PHP` `Node.js` `React.js` `REST API` 
-
 ---
 
 </details>
 
 ## 🏢 Ollyo
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 70K - 100K |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Mid Level |
-
-## 📝 [Description](https://ollyo.com/careers)
-
-At **Ollyo**, we are looking for a **highly creative, visually strong UI Designer** who has a great understanding of modern UI design. The core objective is to design modern web layouts, creating full-fledged templates with trendy interactions in mind. If you’re passionate about clean, user-centric, and visually engaging design, we want to hear from you.
-
-### **What You’ll Do:**
-
-*   Design complete web templates with a focus on modern layout and user experience
-
-*   Create intuitive and visually appealing interfaces based on current design trends
-
-*   Apply strong visual hierarchy, typography, spacing, and color theory
-
-*   Collaborate with product managers, developers, and other designers
-
-*   Ensure design consistency and usability across all components
-
-*   Stay current with the latest UI/UX trends and best practices
-
-### **What We’re Looking For:**
-
-*   A strong portfolio showcasing modern UI designs, especially web layouts
-
-*   Excellent understanding of **color**, **shapes**, **white space**, and **visual hierarchy**
-
-*   Proficiency in **Figma**, or similar design tools
-
-*   Deep understanding of **typography**, layout systems, and **UX principles**
-
-*   Experience designing responsive, scalable design systems
-
-*   Team player with strong communication and collaboration skills
-
-*   **Bonus:** Experience with CMS platforms or web template ecosystems
-
-### **Why Join Ollyo:**
-
-*   Opportunity to work on impactful projects.
-
-*   Cultivate creativity and innovation within a supportive culture.
-
-*   Competitive salary and benefits.
-
-### Benefits & Perks
-
-*   Exceptional work culture and environment
-*   Free meals, coffee, and snacks
-*   Full-size gym to support wellness and fitness
-*   Facilities for both indoor and outdoor sports
-*   Free shuttle service (subject to route availability)
-*   Parking facility (subject to availability)
-*   Two festival bonuses
-*   Leave encashment
-*   Loyalty bonus
-*   Maternity and paternity leaves
-*   Designated areas for male and female Muslim prayers
-
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/19/ui-ux-designer/apply)
-## 🛠️ Tech Stack
-
-`UI/UX` `Figma` `Web Design` `Typography` `UX Principles` `Design Systems` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Artist/Designer</strong> </summary>
@@ -8490,6 +8290,8 @@ At **Ollyo**, we are looking for a **highly creative, visually strong UI Designe
 | **Salary** | 25K - 60K |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Entry Level |
+
+**🛠️ Tags**: `UI Design` `Creative Design` `Motion Design` `Graphic Design` `Illustration` 
 
 ## 📝 [Description](https://ollyo.com/careers)
 
@@ -8527,63 +8329,8 @@ Based on your expertise and interests, you will be assigned to one of the follow
 * Maternity and paternity leaves
 * Designated areas for male and female Muslim prayers
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/17/artist-designer/apply)
-## 🛠️ Tech Stack
-
-`UI Design` `Creative Design` `Motion Design` `Graphic Design` `Illustration` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Motion Designer (UI & Marketing)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 80K - 100K |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Senior Level |
-
-## 📝 [Description](https://ollyo.com/careers/roles)
-
-## Senior Motion Designer (UI & Marketing)
-
-We’re looking for a Senior Motion Designer who can turn software launches into unforgettable visual stories. At Ollyo, every product launch is a moment worth celebrating, and you’ll be the one shaping how it looks, moves, and feels.
-
-### What You’ll Do
-* Create high-quality intro, feature, and promotional videos for product launches.
-* Animate UI visuals and workflows that highlight key features and user benefits.
-* Collaborate with product, design, and marketing teams to plan and execute motion strategies for major campaigns.
-* Develop consistent motion styles that align with each product’s visual identity.
-* Edit and refine launch videos, teasers, and product explainers for use across web, social, and events.
-* Mentor other designers and help elevate overall motion standards at Ollyo.
-* Create high-quality design proposals and drive motion projects end-to-end.
-* Leverage AI-powered design and animation tools.
-* Ensure on-time delivery of all motion assets.
-
-### What You’ll Bring
-* 4+ years of experience in motion design or video production.
-* Expertise in After Effects, Premiere Pro, and Illustrator.
-* Strong understanding of product storytelling, pacing, and visual composition.
-* Experience using or a willingness to adopt AI-assisted tools (e.g., RunwayML, Adobe Sensei).
-* Strong project management and time management skills.
-
-### Benefits & Perks
-* Exceptional work culture and environment
-* Free meals, coffee, and snacks
-* Full-size gym
-* Facilities for indoor and outdoor sports
-* Free shuttle service and parking
-* Two festival bonuses, leave encashment, and loyalty bonus
-* Maternity and paternity leaves
-
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/24/senior-motion-designer-ui-marketing/apply)
-## 🛠️ Tech Stack
-
-`Motion Design` `UI Design` `After Effects` `Premiere Pro` `Illustrator` `AI Tools` `SaaS` 
-
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/17/artist-designer/apply)
 ---
 
 </details>
@@ -8597,6 +8344,8 @@ We’re looking for a Senior Motion Designer who can turn software launches into
 | **Salary** | 60K - 80K |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Mid Level |
+
+**🛠️ Tags**: `ReactJS` `PHP` `MySQL` `HTML5` `CSS3` `Git` `Agile` `RESTful APIs` 
 
 ## 📝 [Description](https://ollyo.com/careers)
 
@@ -8643,79 +8392,8 @@ Ollyo is hiring a skilled Full-stack Developer to build and enhance our web appl
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/21/full-stack-developer/apply)
-## 🛠️ Tech Stack
-
-`ReactJS` `PHP` `MySQL` `HTML5` `CSS3` `Git` `Agile` `RESTful APIs` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Software QA Engineer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 25K - 30K |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Entry Level |
-
-## 📝 [Description](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
-
-We are looking for a motivated and detail-oriented **Entry-Level Software QA Engineer** to join our engineering team. In this role, you will help ensure the quality, reliability, and usability of our **WordPress and Joomla plugins, extensions, and templates**. 
-
-You will work closely with developers and product managers to test features, identify issues, and improve the overall user experience before each release. This is an excellent opportunity for freshers who want to build a strong foundation in **software quality assurance** and **CMS-based products**. 
-
-### Key Responsibilities
-
-*   **Manual Testing:** Test WordPress plugins/themes and Joomla extensions/templates across different browsers, devices, and screen resolutions.
-
-*   **Test Documentation:** Create and maintain test cases, test scenarios, and QA checklists based on product requirements.
-
-*   **Bug Reporting:** Identify, document, and track bugs clearly using tools like ClickUp. Work with developers to help reproduce issues.
-
-*   **Regression Testing:** Re-test existing features after bug fixes and updates to ensure nothing breaks.
-
-*   **Compatibility Testing:** Verify product compatibility with different versions of WordPress/Joomla, PHP, and hosting environments.
-
-*   **Release Validation:** Assist the QA team in validating builds before releases and report any critical issues.
-
-*   **User-Focused Testing:** Test products from an end-user perspective to identify usability and workflow issues.
-
-### Required Qualifications
-
-*   **CMS Knowledge:** Basic hands-on experience with **WordPress or Joomla**, including installing, configuring, and testing plugins or templates.
-
-*   **Technical Basics:** Understanding of HTML, CSS, JavaScript, and PHP (ability to read and understand code, not write complex logic).
-
-*   **QA Tools:**
-
-    *   Familiarity with bug tracking or project management tools (ClickUp, Jira, etc.)
-
-    *   Basic knowledge of API testing tools (Postman or similar)
-
-    *   Experience using browser developer tools (Chrome DevTools)
-*   **Performance Awareness:** Basic familiarity with tools like Google Lighthouse or GTmetrix.
-
-*   **Mindset:** Detail-oriented, curious, and eager to learn. Enjoys finding bugs and improving product quality.
-
-### Nice to Have (Not Mandatory)
-
-*   Exposure to test automation tools (Selenium, Cypress, Playwright).
-
-*   Basic knowledge of Git or version control systems.
-
-*   Experience writing simple test scripts in JavaScript or PHP.
-
-*   Familiarity with WP-CLI or PHPUnit.
-
-* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
-## 🛠️ Tech Stack
-
-`WordPress` `Joomla` `Manual Testing` `HTML` `CSS` `JavaScript` `PHP` `ClickUp` `Jira` `Postman` `Chrome DevTools` `Google Lighthouse` `GTmetrix` 
-
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/21/full-stack-developer/apply)
 ---
 
 </details>
@@ -8729,6 +8407,8 @@ You will work closely with developers and product managers to test features, ide
 | **Salary** | 50K - 60K |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Mid Level |
+
+**🛠️ Tags**: `Performance Marketing` `Meta Ads` `Google Ads` `SEO` `SEM` `Google Analytics` `A/B Testing` `Conversion Rate Optimization` 
 
 ## 📝 [Description](https://jobs.ollyo.com/opening/27/performance-marketing-growth-specialist/apply)
 
@@ -8809,11 +8489,126 @@ As a Performance Marketing & Growth Specialist at Ollyo, you will drive measurab
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+---
 * 🌐 [Apply on Website](https://jobs.ollyo.com/opening/27/performance-marketing-growth-specialist/apply)
-## 🛠️ Tech Stack
+---
 
-`Performance Marketing` `Meta Ads` `Google Ads` `SEO` `SEM` `Google Analytics` `A/B Testing` `Conversion Rate Optimization` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Motion Designer (UI & Marketing)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 80K - 100K |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Senior Level |
+
+**🛠️ Tags**: `Motion Design` `UI Design` `After Effects` `Premiere Pro` `Illustrator` `AI Tools` `SaaS` 
+
+## 📝 [Description](https://ollyo.com/careers/roles)
+
+## Senior Motion Designer (UI & Marketing)
+
+We’re looking for a Senior Motion Designer who can turn software launches into unforgettable visual stories. At Ollyo, every product launch is a moment worth celebrating, and you’ll be the one shaping how it looks, moves, and feels.
+
+### What You’ll Do
+* Create high-quality intro, feature, and promotional videos for product launches.
+* Animate UI visuals and workflows that highlight key features and user benefits.
+* Collaborate with product, design, and marketing teams to plan and execute motion strategies for major campaigns.
+* Develop consistent motion styles that align with each product’s visual identity.
+* Edit and refine launch videos, teasers, and product explainers for use across web, social, and events.
+* Mentor other designers and help elevate overall motion standards at Ollyo.
+* Create high-quality design proposals and drive motion projects end-to-end.
+* Leverage AI-powered design and animation tools.
+* Ensure on-time delivery of all motion assets.
+
+### What You’ll Bring
+* 4+ years of experience in motion design or video production.
+* Expertise in After Effects, Premiere Pro, and Illustrator.
+* Strong understanding of product storytelling, pacing, and visual composition.
+* Experience using or a willingness to adopt AI-assisted tools (e.g., RunwayML, Adobe Sensei).
+* Strong project management and time management skills.
+
+### Benefits & Perks
+* Exceptional work culture and environment
+* Free meals, coffee, and snacks
+* Full-size gym
+* Facilities for indoor and outdoor sports
+* Free shuttle service and parking
+* Two festival bonuses, leave encashment, and loyalty bonus
+* Maternity and paternity leaves
+
+---
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/24/senior-motion-designer-ui-marketing/apply)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software QA Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 25K - 30K |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Entry Level |
+
+**🛠️ Tags**: `WordPress` `Joomla` `Manual Testing` `HTML` `CSS` `JavaScript` `PHP` `ClickUp` `Jira` `Postman` `Chrome DevTools` `Google Lighthouse` `GTmetrix` 
+
+## 📝 [Description](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
+
+We are looking for a motivated and detail-oriented **Entry-Level Software QA Engineer** to join our engineering team. In this role, you will help ensure the quality, reliability, and usability of our **WordPress and Joomla plugins, extensions, and templates**. 
+
+You will work closely with developers and product managers to test features, identify issues, and improve the overall user experience before each release. This is an excellent opportunity for freshers who want to build a strong foundation in **software quality assurance** and **CMS-based products**. 
+
+### Key Responsibilities
+
+*   **Manual Testing:** Test WordPress plugins/themes and Joomla extensions/templates across different browsers, devices, and screen resolutions.
+
+*   **Test Documentation:** Create and maintain test cases, test scenarios, and QA checklists based on product requirements.
+
+*   **Bug Reporting:** Identify, document, and track bugs clearly using tools like ClickUp. Work with developers to help reproduce issues.
+
+*   **Regression Testing:** Re-test existing features after bug fixes and updates to ensure nothing breaks.
+
+*   **Compatibility Testing:** Verify product compatibility with different versions of WordPress/Joomla, PHP, and hosting environments.
+
+*   **Release Validation:** Assist the QA team in validating builds before releases and report any critical issues.
+
+*   **User-Focused Testing:** Test products from an end-user perspective to identify usability and workflow issues.
+
+### Required Qualifications
+
+*   **CMS Knowledge:** Basic hands-on experience with **WordPress or Joomla**, including installing, configuring, and testing plugins or templates.
+
+*   **Technical Basics:** Understanding of HTML, CSS, JavaScript, and PHP (ability to read and understand code, not write complex logic).
+
+*   **QA Tools:**
+
+    *   Familiarity with bug tracking or project management tools (ClickUp, Jira, etc.)
+
+    *   Basic knowledge of API testing tools (Postman or similar)
+
+    *   Experience using browser developer tools (Chrome DevTools)
+*   **Performance Awareness:** Basic familiarity with tools like Google Lighthouse or GTmetrix.
+
+*   **Mindset:** Detail-oriented, curious, and eager to learn. Enjoys finding bugs and improving product quality.
+
+### Nice to Have (Not Mandatory)
+
+*   Exposure to test automation tools (Selenium, Cypress, Playwright).
+
+*   Basic knowledge of Git or version control systems.
+
+*   Experience writing simple test scripts in JavaScript or PHP.
+
+*   Familiarity with WP-CLI or PHPUnit.
+
+---
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/25/software-qa-engineer/apply)
 ---
 
 </details>
@@ -8827,6 +8622,8 @@ As a Performance Marketing & Growth Specialist at Ollyo, you will drive measurab
 | **Salary** | 25K - 50K |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Entry Level |
+
+**🛠️ Tags**: `Technical Writing` `Content Creation` `Video Production` `SEO` `Content Marketing` 
 
 ## 📝 [Description](https://jobs.ollyo.com/opening/22/technical-content-developer-writer/apply)
 
@@ -8876,11 +8673,82 @@ You’ll thrive in this role if you are:
 *   Maternity and paternity leaves
 *   Designated areas for male and female Muslim prayers
 
+---
 * 🌐 [Apply on Website](https://jobs.ollyo.com/opening/22/technical-content-developer-writer/apply)
-## 🛠️ Tech Stack
+---
 
-`Technical Writing` `Content Creation` `Video Production` `SEO` `Content Marketing` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 UI/UX Designer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 70K - 100K |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Mid Level |
+
+**🛠️ Tags**: `UI/UX` `Figma` `Web Design` `Typography` `UX Principles` `Design Systems` 
+
+## 📝 [Description](https://ollyo.com/careers)
+
+At **Ollyo**, we are looking for a **highly creative, visually strong UI Designer** who has a great understanding of modern UI design. The core objective is to design modern web layouts, creating full-fledged templates with trendy interactions in mind. If you’re passionate about clean, user-centric, and visually engaging design, we want to hear from you.
+
+### **What You’ll Do:**
+
+*   Design complete web templates with a focus on modern layout and user experience
+
+*   Create intuitive and visually appealing interfaces based on current design trends
+
+*   Apply strong visual hierarchy, typography, spacing, and color theory
+
+*   Collaborate with product managers, developers, and other designers
+
+*   Ensure design consistency and usability across all components
+
+*   Stay current with the latest UI/UX trends and best practices
+
+### **What We’re Looking For:**
+
+*   A strong portfolio showcasing modern UI designs, especially web layouts
+
+*   Excellent understanding of **color**, **shapes**, **white space**, and **visual hierarchy**
+
+*   Proficiency in **Figma**, or similar design tools
+
+*   Deep understanding of **typography**, layout systems, and **UX principles**
+
+*   Experience designing responsive, scalable design systems
+
+*   Team player with strong communication and collaboration skills
+
+*   **Bonus:** Experience with CMS platforms or web template ecosystems
+
+### **Why Join Ollyo:**
+
+*   Opportunity to work on impactful projects.
+
+*   Cultivate creativity and innovation within a supportive culture.
+
+*   Competitive salary and benefits.
+
+### Benefits & Perks
+
+*   Exceptional work culture and environment
+*   Free meals, coffee, and snacks
+*   Full-size gym to support wellness and fitness
+*   Facilities for both indoor and outdoor sports
+*   Free shuttle service (subject to route availability)
+*   Parking facility (subject to availability)
+*   Two festival bonuses
+*   Leave encashment
+*   Loyalty bonus
+*   Maternity and paternity leaves
+*   Designated areas for male and female Muslim prayers
+
+---
+* 🌐 [Apply on Website](https://jobs.ollyo.com/opening/19/ui-ux-designer/apply)
 ---
 
 </details>
@@ -8893,11 +8761,13 @@ You’ll thrive in this role if you are:
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Posted** | 19 Nov 2025 |
 | **Salary** | 15K - 40K |
+| **Posted** | 19 Nov 2025 |
 | **Location** | Remote (Work from Home) with occasional office visits required. (Hybrid) |
 | **Role** | Laravel Developer |
 | **Vacancies** | 3 |
+
+**🛠️ Tags**: `Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` 
 
 ## 📝 [Description](https://onecodesoft.com/career/laravel-developer-remote)
 
@@ -8933,56 +8803,8 @@ Onecodesoft is looking for a skilled and experienced **Laravel Developer (Remote
 * **Note:** Need to come to the office when needed.
 * **Legal Requirement:** Must sign an NOC.
 
-* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/laravel-developer-remote)
-## 🛠️ Tech Stack
-
-`Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Laravel Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | 10 Nov 2025 |
-| **Salary** | 30K - 60K |
-| **Location** | Mazar Road, Mirpur 1, Dhaka, Bangladesh |
-| **Role** | Senior |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://onecodesoft.com/career/senior-laravel-developer)
-
-### Job Context
-Onecodesoft is looking for a skilled and experienced **Senior Laravel Developer** to join our team.
-
-At Onecodesoft, we prioritize skills, practical experience, and a positive attitude over formal education. We are looking for someone who is well-behaved, has good spoken communication skills, and can effectively understand and implement client requirements.
-
-Strong programming skills will be a significant plus point. The hiring process will include a written exam, a viva (interview), and a coding test.
-
-### Your Responsibility
-* Develop, maintain, and optimize high-quality web applications using the Laravel framework.
-* Build and maintain robust and scalable RESTful APIs for web and mobile applications.
-* Work with front-end technologies like **React** and **Livewire** to create dynamic and responsive user interfaces.
-* Effectively use version control systems, primarily **Git** (branching, merging, pull requests).
-* Collaborate with clients and team members to understand and translate business requirements into technical solutions.
-* Must maintain a professional and friendly office environment and be well-behaved.
-
-**Application Requirement:** Must provide code samples and links to live projects when applying.
-
-### Education & Skill Requirements
-* Formal education level is not required.
-* **Skills Required:** Expert in **Laravel**, strong knowledge of **React**, **Livewire**, **API (REST/JSON)**, and **Git**.
-* Additional Skills: Proficient in MySQL/Database design, JavaScript, Jquery, Ajax, HTML, CSS, and OOP principles.
-
-* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/senior-laravel-developer)
-## 🛠️ Tech Stack
-
-`Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` `OOP` 
-
+* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/laravel-developer-remote)
 ---
 
 </details>
@@ -8993,11 +8815,13 @@ Strong programming skills will be a significant plus point. The hiring process w
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Posted** | 10 Oct 2025 |
 | **Salary** | 10K - 20K |
+| **Posted** | 10 Oct 2025 |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Office Assistant |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `Office Management` `Administration` `Front Desk` `MS Word` `Excel` `Data Entry` 
 
 ## 📝 [Description](https://onecodesoft.com/career/office-assistant)
 
@@ -9037,11 +8861,52 @@ The hiring process may include a written test and an interview (viva).
 ### Legal Requirement
 Must sign an NOC. You cannot use company confidential information anywhere without permission. Legal action may be taken if this is violated.
 
+---
 * 🌐 [Apply on Website](https://onecodesoft.com/career/office-assistant)
-## 🛠️ Tech Stack
+---
 
-`Office Management` `Administration` `Front Desk` `MS Word` `Excel` `Data Entry` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Laravel Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 30K - 60K |
+| **Posted** | 10 Nov 2025 |
+| **Location** | Mazar Road, Mirpur 1, Dhaka, Bangladesh |
+| **Role** | Senior |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Laravel` `React` `Livewire` `REST API` `Git` `MySQL` `JavaScript` `Jquery` `Ajax` `HTML` `CSS` `OOP` 
+
+## 📝 [Description](https://onecodesoft.com/career/senior-laravel-developer)
+
+### Job Context
+Onecodesoft is looking for a skilled and experienced **Senior Laravel Developer** to join our team.
+
+At Onecodesoft, we prioritize skills, practical experience, and a positive attitude over formal education. We are looking for someone who is well-behaved, has good spoken communication skills, and can effectively understand and implement client requirements.
+
+Strong programming skills will be a significant plus point. The hiring process will include a written exam, a viva (interview), and a coding test.
+
+### Your Responsibility
+* Develop, maintain, and optimize high-quality web applications using the Laravel framework.
+* Build and maintain robust and scalable RESTful APIs for web and mobile applications.
+* Work with front-end technologies like **React** and **Livewire** to create dynamic and responsive user interfaces.
+* Effectively use version control systems, primarily **Git** (branching, merging, pull requests).
+* Collaborate with clients and team members to understand and translate business requirements into technical solutions.
+* Must maintain a professional and friendly office environment and be well-behaved.
+
+**Application Requirement:** Must provide code samples and links to live projects when applying.
+
+### Education & Skill Requirements
+* Formal education level is not required.
+* **Skills Required:** Expert in **Laravel**, strong knowledge of **React**, **Livewire**, **API (REST/JSON)**, and **Git**.
+* Additional Skills: Proficient in MySQL/Database design, JavaScript, Jquery, Ajax, HTML, CSS, and OOP principles.
+
+---
+* 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/senior-laravel-developer)
 ---
 
 </details>
@@ -9056,82 +8921,19 @@ Must sign an NOC. You cannot use company confidential information anywhere witho
 | **Employment** | Full Time |
 | **Location** | Worldwide (Hybrid) |
 
+**🛠️ Tags**: `General Application` 
+
 ## 📝 [Description](https://www.portonics.com/career)
 
 We’re always looking for talented individuals to join our team. Submit an application, and we’ll reach out if a role opens up that fits your profile.
 
+---
 * 📧 [Send Resume via Email](mailto:hr@portonics.com)
-## 🛠️ Tech Stack
-
-`General Application` 
-
 ---
 
 </details>
 
 ## 🏢 Pridesys IT Ltd.
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Head of Sales (ERP)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
-| **Role** | Head of Sales (ERP) |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://pridesys.com/careers)
-
-## Head of Sales (ERP)
-
-### Role Purpose
-The Head of Sales – ERP (DGM) will own revenue growth for the ERP business by driving new customer acquisition, expanding strategic accounts, building strong pipelines, and leading a high-performing sales team. The role requires strong enterprise/B2B (ERP) solution-selling expertise, consultative selling skills, and experience managing long-cycle ERP deals across industries.
-
-### Key Responsibilities
-1. **Sales Strategy & Revenue Ownership**: Define and execute the annual sales plan, own revenue numbers, develop pricing/packaging, and establish forecasting.
-2. **Enterprise ERP New Business Development**: Drive end-to-end enterprise deals, engage CXO/VP-level stakeholders, lead complex RFP/RFQ/tender responses, and build pipelines across priority sectors.
-3. **Key Account Management & Growth**: Own strategic accounts, ensure expansion, and partner with Delivery/Customer Success.
-4. **Team Leadership & Capability Building**: Lead, coach, and grow a sales team, build performance culture, and define KPIs.
-5. **Partner & Ecosystem Development**: Develop channels, implementation partners, and system integrators.
-6. **Cross-Functional Leadership**: Work with Product, Presales, Marketing, Finance, Legal, and Delivery teams.
-
-### Key Deliverables / Success Metrics (KPIs)
-* Annual/quarterly revenue achievement.
-* Pipeline coverage ratio and conversion rates.
-* Win rate on enterprise pursuits and tender/RFP submissions.
-* Sales cycle time reduction and forecast accuracy.
-* Average deal size growth and gross margin protection.
-* Partner-sourced revenue contribution.
-* Customer retention, expansion rate, and reference accounts developed.
-* Team productivity.
-
-### Required Qualifications & Experience
-* 12–15 years of proven B2B software sales experience, including enterprise solution selling.
-* Strong ERP selling background (Finance, SCM, HR, Manufacturing, Distribution modules).
-* Demonstrated success closing complex, multi-stakeholder deals.
-* Solid experience in Bangladesh market dynamics.
-* Hands-on leadership experience managing and scaling sales teams.
-* Strong commercial acumen.
-* Bachelor’s degree required (MBA/EMBA preferred).
-
-### What We Offer
-* Yearly increment
-* Festival bonus (as per company policy)
-* Lunch facility (partially subsidized)
-* A chance to work on an innovative SaaS product with significant growth potential.
-* An environment that encourages creativity, experimentation, and strategic thinking.
-* Opportunities for career development and skill expansion.
-* Tea, Coffee, Evening snacks
-
-* 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
-
-`ERP` `B2B Sales` `Enterprise Software` `SaaS` `Business Development` `Leadership` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Assistant Manager- Sales (ERP)</strong> </summary>
@@ -9142,6 +8944,8 @@ The Head of Sales – ERP (DGM) will own revenue growth for the ERP business by 
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Assistant Manager |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `ERP` `Sales` `Business Development` `Enterprise Software` `SaaS` `CRM` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
@@ -9191,11 +8995,8 @@ Pridesys IT Ltd. is looking for a smart and passionate individual who wants to b
 * Opportunities for career development and skill expansion.
 * Tea, Coffee, Evening snacks
 
+---
 * 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
-
-`ERP` `Sales` `Business Development` `Enterprise Software` `SaaS` `CRM` 
-
 ---
 
 </details>
@@ -9208,6 +9009,8 @@ Pridesys IT Ltd. is looking for a smart and passionate individual who wants to b
 | **Employment** | Full Time |
 | **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Vacancies** | 4 |
+
+**🛠️ Tags**: `Java` `Spring Boot` `Node.js` `SQL` `NoSQL` `Microservices` `Docker` `Kubernetes` `CI/CD` `Kafka` `RabbitMQ` `AWS` `Azure` `GCP` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
@@ -9253,11 +9056,8 @@ We are seeking a highly motivated, proactive problem-solver to join our high-per
 * Opportunities for career development and skill expansion.
 * Tea, Coffee, Evening snacks
 
+---
 * 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
-
-`Java` `Spring Boot` `Node.js` `SQL` `NoSQL` `Microservices` `Docker` `Kubernetes` `CI/CD` `Kafka` `RabbitMQ` `AWS` `Azure` `GCP` 
-
 ---
 
 </details>
@@ -9272,6 +9072,8 @@ We are seeking a highly motivated, proactive problem-solver to join our high-per
 | **Location** | Kawran Bazar, Dhaka, Bangladesh |
 | **Role** | Lead |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `SaaS` `B2B` `Digital Marketing` `SEO` `Google Ads` `Meta Ads Manager` `Analytics` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
@@ -9317,11 +9119,127 @@ The ideal candidate must have hands-on SaaS marketing experience, understands th
 *   Opportunities for career development and skill expansion.
 *   Tea, Coffee, Evening snacks
 
+---
 * 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
-## 🛠️ Tech Stack
+---
 
-`SaaS` `B2B` `Digital Marketing` `SEO` `Google Ads` `Meta Ads Manager` `Analytics` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Head of Sales (ERP)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Head of Sales (ERP) |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `ERP` `B2B Sales` `Enterprise Software` `SaaS` `Business Development` `Leadership` 
+
+## 📝 [Description](https://pridesys.com/careers)
+
+## Head of Sales (ERP)
+
+### Role Purpose
+The Head of Sales – ERP (DGM) will own revenue growth for the ERP business by driving new customer acquisition, expanding strategic accounts, building strong pipelines, and leading a high-performing sales team. The role requires strong enterprise/B2B (ERP) solution-selling expertise, consultative selling skills, and experience managing long-cycle ERP deals across industries.
+
+### Key Responsibilities
+1. **Sales Strategy & Revenue Ownership**: Define and execute the annual sales plan, own revenue numbers, develop pricing/packaging, and establish forecasting.
+2. **Enterprise ERP New Business Development**: Drive end-to-end enterprise deals, engage CXO/VP-level stakeholders, lead complex RFP/RFQ/tender responses, and build pipelines across priority sectors.
+3. **Key Account Management & Growth**: Own strategic accounts, ensure expansion, and partner with Delivery/Customer Success.
+4. **Team Leadership & Capability Building**: Lead, coach, and grow a sales team, build performance culture, and define KPIs.
+5. **Partner & Ecosystem Development**: Develop channels, implementation partners, and system integrators.
+6. **Cross-Functional Leadership**: Work with Product, Presales, Marketing, Finance, Legal, and Delivery teams.
+
+### Key Deliverables / Success Metrics (KPIs)
+* Annual/quarterly revenue achievement.
+* Pipeline coverage ratio and conversion rates.
+* Win rate on enterprise pursuits and tender/RFP submissions.
+* Sales cycle time reduction and forecast accuracy.
+* Average deal size growth and gross margin protection.
+* Partner-sourced revenue contribution.
+* Customer retention, expansion rate, and reference accounts developed.
+* Team productivity.
+
+### Required Qualifications & Experience
+* 12–15 years of proven B2B software sales experience, including enterprise solution selling.
+* Strong ERP selling background (Finance, SCM, HR, Manufacturing, Distribution modules).
+* Demonstrated success closing complex, multi-stakeholder deals.
+* Solid experience in Bangladesh market dynamics.
+* Hands-on leadership experience managing and scaling sales teams.
+* Strong commercial acumen.
+* Bachelor’s degree required (MBA/EMBA preferred).
+
+### What We Offer
+* Yearly increment
+* Festival bonus (as per company policy)
+* Lunch facility (partially subsidized)
+* A chance to work on an innovative SaaS product with significant growth potential.
+* An environment that encourages creativity, experimentation, and strategic thinking.
+* Opportunities for career development and skill expansion.
+* Tea, Coffee, Evening snacks
+
+---
+* 🌐 [Apply on Website](https://pridesys.com/careers)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Junior Database Administrator (JDBA)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Junior Database Administrator (JDBA) |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Oracle` `SQL` `MS SQL` `MariaDB` `MongoDB` `Oracle Apex` `RMAN` `AWS` `Oracle Cloud` `Microsoft Cloud` 
+
+## 📝 [Description](https://pridesys.com/careers)
+
+### Job Responsibilities
+
+*   Perform daily activity with Oracle 11g/12c/19c/21c/23c databases: optimizing indexes, plans, memory usage, fragmentation handling, DML/DDL lock, Database Event trigger etc.
+*   Design, document and implement effective data solutions using standard SQL objects like stored procedures, tables, views, functions, Package, Oracle VPD etc.
+*   Responsible for managing all Databases (Oracle, MS SQL, MS Sql, MariaDB, MongoDB).
+*   Perform required activity on Oracle Form, Report and Oracle Application Express.
+*   Maintenance of oracle Apex application users, workspace, backup & upload Apex application.
+*   Implement & Maintain backup and recovery (RMAN) procedures of the database systems to ensure data availability and protection.
+*   Assist to design, implement, maintenance and upgrade of the database systems by ensuring that the data is stored in a secure, organized and efficient manner.
+*   Assist to migrate data from one system to another by ensuring data accuracy and integrity.
+*   Provide technical support to end-users and developers on the use of database systems and applications.
+*   Develop and implement database policies, procedures, and guidelines to ensure optimal performance and data security.
+*   Monitoring and optimizing database performance and implementing performance optimization measures.
+*   Installation of Windows server, Oracle Linux, Red Hat Linux, Centos etc.
+*   Perform regular checking, testing & troubleshooting of the database in terms of security.
+*   Perform any other tasks assign by supervisor and management.
+
+### Educational Requirements
+
+*   Bachelor of Science (BSc) in CSE/ECE/IT or equivalent Engineering Degree.
+*   Certification on OCA/OCP will get preference.
+
+### Additional Requirements
+
+*   Working experience on related field in any Software Development company will get preference.
+*   Familiar with cloud computing technologies including Amazon Web Services (AWS), Oracle Cloud Service, and Microsoft Cloud Service will get preference.
+*   Good problem-solving and analytical skills.
+*   Ability to work independently and as part of a team.
+*   Excellent written and verbal communication skills.
+*   Ability to work under pressure and meet deadlines.
+
+### Compensation & other benefits
+
+*   Weekly 2 holidays
+*   Lunch Facilities: Partially Subsidize
+*   Salary Review: Yearly
+*   Festival Bonus: 2 (Yearly)
+
+---
+* 🌐 [Apply on Website](https://pridesys.com/careers)
 ---
 
 </details>
@@ -9335,6 +9253,8 @@ The ideal candidate must have hands-on SaaS marketing experience, understands th
 | **Location** | Dhaka |
 | **Role** | Manager |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `HR` `HRIS` `Management` `Recruitment` `Performance Management` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
@@ -9383,70 +9303,120 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 *   Evening snacks
 *   All other admissible benefits as per company’s HR policy
 
+---
 * 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
-
-`HR` `HRIS` `Management` `Recruitment` `Performance Management` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Junior Database Administrator (JDBA)</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Quality Assurance (Business Analyst)</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Location** | Dhaka |
-| **Role** | Junior Database Administrator (JDBA) |
-| **Vacancies** | 1 |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
+| **Role** | Quality Assurance (Business Analyst) |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `QA` `Business Analysis` `B2B SaaS` `Jira` `Trello` `Asana` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
-### Job Responsibilities
+## Quality Assurance (Business Analyst)
 
-*   Perform daily activity with Oracle 11g/12c/19c/21c/23c databases: optimizing indexes, plans, memory usage, fragmentation handling, DML/DDL lock, Database Event trigger etc.
-*   Design, document and implement effective data solutions using standard SQL objects like stored procedures, tables, views, functions, Package, Oracle VPD etc.
-*   Responsible for managing all Databases (Oracle, MS SQL, MS Sql, MariaDB, MongoDB).
-*   Perform required activity on Oracle Form, Report and Oracle Application Express.
-*   Maintenance of oracle Apex application users, workspace, backup & upload Apex application.
-*   Implement & Maintain backup and recovery (RMAN) procedures of the database systems to ensure data availability and protection.
-*   Assist to design, implement, maintenance and upgrade of the database systems by ensuring that the data is stored in a secure, organized and efficient manner.
-*   Assist to migrate data from one system to another by ensuring data accuracy and integrity.
-*   Provide technical support to end-users and developers on the use of database systems and applications.
-*   Develop and implement database policies, procedures, and guidelines to ensure optimal performance and data security.
-*   Monitoring and optimizing database performance and implementing performance optimization measures.
-*   Installation of Windows server, Oracle Linux, Red Hat Linux, Centos etc.
-*   Perform regular checking, testing & troubleshooting of the database in terms of security.
-*   Perform any other tasks assign by supervisor and management.
+### About the Role
+Pridesys IT Ltd. is seeking Quality Assurance (Business Analyst) to support the evaluation, validation, and continuous improvement of our business-focused software solutions. The ideal candidate should possess a solid academic background in Accounting or Finance and a strong understanding of business operations, including HR, finance, and general administrative workflows.
 
-### Educational Requirements
+This role requires a deep understanding of how **B2B SaaS products function**, the ability to distinguish between essential and optional product features, and a structured approach to assessing user experience, system behavior, and business logic accuracy.
 
-*   Bachelor of Science (BSc) in CSE/ECE/IT or equivalent Engineering Degree.
-*   Certification on OCA/OCP will get preference.
+### Key Responsibilities
+* Quality Assurance & Product Validation
+* Business Analysis & Requirement Management
+* Client Interaction & UAT Support
+* Process & Documentation
+* Technology & Domain Competence
 
-### Additional Requirements
+### Requirements
+* Bachelor’s degree in Business Administration (Accounting or Finance major preferred).
+* 3-4 years of professional experience in B2B SaaS environments, particularly in QA, business analysis, or product evaluation roles.
+* Strong understanding of business workflows especially accounting cycles, HR operations, procurement, and financial processes.
+* Proficiency in issue-tracking and project management tools (Jira, Trello, Asana, etc.).
+* Strong analytical and documentation skills.
+* Excellent communication skills and the ability to work cross-functionally.
 
-*   Working experience on related field in any Software Development company will get preference.
-*   Familiar with cloud computing technologies including Amazon Web Services (AWS), Oracle Cloud Service, and Microsoft Cloud Service will get preference.
-*   Good problem-solving and analytical skills.
-*   Ability to work independently and as part of a team.
-*   Excellent written and verbal communication skills.
-*   Ability to work under pressure and meet deadlines.
+### What We Offer
+* Market competitive salary, based on experience and expertise.
+* Yearly increment
+* Festival bonus (as per company policy)
+* Lunch facility (partially subsidized)
+* Opportunity to work with a growing technology team focused on modern business software solutions.
+* Professional environment that values domain knowledge, analytical thinking, and continuous improvement.
+* Scope for long-term career development.
+* Tea, Coffee, Evening snacks
 
-### Compensation & other benefits
+---
+* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
+---
 
-*   Weekly 2 holidays
-*   Lunch Facilities: Partially Subsidize
-*   Salary Review: Yearly
-*   Festival Bonus: 2 (Yearly)
+</details>
 
-* 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior UX/UI Designer</strong> </summary>
 
-`Oracle` `SQL` `MS SQL` `MariaDB` `MongoDB` `Oracle Apex` `RMAN` `AWS` `Oracle Cloud` `Microsoft Cloud` 
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Kawran Bazar, Dhaka, Bangladesh |
+| **Role** | Senior |
+| **Vacancies** | 2 |
 
+**🛠️ Tags**: `UX/UI Design` `Figma` `Adobe XD` `ERP` `SaaS` `HTML5` `CSS3` `Tailwind CSS` 
+
+## 📝 [Description](https://pridesys.com/careers)
+
+## Senior UX/UI Designer
+
+### About Role
+The Senior UX/UI Designer will lead the design of impactful user experiences for ERP and SaaS-based software platforms. This role involves conducting user research, ideation, prototyping, testing, and creating scalable solutions that align with both user needs and business goals. The ideal candidate will have strong visual design expertise, a deep understanding of user psychology and behavior toward digital products, and the ability to apply these insights to craft user-centered designs. They will also be responsible for preparing design documentation, developing proof of concepts (POCs) to support design decisions, and building and maintaining design systems for large-scale enterprise applications.
+
+### Key Responsibilities
+* Lead UX/UI design for web-based ERP/SaaS applications from concept to implementation.
+* Conduct user research, interviews, and usability testing to gather insights and validate design solutions.
+* Analyze user behavior and feedback to iterate and improve designs based on test results.
+* Prepare detailed design documentation and create proof of concepts (POCs) to support and justify design decisions.
+* Build and maintain scalable design systems tailored for large-scale ERP platforms.
+* Stay updated with user psychology and behavioral patterns related to digital products, and apply these insights to create intuitive, user-centered designs.
+* Create wireframes, user flows, mockups, prototypes, and final UI assets.
+* Collaborate closely with developers, product managers, and stakeholders to ensure design feasibility and user satisfaction.
+* Establish and maintain a design system to ensure consistency across all digital products.
+* Advocate for user-centric design principles within cross-functional teams.
+* Stay current with industry trends, tools, and best practices.
+
+### Requirements
+* Minimum Bachelor’s degree in one of the following (or a related field): UX/UI Design, Graphic Design
+* Minimum 5+ years of hands-on experience in UX/UI design, especially in designing ERP systems or SaaS-based platforms.
+* The applicants should have experience in the following business area(s): Software Company, IT Enabled Services, Product-based Platforms, Enterprise Applications.
+* Proven experience designing user interfaces and experiences for ERP or SaaS products.
+* Proficiency in Figma (preferable), Adobe XD, or similar UI/UX tools.
+* Strong understanding of design systems, information architecture, and responsive UI design.
+* Experience conducting user research, including interviews and usability testing, and analyzing test results to drive design improvements.
+* Familiarity with HTML5/CSS3, Tailwind CSS is a plus.
+* Excellent communication and collaboration skills with cross-functional teams.
+* Attention to detail in layout, typography, color theory, interaction, and consistency.
+
+### What We Offer
+* Market competitive salary, based on experience and expertise.
+* Yearly increment
+* Festival bonus (as per company policy)
+* Lunch facility (partially subsidized)
+* Opportunity to work with a growing technology team focused on modern business software solutions.
+* Professional environment that values domain knowledge, analytical thinking, and continuous improvement.
+* Scope for long-term career development.
+* Tea, Coffee, Evening snacks
+
+---
+* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
 ---
 
 </details>
@@ -9461,15 +9431,14 @@ We are seeking a highly capable Manager to join our team and provide comprehensi
 | **Role** | Software Engineer |
 | **Vacancies** | 3 |
 
+**🛠️ Tags**: `Angular` `Software Engineering` 
+
 ## 📝 [Description](https://pridesys.com/jobs/angular-developer)
 
 Software Engineer (Angular)
 
+---
 * 🌐 [Apply on Website](https://pridesys.com/jobs/angular-developer)
-## 🛠️ Tech Stack
-
-`Angular` `Software Engineering` 
-
 ---
 
 </details>
@@ -9483,6 +9452,8 @@ Software Engineer (Angular)
 | **Location** | Dhaka |
 | **Role** | Technical Content Creator |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `Technical Writing` `Documentation` `DFD` `ERD` `Canva` `Microsoft Visio` `draw.io` `Camtasia` `Confluence` `Markdown` `SEO` 
 
 ## 📝 [Description](https://pridesys.com/careers)
 
@@ -9527,125 +9498,8 @@ We are seeking an experienced Technical Content Creator to join our team. You wi
 • Good Opportunity for Career Progression
 • Yearly Tour
 
+---
 * 🌐 [Apply on Website](https://pridesys.com/careers)
-## 🛠️ Tech Stack
-
-`Technical Writing` `Documentation` `DFD` `ERD` `Canva` `Microsoft Visio` `draw.io` `Camtasia` `Confluence` `Markdown` `SEO` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Quality Assurance (Business Analyst)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kawran Bazar, Dhaka, Bangladesh |
-| **Role** | Quality Assurance (Business Analyst) |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://pridesys.com/careers)
-
-## Quality Assurance (Business Analyst)
-
-### About the Role
-Pridesys IT Ltd. is seeking Quality Assurance (Business Analyst) to support the evaluation, validation, and continuous improvement of our business-focused software solutions. The ideal candidate should possess a solid academic background in Accounting or Finance and a strong understanding of business operations, including HR, finance, and general administrative workflows.
-
-This role requires a deep understanding of how **B2B SaaS products function**, the ability to distinguish between essential and optional product features, and a structured approach to assessing user experience, system behavior, and business logic accuracy.
-
-### Key Responsibilities
-* Quality Assurance & Product Validation
-* Business Analysis & Requirement Management
-* Client Interaction & UAT Support
-* Process & Documentation
-* Technology & Domain Competence
-
-### Requirements
-* Bachelor’s degree in Business Administration (Accounting or Finance major preferred).
-* 3-4 years of professional experience in B2B SaaS environments, particularly in QA, business analysis, or product evaluation roles.
-* Strong understanding of business workflows especially accounting cycles, HR operations, procurement, and financial processes.
-* Proficiency in issue-tracking and project management tools (Jira, Trello, Asana, etc.).
-* Strong analytical and documentation skills.
-* Excellent communication skills and the ability to work cross-functionally.
-
-### What We Offer
-* Market competitive salary, based on experience and expertise.
-* Yearly increment
-* Festival bonus (as per company policy)
-* Lunch facility (partially subsidized)
-* Opportunity to work with a growing technology team focused on modern business software solutions.
-* Professional environment that values domain knowledge, analytical thinking, and continuous improvement.
-* Scope for long-term career development.
-* Tea, Coffee, Evening snacks
-
-* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
-## 🛠️ Tech Stack
-
-`QA` `Business Analysis` `B2B SaaS` `Jira` `Trello` `Asana` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior UX/UI Designer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Kawran Bazar, Dhaka, Bangladesh |
-| **Role** | Senior |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://pridesys.com/careers)
-
-## Senior UX/UI Designer
-
-### About Role
-The Senior UX/UI Designer will lead the design of impactful user experiences for ERP and SaaS-based software platforms. This role involves conducting user research, ideation, prototyping, testing, and creating scalable solutions that align with both user needs and business goals. The ideal candidate will have strong visual design expertise, a deep understanding of user psychology and behavior toward digital products, and the ability to apply these insights to craft user-centered designs. They will also be responsible for preparing design documentation, developing proof of concepts (POCs) to support design decisions, and building and maintaining design systems for large-scale enterprise applications.
-
-### Key Responsibilities
-* Lead UX/UI design for web-based ERP/SaaS applications from concept to implementation.
-* Conduct user research, interviews, and usability testing to gather insights and validate design solutions.
-* Analyze user behavior and feedback to iterate and improve designs based on test results.
-* Prepare detailed design documentation and create proof of concepts (POCs) to support and justify design decisions.
-* Build and maintain scalable design systems tailored for large-scale ERP platforms.
-* Stay updated with user psychology and behavioral patterns related to digital products, and apply these insights to create intuitive, user-centered designs.
-* Create wireframes, user flows, mockups, prototypes, and final UI assets.
-* Collaborate closely with developers, product managers, and stakeholders to ensure design feasibility and user satisfaction.
-* Establish and maintain a design system to ensure consistency across all digital products.
-* Advocate for user-centric design principles within cross-functional teams.
-* Stay current with industry trends, tools, and best practices.
-
-### Requirements
-* Minimum Bachelor’s degree in one of the following (or a related field): UX/UI Design, Graphic Design
-* Minimum 5+ years of hands-on experience in UX/UI design, especially in designing ERP systems or SaaS-based platforms.
-* The applicants should have experience in the following business area(s): Software Company, IT Enabled Services, Product-based Platforms, Enterprise Applications.
-* Proven experience designing user interfaces and experiences for ERP or SaaS products.
-* Proficiency in Figma (preferable), Adobe XD, or similar UI/UX tools.
-* Strong understanding of design systems, information architecture, and responsive UI design.
-* Experience conducting user research, including interviews and usability testing, and analyzing test results to drive design improvements.
-* Familiarity with HTML5/CSS3, Tailwind CSS is a plus.
-* Excellent communication and collaboration skills with cross-functional teams.
-* Attention to detail in layout, typography, color theory, interaction, and consistency.
-
-### What We Offer
-* Market competitive salary, based on experience and expertise.
-* Yearly increment
-* Festival bonus (as per company policy)
-* Lunch facility (partially subsidized)
-* Opportunity to work with a growing technology team focused on modern business software solutions.
-* Professional environment that values domain knowledge, analytical thinking, and continuous improvement.
-* Scope for long-term career development.
-* Tea, Coffee, Evening snacks
-
-* 📧 [Send Resume via Email](mailto:pridesysclouderp@gmail.com)
-## 🛠️ Tech Stack
-
-`UX/UI Design` `Figma` `Adobe XD` `ERP` `SaaS` `HTML5` `CSS3` `Tailwind CSS` 
-
 ---
 
 </details>
@@ -9661,6 +9515,8 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 | **Deadline** | 2026-08-31 |
 | **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `Data Warehouse` `Snowflake` `AWS` `Azure` `GCP` `Databricks` `Apache Spark` `Python` `SQL` `ETL` `Data Modeling` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/data-architect)
 
@@ -9688,11 +9544,8 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 * Experience with containerization and orchestration (e.g., Docker, Kubernetes, Airflow).
 * Experience with infrastructure-as-code tools (e.g., Terraform or CloudFormation).
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`Data Warehouse` `Snowflake` `AWS` `Azure` `GCP` `Databricks` `Apache Spark` `Python` `SQL` `ETL` `Data Modeling` 
-
 ---
 
 </details>
@@ -9707,6 +9560,8 @@ The Senior UX/UI Designer will lead the design of impactful user experiences for
 | **Location** | Gulshan-1, Dhaka |
 | **Role** | Data Engineer |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `ETL` `ELT` `Data Warehouse` `SQL` `BI` `Azure` `Azure Data Factory` `Databricks` `Azure SQL` `Azure Function` `Azure DevOps` `Snowflake` `Python` `OOP` `Git` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/data-engineer)
 
@@ -9756,11 +9611,8 @@ We are looking for Dynamic individuals having the following Qualities:
 * Competitive salary and excellent career opportunity in a focused & stable organization.
 * Most importantly, a friendly work environment with the opportunity to learn from a number of highly skilled mentors.
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`ETL` `ELT` `Data Warehouse` `SQL` `BI` `Azure` `Azure Data Factory` `Databricks` `Azure SQL` `Azure Function` `Azure DevOps` `Snowflake` `Python` `OOP` `Git` 
-
 ---
 
 </details>
@@ -9774,6 +9626,8 @@ We are looking for Dynamic individuals having the following Qualities:
 | **Deadline** | 2026-08-31 |
 | **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `MSSQL` `SSRS` `SSIS` `T-SQL` `PowerShell` `SQL Server` `Power BI` `Tableau` `Azure` `AWS` `MySQL` `PostgreSQL` `Oracle` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/database-administrator-mssql)
 
@@ -9826,11 +9680,8 @@ We are looking for dynamic individuals having the following qualities:
 3. A healthy work environment with opportunity to learn from a number of highly skilled engineers.
 4. Weekend: Saturday and Sunday.
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`MSSQL` `SSRS` `SSIS` `T-SQL` `PowerShell` `SQL Server` `Power BI` `Tableau` `Azure` `AWS` `MySQL` `PostgreSQL` `Oracle` 
-
 ---
 
 </details>
@@ -9844,6 +9695,8 @@ We are looking for dynamic individuals having the following qualities:
 | **Deadline** | 2026-08-31 |
 | **Location** | Gulshan-1, Dhaka |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `C` `C++` `Micro-controllers` `GPIO` `SPI` `I2C` `UART` `ARM` `STM32` `FreeRTOS` `Git` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/embedded-software-engineer)
 
@@ -9897,11 +9750,8 @@ We are looking for dynamic individuals having the following qualities.
 4. Flexible office hours.
 5. Weekend: Saturday and Sunday.
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`C` `C++` `Micro-controllers` `GPIO` `SPI` `I2C` `UART` `ARM` `STM32` `FreeRTOS` `Git` 
-
 ---
 
 </details>
@@ -9916,6 +9766,8 @@ We are looking for dynamic individuals having the following qualities.
 | **Location** | Gulshan-1, Dhaka |
 | **Role** | Solutions Architect |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Generative AI` `LLM` `Machine Learning` `MLOps` `LLMOps` `Python` `RAG` `LangChain` `Docker` `Kubernetes` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/architect-machine-learning)
 
@@ -9981,11 +9833,8 @@ The ideal candidate will have **8+ years of professional experience** in AI engi
 *   Very competitive salary and excellent career opportunity in a focused and stable organization.
 *   Most importantly, a friendly work environment with opportunity to learn from a number of highly skilled mentors.
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`Generative AI` `LLM` `Machine Learning` `MLOps` `LLMOps` `Python` `RAG` `LangChain` `Docker` `Kubernetes` 
-
 ---
 
 </details>
@@ -10000,6 +9849,8 @@ The ideal candidate will have **8+ years of professional experience** in AI engi
 | **Location** | Gulshan-1, Dhaka |
 | **Role** | Business Systems Analyst & JIRA Administrator |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `JIRA` `Atlassian` `Agile` `Scrum` `Kanban` `JQL` `Business Analysis` `Systems Administration` 
 
 ## 📝 [Description](https://www.relisource.com/job-post/jira-administrator-automation-expert)
 
@@ -10049,16 +9900,479 @@ We are looking for a dynamic Business Systems Analyst who can bridge the gap bet
 * Exposure to global clients and the modern Atlassian ecosystem.
 * A friendly, supportive work environment that encourages learning and innovation.
 
+---
 * 📧 [Send Resume via Email](mailto:career@relisource.com)
-## 🛠️ Tech Stack
-
-`JIRA` `Atlassian` `Agile` `Scrum` `Kanban` `JQL` `Business Analysis` `Systems Administration` 
-
 ---
 
 </details>
 
 ## 🏢 RiseUp Labs
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 AI-Assisted Software Developer Intern</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+| **Location** | Uttara, Dhaka |
+| **Role** | Intern |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Full-Stack` `Node.js` `Python` `React` `Vue` `PostgreSQL` `MongoDB` `Docker` `AI` `Machine Learning` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+Riseup Labs is hiring an **AI-Assisted Software Developer Intern** who is comfortable working across the full stack but more importantly, who has already embraced AI-native ways of building software. This isn't a "learn to code" internship. We're looking for someone who already codes, and who uses AI agents and modern AI-assisted workflows as a core part of how they build, ship, and debug.
+
+### Job Responsibilities:
+* Build and ship features across the full stack: backend services/APIs, frontend UI, database schemas, and deployment pipelines.
+* Use AI coding agents (Claude Code, GitHub Copilot, Cursor, or similar) as a primary development tool.
+* Practice "vibe coding" responsibly: rapidly prototyping with AI assistance while still validating, testing, and understanding the code you ship.
+* Apply AIDLC (AI-Driven/Assisted Development Life Cycle) principles.
+* Design and orchestrate simple AI agent workflows.
+* Write clean, maintainable code and documentation.
+* Participate in code reviews, sprint planning, and contribute to our evolving AI development playbook.
+
+### Educational Requirements:
+* Currently completed a degree in CSE, Software Engineering, or a related field (or equivalent self-taught experience).
+
+### Additional Requirements:
+* **Full-Stack Fundamentals:** Node.js, Python, HTML/CSS/JS, React/Vue, PostgreSQL/MongoDB, Cloud (Azure/AWS/GCP), Docker, CI/CD, Git.
+* **AI-Native Development Skills:** Hands-on experience with AI tools (Claude, ChatGPT, Copilot, Cursor), understanding of AI agent concepts, and ability to evaluate AI-generated code.
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Business Analyst (Tender Documentation)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka, Bangladesh |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Business Analyst` `Technical Writing` `Tender Documentation` `Proposal Writing` `SDLC` `Agile` `Waterfall` `SRS` `BRD` `TOR` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Position Overview
+Riseup Labs is seeking a highly skilled Business Analyst (Tender Documentation) responsible for developing, editing, and managing high-quality technical, functional, and tender-related documents for Government, Corporate, NGO, and UN-funded projects. The ideal candidate will have strong technical writing capabilities, excellent attention to detail, and a solid understanding of IT/software project lifecycles.
+
+## Key Responsibilities
+### 1. Technical & Project Documentation
+* Develop and maintain technical documents including SRS, BRD, TOR, process documents, workflows, and requirement specifications.
+* Translate business and functional requirements into clear, structured documentation.
+* Ensure all documentation meets industry standards, internal guidelines, and client expectations.
+
+### 2. Tender & Proposal Documentation
+* Review RFPs, RFQs, EOIs, and tender documents from Government, NGO, Corporate, and UN agencies.
+* Extract key requirements, eligibility criteria, scope of work, and compliance obligations.
+* Prepare compliance matrices and proposal documentation.
+* Develop technical sections of proposals including methodology, scope, implementation plan, and execution strategy.
+
+### 3. Technical Approach & Methodology Development
+* Design detailed technical approaches, project methodologies, and delivery frameworks.
+* Convert complex technical concepts into clear and understandable documentation.
+
+### 4. Presentation & Visual Documentation
+* Prepare professional PowerPoint presentations for client meetings, and internal reviews.
+* Develop diagrams, flowcharts, Gantt charts, and process visualizations.
+
+### 5. Coordination & Communication
+* Work closely with Business Development, Project Managers, and technical teams.
+* Participate in requirement gathering and client briefing sessions.
+
+## Required Qualifications
+* Bachelor’s degree in Computer Science, IT, Engineering, Business, or related field.
+* 2–3 years of experience in technical proposal writing, proposal development, or documentation roles.
+* Excellent English writing, editing, and formatting skills.
+* Strong understanding of IT/software systems and development processes.
+* Proficiency in MS Word, PowerPoint, and Excel.
+* Familiarity with diagramming tools such as Visio, Draw.io, or Figma (preferred).
+
+## Preferred Skills
+* Experience working with Government, NGO, UN, or corporate tender documentation.
+* Understanding of SDLC, Agile, and Waterfall methodologies.
+* Ability to prepare SRS, BRD, TOR, WBS, and technical proposals.
+* Familiarity with e-GP portals, UNGM, and procurement systems.
+* Experience using AI tools for documentation support.
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Business Development Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
+| **Role** | Business Development Manager |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Sales` `Business Development` `CRM` `LinkedIn Sales Navigator` `Software Development` `IT Services` `BPO` `Staff Augmentation` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Job Context
+Riseup Labs is seeking a high-performing Sr. Sales Manager / Business Development Manager (International Market) to join our Business Development team. This role is focused on driving revenue growth in the USA, Europe, and Middle East markets by acquiring new clients and expanding existing accounts.
+
+## Job Responsibilities
+### 1. International Sales & Business Development
+* Develop and execute international sales strategies to achieve revenue growth targets in USA, Europe, and Middle East markets.
+* Identify, qualify, and convert new business opportunities through LinkedIn Sales Navigator, CRM tools, and professional networks.
+* Build and manage a robust sales pipeline while maintaining accurate forecasts and sales reports.
+
+### 2. Client Acquisition & Relationship Management
+* Conduct detailed needs assessments to understand client business challenges and propose suitable software development and IT service solutions.
+* Promote Riseup Labs’ offerings including Web Development, Mobile App Development, Ads Agency, ERP, SaaS, AI-driven solutions, Game Development, BPO, and Staff Augmentation.
+* Establish and maintain long-term relationships with international clients to drive repeat business and upselling opportunities.
+
+### 3. Sales Execution & Deal Closure
+* Manage the full sales cycle independently from lead generation and qualification to proposal preparation, negotiation, and deal closure.
+* Collaborate with technical and delivery teams for project pre-analysis, scope definition, cost estimation, and budgeting.
+* Manage Sales Hygiene and Discipline starting from prospecting to Pipeline Progression and Closure.
+* Achieve and exceed assigned individual sales targets with a strong closing ratio in Monthly Basis.
+
+### 4. Market Research & Stakeholder Engagement
+* Conduct in-depth market and competitor research to identify new business opportunities and industry trends.
+* Participate in internal sales and strategy meetings, providing regular updates to the Head of Sales on pipeline status and performance.
+* Respond promptly and professionally to client inquiries regarding products, services, and commercial terms.
+
+### 5. Team Support & Collaboration
+* Support hiring, onboarding, and training initiatives for junior sales team members when required.
+* Work closely with operations, marketing, technical, and project management teams to ensure aligned sales efforts and client satisfaction.
+
+## Required Skills & Competencies
+* **Technical & Industry Expertise:** Proven experience in selling Web, Mobile App, ERP, SaaS, AI-based products, Game Development, BPO, and Staff Augmentation services. Strong understanding of software project pre-analysis, estimation and budgeting.
+* **Sales Tools & Platforms:** Extensive experience with LinkedIn Sales Navigator, CRM software, lead generation tools, and freelancing platforms.
+* **Communication & Leadership:** Excellent verbal and written English communication skills. Strong presentation, negotiation, and strategic planning abilities.
+
+## Compensation and Benefits (Applicable for Bangladeshi Employee Only)
+* Annual Performance Evaluation and Increment
+* Festival Bonus-02
+* Group Life and Health Insurance
+* Full Subsidized Lunch/Dinner
+* Annual Retreats
+* Weekly 2 holidays
+* Paid Time Off 24 days (CL & SL)
+* Maternity, Paternity, and Bereavement Leave
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Customer Service Specialist (Project-Based)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Contract |
+| **Location** | Uttara, Dhaka |
+| **Vacancies** | 120 |
+
+**🛠️ Tags**: `Customer Service` `BPO` `Call Center` `CRM` `Voice Support` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+Riseup Labs is looking for enthusiastic Customer Service Specialist to join our growing Customer Experience team. This is a voice-based customer support role where agents will handle inbound calls, assist customers with their inquiries, provide accurate information, and deliver a positive customer experience.
+
+### Job Responsibilities
+* Handle inbound customer calls professionally and courteously.
+* Respond to customer inquiries by following approved processes and guidelines.
+* Provide accurate information while maintaining a high level of customer satisfaction.
+* Identify customer needs and offer appropriate solutions.
+* Document customer interactions accurately in the CRM or ticketing system.
+* Escalate complex issues to supervisors or relevant departments when required.
+* Meet quality assurance, productivity, and attendance expectations.
+* Participate in training sessions, coaching, and performance improvement programs.
+
+### Required Qualifications
+* Minimum Higher Secondary Certificate (HSC)/A-Level/O-Level/Graduation or equivalent.
+* Excellent spoken and written English communication skills.
+* Strong listening, interpersonal, and problem-solving abilities.
+* Basic computer proficiency, including typing and navigating multiple applications simultaneously.
+* Willingness to work at night shift.
+
+### Preferred Qualifications
+* Previous experience in a BPO, call center, customer service, or contact center environment is an advantage.
+* Experience handling voice-based customer support is preferred.
+* Familiarity with CRM or customer support software is a plus.
+
+### Additional Details
+* **Project Duration:** 20-30 days
+* **Working Hour:** 07.00 PM- 04.30 AM
+* **Compensation:** BDT 150 per hour + Food Allowance + Transport Allowance
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Executive, Business Development</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
+| **Role** | Executive, Business Development |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Business Development` `Lead Generation` `Telemarketing` `Inside Sales` `HubSpot CRM` `LinkedIn Sales Navigator` `International Sales` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Executive, Business Development
+
+**Riseup Labs** is looking for a resilient, proactive, and communication-focused Executive, Business Development **(International Market)** to support our international growth initiatives. This role focuses on lead generation, client engagement, and meeting scheduling for **international markets including USA, Europe, and the Middle East**.
+
+### Job Responsibilities:
+
+**International Lead Generation & Outreach**
+* Generate new business opportunities in USA, Europe, and Middle East markets through cold calling, email outreach, and LinkedIn Sales Navigator.
+* Identify and approach international companies and key decision-makers using structured outreach campaigns.
+* Promote Riseup Labs’ software development and IT services to prospective global clients.
+
+**Client Engagement & Meeting Coordination**
+* Conduct initial discovery calls with international prospects to understand business needs.
+* Schedule meetings and demos with potential clients and participate in business discussions when required.
+* Maintain professional, clear, and consistent communication throughout the sales process.
+* Deliver strict KPIs on the number of calls to be attended and number of deals to be closed on Monthly Basis.
+
+**Research & Market Intelligence**
+* Conduct in-depth research on industries, companies, and buyer personas to identify high-potential prospects.
+* Stay updated on international market trends, competitor offerings, and client requirements in the software development industry.
+
+**CRM & Reporting**
+* Maintain accurate and daily updates in HubSpot CRM, including lead status, follow-ups, and communication history.
+* Update task sheets and activity trackers to ensure performance transparency and KPI monitoring.
+
+**Collaboration & Growth**
+* Collaborate closely with senior business development and sales team members to align outreach strategies.
+* Continuously improve sales scripts, email templates, and outreach techniques through feedback and learning.
+
+### Educational Qualification:
+* Graduation from any Discipline (Undergrads are also encourage to apply if you have relevant experience).
+
+### Experience Requirements:
+* Minimum 1+ year of experience in Telemarketing, Inside Sales, or International Calling.
+* Prior experience in the software development or IT services industry will be an added advantage.
+
+### Required Skills & Competencies:
+* Excellent verbal and written English communication skills with clear, professional pronunciation (mandatory).
+* Strong interpersonal, presentation, and client engagement skills.
+* Hands-on experience with cold calling, email outreach, and LinkedIn Sales Navigator.
+* Working knowledge of HubSpot CRM for lead management and reporting.
+* Basic understanding of web applications and mobile applications.
+* Target-driven and self-motivated with the ability to work as an individual contributor.
+
+### Workplace:
+* Uttara, Dhaka
+
+### Working Hours:
+* 02.00 PM to 11.00 PM
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Executive– Admin & Compliance</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
+| **Role** | Executive |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Administration` `Compliance` `Procurement` `Office Management` `ISO` `SOC 2` `PCI DSS` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Job Summary
+Riseup Labs is seeking a proactive, organized, and detail-oriented Executive – Admin & Compliance to oversee office administration, procurement, compliance, asset management, and vendor coordination, ensuring smooth day-to-day operations.
+
+## Key Responsibilities
+* Manage daily administrative and office operations.
+* Handle procurement activities, including sourcing, vendor selection, quotation collection, purchase order processing, and purchasing.
+* Manage vendor relationships and ensure timely vendor payments.
+* Maintain office assets, inventory, and logistics, including asset allocation, movement, maintenance, and disposal.
+* Coordinate office utilities and services, including electricity, internet, gas, office maintenance, housekeeping, staff roster, lunch management, stationery, furniture & fixtures, and repair & maintenance.
+* Maintain compliance documentation related to ISO, SOC 2, and PCI DSS.
+* Coordinate with clients, vendors, and internal stakeholders.
+* Process work orders, vendor agreements, bills, and administrative documentation.
+* Prepare administrative reports and maintain accurate records.
+* Perform any other responsibilities assigned by the reporting manager.
+
+## Educational Qualification
+* Bachelor's degree (BBA or any discipline).
+
+## Requirements
+* Minimum 2 years of experience in Administration, Compliance, Procurement, or Office Management.
+* Knowledge of ISO, SOC 2, and PCI DSS compliance standards.
+* Good understanding of procurement, purchasing, and vendor management.
+* Strong organizational, documentation, and multitasking skills.
+* Proficiency in Microsoft Office (especially Excel) and general computer applications.
+* Excellent interpersonal, negotiation, and coordination skills.
+* Strong verbal and written communication skills in both English and Bengali.
+* Self-motivated, detail-oriented, and an effective team player.
+
+## Compensation and Benefits
+(Applicable for Bangladeshi Employee Only)
+* Annual Performance Evaluation and Increment
+* Festival Bonus-02 (As Per Company Policy)
+* Group Life and Health Insurance
+* Full Subsidized Lunch/Dinner
+* Annual Retreats
+* Celebration of Events & Occasions
+* Training & Development by Organization Assigned Consultants
+* Weekly 2 holidays
+* Paid Time Off 24 days (CL & SL)
+* Maternity Leave with benefits (As per the company’s policy)
+* Paternity Leave (As per the company’s policy)
+* Beravement Leave (As per the company’s policy)
+* Public Holidays as per Riseup Labs calendar
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Intern - Business Development</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+| **Location** | Uttara, Dhaka |
+| **Role** | Intern - Business Development |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Lead Generation` `Business Development` `Digital Marketing` `Market Research` `Client Communication` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Job Context
+Riseup Labs is looking for smart, enthusiastic, and career-oriented candidates to join our team. This position is ideal for fresh graduates who are interested in lead generation, business development, and international client communication. No prior experience is required- we will provide complete training.
+
+## Job Responsibilities
+*   **Lead Generation:** Research potential clients using LinkedIn, Google, Instagram, and other online platforms. Build and maintain prospect lists of fashion brands, photographers, e-commerce businesses, and creative agencies.
+*   **Outreach Support:** Send personalized cold emails and LinkedIn messages under team guidance. Follow up with prospective clients. Schedule meetings for the Business Development team.
+*   **Social Media Support:** Assist in publishing portfolio work, before-and-after images, blogs, and company updates on LinkedIn, Facebook, and Instagram. Client Communication & respond to basic client inquiries professionally. Coordinate free trial requests and communicate with internal teams.
+*   **Market Research:** Research competitors and industry trends in photo retouching, e-commerce, fashion, and photography.
+*   **Marketing Support:** Update Excel sheets, CRM, and marketing reports. Assist with presentations and promotional materials.
+
+## Educational Requirements
+*   Bachelor's degree in BBA, Marketing, Business Studies, English, International Business, or any related discipline.
+*   Fresh graduates are highly encouraged to apply.
+
+## Required Qualifications
+*   Good written and spoken English.
+*   Basic knowledge of Microsoft Excel, Google Sheets, and Microsoft Office.
+*   Familiarity with Facebook, LinkedIn, Instagram, and Google Search.
+*   Good internet research skills.
+*   Strong willingness to learn and build a career in marketing and business development.
+*   Positive attitude, self-motivated, and a good team player.
+
+## Nice to have
+*   Basic knowledge of Digital Marketing or Lead Generation.
+*   Basic understanding of Adobe Photoshop or the Photo Retouching industry will be an advantage.
+*   Internship or campus club experience will be a plus.
+
+## What We Offer
+*   On-the-job training.
+*   Hands-on training in B2B Marketing, Lead Generation, and International Business Development.
+*   Career growth opportunities (Full time employment based on performance).
+*   Paid Internship Opportunity
+*   Full Subsidize Lunch
+*   Unlimited Tea & Coffee
+*   Weekly holiday (Sunday)
+*   Public Holidays as per Riseup Labs calendar
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Intern – Admin & Compliance</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+| **Location** | Uttara, Dhaka |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Administration` `Compliance` `Procurement` `Vendor Management` `Microsoft Office` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Intern – Admin & Compliance
+
+**Job Context:**
+Riseup Labs is seeking a proactive, organized, and detail-oriented Intern – Admin & Compliance to oversee office administration, procurement, compliance, asset management, and vendor coordination, ensuring smooth day-to-day operations.
+
+**Key Responsibilities:**
+* Assist with daily administrative and office operations.
+* Support procurement activities by collecting quotations, communicating with vendors, and preparing purchase-related documents.
+* Help maintain vendor records and assist in coordinating vendor communications.
+* Assist in tracking office assets, inventory, and stationery supplies.
+* Support office logistics, including housekeeping coordination, lunch arrangements, office maintenance, and other day-to-day administrative tasks.
+* Help organize and maintain administrative documents and records, including compliance-related files.
+* Coordinate with internal teams, vendors, and service providers for routine administrative activities.
+* Assist in processing work orders, bills, purchase requests, and other administrative documentation.
+* Prepare basic reports, update spreadsheets, and maintain accurate administrative records.
+* Perform other administrative and operational tasks as assigned by the reporting supervisor.
+
+**Educational Qualification:**
+* Bachelor's degree (BBA or any discipline).
+
+**Requirements**
+* Basic understanding of office administration and procurement processes.
+* Familiarity with Microsoft Office applications, especially Excel, Word, and PowerPoint.
+* Good organizational and time management skills with attention to detail.
+* Strong verbal and written communication skills in both English and Bengali.
+* Willingness to learn about procurement, vendor management, and compliance processes.
+* Ability to work collaboratively in a team and coordinate with different stakeholders.
+* Self-motivated, responsible, and eager to learn in a professional environment.
+* Prior internship, volunteer experience, or involvement in university clubs/organizations will be considered an advantage, but is not mandatory.
+
+**Workplace:**
+* Uttara, Dhaka
+
+**Working hour:**
+* 9.00 AM to 6.00 PM
+
+**Duration:**
+* 4 months
+
+**Compensation & Other Benefits:**
+* Full Subsidize Lunch
+* Unlimited Tea & Coffee
+* Weekly holiday (Saturday, Sunday)
+* Public Holidays as per Riseup Labs calendar
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Intern – Pre-sales & Business Analyst</strong> </summary>
@@ -10069,6 +10383,8 @@ We are looking for a dynamic Business Systems Analyst who can bridge the gap bet
 | **Location** | Uttara, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 3 |
+
+**🛠️ Tags**: `Business Analysis` `Pre-sales` `SDLC` `Agile` `Figma` `Draw.io` `Lucidchart` `Visio` `Jira` `Trello` `ClickUp` `PowerPoint` `Google Slides` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10129,50 +10445,8 @@ Riseup Labs is looking for a motivated "Intern – Pre-sales & Business Analyst"
 * Weekly holiday (Saturday, Sunday)
 * Public Holidays as per Riseup Labs calendar
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Business Analysis` `Pre-sales` `SDLC` `Agile` `Figma` `Draw.io` `Lucidchart` `Visio` `Jira` `Trello` `ClickUp` `PowerPoint` `Google Slides` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 AI-Assisted Software Developer Intern</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Internship |
-| **Location** | Uttara, Dhaka |
-| **Role** | Intern |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-Riseup Labs is hiring an **AI-Assisted Software Developer Intern** who is comfortable working across the full stack but more importantly, who has already embraced AI-native ways of building software. This isn't a "learn to code" internship. We're looking for someone who already codes, and who uses AI agents and modern AI-assisted workflows as a core part of how they build, ship, and debug.
-
-### Job Responsibilities:
-* Build and ship features across the full stack: backend services/APIs, frontend UI, database schemas, and deployment pipelines.
-* Use AI coding agents (Claude Code, GitHub Copilot, Cursor, or similar) as a primary development tool.
-* Practice "vibe coding" responsibly: rapidly prototyping with AI assistance while still validating, testing, and understanding the code you ship.
-* Apply AIDLC (AI-Driven/Assisted Development Life Cycle) principles.
-* Design and orchestrate simple AI agent workflows.
-* Write clean, maintainable code and documentation.
-* Participate in code reviews, sprint planning, and contribute to our evolving AI development playbook.
-
-### Educational Requirements:
-* Currently completed a degree in CSE, Software Engineering, or a related field (or equivalent self-taught experience).
-
-### Additional Requirements:
-* **Full-Stack Fundamentals:** Node.js, Python, HTML/CSS/JS, React/Vue, PostgreSQL/MongoDB, Cloud (Azure/AWS/GCP), Docker, CI/CD, Git.
-* **AI-Native Development Skills:** Hands-on experience with AI tools (Claude, ChatGPT, Copilot, Cursor), understanding of AI agent concepts, and ability to evaluate AI-generated code.
-
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Full-Stack` `Node.js` `Python` `React` `Vue` `PostgreSQL` `MongoDB` `Docker` `AI` `Machine Learning` 
-
 ---
 
 </details>
@@ -10186,6 +10460,8 @@ Riseup Labs is hiring an **AI-Assisted Software Developer Intern** who is comfor
 | **Location** | Uttara, Dhaka |
 | **Role** | Intern |
 | **Vacancies** | 5 |
+
+**🛠️ Tags**: `B2B Marketing` `Lead Generation` `Business Development` `Market Research` `CRM` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10240,11 +10516,47 @@ Riseup Labs is looking for Business Development Intern, who will work closely wi
 * Interview with the Business Development & Talent Acquisition Team.
 * Job Offer.
 
+---
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
+---
 
-`B2B Marketing` `Lead Generation` `Business Development` `Market Research` `CRM` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 International Customer Support Specialist</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Uttara, Dhaka |
+| **Vacancies** | 120 |
+
+**🛠️ Tags**: `Customer Support` `CRM` `Microsoft Office` `Google Workspace` `Communication` 
+
+## 📝 [Description](https://riseuplabs.com/jobs)
+
+## Job Context
+We are looking for a customer-focused International Customer Support Specialist to provide exceptional support to customers across international markets. The ideal candidate will handle inbound customer inquiries, resolve issues efficiently, provide accurate information, maintain customer records, and deliver an outstanding customer experience while meeting quality and performance standards.
+
+## Key Responsibilities
+* Handle inbound customer calls, emails, and chats professionally.
+* Respond to customer inquiries regarding products, services, orders, and accounts.
+* Resolve customer issues or escalate complex cases when required.
+* Maintain accurate customer records and update CRM systems.
+* Ensure timely follow-up and excellent customer satisfaction.
+* Adhere to quality standards, company policies, and service procedures.
+* Meet individual performance and productivity targets.
+
+## Qualifications & Requirements
+* 6 months–2 years of experience in Customer Support, Customer Service, or an International Call Center.
+* Experience supporting UK, US, Australian, or other international customers is preferred.
+* Fluent spoken English is mandatory, with a clear, neutral accent and the ability to communicate confidently and professionally with international customers.
+* Familiarity with CRM systems, Microsoft Office, and Google Workspace.
+* Strong problem-solving, multitasking, and customer service skills.
+* Ability to work rotational shifts, including night shifts, if required.
+
+---
+* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
 ---
 
 </details>
@@ -10258,6 +10570,8 @@ Riseup Labs is looking for Business Development Intern, who will work closely wi
 | **Location** | Uttara, Dhaka |
 | **Role** | Operation Manager- BPO |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `BPO` `Operations Management` `Call Center` `CRM` `Vici Dialer` `Amazon Dialer` `KPI Management` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10301,11 +10615,8 @@ Riseup Labs is looking for an experienced Manager in BPO Operations, who will ov
 *   Ability to analyze data and make informed decisions.
 *   Strong problem-solving skills and ability to handle high-pressure situations.
 
+---
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`BPO` `Operations Management` `Call Center` `CRM` `Vici Dialer` `Amazon Dialer` `KPI Management` 
-
 ---
 
 </details>
@@ -10319,6 +10630,8 @@ Riseup Labs is looking for an experienced Manager in BPO Operations, who will ov
 | **Location** | Uttara, Dhaka |
 | **Role** | Outreach Specialist |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `B2B` `Lead Generation` `Business Development` `LinkedIn Sales Navigator` `CRM` `HubSpot` `Salesforce` `Cold Email` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10356,264 +10669,8 @@ Riseup Labs is seeking a high-performing, metrics-driven Outreach Specialist / B
 * Paid Time Off 24 days (CL & SL)
 * Maternity, Paternity, and Bereavement Leave
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`B2B` `Lead Generation` `Business Development` `LinkedIn Sales Navigator` `CRM` `HubSpot` `Salesforce` `Cold Email` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Intern - Business Development</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Internship |
-| **Location** | Uttara, Dhaka |
-| **Role** | Intern - Business Development |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Job Context
-Riseup Labs is looking for smart, enthusiastic, and career-oriented candidates to join our team. This position is ideal for fresh graduates who are interested in lead generation, business development, and international client communication. No prior experience is required- we will provide complete training.
-
-## Job Responsibilities
-*   **Lead Generation:** Research potential clients using LinkedIn, Google, Instagram, and other online platforms. Build and maintain prospect lists of fashion brands, photographers, e-commerce businesses, and creative agencies.
-*   **Outreach Support:** Send personalized cold emails and LinkedIn messages under team guidance. Follow up with prospective clients. Schedule meetings for the Business Development team.
-*   **Social Media Support:** Assist in publishing portfolio work, before-and-after images, blogs, and company updates on LinkedIn, Facebook, and Instagram. Client Communication & respond to basic client inquiries professionally. Coordinate free trial requests and communicate with internal teams.
-*   **Market Research:** Research competitors and industry trends in photo retouching, e-commerce, fashion, and photography.
-*   **Marketing Support:** Update Excel sheets, CRM, and marketing reports. Assist with presentations and promotional materials.
-
-## Educational Requirements
-*   Bachelor's degree in BBA, Marketing, Business Studies, English, International Business, or any related discipline.
-*   Fresh graduates are highly encouraged to apply.
-
-## Required Qualifications
-*   Good written and spoken English.
-*   Basic knowledge of Microsoft Excel, Google Sheets, and Microsoft Office.
-*   Familiarity with Facebook, LinkedIn, Instagram, and Google Search.
-*   Good internet research skills.
-*   Strong willingness to learn and build a career in marketing and business development.
-*   Positive attitude, self-motivated, and a good team player.
-
-## Nice to have
-*   Basic knowledge of Digital Marketing or Lead Generation.
-*   Basic understanding of Adobe Photoshop or the Photo Retouching industry will be an advantage.
-*   Internship or campus club experience will be a plus.
-
-## What We Offer
-*   On-the-job training.
-*   Hands-on training in B2B Marketing, Lead Generation, and International Business Development.
-*   Career growth opportunities (Full time employment based on performance).
-*   Paid Internship Opportunity
-*   Full Subsidize Lunch
-*   Unlimited Tea & Coffee
-*   Weekly holiday (Sunday)
-*   Public Holidays as per Riseup Labs calendar
-
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Lead Generation` `Business Development` `Digital Marketing` `Market Research` `Client Communication` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Business Development Manager</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Uttara, Dhaka |
-| **Role** | Business Development Manager |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Job Context
-Riseup Labs is seeking a high-performing Sr. Sales Manager / Business Development Manager (International Market) to join our Business Development team. This role is focused on driving revenue growth in the USA, Europe, and Middle East markets by acquiring new clients and expanding existing accounts.
-
-## Job Responsibilities
-### 1. International Sales & Business Development
-* Develop and execute international sales strategies to achieve revenue growth targets in USA, Europe, and Middle East markets.
-* Identify, qualify, and convert new business opportunities through LinkedIn Sales Navigator, CRM tools, and professional networks.
-* Build and manage a robust sales pipeline while maintaining accurate forecasts and sales reports.
-
-### 2. Client Acquisition & Relationship Management
-* Conduct detailed needs assessments to understand client business challenges and propose suitable software development and IT service solutions.
-* Promote Riseup Labs’ offerings including Web Development, Mobile App Development, Ads Agency, ERP, SaaS, AI-driven solutions, Game Development, BPO, and Staff Augmentation.
-* Establish and maintain long-term relationships with international clients to drive repeat business and upselling opportunities.
-
-### 3. Sales Execution & Deal Closure
-* Manage the full sales cycle independently from lead generation and qualification to proposal preparation, negotiation, and deal closure.
-* Collaborate with technical and delivery teams for project pre-analysis, scope definition, cost estimation, and budgeting.
-* Manage Sales Hygiene and Discipline starting from prospecting to Pipeline Progression and Closure.
-* Achieve and exceed assigned individual sales targets with a strong closing ratio in Monthly Basis.
-
-### 4. Market Research & Stakeholder Engagement
-* Conduct in-depth market and competitor research to identify new business opportunities and industry trends.
-* Participate in internal sales and strategy meetings, providing regular updates to the Head of Sales on pipeline status and performance.
-* Respond promptly and professionally to client inquiries regarding products, services, and commercial terms.
-
-### 5. Team Support & Collaboration
-* Support hiring, onboarding, and training initiatives for junior sales team members when required.
-* Work closely with operations, marketing, technical, and project management teams to ensure aligned sales efforts and client satisfaction.
-
-## Required Skills & Competencies
-* **Technical & Industry Expertise:** Proven experience in selling Web, Mobile App, ERP, SaaS, AI-based products, Game Development, BPO, and Staff Augmentation services. Strong understanding of software project pre-analysis, estimation and budgeting.
-* **Sales Tools & Platforms:** Extensive experience with LinkedIn Sales Navigator, CRM software, lead generation tools, and freelancing platforms.
-* **Communication & Leadership:** Excellent verbal and written English communication skills. Strong presentation, negotiation, and strategic planning abilities.
-
-## Compensation and Benefits (Applicable for Bangladeshi Employee Only)
-* Annual Performance Evaluation and Increment
-* Festival Bonus-02
-* Group Life and Health Insurance
-* Full Subsidized Lunch/Dinner
-* Annual Retreats
-* Weekly 2 holidays
-* Paid Time Off 24 days (CL & SL)
-* Maternity, Paternity, and Bereavement Leave
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Sales` `Business Development` `CRM` `LinkedIn Sales Navigator` `Software Development` `IT Services` `BPO` `Staff Augmentation` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Intern – Admin & Compliance</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Internship |
-| **Location** | Uttara, Dhaka |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Intern – Admin & Compliance
-
-**Job Context:**
-Riseup Labs is seeking a proactive, organized, and detail-oriented Intern – Admin & Compliance to oversee office administration, procurement, compliance, asset management, and vendor coordination, ensuring smooth day-to-day operations.
-
-**Key Responsibilities:**
-* Assist with daily administrative and office operations.
-* Support procurement activities by collecting quotations, communicating with vendors, and preparing purchase-related documents.
-* Help maintain vendor records and assist in coordinating vendor communications.
-* Assist in tracking office assets, inventory, and stationery supplies.
-* Support office logistics, including housekeeping coordination, lunch arrangements, office maintenance, and other day-to-day administrative tasks.
-* Help organize and maintain administrative documents and records, including compliance-related files.
-* Coordinate with internal teams, vendors, and service providers for routine administrative activities.
-* Assist in processing work orders, bills, purchase requests, and other administrative documentation.
-* Prepare basic reports, update spreadsheets, and maintain accurate administrative records.
-* Perform other administrative and operational tasks as assigned by the reporting supervisor.
-
-**Educational Qualification:**
-* Bachelor's degree (BBA or any discipline).
-
-**Requirements**
-* Basic understanding of office administration and procurement processes.
-* Familiarity with Microsoft Office applications, especially Excel, Word, and PowerPoint.
-* Good organizational and time management skills with attention to detail.
-* Strong verbal and written communication skills in both English and Bengali.
-* Willingness to learn about procurement, vendor management, and compliance processes.
-* Ability to work collaboratively in a team and coordinate with different stakeholders.
-* Self-motivated, responsible, and eager to learn in a professional environment.
-* Prior internship, volunteer experience, or involvement in university clubs/organizations will be considered an advantage, but is not mandatory.
-
-**Workplace:**
-* Uttara, Dhaka
-
-**Working hour:**
-* 9.00 AM to 6.00 PM
-
-**Duration:**
-* 4 months
-
-**Compensation & Other Benefits:**
-* Full Subsidize Lunch
-* Unlimited Tea & Coffee
-* Weekly holiday (Saturday, Sunday)
-* Public Holidays as per Riseup Labs calendar
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Administration` `Compliance` `Procurement` `Vendor Management` `Microsoft Office` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Executive– Admin & Compliance</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Uttara, Dhaka |
-| **Role** | Executive |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Job Summary
-Riseup Labs is seeking a proactive, organized, and detail-oriented Executive – Admin & Compliance to oversee office administration, procurement, compliance, asset management, and vendor coordination, ensuring smooth day-to-day operations.
-
-## Key Responsibilities
-* Manage daily administrative and office operations.
-* Handle procurement activities, including sourcing, vendor selection, quotation collection, purchase order processing, and purchasing.
-* Manage vendor relationships and ensure timely vendor payments.
-* Maintain office assets, inventory, and logistics, including asset allocation, movement, maintenance, and disposal.
-* Coordinate office utilities and services, including electricity, internet, gas, office maintenance, housekeeping, staff roster, lunch management, stationery, furniture & fixtures, and repair & maintenance.
-* Maintain compliance documentation related to ISO, SOC 2, and PCI DSS.
-* Coordinate with clients, vendors, and internal stakeholders.
-* Process work orders, vendor agreements, bills, and administrative documentation.
-* Prepare administrative reports and maintain accurate records.
-* Perform any other responsibilities assigned by the reporting manager.
-
-## Educational Qualification
-* Bachelor's degree (BBA or any discipline).
-
-## Requirements
-* Minimum 2 years of experience in Administration, Compliance, Procurement, or Office Management.
-* Knowledge of ISO, SOC 2, and PCI DSS compliance standards.
-* Good understanding of procurement, purchasing, and vendor management.
-* Strong organizational, documentation, and multitasking skills.
-* Proficiency in Microsoft Office (especially Excel) and general computer applications.
-* Excellent interpersonal, negotiation, and coordination skills.
-* Strong verbal and written communication skills in both English and Bengali.
-* Self-motivated, detail-oriented, and an effective team player.
-
-## Compensation and Benefits
-(Applicable for Bangladeshi Employee Only)
-* Annual Performance Evaluation and Increment
-* Festival Bonus-02 (As Per Company Policy)
-* Group Life and Health Insurance
-* Full Subsidized Lunch/Dinner
-* Annual Retreats
-* Celebration of Events & Occasions
-* Training & Development by Organization Assigned Consultants
-* Weekly 2 holidays
-* Paid Time Off 24 days (CL & SL)
-* Maternity Leave with benefits (As per the company’s policy)
-* Paternity Leave (As per the company’s policy)
-* Beravement Leave (As per the company’s policy)
-* Public Holidays as per Riseup Labs calendar
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Administration` `Compliance` `Procurement` `Office Management` `ISO` `SOC 2` `PCI DSS` 
-
 ---
 
 </details>
@@ -10627,6 +10684,8 @@ Riseup Labs is seeking a proactive, organized, and detail-oriented Executive –
 | **Location** | Uttara, Dhaka |
 | **Role** | Quality Assurance Executive |
 | **Vacancies** | 4 |
+
+**🛠️ Tags**: `Quality Assurance` `BPO` `Call Center` `RCA` `Data Analysis` `Reporting` `COPC` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10672,183 +10731,8 @@ Riseup Labs is looking for a Quality Assurance Executive, who is responsible for
 *   Weekly Holidays (Saturday and Sunday)
 *   Fully Subsidised Lunch/Dinner.
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Quality Assurance` `BPO` `Call Center` `RCA` `Data Analysis` `Reporting` `COPC` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Customer Service Specialist (Project-Based)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Contract |
-| **Location** | Uttara, Dhaka |
-| **Vacancies** | 120 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-Riseup Labs is looking for enthusiastic Customer Service Specialist to join our growing Customer Experience team. This is a voice-based customer support role where agents will handle inbound calls, assist customers with their inquiries, provide accurate information, and deliver a positive customer experience.
-
-### Job Responsibilities
-* Handle inbound customer calls professionally and courteously.
-* Respond to customer inquiries by following approved processes and guidelines.
-* Provide accurate information while maintaining a high level of customer satisfaction.
-* Identify customer needs and offer appropriate solutions.
-* Document customer interactions accurately in the CRM or ticketing system.
-* Escalate complex issues to supervisors or relevant departments when required.
-* Meet quality assurance, productivity, and attendance expectations.
-* Participate in training sessions, coaching, and performance improvement programs.
-
-### Required Qualifications
-* Minimum Higher Secondary Certificate (HSC)/A-Level/O-Level/Graduation or equivalent.
-* Excellent spoken and written English communication skills.
-* Strong listening, interpersonal, and problem-solving abilities.
-* Basic computer proficiency, including typing and navigating multiple applications simultaneously.
-* Willingness to work at night shift.
-
-### Preferred Qualifications
-* Previous experience in a BPO, call center, customer service, or contact center environment is an advantage.
-* Experience handling voice-based customer support is preferred.
-* Familiarity with CRM or customer support software is a plus.
-
-### Additional Details
-* **Project Duration:** 20-30 days
-* **Working Hour:** 07.00 PM- 04.30 AM
-* **Compensation:** BDT 150 per hour + Food Allowance + Transport Allowance
-
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Customer Service` `BPO` `Call Center` `CRM` `Voice Support` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Team Leader- BPO</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Uttara, Dhaka |
-| **Role** | Team Leader |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer service teams, ensuring operational excellence, service quality, productivity, and client satisfaction. This role involves monitoring KPIs, coaching frontline leadership, and collaborating with Operations Management.
-
-### Job Responsibilities:
-* Lead and supervise multiple Team Leaders and their respective customer service teams.
-* Drive operational performance to meet or exceed client Service Level Agreements (SLAs).
-* Monitor team performance using KPIs (Service Level, AHT, CSAT, FCR, Quality Score, Attendance & Adherence).
-* Conduct regular coaching sessions with Team Leaders.
-* Analyze performance reports and implement improvement plans.
-* Ensure consistent compliance with company policies and client requirements.
-* Handle escalated customer concerns.
-* Coordinate with QA, Training, Workforce Management, and HR teams.
-* Prepare daily, weekly, and monthly operational reports.
-* Support hiring, onboarding, and performance evaluations.
-* Foster a positive, high-performance work environment.
-
-### Requirements:
-* HSC/A-Level/Graduation in any discipline (preferred).
-* Minimum 2-3 years of experience in a Call Center/BPO environment.
-* At least 1-3 years in a leadership role managing multiple teams.
-* Strong knowledge of inbound customer service operations.
-* Excellent leadership and people management skills.
-* Advanced reporting and analytical abilities.
-* Excellent English communication skills (spoken and written).
-* Proficiency in Microsoft Excel and Google Sheets.
-
-### Preferred Skills:
-* Client management experience.
-* Strong conflict resolution abilities.
-* Performance coaching expertise.
-* Ability to work under pressure and manage multiple priorities.
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`BPO` `Customer Service` `Team Leadership` `KPI Management` `Operations Management` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Executive, Business Development</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Uttara, Dhaka |
-| **Role** | Executive, Business Development |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Executive, Business Development
-
-**Riseup Labs** is looking for a resilient, proactive, and communication-focused Executive, Business Development **(International Market)** to support our international growth initiatives. This role focuses on lead generation, client engagement, and meeting scheduling for **international markets including USA, Europe, and the Middle East**.
-
-### Job Responsibilities:
-
-**International Lead Generation & Outreach**
-* Generate new business opportunities in USA, Europe, and Middle East markets through cold calling, email outreach, and LinkedIn Sales Navigator.
-* Identify and approach international companies and key decision-makers using structured outreach campaigns.
-* Promote Riseup Labs’ software development and IT services to prospective global clients.
-
-**Client Engagement & Meeting Coordination**
-* Conduct initial discovery calls with international prospects to understand business needs.
-* Schedule meetings and demos with potential clients and participate in business discussions when required.
-* Maintain professional, clear, and consistent communication throughout the sales process.
-* Deliver strict KPIs on the number of calls to be attended and number of deals to be closed on Monthly Basis.
-
-**Research & Market Intelligence**
-* Conduct in-depth research on industries, companies, and buyer personas to identify high-potential prospects.
-* Stay updated on international market trends, competitor offerings, and client requirements in the software development industry.
-
-**CRM & Reporting**
-* Maintain accurate and daily updates in HubSpot CRM, including lead status, follow-ups, and communication history.
-* Update task sheets and activity trackers to ensure performance transparency and KPI monitoring.
-
-**Collaboration & Growth**
-* Collaborate closely with senior business development and sales team members to align outreach strategies.
-* Continuously improve sales scripts, email templates, and outreach techniques through feedback and learning.
-
-### Educational Qualification:
-* Graduation from any Discipline (Undergrads are also encourage to apply if you have relevant experience).
-
-### Experience Requirements:
-* Minimum 1+ year of experience in Telemarketing, Inside Sales, or International Calling.
-* Prior experience in the software development or IT services industry will be an added advantage.
-
-### Required Skills & Competencies:
-* Excellent verbal and written English communication skills with clear, professional pronunciation (mandatory).
-* Strong interpersonal, presentation, and client engagement skills.
-* Hands-on experience with cold calling, email outreach, and LinkedIn Sales Navigator.
-* Working knowledge of HubSpot CRM for lead management and reporting.
-* Basic understanding of web applications and mobile applications.
-* Target-driven and self-motivated with the ability to work as an individual contributor.
-
-### Workplace:
-* Uttara, Dhaka
-
-### Working Hours:
-* 02.00 PM to 11.00 PM
-
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Business Development` `Lead Generation` `Telemarketing` `Inside Sales` `HubSpot CRM` `LinkedIn Sales Navigator` `International Sales` 
-
 ---
 
 </details>
@@ -10861,6 +10745,8 @@ Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer s
 | **Employment** | Contract |
 | **Location** | Uttara, Dhaka (For Bangladeshi Candidates) or Remote (For International Candidates) (Hybrid) |
 | **Vacancies** | 1 |
+
+**🛠️ Tags**: `Sales Administration` `CRM` `HubSpot` `Monday.com` `Aircall` `CloudTalk` `Reporting` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
@@ -10958,113 +10844,59 @@ Riseup Labs is seeking a highly organized and proactive Sales Administrator / Sa
 * 2.00 PM to 6.00 PM (BST)
 * 4.00 PM to 8.00 PM (PHT)
 
+---
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Sales Administration` `CRM` `HubSpot` `Monday.com` `Aircall` `CloudTalk` `Reporting` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 International Customer Support Specialist</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Team Leader- BPO</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Uttara, Dhaka |
-| **Vacancies** | 120 |
+| **Role** | Team Leader |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `BPO` `Customer Service` `Team Leadership` `KPI Management` `Operations Management` 
 
 ## 📝 [Description](https://riseuplabs.com/jobs)
 
-## Job Context
-We are looking for a customer-focused International Customer Support Specialist to provide exceptional support to customers across international markets. The ideal candidate will handle inbound customer inquiries, resolve issues efficiently, provide accurate information, maintain customer records, and deliver an outstanding customer experience while meeting quality and performance standards.
+Riseup Labs is looking for a "Team Leader" to manage multiple inbound customer service teams, ensuring operational excellence, service quality, productivity, and client satisfaction. This role involves monitoring KPIs, coaching frontline leadership, and collaborating with Operations Management.
 
-## Key Responsibilities
-* Handle inbound customer calls, emails, and chats professionally.
-* Respond to customer inquiries regarding products, services, orders, and accounts.
-* Resolve customer issues or escalate complex cases when required.
-* Maintain accurate customer records and update CRM systems.
-* Ensure timely follow-up and excellent customer satisfaction.
-* Adhere to quality standards, company policies, and service procedures.
-* Meet individual performance and productivity targets.
+### Job Responsibilities:
+* Lead and supervise multiple Team Leaders and their respective customer service teams.
+* Drive operational performance to meet or exceed client Service Level Agreements (SLAs).
+* Monitor team performance using KPIs (Service Level, AHT, CSAT, FCR, Quality Score, Attendance & Adherence).
+* Conduct regular coaching sessions with Team Leaders.
+* Analyze performance reports and implement improvement plans.
+* Ensure consistent compliance with company policies and client requirements.
+* Handle escalated customer concerns.
+* Coordinate with QA, Training, Workforce Management, and HR teams.
+* Prepare daily, weekly, and monthly operational reports.
+* Support hiring, onboarding, and performance evaluations.
+* Foster a positive, high-performance work environment.
 
-## Qualifications & Requirements
-* 6 months–2 years of experience in Customer Support, Customer Service, or an International Call Center.
-* Experience supporting UK, US, Australian, or other international customers is preferred.
-* Fluent spoken English is mandatory, with a clear, neutral accent and the ability to communicate confidently and professionally with international customers.
-* Familiarity with CRM systems, Microsoft Office, and Google Workspace.
-* Strong problem-solving, multitasking, and customer service skills.
-* Ability to work rotational shifts, including night shifts, if required.
+### Requirements:
+* HSC/A-Level/Graduation in any discipline (preferred).
+* Minimum 2-3 years of experience in a Call Center/BPO environment.
+* At least 1-3 years in a leadership role managing multiple teams.
+* Strong knowledge of inbound customer service operations.
+* Excellent leadership and people management skills.
+* Advanced reporting and analytical abilities.
+* Excellent English communication skills (spoken and written).
+* Proficiency in Microsoft Excel and Google Sheets.
 
-* 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Customer Support` `CRM` `Microsoft Office` `Google Workspace` `Communication` 
+### Preferred Skills:
+* Client management experience.
+* Strong conflict resolution abilities.
+* Performance coaching expertise.
+* Ability to work under pressure and manage multiple priorities.
 
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Business Analyst (Tender Documentation)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Location** | Uttara, Dhaka, Bangladesh |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://riseuplabs.com/jobs)
-
-## Position Overview
-Riseup Labs is seeking a highly skilled Business Analyst (Tender Documentation) responsible for developing, editing, and managing high-quality technical, functional, and tender-related documents for Government, Corporate, NGO, and UN-funded projects. The ideal candidate will have strong technical writing capabilities, excellent attention to detail, and a solid understanding of IT/software project lifecycles.
-
-## Key Responsibilities
-### 1. Technical & Project Documentation
-* Develop and maintain technical documents including SRS, BRD, TOR, process documents, workflows, and requirement specifications.
-* Translate business and functional requirements into clear, structured documentation.
-* Ensure all documentation meets industry standards, internal guidelines, and client expectations.
-
-### 2. Tender & Proposal Documentation
-* Review RFPs, RFQs, EOIs, and tender documents from Government, NGO, Corporate, and UN agencies.
-* Extract key requirements, eligibility criteria, scope of work, and compliance obligations.
-* Prepare compliance matrices and proposal documentation.
-* Develop technical sections of proposals including methodology, scope, implementation plan, and execution strategy.
-
-### 3. Technical Approach & Methodology Development
-* Design detailed technical approaches, project methodologies, and delivery frameworks.
-* Convert complex technical concepts into clear and understandable documentation.
-
-### 4. Presentation & Visual Documentation
-* Prepare professional PowerPoint presentations for client meetings, and internal reviews.
-* Develop diagrams, flowcharts, Gantt charts, and process visualizations.
-
-### 5. Coordination & Communication
-* Work closely with Business Development, Project Managers, and technical teams.
-* Participate in requirement gathering and client briefing sessions.
-
-## Required Qualifications
-* Bachelor’s degree in Computer Science, IT, Engineering, Business, or related field.
-* 2–3 years of experience in technical proposal writing, proposal development, or documentation roles.
-* Excellent English writing, editing, and formatting skills.
-* Strong understanding of IT/software systems and development processes.
-* Proficiency in MS Word, PowerPoint, and Excel.
-* Familiarity with diagramming tools such as Visio, Draw.io, or Figma (preferred).
-
-## Preferred Skills
-* Experience working with Government, NGO, UN, or corporate tender documentation.
-* Understanding of SDLC, Agile, and Waterfall methodologies.
-* Ability to prepare SRS, BRD, TOR, WBS, and technical proposals.
-* Familiarity with e-GP portals, UNGM, and procurement systems.
-* Experience using AI tools for documentation support.
-
 * 🌐 [Apply on Website](https://riseuplabs.com/jobs)
-## 🛠️ Tech Stack
-
-`Business Analyst` `Technical Writing` `Tender Documentation` `Proposal Writing` `SDLC` `Agile` `Waterfall` `SRS` `BRD` `TOR` 
-
 ---
 
 </details>
@@ -11072,53 +10904,88 @@ Riseup Labs is seeking a highly skilled Business Analyst (Tender Documentation) 
 ## 🏢 SJ Innovation
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 UI/UX & Graphic Design Intern - Dhaka</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing Executive - Dhaka</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
-| **Employment** | Internship |
+| **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
-| **Role** | Intern |
+
+**🛠️ Tags**: `Digital Marketing` `Paid Media` `SEO` `Social Media` `Google Ads` `LinkedIn Ads` `Meta Ads` `GA4` `GTM` `Search Console` `Email Marketing` `B2B Marketing` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
-SJ Innovation is looking for a creative **UI/UX & Graphic Design Intern** who is passionate about designing exceptional digital experiences using **AI-powered design tools**. You will work on real client and internal projects, creating intuitive user interfaces, engaging visuals, and AI-assisted design solutions.
+### Digital Marketing Executive - Dhaka
 
-## Key Responsibilities
+We’re looking for a **Digital Marketing Executive** to help grow a predictable pipeline for our clients, turning strategy into actionable results across Paid Media, SEO, and Social Media.
 
-*   Design UI for web and mobile applications using **Figma**.
-*   Create wireframes, mockups, prototypes, and design systems.
-*   Design social media creatives, presentations, banners, and marketing assets.
-*   Leverage AI tools to accelerate design, generate ideas, and improve productivity.
-*   Collaborate with developers, product managers, and marketing teams.
-*   Continuously improve designs based on user and stakeholder feedback.
+**Key Responsibilities**
 
-## Required Skills
+**Paid Media Campaigns (End to End)**
+* **Plan, Launch, and Optimize Paid Campaigns**: Lead efforts on Google Ads, LinkedIn and Meta. Ensure alignment with B2B goals for AI and web services.
+* **Budget Pacing and Efficiency**: Manage campaign budgets, ensuring spend efficiency and optimal performance.
+* **A/B Testing**: Design and execute tests for ads, landing pages, and funnels to maximize conversions and engagement.
 
-*   Basic knowledge of UI/UX principles and graphic design.
-*   Familiarity with **Figma** and Canva or Adobe Creative Suite.
-*   Strong visual design, typography, and layout skills.
-*   Creative mindset with attention to detail.
-*   Good communication and willingness to learn.
+**Search Engine Optimization (SEO)**
+* **Keyword Research**: Conduct in-depth keyword research to inform SEO strategies and content creation.
+* **On-Page and Technical SEO**: Collaborate with developers to optimize website structure, schema markup, and technical SEO.
+* **Link Building**: Develop strategies for acquiring high-quality backlinks to enhance domain authority.
+* **SEO Performance**: Monitor and track SEO KPIs, using insights to guide ongoing optimization efforts.
 
-## AI Skills (Preferred)
+**Landing Pages & Funnels**
+* **Build and Optimize Landing Pages**: Design, test, and improve landing pages and funnels to ensure high conversion rates (CVR).
+* **A/B Testing**: Continuously run A/B tests on landing pages and funnels to optimize the user journey.
 
-Experience with or willingness to learn:
+**Community Management**
+* **Community Management & Growth**: Engage with followers and build online communities, ensuring growth and brand presence on key social media platforms.
 
-*   ChatGPT, Figma AI, Adobe Firefly, Canva AI, Midjourney, DALL·E, or similar AI image-generation tools.
-*   AI tools for prototyping, content creation, and design automation
+**Analytics & Reporting**
+* **GA4, GTM, and Search Console Setup**: Set up tracking for all campaigns across paid, SEO, and social channels using tools like Google Analytics 4 (GA4), Google Tag Manager (GTM), and Search Console.
+* **Build Dashboards and Reports**: Create comprehensive performance dashboards to provide insights and track KPIs.
 
-## Why Join Us?
+**Email Marketing & Automation**
+* **Lead Generation and Retention**: Oversee email campaigns focused on lead generation and customer retention. Design automated workflows for nurturing leads.
 
-*   Work on real AI-driven products and client projects.
-*   Gain hands-on experience with the latest AI design workflows.
-*   Learn from experienced designers and developers.
+**Cross-Team Collaboration**
+* **Sales and Product Alignment**: Work closely with Sales and Product teams to align messaging, offers, and targeting with the company’s Ideal Customer Profile (ICP).
+* **Campaign Strategy**: Ensure campaigns align with business objectives and resonate with target customers.
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/154819)
-## 🛠️ Tech Stack
+**Qualifications**
+* **Experience**: 2–3 years of experience in digital marketing with a proven track record of success in paid media, SEO, and social media management.
+* **SEO Success**: Demonstrated ability to drive **organic search growth** and improve website rankings.
+* **Analytics Skills**: Strong ability to turn data into actionable insights and decisions. Proficient in using analytics tools such as GA4, GTM, and Search Console.
+* **Communication**: Excellent written and verbal communication skills. Ability to craft compelling marketing messages and collaborate effectively with teams.
+* **Teamwork**: Strong interpersonal skills and the ability to coordinate well across different functions (Sales, Product, Content, etc.).
+* **Educational Background**: Bachelor’s degree in Marketing, Business, or a related field is preferred.
 
-`UI/UX` `Graphic Design` `Figma` `Canva` `Adobe Creative Suite` `AI` `ChatGPT` `Midjourney` `DALL·E` 
+**Work Style & Environment**
+* **Office-based Role**: The position requires working from the office, collaborating in real-time with the team.
+* **US Shift Coordination**: Flexible work schedule in line with US-based hours, allowing for cross-functional team coordination across different time zones.
 
+---
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105855)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing Executive - Goa</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+
+**🛠️ Tags**: `Paid Media` `SEO` `Email Marketing` `Analytics` `B2B Marketing` 
+
+## 📝 [Description](https://career.sjinnovation.com/jobDetails/264)
+
+### Requirements
+- Focuses on Paid Media, SEO, Email Marketing, and Analytics with a strategic approach.
+- B2B Marketing Focus
+- Cross-functional Collaboration
+
+---
+* 🌐 [Apply on Website](https://career.sjinnovation.com/jobDetails/264)
 ---
 
 </details>
@@ -11131,6 +10998,8 @@ Experience with or willingness to learn:
 | **Employment** | Internship |
 | **Location** | Goa, India |
 | **Role** | Intern |
+
+**🛠️ Tags**: `Networking` `Linux` `System Administration` `AI` `IT Infrastructure` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
@@ -11158,11 +11027,87 @@ We are looking for a motivated **Intern Network Engineer** to join our IT Infras
 *   **Work From Office (Goa)** throughout the internship.
 *   Ability to work in a 12 PM – 9 PM shift from office.
 
+---
 * 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/152197)
-## 🛠️ Tech Stack
+---
 
-`Networking` `Linux` `System Administration` `AI` `IT Infrastructure` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Internship Opportunities In Goa Office</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+
+**🛠️ Tags**: `Artificial Intelligence` `Software Testing` `Software Development` `Digital Marketing` `Sales` `Business Development` `Network Support` 
+
+## 📝 [Description](https://career.sjinnovation.com/)
+
+### Internship Opportunities In Goa Office
+
+Are you ready to start your career journey in a dynamic and learning-focused environment? At SJ Innovation, we offer internships that provide real-world exposure, mentorship, and the chance to work on impactful projects.
+
+**Eligibility & Requirements:**
+
+*   Minimum 3 months commitment.
+*   **Proficiency in Artificial Intelligence (AI) tools or concepts is mandatory.**
+*   Enthusiasm to learn, adapt, and contribute.
+*   Internship allocation will be based on current business requirements and your area of interest.
+
+**Available Internship :**
+
+*   Software Testing 
+*   Software Development 
+*   Digital Marketing/Sales/Business Development 
+*   Network Support 
+
+**What We Offer:**
+
+*   Training and mentorship from industry professionals.
+*   Exposure to live projects and the latest technologies.
+*   Opportunities for professional growth and skill development.
+
+---
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/30582)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Jr. Software Project Coordinator - Goa</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Role** | Jr. Software Project Coordinator |
+
+**🛠️ Tags**: `Project Management` `AI Tools` `ChatGPT` `Notion AI` `Communication` 
+
+## 📝 [Description](https://career.sjinnovation.com/)
+
+We are seeking a motivated Jr. Project Coordinator to assist in managing client projects, coordinating tasks, and ensuring smooth delivery. The ideal candidate should be comfortable using AI tools to streamline workflows and improve efficiency.
+
+**Key Responsibilities**
+
+* Coordinate project tasks, timelines, and deliverables.
+* Act as a bridge between clients and internal teams.
+* Track progress and prepare status reports.
+* Schedule and organize meetings, reviews, and follow-ups.
+* Ensure timely documentation of project activities.
+* Use AI tools for project tracking, reporting, and communication support.
+
+**Skills & Qualifications**
+
+* Bachelor’s degree in Business, IT, or related field.
+* 1–2 years of hands on experience in coordination or project support.
+* Strong communication and organizational skills.
+* Familiarity with project management tools.
+* Awareness and hands-on use of AI tools (e.g., ChatGPT, Notion AI).
+* Ability to work in a 12 PM – 9 PM shift from office.
+
+---
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/104393)
 ---
 
 </details>
@@ -11175,6 +11120,8 @@ We are looking for a motivated **Intern Network Engineer** to join our IT Infras
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Project Coordinator (L3) |
+
+**🛠️ Tags**: `Project Management` `Agile` `Scrum` `AI Tools` `SaaS` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
@@ -11216,85 +11163,8 @@ We are seeking a highly organized, proactive, and execution-oriented Project Coo
 *   Communicates with clarity and precision to both technical and non-technical stakeholders
 *   Displays genuine commitment to continuous improvement through the adoption of AI and contemporary productivity tools
 
+---
 * 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/135953)
-## 🛠️ Tech Stack
-
-`Project Management` `Agile` `Scrum` `AI Tools` `SaaS` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing Executive - Goa</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-
-## 📝 [Description](https://career.sjinnovation.com/jobDetails/264)
-
-### Requirements
-- Focuses on Paid Media, SEO, Email Marketing, and Analytics with a strategic approach.
-- B2B Marketing Focus
-- Cross-functional Collaboration
-
-* 🌐 [Apply on Website](https://career.sjinnovation.com/jobDetails/264)
-## 🛠️ Tech Stack
-
-`Paid Media` `SEO` `Email Marketing` `Analytics` `B2B Marketing` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Sr. Gen AI & Full Stack Solutions Engineer - Goa</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Role** | Senior |
-
-## 📝 [Description](https://career.sjinnovation.com/)
-
-### Sr. Gen AI & Full Stack Solutions Engineer - Goa
-
-We are seeking a Sr Gen AI & Full Stack Solutions Engineer to build scalable, intelligent systems by combining full stack expertise with Generative AI innovation, leading solution design, and guiding the development team to excellence.
-
-**Key Responsibilities**
-
-*   **AI Integration:** Design and build AI-driven applications using Generative AI frameworks ( either OpenAI, LangChain, Hugging Face, etc.).
-*   **Full Stack Solutions:** Develop robust web solutions using React.js, Node.js, and MongoDB, with strong architectural clarity.
-*   **System Design:** Architect scalable, secure, and maintainable systems integrating AI and data-driven logic.
-*   **Innovation & Research:** Explore new AI tools and frameworks, proposing strategic adoption aligned with business goals.
-*   **Collaboration:** Partner with cross-functional teams (Product, DevOps, QA, and Design) to deliver seamless solutions.
-*   **Leadership:** perform code reviews, and ensure engineering best practices are followed.
-
-**Required Qualifications**
-
-*   Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
-*   Strong hands-on experience with React.js, Node.js, and MongoDB, including architectural-level understanding.
-*   Experience with Generative AI APIs (atleast OpenAI, Anthropic, Claude, etc.) and frameworks (LangChain, LlamaIndex).
-*   Proficiency in Python and JavaScript/TypeScript.
-
-**Preferred Skills**
-
-*   Experience building AI agents, chatbots, or automation systems.
-*   Familiarity with vector databases, semantic search, or retrieval-augmented generation (RAG).
-*   Contributions to open-source or AI research projects are a plus.
-
-**Soft Skills**
-
-*   Analytical and structured approach to complex problem-solving.
-*   Strong communication and mentoring ability.
-*   Team-oriented with leadership qualities and a continuous learning mindset.
-
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/112853)
-## 🛠️ Tech Stack
-
-`Generative AI` `React.js` `Node.js` `MongoDB` `Python` `JavaScript` `TypeScript` `LangChain` `LlamaIndex` `RAG` 
-
 ---
 
 </details>
@@ -11306,6 +11176,8 @@ We are seeking a Sr Gen AI & Full Stack Solutions Engineer to build scalable, in
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Goa, India |
+
+**🛠️ Tags**: `Sales Development` `CRM` `HubSpot` `Salesforce` `GoHighLevel` `LinkedIn Sales Navigator` `Apollo` `ZoomInfo` `Lead Generation` `Outbound Sales` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
@@ -11392,158 +11264,109 @@ We are looking for experienced candidate to generate pipeline by researching tar
 * In-office from Goa with required overlap with US hours (EST).
 * Flexibility to cover outreach and inbound responses aligned to US time zones.
 
+---
 * 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105892)
-## 🛠️ Tech Stack
-
-`Sales Development` `CRM` `HubSpot` `Salesforce` `GoHighLevel` `LinkedIn Sales Navigator` `Apollo` `ZoomInfo` `Lead Generation` `Outbound Sales` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing Executive - Dhaka</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Sr. Gen AI & Full Stack Solutions Engineer - Goa</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Location** | Dhaka, Bangladesh |
+| **Role** | Senior |
+
+**🛠️ Tags**: `Generative AI` `React.js` `Node.js` `MongoDB` `Python` `JavaScript` `TypeScript` `LangChain` `LlamaIndex` `RAG` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
-### Digital Marketing Executive - Dhaka
+### Sr. Gen AI & Full Stack Solutions Engineer - Goa
 
-We’re looking for a **Digital Marketing Executive** to help grow a predictable pipeline for our clients, turning strategy into actionable results across Paid Media, SEO, and Social Media.
+We are seeking a Sr Gen AI & Full Stack Solutions Engineer to build scalable, intelligent systems by combining full stack expertise with Generative AI innovation, leading solution design, and guiding the development team to excellence.
 
 **Key Responsibilities**
 
-**Paid Media Campaigns (End to End)**
-* **Plan, Launch, and Optimize Paid Campaigns**: Lead efforts on Google Ads, LinkedIn and Meta. Ensure alignment with B2B goals for AI and web services.
-* **Budget Pacing and Efficiency**: Manage campaign budgets, ensuring spend efficiency and optimal performance.
-* **A/B Testing**: Design and execute tests for ads, landing pages, and funnels to maximize conversions and engagement.
+*   **AI Integration:** Design and build AI-driven applications using Generative AI frameworks ( either OpenAI, LangChain, Hugging Face, etc.).
+*   **Full Stack Solutions:** Develop robust web solutions using React.js, Node.js, and MongoDB, with strong architectural clarity.
+*   **System Design:** Architect scalable, secure, and maintainable systems integrating AI and data-driven logic.
+*   **Innovation & Research:** Explore new AI tools and frameworks, proposing strategic adoption aligned with business goals.
+*   **Collaboration:** Partner with cross-functional teams (Product, DevOps, QA, and Design) to deliver seamless solutions.
+*   **Leadership:** perform code reviews, and ensure engineering best practices are followed.
 
-**Search Engine Optimization (SEO)**
-* **Keyword Research**: Conduct in-depth keyword research to inform SEO strategies and content creation.
-* **On-Page and Technical SEO**: Collaborate with developers to optimize website structure, schema markup, and technical SEO.
-* **Link Building**: Develop strategies for acquiring high-quality backlinks to enhance domain authority.
-* **SEO Performance**: Monitor and track SEO KPIs, using insights to guide ongoing optimization efforts.
+**Required Qualifications**
 
-**Landing Pages & Funnels**
-* **Build and Optimize Landing Pages**: Design, test, and improve landing pages and funnels to ensure high conversion rates (CVR).
-* **A/B Testing**: Continuously run A/B tests on landing pages and funnels to optimize the user journey.
+*   Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+*   Strong hands-on experience with React.js, Node.js, and MongoDB, including architectural-level understanding.
+*   Experience with Generative AI APIs (atleast OpenAI, Anthropic, Claude, etc.) and frameworks (LangChain, LlamaIndex).
+*   Proficiency in Python and JavaScript/TypeScript.
 
-**Community Management**
-* **Community Management & Growth**: Engage with followers and build online communities, ensuring growth and brand presence on key social media platforms.
+**Preferred Skills**
 
-**Analytics & Reporting**
-* **GA4, GTM, and Search Console Setup**: Set up tracking for all campaigns across paid, SEO, and social channels using tools like Google Analytics 4 (GA4), Google Tag Manager (GTM), and Search Console.
-* **Build Dashboards and Reports**: Create comprehensive performance dashboards to provide insights and track KPIs.
+*   Experience building AI agents, chatbots, or automation systems.
+*   Familiarity with vector databases, semantic search, or retrieval-augmented generation (RAG).
+*   Contributions to open-source or AI research projects are a plus.
 
-**Email Marketing & Automation**
-* **Lead Generation and Retention**: Oversee email campaigns focused on lead generation and customer retention. Design automated workflows for nurturing leads.
+**Soft Skills**
 
-**Cross-Team Collaboration**
-* **Sales and Product Alignment**: Work closely with Sales and Product teams to align messaging, offers, and targeting with the company’s Ideal Customer Profile (ICP).
-* **Campaign Strategy**: Ensure campaigns align with business objectives and resonate with target customers.
+*   Analytical and structured approach to complex problem-solving.
+*   Strong communication and mentoring ability.
+*   Team-oriented with leadership qualities and a continuous learning mindset.
 
-**Qualifications**
-* **Experience**: 2–3 years of experience in digital marketing with a proven track record of success in paid media, SEO, and social media management.
-* **SEO Success**: Demonstrated ability to drive **organic search growth** and improve website rankings.
-* **Analytics Skills**: Strong ability to turn data into actionable insights and decisions. Proficient in using analytics tools such as GA4, GTM, and Search Console.
-* **Communication**: Excellent written and verbal communication skills. Ability to craft compelling marketing messages and collaborate effectively with teams.
-* **Teamwork**: Strong interpersonal skills and the ability to coordinate well across different functions (Sales, Product, Content, etc.).
-* **Educational Background**: Bachelor’s degree in Marketing, Business, or a related field is preferred.
-
-**Work Style & Environment**
-* **Office-based Role**: The position requires working from the office, collaborating in real-time with the team.
-* **US Shift Coordination**: Flexible work schedule in line with US-based hours, allowing for cross-functional team coordination across different time zones.
-
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/105855)
-## 🛠️ Tech Stack
-
-`Digital Marketing` `Paid Media` `SEO` `Social Media` `Google Ads` `LinkedIn Ads` `Meta Ads` `GA4` `GTM` `Search Console` `Email Marketing` `B2B Marketing` 
-
+---
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/112853)
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Jr. Software Project Coordinator - Goa</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Role** | Jr. Software Project Coordinator |
-
-## 📝 [Description](https://career.sjinnovation.com/)
-
-We are seeking a motivated Jr. Project Coordinator to assist in managing client projects, coordinating tasks, and ensuring smooth delivery. The ideal candidate should be comfortable using AI tools to streamline workflows and improve efficiency.
-
-**Key Responsibilities**
-
-* Coordinate project tasks, timelines, and deliverables.
-* Act as a bridge between clients and internal teams.
-* Track progress and prepare status reports.
-* Schedule and organize meetings, reviews, and follow-ups.
-* Ensure timely documentation of project activities.
-* Use AI tools for project tracking, reporting, and communication support.
-
-**Skills & Qualifications**
-
-* Bachelor’s degree in Business, IT, or related field.
-* 1–2 years of hands on experience in coordination or project support.
-* Strong communication and organizational skills.
-* Familiarity with project management tools.
-* Awareness and hands-on use of AI tools (e.g., ChatGPT, Notion AI).
-* Ability to work in a 12 PM – 9 PM shift from office.
-
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/104393)
-## 🛠️ Tech Stack
-
-`Project Management` `AI Tools` `ChatGPT` `Notion AI` `Communication` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Internship Opportunities In Goa Office</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 UI/UX & Graphic Design Intern - Dhaka</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
+| **Location** | Dhaka, Bangladesh |
+| **Role** | Intern |
+
+**🛠️ Tags**: `UI/UX` `Graphic Design` `Figma` `Canva` `Adobe Creative Suite` `AI` `ChatGPT` `Midjourney` `DALL·E` 
 
 ## 📝 [Description](https://career.sjinnovation.com/)
 
-### Internship Opportunities In Goa Office
+SJ Innovation is looking for a creative **UI/UX & Graphic Design Intern** who is passionate about designing exceptional digital experiences using **AI-powered design tools**. You will work on real client and internal projects, creating intuitive user interfaces, engaging visuals, and AI-assisted design solutions.
 
-Are you ready to start your career journey in a dynamic and learning-focused environment? At SJ Innovation, we offer internships that provide real-world exposure, mentorship, and the chance to work on impactful projects.
+## Key Responsibilities
 
-**Eligibility & Requirements:**
+*   Design UI for web and mobile applications using **Figma**.
+*   Create wireframes, mockups, prototypes, and design systems.
+*   Design social media creatives, presentations, banners, and marketing assets.
+*   Leverage AI tools to accelerate design, generate ideas, and improve productivity.
+*   Collaborate with developers, product managers, and marketing teams.
+*   Continuously improve designs based on user and stakeholder feedback.
 
-*   Minimum 3 months commitment.
-*   **Proficiency in Artificial Intelligence (AI) tools or concepts is mandatory.**
-*   Enthusiasm to learn, adapt, and contribute.
-*   Internship allocation will be based on current business requirements and your area of interest.
+## Required Skills
 
-**Available Internship :**
+*   Basic knowledge of UI/UX principles and graphic design.
+*   Familiarity with **Figma** and Canva or Adobe Creative Suite.
+*   Strong visual design, typography, and layout skills.
+*   Creative mindset with attention to detail.
+*   Good communication and willingness to learn.
 
-*   Software Testing 
-*   Software Development 
-*   Digital Marketing/Sales/Business Development 
-*   Network Support 
+## AI Skills (Preferred)
 
-**What We Offer:**
+Experience with or willingness to learn:
 
-*   Training and mentorship from industry professionals.
-*   Exposure to live projects and the latest technologies.
-*   Opportunities for professional growth and skill development.
+*   ChatGPT, Figma AI, Adobe Firefly, Canva AI, Midjourney, DALL·E, or similar AI image-generation tools.
+*   AI tools for prototyping, content creation, and design automation
 
-* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/30582)
-## 🛠️ Tech Stack
+## Why Join Us?
 
-`Artificial Intelligence` `Software Testing` `Software Development` `Digital Marketing` `Sales` `Business Development` `Network Support` 
+*   Work on real AI-driven products and client projects.
+*   Gain hands-on experience with the latest AI design workflows.
+*   Learn from experienced designers and developers.
 
+---
+* 🌐 [Apply on Website](https://sjinnovation.keka.com/careers/applyjob/154819)
 ---
 
 </details>
@@ -11559,6 +11382,8 @@ Are you ready to start your career journey in a dynamic and learning-focused env
 | **Deadline** | 20 August, 2026 |
 | **Location** | Dhaka |
 | **Role** | Senior Manager |
+
+**🛠️ Tags**: `Sales` `Resource Augmentation` `Management` 
 
 ## 📝 [Description](https://www.shebatech.com.bd/career)
 
@@ -11589,16 +11414,55 @@ We are looking for a Senior Manager for Sales focusing on Resource Augmentation.
 - Maternal and Parental Leave
 - Training and Learning Materials to Improve Skills
 
+---
 * 🌐 [Apply on Website](https://www.shebatech.com.bd/career)
-## 🛠️ Tech Stack
-
-`Sales` `Resource Augmentation` `Management` 
-
 ---
 
 </details>
 
 ## 🏢 Silicon Orchard Ltd.
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 IT Sales Executive</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 60K - 90K |
+| **Location** | Remote |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `IT Sales` `Business Development` `SaaS` `CRM` `Consultative Selling` 
+
+## 📝 [Description](https://www.siliconorchard.com/career)
+
+## IT Sales Executive
+
+We are looking for an experienced, self-directed Sales Representative based in Bangladesh to join and collaborate with our existing US-based sales team in driving revenue growth across the American market. You will sell a portfolio of software products, custom development services, IT staff augmentation, and managed services.
+
+### Key Responsibilities
+* Coordinate daily with the US-based sales team.
+* Prospect, qualify, and close new business across targeted verticals.
+* Own and manage the complete sales cycle.
+* Deliver compelling presentations and solution briefings.
+* Build and maintain a healthy, accurately forecasted pipeline in the CRM.
+
+### Requirements
+* Minimum 5 years of progressive sales experience in IT services, software solutions, or technology consulting.
+* Proven track record of consistently meeting or exceeding annual quotas of $500K+.
+* Deep understanding of software development lifecycles, SaaS models, and IT outsourcing.
+* Excellent written and verbal communication skills in English (native or near-native fluency).
+* Willingness to work overlapping hours with US Eastern Time.
+
+### What We Offer
+* Competitive salary.
+* 5%-8% Commission For Each Successful Deal Closed (Uncapped).
+
+---
+* 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Intern Program (Recruiter and Marketing)</strong> </summary>
@@ -11609,6 +11473,8 @@ We are looking for a Senior Manager for Sales focusing on Resource Augmentation.
 | **Salary** | 15K |
 | **Location** | Remote |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Recruitment` `Marketing` `AI Tools` `ChatGPT` `Claude` `LinkedIn` `Social Media Marketing` 
 
 ## 📝 [Description](https://www.siliconorchard.com/career)
 
@@ -11633,12 +11499,9 @@ Support Silicon Orchard’s brand-building and digital marketing across content,
 * Letter of recommendation.
 * Potential for full-time roles for high-performing interns.
 
+---
 * 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
 * 🌐 [Apply on Website](https://zfrmz.com/3wHDNAKaPjbIxulWfD9f)
-## 🛠️ Tech Stack
-
-`Recruitment` `Marketing` `AI Tools` `ChatGPT` `Claude` `LinkedIn` `Social Media Marketing` 
-
 ---
 
 </details>
@@ -11652,6 +11515,8 @@ Support Silicon Orchard’s brand-building and digital marketing across content,
 | **Salary** | 15K |
 | **Location** | Remote |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Technical Writing` `Proposal Writing` `Microsoft Office` `Business Development` 
 
 ## 📝 [Description](https://www.siliconorchard.com/career)
 
@@ -11678,54 +11543,8 @@ Silicon Orchard Ltd is seeking highly motivated and detail-oriented Technical Pr
 * Letter of recommendation upon successful completion.
 * High-performing interns may be considered for permanent full-time positions.
 
-* 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
-## 🛠️ Tech Stack
-
-`Technical Writing` `Proposal Writing` `Microsoft Office` `Business Development` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 IT Sales Executive</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 60K - 90K |
-| **Location** | Remote |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.siliconorchard.com/career)
-
-## IT Sales Executive
-
-We are looking for an experienced, self-directed Sales Representative based in Bangladesh to join and collaborate with our existing US-based sales team in driving revenue growth across the American market. You will sell a portfolio of software products, custom development services, IT staff augmentation, and managed services.
-
-### Key Responsibilities
-* Coordinate daily with the US-based sales team.
-* Prospect, qualify, and close new business across targeted verticals.
-* Own and manage the complete sales cycle.
-* Deliver compelling presentations and solution briefings.
-* Build and maintain a healthy, accurately forecasted pipeline in the CRM.
-
-### Requirements
-* Minimum 5 years of progressive sales experience in IT services, software solutions, or technology consulting.
-* Proven track record of consistently meeting or exceeding annual quotas of $500K+.
-* Deep understanding of software development lifecycles, SaaS models, and IT outsourcing.
-* Excellent written and verbal communication skills in English (native or near-native fluency).
-* Willingness to work overlapping hours with US Eastern Time.
-
-### What We Offer
-* Competitive salary.
-* 5%-8% Commission For Each Successful Deal Closed (Uncapped).
-
 * 📧 [Send Resume via Email](mailto:careers@siliconorchard.com)
-## 🛠️ Tech Stack
-
-`IT Sales` `Business Development` `SaaS` `CRM` `Consultative Selling` 
-
 ---
 
 </details>
@@ -11740,6 +11559,8 @@ We are looking for an experienced, self-directed Sales Representative based in B
 | **Employment** | Full Time |
 | **Posted** | January 25, 2026 |
 | **Location** | 169, Mohakhali DOHS, Dhaka |
+
+**🛠️ Tags**: `iOS` `Swift` `Objective-C` `Git` `React Native` `Flutter` `RESTful APIs` 
 
 ## 📝 [Description](https://technohaven.com/career)
 
@@ -11767,41 +11588,13 @@ We are looking for an experienced, self-directed Sales Representative based in B
 * Knowledge of backend development technologies (e.g., RESTful APIs) is a bonus.
 * Previous experience with agile development methodologies.
 
+---
 * 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLScaWm2eVsHHk1uo7ZJ0E-bPb_-cxFDw-AACf0FtA5e4qQdw3Q/viewform?usp=header)
-## 🛠️ Tech Stack
-
-`iOS` `Swift` `Objective-C` `Git` `React Native` `Flutter` `RESTful APIs` 
-
 ---
 
 </details>
 
 ## 🏢 Tekarsh
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Java)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Deadline** | 2026-08-16 |
-| **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
-| **Role** | Senior |
-
-## 📝 [Description](https://tekarsh.com/career)
-
-### Senior Software Engineer (Java)
-
-Join our team as a Senior Software Engineer specializing in Java.
-
-* 🌐 [Apply on Website](https://tekarsh.com/career)
-## 🛠️ Tech Stack
-
-`Java` `Software Engineering` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Senior Data Analyst</strong> </summary>
@@ -11813,17 +11606,40 @@ Join our team as a Senior Software Engineer specializing in Java.
 | **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
 | **Role** | Senior |
 
+**🛠️ Tags**: `Data Analysis` 
+
 ## 📝 [Description](https://tekarsh.com/career)
 
 ### Senior Data Analyst
 
 Join our team as a Senior Data Analyst.
 
+---
 * 🌐 [Apply on Website](https://tekarsh.com/career)
-## 🛠️ Tech Stack
+---
 
-`Data Analysis` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (Java)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Deadline** | 2026-08-16 |
+| **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
+| **Role** | Senior |
+
+**🛠️ Tags**: `Java` `Software Engineering` 
+
+## 📝 [Description](https://tekarsh.com/career)
+
+### Senior Software Engineer (Java)
+
+Join our team as a Senior Software Engineer specializing in Java.
+
+---
+* 🌐 [Apply on Website](https://tekarsh.com/career)
 ---
 
 </details>
@@ -11838,17 +11654,16 @@ Join our team as a Senior Data Analyst.
 | **Location** | Mohakhali DOHS, Dhaka (Hybrid) |
 | **Role** | Senior |
 
+**🛠️ Tags**: `Full Stack` `Software Engineering` 
+
 ## 📝 [Description](https://tekarsh.com/career)
 
 ### Senior Software Engineers - Full Stack
 
 Join our team as a Senior Full Stack Software Engineer.
 
+---
 * 🌐 [Apply on Website](https://tekarsh.com/career)
-## 🛠️ Tech Stack
-
-`Full Stack` `Software Engineering` 
-
 ---
 
 </details>
@@ -11862,6 +11677,8 @@ Join our team as a Senior Full Stack Software Engineer.
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
+
+**🛠️ Tags**: `Linux` `System Administration` `Network Engineering` `Oracle` `VMware` `F5` `Fortigate` `Cisco` `NetApp` 
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -11888,11 +11705,8 @@ We are seeking skilled and dedicated Associate Oncall Engineer to join our team.
 
 *   Troubleshooting and problem-solving skills, strong communication and interpersonal skills, with the ability to collaborate effectively with cross-functional teams.
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Linux` `System Administration` `Network Engineering` `Oracle` `VMware` `F5` `Fortigate` `Cisco` `NetApp` 
-
 ---
 
 </details>
@@ -11905,6 +11719,8 @@ We are seeking skilled and dedicated Associate Oncall Engineer to join our team.
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | Associate System Administrator |
+
+**🛠️ Tags**: `Linux` `Hypervisor` `Networking` `Cloud Infrastructure` `Bash` `Python` `System Administration` 
 
 ## 📝 [Description](http://therap.recruiterbox.com/jobs)
 
@@ -11928,11 +11744,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 *   Strong analytical and problem-solving skills, coupled with a willingness to learn and adapt.
 *   Good communication and interpersonal abilities, with a focus on effective collaboration in a team-oriented environment.
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Linux` `Hypervisor` `Networking` `Cloud Infrastructure` `Bash` `Python` `System Administration` 
-
 ---
 
 </details>
@@ -11945,6 +11758,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 | **Employment** | Full Time |
 | **Location** | Banani, Dhaka (Hybrid) |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Technical Writing` `Content Creation` `Customer Support` `AI Tools` `Communication` 
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -11965,11 +11780,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 * Bachelor’s in CS / CSE / EEE / English Literature or similar fields preferred
 * Attention to detail and a drive for quality
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Technical Writing` `Content Creation` `Customer Support` `AI Tools` `Communication` 
-
 ---
 
 </details>
@@ -11982,6 +11794,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 | **Employment** | Full Time |
 | **Location** | Banani, Dhaka (Hybrid) |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `InfoSec` `Compliance` `AI Tools` `Gemini` `Auditing` 
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12029,11 +11843,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 
 **Other Benefits**: As Per Company Policy
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`InfoSec` `Compliance` `AI Tools` `Gemini` `Auditing` 
-
 ---
 
 </details>
@@ -12046,6 +11857,8 @@ We are seeking motivated individuals to join our team as Associate System Admini
 | **Employment** | Full Time |
 | **Location** | Dhaka, Bangladesh |
 | **Role** | DevOps Administrator |
+
+**🛠️ Tags**: `Linux` `Java` `CI/CD` `Bash` `Python` `Docker` `Kubernetes` `Prometheus` `Grafana` `SRE` 
 
 ## 📝 [Description](http://therap.recruiterbox.com/jobs)
 
@@ -12097,11 +11910,8 @@ If you are motivated, analytical, and eager to grow in a production-focused DevO
 
 This role offers solid exposure to real production environments, a supportive team, and room to grow deeper into DevOps engineering over time.
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Linux` `Java` `CI/CD` `Bash` `Python` `Docker` `Kubernetes` `Prometheus` `Grafana` `SRE` 
-
 ---
 
 </details>
@@ -12113,6 +11923,8 @@ This role offers solid exposure to real production environments, a supportive te
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Banani, Dhaka (Hybrid) |
+
+**🛠️ Tags**: `React` `JavaScript` `JQuery` `Bootstrap` `HTML` `CSS` `Webpack` `GIT` `NPM` `REST APIs` 
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12130,11 +11942,8 @@ This role offers solid exposure to real production environments, a supportive te
 * Building modern, reliable, high performance, responsive and cross-browser compatible web application front-ends using React, CSS, and HTML
 * Working with backend developers to build frontend UI components for REST APIs
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`React` `JavaScript` `JQuery` `Bootstrap` `HTML` `CSS` `Webpack` `GIT` `NPM` `REST APIs` 
-
 ---
 
 </details>
@@ -12147,6 +11956,8 @@ This role offers solid exposure to real production environments, a supportive te
 | **Employment** | Full Time |
 | **Location** | Banani, Dhaka |
 
+**🛠️ Tags**: `C/C++` `C#` `Java` `Go` `Rust` `Python` `Data Structures` `Algorithms` `SQL` 
+
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
 ### What we are looking for:
@@ -12157,11 +11968,8 @@ This role offers solid exposure to real production environments, a supportive te
 * Basic knowledge of SQL and relational databases
 * Ability to communicate technical concepts clearly and effectively
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`C/C++` `C#` `Java` `Go` `Rust` `Python` `Data Structures` `Algorithms` `SQL` 
-
 ---
 
 </details>
@@ -12174,6 +11982,8 @@ This role offers solid exposure to real production environments, a supportive te
 | **Employment** | Full Time |
 | **Location** | Banani, Dhaka |
 
+**🛠️ Tags**: `Software Testing` `C++` `C#` `Java` `Python` `SQL` `Databases` 
+
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
 ### What we are looking for:
@@ -12184,11 +11994,8 @@ This role offers solid exposure to real production environments, a supportive te
 * Basic knowledge of SQL and relational databases
 * Ability to communicate technical concepts clearly and effectively
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Software Testing` `C++` `C#` `Java` `Python` `SQL` `Databases` 
-
 ---
 
 </details>
@@ -12200,6 +12007,8 @@ This role offers solid exposure to real production environments, a supportive te
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Location** | Dhaka, Dhaka Division, Bangladesh |
+
+**🛠️ Tags**: `Training` `Implementation` `Client Success` `Data Analysis` `AI` `Machine Learning` `Digital Marketing` `Public Speaking` `Cloud Technologies` 
 
 ## 📝 [Description](https://therap.hire.trakstar.com/)
 
@@ -12243,16 +12052,51 @@ We are seeking a proactive, technically-minded Training and Implementation Assoc
 *   Strong computer skills and eagerness to master new cloud technologies.
 *   Willingness to travel for work when needed.
 
+---
 * 🌐 [Apply on Website](https://therap.hire.trakstar.com/?apply=true)
-## 🛠️ Tech Stack
-
-`Training` `Implementation` `Client Success` `Data Analysis` `AI` `Machine Learning` `Digital Marketing` `Public Speaking` `Cloud Technologies` 
-
 ---
 
 </details>
 
 ## 🏢 WPDeveloper
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Digital Marketer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+
+**🛠️ Tags**: `Digital Marketing` 
+
+## 📝 [Description](https://wpcommerz.com/career)
+
+We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
+
+---
+* 🌐 [Apply on Website](https://jobs.wpcommerz.com/digital-marketer)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 WordPress Content Writer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+
+**🛠️ Tags**: `WordPress` `Content Writing` 
+
+## 📝 [Description](https://wpcommerz.com/career)
+
+We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
+
+---
+* 🌐 [Apply on Website](https://jobs.wpcommerz.com/wordpress-content-writer)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 WordPress Plugin Developer</strong> </summary>
@@ -12261,6 +12105,8 @@ We are seeking a proactive, technically-minded Training and Implementation Assoc
 | ----- | ----------- |
 | **Employment** | Full Time |
 | **Salary** | 40K |
+
+**🛠️ Tags**: `WordPress` `PHP` `MySQL` `NPM` `Composer` `Webpack` `JavaScript` `jQuery` `Gulp` `SASS` `Tailwind CSS` `Vue.js` `React` 
 
 ## 📝 [Description](https://wpcommerz.com/contact)
 
@@ -12291,56 +12137,276 @@ As a WordPress Developer, you’re responsible for Making Stuff Go. You will bui
 *   Fun, Relaxed Working Environment
 *   Tea and coffee
 
+---
 * 🌐 [Apply on Website](https://wpcommerz.com/contact)
-## 🛠️ Tech Stack
-
-`WordPress` `PHP` `MySQL` `NPM` `Composer` `Webpack` `JavaScript` `jQuery` `Gulp` `SASS` `Tailwind CSS` `Vue.js` `React` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Digital Marketer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-
-## 📝 [Description](https://wpcommerz.com/career)
-
-We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
-
-* 🌐 [Apply on Website](https://jobs.wpcommerz.com/digital-marketer)
-## 🛠️ Tech Stack
-
-`Digital Marketing` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 WordPress Content Writer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-
-## 📝 [Description](https://wpcommerz.com/career)
-
-We’re building innovative WordPress solutions that help businesses thrive. Join our team of passionate professionals and be part of a collaborative environment where your ideas matter.
-
-* 🌐 [Apply on Website](https://jobs.wpcommerz.com/wordpress-content-writer)
-## 🛠️ Tech Stack
-
-`WordPress` `Content Writing` 
-
 ---
 
 </details>
 
 ## 🏢 Workspace InfoTech Ltd.
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing & Sales Associate</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 25K - 35K |
+| **Deadline** | 31st August, 2026 |
+| **Location** | Nikunja-2, Khilkhet, Dhaka |
+| **Role** | Entry |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Digital Marketing` `Lead Generation` `B2B Sales` `SEO` `Copywriting` `WordPress` `Google Analytics` `HubSpot` 
+
+## 📝 [Description](https://www.workspaceit.com/career)
+
+### Job Context:
+Workspace InfoTech Limited is looking for a Digital Marketing & Sales Associate who can work on both digital marketing execution and lead generation support. This role requires a candidate who is comfortable with running campaigns, generating leads, and communicating with potential clients. The focus will be on B2B marketing and initial sales engagement, not full sales closing.
+
+### Job Responsibilities:
+• Digital Marketing Execution (Main Responsibility)
+• Run and manage Facebook, Google, and LinkedIn ad campaigns.
+• Ability to identify target audience and generate leads through digital platforms
+• Support LinkedIn outreach, email marketing, and B2B lead generation activities
+• Communicate with potential clients via email, chat, or calls for initial qualification
+• Maintain lead database and track lead pipeline (Excel/CRM)
+• Coordinate with design and development teams for marketing materials
+• Perform basic SEO and website content updates
+• Prepare weekly reports on campaign performance and lead generation
+
+### Skill Requirements:
+• Fundamentals of Digital Marketing (Paid Ads, Social Media, Lead Generation)
+• Basic understanding of B2B sales process and client communication
+• Strong communication skills in English (mandatory).
+• Ability to analyze data and optimize campaigns
+• Proficiency in Google Suite (Docs, Sheets), Analytics is a plus
+• Knowledge of tools like Gmass, HubSpot, or similar platforms is an advantage
+• Basic knowledge of WordPress Content Management System (CMS)
+• Intermediate skills in blog writing
+• Intermediate skills in copywriting
+• Intermediate knowledge of Search Engine Optimization (SEO)
+
+### Experience Requirements:
+• 1–2 years of practical experience in Digital Marketing / Lead Generation / Sales Support
+• Must have hands-on experience in at least one ad platform (Facebook/Google/LinkedIn)
+• Must be comfortable with both marketing execution and client communication
+• Ability to work with targets (lead generation & response handling)
+• Candidates with only theoretical knowledge are discouraged to apply
+• Experience in IT / Software / B2B industry will get preference
+
+### Additional Requirements:
+• BSc in Computer Science and Engineering (CSE) or BBA (Major in Marketing) or a relevant field from a recognized university.
+
+---
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 HR Intern</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 5K |
+| **Posted** | unknown |
+| **Deadline** | 31st August, 2026 |
+| **Location** | Nikunja 2, Road 12, House 16, Dhaka 1229. |
+| **Role** | Intern |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `HRM` `Recruitment` `MS Word` `Excel` `Google Workspace` 
+
+## 📝 [Description](https://www.workspaceit.com/career)
+
+### Job Context:
+The HR Intern will support day-to-day human resource operations by assisting with recruitment coordination, documentation, and routine HR tasks. This role is designed to reduce operational workload and provide hands-on exposure to practical HR functions in a professional corporate environment.
+
+### Job Responsibilities:
+• Assist in job posting, CV screening, and candidate coordination
+• Call candidates and schedule interviews
+• Send interview invitations and follow-up emails
+• Maintain recruitment trackers and HR records
+• Support onboarding documentation and HR file management
+• Assist in attendance and leave data updates
+• Help prepare HR letters and internal notices (draft level)
+• Maintain confidentiality of employee and organizational information
+
+### Skill Requirements:
+• Basic knowledge of Human Resource Management concepts
+• Good communication skills (verbal and written)
+• Familiarity with MS Word, Excel, and Google Workspace
+• Organized, responsible, and eager to learn
+• Ability to handle routine and repetitive tasks efficiently
+
+### Additional Requirements:
+• Bachelor’s degree in HRM, BBA, or a related discipline
+• Candidates who have completed academic coursework and are completing internship requirements are encouraged to apply
+• Fresh graduates may also apply
+
+### Compensation & Other Benefits:
+• Practical HR exposure in a real corporate environment
+• Guidance and mentorship from experienced HR professionals
+• Internship certificate upon successful completion
+• Opportunity for future employment based on performance
+
+---
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 PHP/Laravel Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 30K - 45K |
+| **Deadline** | 31st August, 2026 |
+| **Location** | Nikunja-2, Road 12, House 16, Dhaka |
+| **Role** | Entry-Mid |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `PHP` `Laravel` `MySQL` `MVC` `REST API` `HTML` `CSS` `JavaScript` `jQuery` `AJAX` `Bootstrap` `Git` 
+
+## 📝 [Description](https://www.workspaceit.com/career)
+
+### Job Context:
+Workspace Infotech Limited is looking for a skilled and motivated PHP/Laravel Developer with 1–3 years of professional experience. The ideal candidate should have hands-on experience in PHP-based web application development using Laravel, along with strong knowledge of Core PHP, OOP, MVC architecture, MySQL, backend logic, API development, debugging, and clean coding practices.
+
+### Job Responsibilities:
+• Develop, maintain, and optimize web applications using PHP and related technologies.
+• Develop, maintain, and optimize web applications using Laravel framework.
+• Write clean, reusable, secure, and well-documented code.
+• Work with Laravel MVC architecture, including routes, controllers, models, views, Blade templates, and middleware.
+• Work with MySQL or similar relational databases for database design, queries, and optimization.
+• Implement authentication, authorization, validation, and role-based access control.
+• Integrate third-party APIs, payment gateways, and external services within Laravel applications.
+• Develop and integrate RESTful APIs and third-party services.
+• Debug, troubleshoot, and resolve application issues efficiently.
+• Collaborate with frontend developers to integrate user-facing elements with server-side logic.
+• Participate in requirement analysis, technical discussion, and project planning.
+• Maintain proper task updates and work logs in the project management tool.
+• Ensure application performance, security, scalability, and code quality.
+• Support existing projects by identifying bugs, implementing fixes, and improving functionality.
+
+### Skill Requirements:
+• Strong knowledge of PHP and Laravel.
+• Experience with Laravel or CodeIgniter framework.
+• Good understanding of MySQL database design, queries, indexing, and optimization.
+• Knowledge of HTML, CSS, JavaScript, jQuery, AJAX, and Bootstrap.
+• Experience in REST API development and integration.
+• Basic understanding of Git version control.
+• Ability to debug and troubleshoot backend issues.
+• Understanding of MVC architecture and software development lifecycle.
+• Understanding of Laravel authentication, authorization, CSRF protection, and application security.
+• Experience with Eloquent ORM, migrations, seeders, and database relationships.
+• Ability to work independently and within a team.
+
+### Experience Requirements:
+• 1 to 3 years of professional experience in PHP web application development.
+• Minimum 6 months of hands-on Laravel project experience is required.
+• Prior experience in ERP, CRM, e-commerce, SaaS, or admin panel development using Laravel will be considered an added advantage.
+
+### Additional Requirements:
+• Bachelor’s degree in Computer Science & Engineering (CSE) or a related field is preferred.
+• Must be proactive, sincere, and willing to learn new technologies.
+• Must have good communication and teamwork skills.
+• Should be able to work under deadlines and handle multiple tasks when required.
+• Must maintain professional discipline, punctuality, and proper reporting.
+• Prior experience in Laravel-based project development will be considered an advantage.
+• Experience in ERP, CRM, e-commerce, or SaaS-based application development will be a plus.
+
+### Compensation & Other Benefits:
+• Salary: Negotiable based on skills and experience.
+• Festival bonus as per company policy.
+• Yearly salary review based on performance.
+• Professional and friendly work environment.
+• Career growth opportunity.
+• Learning and development support.
+• Other benefits as per company policy.
+
+---
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Part-Time Outbound Calling Agent</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Part Time |
+| **Deadline** | 31st August, 2026 |
+| **Location** | Remote |
+| **Role** | Entry |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `B2B Sales` `Lead Generation` `Cold Calling` `Telemarketing` `Appointment Setting` `CRM` `English Communication` 
+
+## 📝 [Description](https://www.workspaceit.com/career)
+
+### Job Context:
+Workspace Infotech Limited is seeking an experienced, confident, and results-oriented Part-Time Outbound Calling Agent Assistant to support business development activities in the Canadian technology market. The selected candidate will conduct outbound calls to prospective Canadian businesses, introduce the company's technology services, identify and qualify sales opportunities, and schedule meetings for the management or business development team.
+
+### Job Responsibilities:
+• Conduct outbound calls to prospective businesses, decision-makers, and potential clients in Canada.
+• Professionally introduce Workspace Infotech Limited and its relevant technology services.
+• Identify prospects’ business needs, operational challenges, project requirements, and appropriate decision-makers.
+• Generate and qualify B2B leads according to the company’s approved qualification criteria.
+• Schedule discovery calls, service presentations, consultations, or follow-up meetings with qualified prospects.
+• Use approved calling scripts while adapting conversations appropriately based on the prospect and business situation.
+• Communicate the company’s services clearly, accurately, and persuasively.
+• Handle objections professionally and maintain a positive representation of the company.
+• Conduct timely follow-up calls with interested, undecided, and previously contacted prospects.
+• Maintain accurate records of call outcomes, lead status, follow-up dates, scheduled meetings, and relevant notes in the assigned CRM or tracking sheet.
+• Coordinate with Management and the Business Development Team regarding qualified leads and meeting handovers.
+• Meet assigned targets for outbound calls, qualified leads, follow-ups, and appointment setting.
+• Maintain the confidentiality of company information, prospect information, scripts, business data, and sales records.
+• Submit regular activity and performance reports as required. Ensure accuracy and completeness of all CRM and lead-management records.
+
+### Skill Requirements:
+• Excellent spoken English with clear pronunciation, professional vocabulary, and strong listening ability.
+• Strong persuasive communication, negotiation, and interpersonal skills.
+• Confidence in communicating with business owners, executives, managers, and technical decision-makers.
+• Sound understanding of B2B prospecting, lead qualification, objection handling, follow-up, and appointment-setting practices.
+• Ability to understand and explain technology services clearly and persuasively.
+• Strong cold-calling and professional call-handling skills.
+• Ability to remain calm, professional, and motivated when handling rejection or difficult conversations.
+• Working knowledge of CRM systems, Google Sheets, Microsoft Excel, email, and online meeting platforms.
+• Strong time-management, record-keeping, reporting, and organizational skills.
+• Ability to work independently in a remote working environment.
+• Target-oriented mindset with a strong sense of accountability and follow-through.
+
+### Experience Requirements:
+• Minimum 1–3 years of relevant experience in outbound calling, cold calling, telemarketing, appointment setting, lead generation, business development, or B2B sales.
+• Previous experience communicating with prospects in Canada, the United States, the United Kingdom, Australia, or other international markets will be strongly preferred.
+• Experience in international B2B sales, technology sales, IT services, or software-service promotion will be considered an advantage.
+
+### Additional Requirements:
+• Must have access to a functional desktop computer or laptop.
+• Must have a stable and reliable internet connection.
+• Must have a high-quality headset and clear microphone.
+• Must have a quiet and professional workspace suitable for outbound calling.
+• Reliable electricity and backup internet connectivity are preferred.
+• Must be available during mutually agreed working hours that overlap with the Canadian business day.
+• Depending on the targeted Canadian province and time zone, the role may require evening or night work in Bangladesh.
+• The final daily schedule and weekly working-hour commitment will be confirmed during the recruitment process.
+• Must be disciplined, punctual, dependable, and capable of working with limited supervision.
+• Must protect confidential company, prospect, lead, pricing, and business-development information.
+• Candidates may be required to participate in a practical calling assessment or communication evaluation during the recruitment process.
+
+---
+* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
+---
+
+</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Part-Time Sales Development Executive</strong> </summary>
@@ -12352,6 +12418,8 @@ We’re building innovative WordPress solutions that help businesses thrive. Joi
 | **Location** | Nikunja-2, Road 12, House 16, Dhaka (Hybrid) |
 | **Role** | Mid |
 | **Vacancies** | 2 |
+
+**🛠️ Tags**: `Sales Development` `B2B Sales` `Lead Conversion` `Appointment Setting` `Telemarketing` `Client Acquisition` `CRM` `Google Sheets` 
 
 ## 📝 [Description](https://www.workspaceit.com/career)
 
@@ -12428,278 +12496,8 @@ Other Benefits:
 • Professional and supportive working environment
 • Opportunity for long-term engagement based on performance
 
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-## 🛠️ Tech Stack
-
-`Sales Development` `B2B Sales` `Lead Conversion` `Appointment Setting` `Telemarketing` `Client Acquisition` `CRM` `Google Sheets` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Part-Time Outbound Calling Agent</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Part Time |
-| **Deadline** | 31st August, 2026 |
-| **Location** | Remote |
-| **Role** | Entry |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.workspaceit.com/career)
-
-### Job Context:
-Workspace Infotech Limited is seeking an experienced, confident, and results-oriented Part-Time Outbound Calling Agent Assistant to support business development activities in the Canadian technology market. The selected candidate will conduct outbound calls to prospective Canadian businesses, introduce the company's technology services, identify and qualify sales opportunities, and schedule meetings for the management or business development team.
-
-### Job Responsibilities:
-• Conduct outbound calls to prospective businesses, decision-makers, and potential clients in Canada.
-• Professionally introduce Workspace Infotech Limited and its relevant technology services.
-• Identify prospects’ business needs, operational challenges, project requirements, and appropriate decision-makers.
-• Generate and qualify B2B leads according to the company’s approved qualification criteria.
-• Schedule discovery calls, service presentations, consultations, or follow-up meetings with qualified prospects.
-• Use approved calling scripts while adapting conversations appropriately based on the prospect and business situation.
-• Communicate the company’s services clearly, accurately, and persuasively.
-• Handle objections professionally and maintain a positive representation of the company.
-• Conduct timely follow-up calls with interested, undecided, and previously contacted prospects.
-• Maintain accurate records of call outcomes, lead status, follow-up dates, scheduled meetings, and relevant notes in the assigned CRM or tracking sheet.
-• Coordinate with Management and the Business Development Team regarding qualified leads and meeting handovers.
-• Meet assigned targets for outbound calls, qualified leads, follow-ups, and appointment setting.
-• Maintain the confidentiality of company information, prospect information, scripts, business data, and sales records.
-• Submit regular activity and performance reports as required. Ensure accuracy and completeness of all CRM and lead-management records.
-
-### Skill Requirements:
-• Excellent spoken English with clear pronunciation, professional vocabulary, and strong listening ability.
-• Strong persuasive communication, negotiation, and interpersonal skills.
-• Confidence in communicating with business owners, executives, managers, and technical decision-makers.
-• Sound understanding of B2B prospecting, lead qualification, objection handling, follow-up, and appointment-setting practices.
-• Ability to understand and explain technology services clearly and persuasively.
-• Strong cold-calling and professional call-handling skills.
-• Ability to remain calm, professional, and motivated when handling rejection or difficult conversations.
-• Working knowledge of CRM systems, Google Sheets, Microsoft Excel, email, and online meeting platforms.
-• Strong time-management, record-keeping, reporting, and organizational skills.
-• Ability to work independently in a remote working environment.
-• Target-oriented mindset with a strong sense of accountability and follow-through.
-
-### Experience Requirements:
-• Minimum 1–3 years of relevant experience in outbound calling, cold calling, telemarketing, appointment setting, lead generation, business development, or B2B sales.
-• Previous experience communicating with prospects in Canada, the United States, the United Kingdom, Australia, or other international markets will be strongly preferred.
-• Experience in international B2B sales, technology sales, IT services, or software-service promotion will be considered an advantage.
-
-### Additional Requirements:
-• Must have access to a functional desktop computer or laptop.
-• Must have a stable and reliable internet connection.
-• Must have a high-quality headset and clear microphone.
-• Must have a quiet and professional workspace suitable for outbound calling.
-• Reliable electricity and backup internet connectivity are preferred.
-• Must be available during mutually agreed working hours that overlap with the Canadian business day.
-• Depending on the targeted Canadian province and time zone, the role may require evening or night work in Bangladesh.
-• The final daily schedule and weekly working-hour commitment will be confirmed during the recruitment process.
-• Must be disciplined, punctual, dependable, and capable of working with limited supervision.
-• Must protect confidential company, prospect, lead, pricing, and business-development information.
-• Candidates may be required to participate in a practical calling assessment or communication evaluation during the recruitment process.
-
 * 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-## 🛠️ Tech Stack
-
-`B2B Sales` `Lead Generation` `Cold Calling` `Telemarketing` `Appointment Setting` `CRM` `English Communication` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 PHP/Laravel Developer</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 30K - 45K |
-| **Deadline** | 31st August, 2026 |
-| **Location** | Nikunja-2, Road 12, House 16, Dhaka |
-| **Role** | Entry-Mid |
-| **Vacancies** | 3 |
-
-## 📝 [Description](https://www.workspaceit.com/career)
-
-### Job Context:
-Workspace Infotech Limited is looking for a skilled and motivated PHP/Laravel Developer with 1–3 years of professional experience. The ideal candidate should have hands-on experience in PHP-based web application development using Laravel, along with strong knowledge of Core PHP, OOP, MVC architecture, MySQL, backend logic, API development, debugging, and clean coding practices.
-
-### Job Responsibilities:
-• Develop, maintain, and optimize web applications using PHP and related technologies.
-• Develop, maintain, and optimize web applications using Laravel framework.
-• Write clean, reusable, secure, and well-documented code.
-• Work with Laravel MVC architecture, including routes, controllers, models, views, Blade templates, and middleware.
-• Work with MySQL or similar relational databases for database design, queries, and optimization.
-• Implement authentication, authorization, validation, and role-based access control.
-• Integrate third-party APIs, payment gateways, and external services within Laravel applications.
-• Develop and integrate RESTful APIs and third-party services.
-• Debug, troubleshoot, and resolve application issues efficiently.
-• Collaborate with frontend developers to integrate user-facing elements with server-side logic.
-• Participate in requirement analysis, technical discussion, and project planning.
-• Maintain proper task updates and work logs in the project management tool.
-• Ensure application performance, security, scalability, and code quality.
-• Support existing projects by identifying bugs, implementing fixes, and improving functionality.
-
-### Skill Requirements:
-• Strong knowledge of PHP and Laravel.
-• Experience with Laravel or CodeIgniter framework.
-• Good understanding of MySQL database design, queries, indexing, and optimization.
-• Knowledge of HTML, CSS, JavaScript, jQuery, AJAX, and Bootstrap.
-• Experience in REST API development and integration.
-• Basic understanding of Git version control.
-• Ability to debug and troubleshoot backend issues.
-• Understanding of MVC architecture and software development lifecycle.
-• Understanding of Laravel authentication, authorization, CSRF protection, and application security.
-• Experience with Eloquent ORM, migrations, seeders, and database relationships.
-• Ability to work independently and within a team.
-
-### Experience Requirements:
-• 1 to 3 years of professional experience in PHP web application development.
-• Minimum 6 months of hands-on Laravel project experience is required.
-• Prior experience in ERP, CRM, e-commerce, SaaS, or admin panel development using Laravel will be considered an added advantage.
-
-### Additional Requirements:
-• Bachelor’s degree in Computer Science & Engineering (CSE) or a related field is preferred.
-• Must be proactive, sincere, and willing to learn new technologies.
-• Must have good communication and teamwork skills.
-• Should be able to work under deadlines and handle multiple tasks when required.
-• Must maintain professional discipline, punctuality, and proper reporting.
-• Prior experience in Laravel-based project development will be considered an advantage.
-• Experience in ERP, CRM, e-commerce, or SaaS-based application development will be a plus.
-
-### Compensation & Other Benefits:
-• Salary: Negotiable based on skills and experience.
-• Festival bonus as per company policy.
-• Yearly salary review based on performance.
-• Professional and friendly work environment.
-• Career growth opportunity.
-• Learning and development support.
-• Other benefits as per company policy.
-
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-## 🛠️ Tech Stack
-
-`PHP` `Laravel` `MySQL` `MVC` `REST API` `HTML` `CSS` `JavaScript` `jQuery` `AJAX` `Bootstrap` `Git` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 HR Intern</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | unknown |
-| **Salary** | 5K |
-| **Deadline** | 31st August, 2026 |
-| **Location** | Nikunja 2, Road 12, House 16, Dhaka 1229. |
-| **Role** | Intern |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.workspaceit.com/career)
-
-### Job Context:
-The HR Intern will support day-to-day human resource operations by assisting with recruitment coordination, documentation, and routine HR tasks. This role is designed to reduce operational workload and provide hands-on exposure to practical HR functions in a professional corporate environment.
-
-### Job Responsibilities:
-• Assist in job posting, CV screening, and candidate coordination
-• Call candidates and schedule interviews
-• Send interview invitations and follow-up emails
-• Maintain recruitment trackers and HR records
-• Support onboarding documentation and HR file management
-• Assist in attendance and leave data updates
-• Help prepare HR letters and internal notices (draft level)
-• Maintain confidentiality of employee and organizational information
-
-### Skill Requirements:
-• Basic knowledge of Human Resource Management concepts
-• Good communication skills (verbal and written)
-• Familiarity with MS Word, Excel, and Google Workspace
-• Organized, responsible, and eager to learn
-• Ability to handle routine and repetitive tasks efficiently
-
-### Additional Requirements:
-• Bachelor’s degree in HRM, BBA, or a related discipline
-• Candidates who have completed academic coursework and are completing internship requirements are encouraged to apply
-• Fresh graduates may also apply
-
-### Compensation & Other Benefits:
-• Practical HR exposure in a real corporate environment
-• Guidance and mentorship from experienced HR professionals
-• Internship certificate upon successful completion
-• Opportunity for future employment based on performance
-
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
-## 🛠️ Tech Stack
-
-`HRM` `Recruitment` `MS Word` `Excel` `Google Workspace` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Digital Marketing & Sales Associate</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Salary** | 25K - 35K |
-| **Deadline** | 31st August, 2026 |
-| **Location** | Nikunja-2, Khilkhet, Dhaka |
-| **Role** | Entry |
-| **Vacancies** | 2 |
-
-## 📝 [Description](https://www.workspaceit.com/career)
-
-### Job Context:
-Workspace InfoTech Limited is looking for a Digital Marketing & Sales Associate who can work on both digital marketing execution and lead generation support. This role requires a candidate who is comfortable with running campaigns, generating leads, and communicating with potential clients. The focus will be on B2B marketing and initial sales engagement, not full sales closing.
-
-### Job Responsibilities:
-• Digital Marketing Execution (Main Responsibility)
-• Run and manage Facebook, Google, and LinkedIn ad campaigns.
-• Ability to identify target audience and generate leads through digital platforms
-• Support LinkedIn outreach, email marketing, and B2B lead generation activities
-• Communicate with potential clients via email, chat, or calls for initial qualification
-• Maintain lead database and track lead pipeline (Excel/CRM)
-• Coordinate with design and development teams for marketing materials
-• Perform basic SEO and website content updates
-• Prepare weekly reports on campaign performance and lead generation
-
-### Skill Requirements:
-• Fundamentals of Digital Marketing (Paid Ads, Social Media, Lead Generation)
-• Basic understanding of B2B sales process and client communication
-• Strong communication skills in English (mandatory).
-• Ability to analyze data and optimize campaigns
-• Proficiency in Google Suite (Docs, Sheets), Analytics is a plus
-• Knowledge of tools like Gmass, HubSpot, or similar platforms is an advantage
-• Basic knowledge of WordPress Content Management System (CMS)
-• Intermediate skills in blog writing
-• Intermediate skills in copywriting
-• Intermediate knowledge of Search Engine Optimization (SEO)
-
-### Experience Requirements:
-• 1–2 years of practical experience in Digital Marketing / Lead Generation / Sales Support
-• Must have hands-on experience in at least one ad platform (Facebook/Google/LinkedIn)
-• Must be comfortable with both marketing execution and client communication
-• Ability to work with targets (lead generation & response handling)
-• Candidates with only theoretical knowledge are discouraged to apply
-• Experience in IT / Software / B2B industry will get preference
-
-### Additional Requirements:
-• BSc in Computer Science and Engineering (CSE) or BBA (Major in Marketing) or a relevant field from a recognized university.
-
-* 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
-* 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
-## 🛠️ Tech Stack
-
-`Digital Marketing` `Lead Generation` `B2B Sales` `SEO` `Copywriting` `WordPress` `Google Analytics` `HubSpot` 
-
 ---
 
 </details>
@@ -12715,6 +12513,8 @@ Workspace InfoTech Limited is looking for a Digital Marketing & Sales Associate 
 | **Location** | Nikunja 2, Road 12, House 16, Dhaka 1229. |
 | **Role** | Mid-High |
 | **Vacancies** | 3 |
+
+**🛠️ Tags**: `WordPress` `PHP` `HTML5` `CSS3` `JavaScript` `jQuery` `Elementor` `Gutenberg` `WooCommerce` `Git` `SEO` `REST API` 
 
 ## 📝 [Description](https://www.workspaceit.com/career)
 
@@ -12769,12 +12569,9 @@ We are looking for an experienced WordPress Developer to join our team on a full
 • Supportive and professional work culture.
 • Quarterly performance reviews, yearly salary increments, and team-building events.
 
+---
 * 🌐 [Apply on Website](https://www.workspaceit.com/wsback/apply-for-job)
 * 📧 [Send Resume via Email](mailto:recruitment@workspaceit.com)
-## 🛠️ Tech Stack
-
-`WordPress` `PHP` `HTML5` `CSS3` `JavaScript` `jQuery` `Elementor` `Gutenberg` `WooCommerce` `Git` `SEO` `REST API` 
-
 ---
 
 </details>
@@ -12788,15 +12585,14 @@ We are looking for an experienced WordPress Developer to join our team on a full
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Node.js` `Express.js` `Nest.js` `Backend` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Backend Developer with expertise in Node.js, specifically Express.js or Nest.js.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`Node.js` `Express.js` `Nest.js` `Backend` 
-
 ---
 
 </details>
@@ -12808,35 +12604,14 @@ We are looking for a Backend Developer with expertise in Node.js, specifically E
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Python` `FastAPI` `Backend` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Backend Developer with expertise in Python and FastAPI.
 
-* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`Python` `FastAPI` `Backend` 
-
 ---
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Frontend Developer (Angular)</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-
-## 📝 [Description](https://www.yotech.ltd/careers)
-
-We are looking for a Frontend Developer with expertise in Angular.
-
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`Angular` `Frontend` 
-
 ---
 
 </details>
@@ -12848,35 +12623,33 @@ We are looking for a Frontend Developer with expertise in Angular.
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Web Design` `Creative` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Creative Web Designer.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`Web Design` `Creative` 
-
 ---
 
 </details>
 
 <details>
-<summary> <strong style="font-size: 1.3em;">💼 Product & UI/UX Designer</strong> </summary>
+<summary> <strong style="font-size: 1.3em;">💼 Frontend Developer (Angular)</strong> </summary>
 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Angular` `Frontend` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
-We are looking for a Product & UI/UX Designer.
+We are looking for a Frontend Developer with expertise in Angular.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`UI/UX` `Product Design` 
-
 ---
 
 </details>
@@ -12888,15 +12661,14 @@ We are looking for a Product & UI/UX Designer.
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Android` `Mobile Development` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Mobile App Developer with expertise in Android development.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`Android` `Mobile Development` 
-
 ---
 
 </details>
@@ -12908,15 +12680,33 @@ We are looking for a Mobile App Developer with expertise in Android development.
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `Flutter` `Mobile Development` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a Mobile App Developer with expertise in Flutter.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
+---
 
-`Flutter` `Mobile Development` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Product & UI/UX Designer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+
+**🛠️ Tags**: `UI/UX` `Product Design` 
+
+## 📝 [Description](https://www.yotech.ltd/careers)
+
+We are looking for a Product & UI/UX Designer.
+
+---
+* 🌐 [Apply on Website](https://www.yotech.ltd/careers)
 ---
 
 </details>
@@ -12928,15 +12718,14 @@ We are looking for a Mobile App Developer with expertise in Flutter.
 | ----- | ----------- |
 | **Employment** | Full Time |
 
+**🛠️ Tags**: `QA` `Testing` 
+
 ## 📝 [Description](https://www.yotech.ltd/careers)
 
 We are looking for a QA Engineer.
 
+---
 * 🌐 [Apply on Website](https://www.yotech.ltd/careers)
-## 🛠️ Tech Stack
-
-`QA` `Testing` 
-
 ---
 
 </details>
@@ -12949,11 +12738,13 @@ We are looking for a QA Engineer.
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
-| **Posted** | 4 years ago |
 | **Salary** | 100K |
+| **Posted** | 4 years ago |
 | **Location** | Sylhet |
 | **Role** | Senior |
 | **Vacancies** | 3 |
+
+**🛠️ Tags**: `PHP` `JavaScript` `WordPress` `OOP` `Composer` `Laravel` `Vue.js` `React` `ES Next` 
 
 ## 📝 [Description](https://authlab.io/jobs)
 
@@ -12991,11 +12782,8 @@ We are looking for Senior Software Engineers proficient in PHP and JavaScript de
 *   Yearly/Bi-Yearly Office tours
 *   Unlimited Tea/Coffee, Lunch, Dinner (If you want to)
 
+---
 * 🌐 [Apply on Website](https://authlab.io/jobs)
-## 🛠️ Tech Stack
-
-`PHP` `JavaScript` `WordPress` `OOP` `Composer` `Laravel` `Vue.js` `React` `ES Next` 
-
 ---
 
 </details>
@@ -13008,6 +12796,8 @@ We are looking for Senior Software Engineers proficient in PHP and JavaScript de
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Full Time |
+
+**🛠️ Tags**: `Node.js` `React` `AngularJS` `MERN` `MongoDB` `Express.js` `RESTful APIs` `JavaScript` `HTML` `CSS` `Redux` `Agile` `AWS` `Azure` `Google Cloud` `Microservices` `CI/CD` `Git` 
 
 ## 📝 [Description](https://www.belivit.com/vacancies)
 
@@ -13039,11 +12829,8 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 ### Educational Qualifications
 * Bachelor of Science (BSc) in Computer Science & Engineering or Computing & Information Systems.
 
+---
 * 📧 [Send Resume via Email](mailto:hr@belivit.com)
-## 🛠️ Tech Stack
-
-`Node.js` `React` `AngularJS` `MERN` `MongoDB` `Express.js` `RESTful APIs` `JavaScript` `HTML` `CSS` `Redux` `Agile` `AWS` `Azure` `Google Cloud` `Microservices` `CI/CD` `Git` 
-
 ---
 
 </details>
@@ -13054,6 +12841,8 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 | Field | Information |
 | ----- | ----------- |
 | **Employment** | Internship |
+
+**🛠️ Tags**: `PHP` `LAMP` `Laravel` `CakePHP` `CodeIgniter` `MySQL` `JavaScript` `Vue.js` `Angular` `jQuery` `HTML5` `CSS3` `SASS` `LESS` `Bootstrap` `RESTful APIs` `SOAP` `AWS` `Google Cloud` `MongoDB` `Redis` 
 
 ## 📝 [Description](https://www.belivit.com/vacancies)
 
@@ -13105,64 +12894,13 @@ Strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and 
 
 *   Bachelor of Science (BSc) in Computer Science & Engineering / Bachelor of Science (BSc) in Computing & Information Systems.
 
+---
 * 📧 [Send Resume via Email](mailto:hr@belivit.com)
-## 🛠️ Tech Stack
-
-`PHP` `LAMP` `Laravel` `CakePHP` `CodeIgniter` `MySQL` `JavaScript` `Vue.js` `Angular` `jQuery` `HTML5` `CSS3` `SASS` `LESS` `Bootstrap` `RESTful APIs` `SOAP` `AWS` `Google Cloud` `MongoDB` `Redis` 
-
 ---
 
 </details>
 
 ## 🏢 iPay
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior System Administrator</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | 6 August 2026 |
-| **Location** | Dhaka (Dhanmondi) |
-| **Role** | Senior System Administrator |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://www.ipay.com.bd/career)
-
-We're looking for a Senior System Administrator to own the reliability, security, and performance of iPay's IT infrastructure. You'll sit at the intersection of infrastructure engineering, cloud operations, cybersecurity, and system reliability — making sure our servers, networks, cloud platforms, and critical business systems remain secure, available, and resilient as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex infrastructure challenges, automating operations, and maintaining mission-critical systems in a fast-paced fintech environment.
-
-* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
-## 🛠️ Tech Stack
-
-`Windows Server` `Linux` `VMware` `Hyper-V` `AWS` `Azure` `GCP` `PowerShell` `Bash` `Python` `Active Directory` `DNS` `DHCP` `VPN` `Firewalls` 
-
----
-
-</details>
-
-<details>
-<summary> <strong style="font-size: 1.3em;">💼 Senior Database Administrator</strong> </summary>
-
-| Field | Information |
-| ----- | ----------- |
-| **Employment** | Full Time |
-| **Posted** | 6 August 2026 |
-| **Location** | Dhaka (Dhanmondi) |
-| **Role** | Senior Database Administrator |
-| **Vacancies** | 1 |
-
-## 📝 [Description](https://www.ipay.com.bd/career)
-
-We're looking for a Senior Database Administrator to own the performance, availability, security, and scalability of iPay's database infrastructure. You'll sit at the intersection of database engineering, infrastructure, security, and payment operations — making sure our mission-critical databases remain reliable, highly available, and optimized as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex technical problems, optimizing database performance, and ensuring the integrity of financial data in a fast-paced fintech environment.
-
-* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
-## 🛠️ Tech Stack
-
-`PostgreSQL` `MySQL` `Microsoft SQL Server` `Oracle` `Linux` `Bash` `Python` `PowerShell` 
-
----
-
-</details>
 
 <details>
 <summary> <strong style="font-size: 1.3em;">💼 Business Development Associate</strong> </summary>
@@ -13175,15 +12913,14 @@ We're looking for a Senior Database Administrator to own the performance, availa
 | **Role** | Business Development Associate |
 | **Vacancies** | 4 |
 
+**🛠️ Tags**: `Business Development` `Sales` `Customer Acquisition` `Merchant Acquisition` `Fintech` `CRM` 
+
 ## 📝 [Description](https://www.ipay.com.bd/career)
 
 We're looking for a Business Development Associate to help expand iPay's customer base, merchant network, and market presence. You'll serve as a key brand ambassador — engaging prospective customers, building strategic relationships, and driving adoption of iPay's digital payment and financial services. It's a dynamic, front-line role for someone with strong communication skills, commercial awareness, relationship-building ability, and a genuine interest in fintech.
 
+---
 * 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
-## 🛠️ Tech Stack
-
-`Business Development` `Sales` `Customer Acquisition` `Merchant Acquisition` `Fintech` `CRM` 
-
 ---
 
 </details>
@@ -13199,15 +12936,14 @@ We're looking for a Business Development Associate to help expand iPay's custome
 | **Role** | Customer Experience Executive |
 | **Vacancies** | 4 |
 
+**🛠️ Tags**: `Customer Support` `Zendesk` `Fintech` `Payment Operations` `KYC` 
+
 ## 📝 [Description](https://www.ipay.com.bd/career)
 
 We're looking for a Customer Experience Executive to deliver exceptional support to iPay's customers, merchants, and business users. You'll sit at the intersection of customer support, payment operations, transaction troubleshooting, and compliance — making sure customers get accurate, timely, and empathetic help throughout their journey with iPay.
 
+---
 * 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
-## 🛠️ Tech Stack
-
-`Customer Support` `Zendesk` `Fintech` `Payment Operations` `KYC` 
-
 ---
 
 </details>
@@ -13223,15 +12959,60 @@ We're looking for a Customer Experience Executive to deliver exceptional support
 | **Role** | Operations Manager |
 | **Vacancies** | 1 |
 
+**🛠️ Tags**: `Operations` `Fintech` `Banking` `Payment Settlement` `Reconciliation` `Compliance` 
+
 ## 📝 [Description](https://www.ipay.com.bd/career)
 
 We're looking for an Operations Manager to own the day-to-day reliability and efficiency of iPay's core payment operations. You'll sit at the intersection of banking partnerships, transaction settlement, compliance, merchant and agent operations, and customer experience — making sure every taka moves smoothly, every time, across 57+ bank integrations and a fast-growing base of consumers and merchants.
 
+---
 * 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
-## 🛠️ Tech Stack
+---
 
-`Operations` `Fintech` `Banking` `Payment Settlement` `Reconciliation` `Compliance` 
+</details>
 
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Database Administrator</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | 6 August 2026 |
+| **Location** | Dhaka (Dhanmondi) |
+| **Role** | Senior Database Administrator |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `PostgreSQL` `MySQL` `Microsoft SQL Server` `Oracle` `Linux` `Bash` `Python` `PowerShell` 
+
+## 📝 [Description](https://www.ipay.com.bd/career)
+
+We're looking for a Senior Database Administrator to own the performance, availability, security, and scalability of iPay's database infrastructure. You'll sit at the intersection of database engineering, infrastructure, security, and payment operations — making sure our mission-critical databases remain reliable, highly available, and optimized as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex technical problems, optimizing database performance, and ensuring the integrity of financial data in a fast-paced fintech environment.
+
+---
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior System Administrator</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | 6 August 2026 |
+| **Location** | Dhaka (Dhanmondi) |
+| **Role** | Senior System Administrator |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Windows Server` `Linux` `VMware` `Hyper-V` `AWS` `Azure` `GCP` `PowerShell` `Bash` `Python` `Active Directory` `DNS` `DHCP` `VPN` `Firewalls` 
+
+## 📝 [Description](https://www.ipay.com.bd/career)
+
+We're looking for a Senior System Administrator to own the reliability, security, and performance of iPay's IT infrastructure. You'll sit at the intersection of infrastructure engineering, cloud operations, cybersecurity, and system reliability — making sure our servers, networks, cloud platforms, and critical business systems remain secure, available, and resilient as iPay continues to scale. It's a high-ownership role for someone who genuinely enjoys solving complex infrastructure challenges, automating operations, and maintaining mission-critical systems in a fast-paced fintech environment.
+
+---
+* 📧 [Send Resume via Email](mailto:jobs@ipay.com.bd)
 ---
 
 </details>

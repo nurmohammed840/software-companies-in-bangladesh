@@ -209,9 +209,6 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
     if let Some(ty) = &job.employment_type {
         writeln!(o, "| **Employment** | {ty:?} |")?;
     }
-    if let Some(at) = &job.posted_at {
-        writeln!(o, "| **Posted** | {at:?} |")?;
-    }
     if let Some(salary) = &job.salary {
         match (salary.min, salary.max) {
             (Some(num), None) | (None, Some(num)) => {
@@ -229,6 +226,9 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
             _ => {}
         }
     }
+    if let Some(at) = &job.posted_at {
+        writeln!(o, "| **Posted** | {at:?} |")?;
+    }
     if let Some(deadline) = &job.deadline {
         writeln!(o, "| **Deadline** | {deadline:?} |")?;
     }
@@ -242,14 +242,15 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
         writeln!(o, "| **Vacancies** | {count} |")?;
     }
 
-    writeln!(
-        o,
-        "\n## 📝 [Description]({source})\n\n{}\n",
-        job.description
-    )?;
+    if !job.tags.is_empty() {
+        let tags: String = job.tags.iter().map(|tag| format!("`{tag}` ")).collect();
+        writeln!(o, "\n**🛠️ Tags**: {tags}\n")?;
+    }
+
+    writeln!(o, "## 📝 [Description]({source})\n\n{}\n", job.description)?;
 
     if !job.apply.is_empty() {
-        // writeln!(o, "---\n")?;
+        writeln!(o, "---")?;
 
         for method in &job.apply {
             match method {
@@ -261,11 +262,7 @@ fn print_post(o: &mut String, source: &str, job: &JobPost) -> Result {
         }
     }
 
-    if !job.tags.is_empty() {
-        let tags: String = job.tags.iter().map(|tag| format!("`{tag}` ")).collect();
-        writeln!(o, "## 🛠️ Tech Stack\n\n{tags}\n")?;
-        writeln!(o, "---\n")?;
-    }
+    writeln!(o, "---\n")?;
 
     Ok(())
 }
@@ -290,7 +287,9 @@ pub fn gen_readme(dir: PathBuf) -> Result {
         jobs.len()
     )?;
 
-    for (name, Entry { source, jobs }) in jobs {
+    for (name, Entry { source, mut jobs }) in jobs {
+        jobs.sort_by_key(|job| job.title.clone());
+
         let jobs: Vec<_> = jobs.into_iter().filter(|job| job.is_open()).collect();
 
         if jobs.is_empty() {
