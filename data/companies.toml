@@ -813,6 +813,7 @@ tech = ["MongoDB", "NodeJS", "Python", "Scala"]
 type = []
 website = "https://www.optimizely.com/"
 linkedin = "https://www.linkedin.com/company/optimizely/"
+job = "https://careers.optimizely.com/search/?locationsearch=bangladesh"
 
 ["Orange Toolz"]
 tech = ["AWS", "Android", "AngularJS", "Azure", "CakePHP", "Laravel", "NodeJS", "ReactNative", "Xamarin", "Zend", "iOS"]

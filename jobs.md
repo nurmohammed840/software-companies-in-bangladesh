@@ -1,6 +1,6 @@
 # Jobs
 
-**🟢 210 open** · **📋 279 total** · **🏢 65 companies**
+**🟢 221 open** · **📋 290 total** · **🏢 66 companies**
 
 ## 🏢 6sense Technologies
 
@@ -8907,6 +8907,568 @@ Strong programming skills will be a significant plus point. The hiring process w
 
 ---
 * 🌐 [Apply on Website](https://onecodesoft.com/user-panel/apply-for-job/senior-laravel-developer)
+---
+
+</details>
+
+## 🏢 Optimizely (Newscred) (USA)
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Developer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Aug 6, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Developer |
+
+**🛠️ Tags**: `.NET` `ASP.NET MVC` `JavaScript` `HTML` `CSS` `REST APIs` `GraphQL` `Git` `Agile` `CMS` 
+
+## 📝 [Description](https://careers.optimizely.com/talentcommunity/apply/1359832055?locale=en_US)
+
+## Introduction
+Developer role will be responsible for implementing features using best practices on our commerce, content management, and digital marketing solutions. The implementation will require knowledge of responsive styling, modern JavaScript frameworks and ASP.Net MVC. This person will work with a team of experienced project/product managers, experience designers, QA analysts, and fellow developers to build digital experience solutions.
+
+## Job Responsibilities
+* Is responsible for the delivery of a specific feature / process / program.
+* Is starting to be recognized for knowledge in a particular focus area by your team.
+* Accountable for delivering quality, on time work product; may also contribute to team work product.
+* Exercises judgment within defined procedures and practices to determine appropriate action.
+* Leverages knowledge to improve inefficient processes or develop new solutions.
+* Able to independently and effectively break more complex work into smaller tasks and execute.
+* Leverages key learnings and applies to future situations.
+* Is resourceful and figures things out autonomously when needed.
+* Loading content using REST APIs or GraphQL.
+* Working with experience designers and developers through the stages of design, development, QA, launch, and maintenance.
+
+**Working Hours:** Sunday to Thursday, 2:00 PM – 10:00 PM Dhaka time [Hybrid]
+
+## Knowledge and Experience
+* You have **3 to 5 years** of experience with **.NET (Framework and Core)** development with a focus on web-related frameworks like **ASP.NET MVC** is desirable.
+* Ability to create a UI component end to end with HTML, CSS, animations, and dynamic interactions.
+* Exposure to any traditional or headless CMS platforms but particularly Adobe Experience Manager, Sitecore, or Optimizely.
+* Starting to develop advanced, specialized skills specific to the role / areas of expertise.
+* Shows a willingness to learn more about their specific industry, best practices, and apply as appropriate.
+* Experience working with project managers, clients, and teams following Agile development methodologies.
+* Good working knowable with Git version control and GitFlow methodologies.
+
+## Education
+Bachelor’s in Computer Science, Software Engineering, Information Systems, or related discipline required.
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1359832055?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Enablement Associate</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Jul 30, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Entry Level |
+
+**🛠️ Tags**: `LMS` `CMS` `Administrative Support` `Partner Enablement` `Training Coordination` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+The Enablement Associate role is an entry level, administrative support position at the heart of the Enablement team. This will involve working with the Partner Enablement Team and other GTM functions to coordinate multiple training programs, manage training related content and systems, including reporting relating to certifications and building relationships across our globalPartner organization.
+
+## Job Responsibilities
+* Managing the administration of training materials and resources.
+* Preparing, organizing and managing Partner-related content and assets which includes but is not limited to brand-specific PowerPoint presentations, product-specific training courses, marketplace and agent directory listings.
+* Tracking and reporting on training completion and assessment stats.
+* Collaborating with other teams to ensure smooth and efficient coordination of partner enablement initiatives.
+
+**Working hours:** Monday to Friday, 2:00 PM – 10:00 PM Dhaka time [Hybrid]
+
+## Knowledge and Experience
+* Experience in working with teams across different time zones and departmental functions.
+* Familiar with working in various Learning Management Systems (LMS), with the ability to effectively build training sessions for multiple partners across different time zones.
+* Experience in working with any Content Management System (CMS) is an added advantage.
+* Excellent attention to detail and accuracy.
+* Strong communication and interpersonal skills.
+* A proactive and solution-oriented approach.
+* A commitment to continuous learning and improvement.
+
+## Education
+A bachelor's degree is preferred, or relevant professional experience.
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1359076155?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 GTM Operations Analyst</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Jul 22, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | GTM Operations Analyst |
+
+**🛠️ Tags**: `Excel` `Salesforce` `GTM Operations` `Data Analytics` `FP&A` `Compensation Strategy` 
+
+## 📝 [Description](https://careers.optimizely.com/talentcommunity/apply/1356344455?locale=en_US)
+
+## GTM Operations Analyst
+
+### Introduction
+The Go-To-Market (GTM) Operations department is responsible for ensuring the GTM organization (Presales, Sales Development Sales, Customer Success & Services), is properly empowered. This team supports the processes and tools that allow GTM teams to work efficiently and effectively, all while providing insights and analytics to executive leadership to inform business decisions.
+
+The GTM Compensation Strategy & Operations team manages the end-to-end Compensation planning program, including design, strategy, budgeting, quotas, systems & reporting, and enablement. This position will support the monthly Compensation process and oversee the administration and calculation of the GTM Compensation Plans.
+
+### Job Responsibilities
+* Project manage monthly commission calculations, with inputs from Sales Operations, Customer Success, and Finance organizations
+* Day-to-day upkeep of Optimizely’s ICM (Incentive Compensation Model)
+* Support GTM teams by answering questions on attainment calculations and compensation payout
+* Work closely with HR and Finance to track employee changes and distribute compensation plans for new hires, promotions and organizational shifts throughout the year
+* Provide on demand analysis regarding compensation analytics, including OTE and quota attainment
+* Manage exception requests for attainment and compensation payout
+* Identify / recommend tools to improve performance and standardize processes
+
+### Working Hours
+Monday to Friday, 2:00 PM – 10:00 PM Dhaka time [Hybrid]
+
+### Knowledge and Experience
+* Expertise in Excel
+* Exceptional communication skills, written and verbal.
+* Highly motivated and entrepreneurial – you not only can spot problems, but you can marshal resources towards creative solutions.
+* Previous experience with Salesforce and commissions tools preferred.
+* Possess strong and effective planning, execution, presentation, communications, negotiations and multi-tasking skills.
+* Demonstrate a strong sense of ownership in his or her work.
+* Demonstrates a strong problem-solving mindset.
+
+### Education
+* 2-4+ years of experience in GTM (Sales) Operations, Data Analytics, FP&A or Total Rewards
+* Bachelor’s degree or higher
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1356344455?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Intern, Accounting</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Internship |
+| **Posted** | Aug 4, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Intern |
+
+**🛠️ Tags**: `Accounting` `Finance` `Excel` `AI tools` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+
+We're looking for a motivated and detail-oriented Accounting Intern to support our team manager and broader finance team in the day-to-day operations of a global accounting function. This is a hands-on role for someone eager to learn, contribute, and grow within a collaborative and supportive environment.
+
+**Working Hours:** Sunday to Thursday (2 PM to 10 PM), Hybrid
+**Internship Duration:** 6 months
+
+## What You'll Be Doing
+
+*   Assist with journal entries and account reconciliations
+*   Help monitor daily bank transactions and update internal systems
+*   Contribute to team meetings and process improvement discussions
+*   Keep tasks organized, up to date, and moving forward
+*   Lend a hand to other finance team members as needed
+*   Support the team with ad hoc assignments as they arise
+
+## What We're Looking For
+
+*   A Bachelor's degree (or in progress), preferably in Accounting or Finance
+*   Comfortable with Excel and curious about learning internal accounting and AI tools
+*   No extensive experience required — we're hiring for potential, not perfection
+*   A positive, can-do attitude that adds energy to the team
+*   Someone who asks questions, learns quickly, and isn't afraid to get their hands dirty
+*   Reliable, punctual, and comfortable handling detail-oriented, recurring tasks
+
+## What You'll Gain
+
+*   Real exposure to global finance operations and international stakeholder management
+*   A first-hand understanding of how finance teams collaborate across regions
+*   The chance to build meaningful professional relationships and discover your niche in finance
+*   A supportive, down-to-earth team that values effort, curiosity, and good energy over hierarchy
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1362912755?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Marketing Operations Associate (Six-Month Contract)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Contract |
+| **Posted** | Jul 23, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Marketing Operations Associate |
+
+**🛠️ Tags**: `Marketo` `Salesforce` `HubSpot` `GDPR` `CASL` `CAN-SPAM` `Marketing Operations` `Email Marketing` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+
+Optimizely is seeking a detail-oriented Marketing Operations Associate to join its Marketing Operations team. This is a **six-month contractual** role. This role will be instrumental in triaging incoming requests, building and scheduling emails, handling list uploads, and keeping everything in sync across Marketo and Salesforce.
+
+## Job Responsibilities
+
+*   Triage and execute campaign requests end to end
+*   Build email programs in Marketo (clone, configure, schedule)
+*   Handle list uploads: clean files, validate data, manage consent fields, confirm records in Salesforce
+*   Set up LinkedIn Lead Gen Form integrations with UTM config and Salesforce campaign syncing
+*   Coordinate with marketing stakeholders to resolve blockers and communicate status
+
+**Working hours:** Monday to Friday, 2:00 PM – 10:00 PM Dhaka time [Hybrid] 
+
+## Knowledge and Experience
+
+*   1+ year of experience using email marketing platforms such as Marketo, HubSpot, or similar tools.
+*   Hands-on Salesforce experience (campaign management, lead routing)
+*   Solid grasp of GDPR, CASL, and CAN-SPAM requirements
+
+## Education
+
+Bachelor's Degree
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1356437255?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Marketing Operations Specialist</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Jul 29, 2026 |
+| **Location** | Dhaka, BD |
+| **Role** | Marketing Operations Specialist |
+
+**🛠️ Tags**: `Marketo` `Salesforce` `Marketing Operations` `CRM` `Data Analysis` `Tech Stack Management` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+The Marketing Operations Specialist role will be the lead owner of the marketing systems and processes that support the global marketing team at Optimizely. This position will be responsible for maintaining and improving our Marketo and integrated Marketing tech stack & budget.
+
+## Job Responsibilities
+**Technology Focus:**
+* Own the marketing budget & technology stack.
+* Manage integrated marketing technologies including webinar platforms (Zoom), Qualified, 6Sense, and LeanData, UserGems, Zoominfo, LeadIQ, Cognism, and Lusha.
+* Monitor tech integrations from Marketo to ensure uptime.
+* Own account and contact data within our marketing systems and work with cross-functional teams to improve data quality.
+* Own our lead lifecycle process (MQL rules).
+* Report on trends and usage of our integrations to and from Marketo.
+
+**Process Focus:**
+* Develop, implement, and maintain data quality processes, training, and reference materials.
+* Partner with cross-functional stakeholders to gather requirements, assess impact, and manage change.
+* Continuously audit and refine existing processes to identify inefficiencies.
+* Create and maintain process documentation and knowledge-base resources.
+* Define and monitor process-level KPI’s and SLA’s.
+
+## Knowledge and Experience
+* 2+ years in a sales/marketing operational role OR 2+ years as an IT business analyst for Marketing.
+* Hands-on experience being an administrator in Marketo.
+* Experience building technical documentation and training programs.
+* Manage 3rd party technology vendor relationships.
+* CRM experience (Salesforce).
+* Excellent spoken and written communication skills.
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1362499855?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Product Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Jul 22, 2026 |
+| **Location** | Dhaka, BD |
+| **Role** | Product Manager |
+
+**🛠️ Tags**: `SaaS` `Product Management` `Roadmap` `PRD` `MarTech` `Content Marketing Platform` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+Optimizely is seeking a highly skilled Product Manager to join our Content Marketing Platform team. As a Product Manager, you will be an individual contributor who owns one or more significant product areas and excels at SaaS product management.
+
+In this role, you will be responsible for driving the roadmap and execution for work management features within the CMP. Working closely with cross-functional teams to ensure successful product delivery.
+
+## Job Responsibilities
+* Be the voice of the customer by gathering direct feedback from users & stakeholders.
+* Own the product roadmap for a feature set within the Content Marketing Platform.
+* Communicate priorities, timelines, and decisions regularly to stakeholders.
+* Drive discovery and research to validate customer problems.
+* Draft Product Requirements Documents (PRDs).
+* Partner closely with Engineering, UX, and Data/Analytics to deliver high-quality capabilities.
+* Collaborate with GTM partners (Product Marketing, Sales, Customer Success).
+* Define clear problem statements, requirements, and success metrics (KPIs/OKRs).
+* Monitor key product health signals (usage, reliability, performance).
+
+## Knowledge and Experience
+* Typically 2-5 years product experience or equivalent skills.
+* Keen business acumen.
+* Self-starter with the ability to work independently.
+* Proven track record of delivering quality, on-time product deliverables.
+* Experience with rapid experimentation.
+* Ability to handle ambiguity.
+* Experience owning a product area end-to-end.
+
+## Education
+Bachelor's Degree or equivalent experience.
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1361842955?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Customer Success Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Aug 11, 2026 |
+| **Location** | Dhaka, BD |
+| **Role** | Senior |
+
+**🛠️ Tags**: `Customer Success` `Sales` `Account Management` `Digital Marketing` `Salesforce` `Gainsight` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+
+The role of the Senior Customer Success Manager (CSM) will be accountable for driving customer success, leading renewals, creating qualified upsell leads and overall relationship management within the assigned client base.
+
+As a Senior CSM within the organization, this role will be responsible for driving growth while demonstrating the ability to adapt to changing market and customer demands. The Senior CSM will be responsible for identifying new software and services opportunities within assigned client base while driving increasing renewals performance. This role will be accountable for driving financial performance including revenue and margin growth
+
+## Job Responsibilities
+
+* Actively prospect and grow existing customers recurring revenue within the customer base
+* Up-sell Education and Expert Services and Cross-sell additional products
+* Achieve and exceed sales objectives within defined accounts and assigned territory
+* Engage, strategize, and cultivate deep relationships with senior level executives at client companies
+* Manage renewal pipeline and provide timely and accurate forecast reports
+* Maintain professional and technical knowledge of Optimizely' s Commerce products
+* Proactively provide smart client research and industry specific information
+* Perform sales presentations to position products and services to the customer’s specific needs
+* Identify, develop, and maintain long-term constructive and effective client relationships
+* Maintain contact regular contact with client regarding account direction, project management issues through QBR’s and scheduled meetings
+* Establish and maintain role as client advisor
+* Maintain an in-depth understanding of financial status of accounts at all times
+* Become a single point of contact for customers, partners, and internal sales for services opportunities
+
+## Knowledge and Experience
+
+* More than 5 years of experience working in a client facing environment
+* Very good technical understanding
+* Basic Commercial understanding and experience
+* Ability to act autonomously
+* Very good presentation and communication skills
+* Strong negotiation skills
+* High level of energy & enthusiasm for Internet Marketing
+* Other digital / direct marketing disciplines an advantage
+* Knowledge of CRM tools (i.e. Salesforce and Gainsight)
+* Ability to work effectively on multiple projects
+* A passion for people, able to use your initiative and willing to go the extra mile
+* Have a “Can Do” attitude
+* Excellent written and verbal communication skills
+* Confident, self-motivated and driven to achieve
+* Experience in Customer Success operations in the digital marketing industry
+* Excellent planning and organizational skills
+* Interpersonal and communication skills
+* The ability to work effective across all parts of the organization
+* Deep understanding of value drivers in a recurring revenue company
+* Analytical and process oriented
+* Flexibility in scheduling, occasional travel might be required
+
+## Education
+
+Bachelors degree and preferably further professional training in direct marketing or a Masters degree a plus
+
+## Competencies
+
+* Establishing Relationships
+* Navigating Organizations
+* Prioritizing and Organizing Work
+* Making Convincing Arguments
+* Negotiating Agreements
+* Championing Customer Needs
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1363528455?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Jul 16, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Senior Software Engineer |
+
+**🛠️ Tags**: `JavaScript` `TypeScript` `React` `Java` `Spring` `MySQL` `SaaS` `Agile` `Scrum` `Kanban` `TDD` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+This position is dedicated to the engineering and advancement of Optimizely Campaign, our premier, enterprise-grade omnichannel marketing automation platform. Optimizely Campaign is a mature, high-performing solution that empowers businesses to design, orchestrate, and analyze highly personalized marketing campaigns across a diverse range of channels - including email, SMS/RCS, mobile and web push, WhatsApp, and print. By leveraging real-time customer data, advanced segmentation, and built-in AI agents, the platform automates complex, multi-step customer journeys and optimizes message delivery timing.
+
+To support this product, we are seeking a Senior Software Engineer who functions as a subject matter expert with technical mastery in their domain. In this role, you will consistently manage and deliver high-quality, timely releases that address complex, end-to-end problems within an agile team. Leveraging your deep technical expertise, you will make thoughtful architecture and tradeoff decisions, mentor junior engineers, and proactively communicate technical designs across various engineering forums. Additionally, you will own the operational excellence of your services, assume progressive leadership roles on technical and cultural initiatives, and actively contribute to the company's hiring, retention, and diversity efforts.
+
+## Job Responsibilities
+As a hands-on member of our high-performing, cross-functional agile development team (one of the Berlin-based teams), your primary responsibilities will include:
+
+*   **Product Development & Maintenance:** Active, hands-on contribution to the development, scaling, and maintenance of the Optimizely Campaign platform, ensuring robust performance and reliability.
+*   **Technical Leadership & Mentorship:** Guiding junior engineers, conducting rigorous code reviews, and fostering a collaborative, growth-oriented engineering culture.
+*   **Cross-Functional Collaboration:** Partnering closely with product managers, UX designers, and fellow engineers within an agile framework to refine requirements and deliver seamless end-to-end features.
+*   **Operational Ownership:** Monitoring, troubleshooting, and continuously optimizing the performance and security of our core services and components.
+
+## Knowledge and Experience
+*   5+ years of professional experience designing and developing web applications (specifically with JavaScript/TypeScript (ideally React, frontend focus), Java (backend focus), the Spring framework using different persistence technologies, relational databases like MySQL)
+*   Profound knowledge of software engineering fundamentals, industry-proven software frameworks and engineering best practices for producing high quality code
+*   Basic understanding of software architecture principles and distributed systems
+*   Experience in building, delivering, and maintaining services that comprise modern SaaS products
+*   Experience with agile delivery workflows (Scrum, Kanban) and modern software quality techniques like TDD, pair programming, etc.
+*   Good communication skills to articulate ideas, discuss trade-offs and collaborate with the team and with stakeholders (e.g. Product team) also with regards to time shifts due to different office locations
+
+## Education
+Bachelor’s Degree (Computer Science or engineering preferred) or equivalent work experience
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1360606655?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer I</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Aug 13, 2026 |
+| **Location** | Dhaka, BD (Hybrid) |
+| **Role** | Software Engineer I |
+
+**🛠️ Tags**: `Java` `Spring` `REST APIs` `HTML` `CSS` `JavaScript` `MySQL` `PostgreSQL` `React` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+
+This role is part of the engineering team behind Optimizely Campaign, a large-scale customer engagement and messaging platform that enables global brands to design, automate, and deliver personalized cross-channel communications at scale. The team works on high-volume, real-time systems where reliability, performance, and data-driven experiences are critical, while increasingly incorporating agentic AI capabilities to enhance automation and customer experience.
+
+We are looking for a motivated early-career Software Engineer to join the Campaign engineering team, where you will develop your technical skills while contributing to a complex, enterprise SaaS product used by international customers. This role is ideal for engineers who are eager to learn modern backend technologies, collaborate in a cross-functional environment, and gradually grow into a well-rounded full-stack professional.
+
+## Job Responsibilities
+
+As a Software Engineer I, you will 
+
+* Contribute to the development of a large-scale SaaS platform with a primary focus on backend development using Java and Spring 
+* Learn to work effectively within an existing, complex codebase, making incremental improvements under guidance 
+* Collaborate with Product, QA, and other engineering teams to deliver customer-centric solutions 
+* Write clean, maintainable, and well-tested code following established engineering standards 
+* Participate in code reviews and learn from feedback provided by more experienced engineers 
+* Leverage AI-assisted development tools to support learning, debugging, testing, and productivity 
+* Work Hours: Monday to Friday - 11:00 AM - 7:00 PM (Hybrid) 
+
+## Knowledge and Experience
+
+**About you** 
+
+* You are an early-career software engineer who is eager to learn, grow, and take ownership of your work 
+* You have 1–2 years of professional experience (or equivalent internships/projects) in software development 
+* You understand core backend concepts such as REST APIs, basic database interactions, and application lifecycle 
+* You have some exposure to frontend technologies such as HTML, CSS, and JavaScript, and are interested in growing as a full-stack engineer 
+* You are comfortable working in an agile, cross-functional team environment 
+* You communicate clearly in English (verbal and written) and enjoy working in an international setting 
+* You demonstrate an AI-first mindset, using AI tools responsibly to support learning, development, and problem-solving 
+
+**Nice to have** 
+
+* Hands-on experience with Java and are familiar with the Spring ecosystem 
+* Familiarity with relational databases (e.g. MySQL or PostgreSQL) 
+* Basic understanding of frontend frameworks such as React 
+
+## Education
+
+Bachelor’s Degree (Computer Science or Engineering preferred) or equivalent work experience
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1340700355?locale=en_US)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer II</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Posted** | Aug 11, 2026 |
+| **Location** | Dhaka, BD |
+| **Role** | Software Engineer II |
+
+**🛠️ Tags**: `Python` `C#` `Java` `JavaScript` `PaaS` `SaaS` `Agile` `TDD` 
+
+## 📝 [Description](https://careers.optimizely.com/search?locationsearch=bangladesh)
+
+## Introduction
+Software Engineer II engineers display an ability to independently deliver on projects of moderate complexity, from design to production, with consistently high quality. They can plan and effectively break down their own work. They make steady, visible progress and communicate issues and unexpected changes to their team, quickly and clearly. They take on a more active role within their team by proactively giving code reviews, helping to define team priorities, identify places where quality best practices are not being followed, and offering feedback to their peers and their manager.
+
+## Job Responsibilities
+* Ownership of small epics or moderate-sized portions of larger epics within a single delivery team
+* Solves problems of moderate complexity with high-quality, minimum viable solutions, from design to completion
+* Able to investigate and deliver fixes for moderately complex bugs that may have no obvious solution
+* Participates in the technical design process by carefully reading and providing feedback on design docs from their team or authoring their own design docs
+* Provides high-accountability on-call support, if applicable to the team they are on
+* Actively contributes to incident retrospectives, and process-related ceremonies and does their part to drive follow-up tasks to completion
+* Participates in identifying operational metrics and building dashboards to measure these
+* Has strong debugging and problem solving skills to navigate existing systems, figure out how things work, and get the task done
+
+## Knowledge and Experience
+* 2-5 years of experience as a software engineer
+* Experience coding in an industry-standard language (e.g. Python, C#, Java, JavaScript, etc.)
+* Experience building, delivering, and maintaining services that comprise modern PaaS/SaaS products
+* Experience with agile delivery workflows and modern software quality techniques like TDD, pair programming, etc.
+
+## Education
+Bachelor’s Degree (Computer Science or engineering preferred) or equivalent work experience
+
+---
+* 🌐 [Apply on Website](https://careers.optimizely.com/talentcommunity/apply/1363501155?locale=en_US)
 ---
 
 </details>
