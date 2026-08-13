@@ -3,7 +3,7 @@
 
 ## 💼 Jobs
 
-Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions.
+Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions, From `70` companies.
 
 | # | Company | Type | Technologies | Link |
 |:-:| ------- | ---- | ------------ | ---- |
@@ -13,66 +13,70 @@ Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/
 | 4 | Apex DMIT | — | `Flutter` `JavaScript` `PHP` `Python` | [Jobs](https://www.career.apexdmit.com/) <br> [Web](https://www.apexdmit.com/) |
 | 5 | Appnap | — | `iOS` | [Jobs](https://www.appnap.io/career) <br> [Web](https://www.appnap.io/) |
 | 6 | Appyfilab | — | `Flutter` `Laravel` `NodeJS` `Nuxt` | [Jobs](https://www.appifylab.com/career#openings) <br> [Web](https://www.appifylab.com/) |
-| 7 | Augmedix Inc. | — | `AWS` `Android` `AngularJS` `Go` `ML` `NodeJS` `Spring` | [Jobs](https://www.augmedix.com/careers) <br> [Web](https://www.augmedix.com/) |
-| 8 | BJIT Ltd. | — | `AI` `Android` `C#` `Java` `PHP` `iOS` | [Jobs](https://bjitgroup.com/career) <br> [Web](http://bjitgroup.com/) <br> [LinkedIn](https://www.linkedin.com/company/bjit/) |
-| 9 | Bangladesh Software Solution | — | `C#` `VueJS` | [Jobs](https://bssoln.com/careers/) <br> [Web](https://bssoln.com/) |
-| 10 | Bdtask | — | `Android` `WordPress` | [Jobs](https://www.bdtask.com/career.php) <br> [Web](https://www.bdtask.com/) |
-| 11 | Bit Mascot Ltd. | — | `.NET` `Python` `Spring` `TensorFlow` `WordPress` `jQuery` | [Jobs](https://www.bitmascot.com/careers/) <br> [Web](https://www.bitmascot.com/) |
-| 12 | Brac IT Services (biTS) | — | `Android` `Java` `PHP` | [Jobs](https://www.bracits.com/career/#open-rules) <br> [Web](https://www.bracits.com/) <br> [LinkedIn](https://www.linkedin.com/company/bracits/) |
-| 13 | Brain Station 23 PLC | — | `AEM` `Android` `Flutter` `Odoo` `PHP` `React` `Sitecore` `Xamarin` `iOS` | [Jobs](https://brainstation-23.easy.jobs/) <br> [Web](http://www.brainstation-23.com/) <br> [LinkedIn](https://www.linkedin.com/company/brain-station-23-plc/) |
-| 14 | COdesign | — | `Nuxt` | [Jobs](https://co.design/careers) <br> [Web](https://co.design/) |
-| 15 | DataSoft | — | `.NET` `Angular` `C#` `SpringBoot` | [Jobs](https://datasoft-bd.com/career) <br> [Web](http://datasoft-bd.com/) |
-| 16 | Enosis Solutions (USA) | — | `C#` `Java` `PHP` `Python` | [Jobs](https://enosisbd.pinpointhq.com/) <br> [Web](http://enosisbd.com/) |
-| 17 | FIGLAB | — | `PHP` | [Jobs](https://figlab.io/career/) <br> [Web](https://figlab.io/) |
-| 18 | Flyte Solutions | — | `Android` `NodeJS` `ReactNative` `iOS` | [Jobs](https://flytesolutions.com/career/) <br> [Web](https://flytesolutions.com/) |
-| 19 | Furqan Software | — | `Elasticsearch` `Firebase` `Go` `Laravel` `MongoDB` `RabbitMQ` `React` `Redis` | [Jobs](https://furqansoftware.com/careers/) <br> [Web](https://furqansoftware.com/) |
-| 20 | GeekSSort | — | `Flutter` `Laravel` `NextJS` `Shopify` `TestAutomation` `VueJS` `WordPress` | [Jobs](https://geekssort.com/career-page/) <br> [Web](https://geekssort.com/) |
-| 21 | HawarIT | — | `C#` | [Jobs](https://www.hawarit.com/career/) <br> [Web](https://www.hawarit.com/career-at-hawarit/) |
-| 22 | IXORA Solution | — | `Django` `Flutter` `MongoDB` `NodeJS` `React` `SQL` `SpringBoot` `Swift` `TypeScript` `VueJS` | [Jobs](https://ixorasolution.com/career) <br> [Web](https://ixorasolution.com/) |
-| 23 | Inument | — | `AI` `Flutter` `Java` `NodeJS` `PHP` `React` `nopCommerce` | [Jobs](https://inument.com/careers/#available-jobs) <br> [Web](https://inument.com/careers/#available-jobs) |
-| 24 | Invento Software Ltd. | — | `Django` `JavaScript` `WordPress` | [Jobs](https://invento.com.bd/career/) <br> [Web](http://invento.com.bd/) |
-| 25 | Inverse.AI | — | `Android` `iOS` | [Jobs](https://inverseai.com/career) <br> [Web](https://inverseai.com/) |
-| 26 | Jatri Services Ltd. | `E-logistics` | — | [Jobs](https://www.jatri.co/career#job-opening) <br> [Web](https://www.jatri.co/) |
-| 27 | Kona Software Lab | — | `AI` `Android` `Blockchain` `C++` `JavaScript` `Kotlin` `Spring` | [Jobs](https://konasl.com/careers#openings) <br> [Web](https://konasl.com/) |
-| 28 | LIILab | — | `Android` `Django` `Java` `Kotlin` `React` `WordPress` | [Jobs](https://liilab.com/career) <br> [Web](http://liilab.com/) |
-| 29 | LeadSoft | — | — | [Jobs](https://leads.com.bd/jobs/) <br> [Web](http://leads.com.bd/) |
-| 30 | ME SOLshare Ltd. | — | `Android` `Java` `JavaScript` `Python` | [Jobs](https://solshare.com/career/) <br> [Web](https://me-solshare.com/) <br> [LinkedIn](https://www.linkedin.com/company/me-solshare/) |
-| 31 | Mediusware Ltd. | — | `Angular` `NextJS` `VueJS` | [Jobs](https://www.mediusware.com/career) <br> [Web](https://www.mediusware.com/) <br> [LinkedIn](https://www.linkedin.com/company/mediusware/) |
-| 32 | Next Ventures | — | `AWS` `Linux` `PostgreSQL` `Python` `TypeScript` | [Jobs](https://career.nextventures.io/) <br> [Web](https://nextventures.io/) <br> [LinkedIn](https://www.linkedin.com/company/nextventuresofficial) |
-| 33 | Nogor Solutions Ltd. | — | `CakePHP` `Docker` `MongoDB` `MySQL` `Vuex` | [Jobs](https://nogorsolutions.com/career) <br> [Web](https://www.nogorsolutions.com/) |
-| 34 | Ollyo | — | `JoomShaper` `Themeum` | [Jobs](https://ollyo.com/careers/roles/) <br> [Web](https://www.ollyo.com/) <br> [LinkedIn](https://www.linkedin.com/company/ollyo/) |
-| 35 | Onecodesoft | — | `Flutter` `Laravel` `NodeJS` `Python` | [Jobs](https://onecodesoft.com/career) <br> [Web](https://onecodesoft.com/) <br> [LinkedIn](https://www.linkedin.com/company/onecodesoft) |
-| 36 | Optimizely (Newscred) (USA) | — | `MongoDB` `NodeJS` `Python` `Scala` | [Jobs](https://careers.optimizely.com/search/?locationsearch=bangladesh) <br> [Web](https://www.optimizely.com/) <br> [LinkedIn](https://www.linkedin.com/company/optimizely/) |
-| 37 | Portonics Ltd. | — | `AWS` `Android` `Docker` `MySQL` `NodeJS` `PHP` `PostgreSQL` `Python` `React` `iOS` | [Jobs](https://www.portonics.com/career) <br> [Web](http://portonics.com/) |
-| 38 | Pridesys IT Ltd. | — | `MySQL` `WordPress` `jQuery` | [Jobs](https://pridesys.com/careers) <br> [Web](https://pridesys.com/) |
-| 39 | REVE Systems (Singapore) | — | `CloudComputing` `Java` | [Jobs](https://www.revesoft.com/career) <br> [Web](https://www.revesoft.com/) |
-| 40 | ReliSource (USA) | — | `AWS` | [Jobs](https://www.relisource.com/careers/) <br> [Web](http://www.relisource.com/) |
-| 41 | Renessa Info Systems Ltd. | — | `CakePHP` `CodeIgniter` `Laravel` `jQuery` | [Jobs](https://www.renessainfosystems.com/career) <br> [Web](http://www.renessainfosystems.com/) |
-| 42 | RiseUp Labs | — | `Django` `Flutter` `Java` `Kotlin` `NodeJS` `React` `SQL` `Swift` `TypeScript` | [Jobs](https://riseuplabs.com/jobs/) <br> [Web](https://riseuplabs.com/) |
-| 43 | SCT Bangla Ltd. | — | `Angular` `Flutter` `Laravel` `React` `SQL` | [Jobs](https://www.sct-bangla.com/careers) <br> [Web](https://www.sct-bangla.com/) |
-| 44 | SJ Innovation | — | `Blockchain` `Flutter` `Java` `Kotlin` `React` `Swift` | [Jobs](https://career.sjinnovation.com/#jobs) <br> [Web](https://sjinnovation.com/) |
-| 45 | SSL Wireless | — | `Java` `JavaScript` `Laravel` `MySQL` | [Jobs](https://www.sslwireless.com/all-jobs) <br> [Web](https://www.sslwireless.com/) |
-| 46 | Sheba Technologies Ltd. | — | `Android` `C++` `Java` | [Jobs](https://www.shebatech.com.bd/career) <br> [Web](https://www.shebatech.com.bd/) |
-| 47 | Shopup | `E-commerce` | `AWS` `Docker` `Flutter` `MongoDB` `MySQL` `NodeJS` `React` | [Jobs](https://shopup.org/career) <br> [Web](https://shopup.com.bd/) |
-| 48 | Silicon Orchard Ltd. | — | `Android` `Blockchain` `NodeJS` `PHP` `iOS` | [Jobs](https://www.siliconorchard.com/career) <br> [Web](https://www.siliconorchard.com/) |
-| 49 | Singularity Ltd. | — | — | [Jobs](https://singularitybd.com/career) <br> [Web](https://singularitybd.com/) <br> [LinkedIn](https://www.linkedin.com/company/singularity-limited/) |
-| 50 | SouthTech | — | `.NET` `Android` `AngularJS` | [Jobs](https://career.southtechgroup.com/) <br> [Web](https://www.southtechgroup.com/) <br> [LinkedIn](https://www.linkedin.com/company/southtechgroup/) |
-| 51 | SovWare | — | `Flutter` `JavaScript` `Laravel` `WordPress` | [Jobs](https://www.sovware.com/career) <br> [Web](https://www.sovware.com/) <br> [LinkedIn](https://www.linkedin.com/company/sovware/) |
-| 52 | Spring Rain IT | — | `Android` `NodeJS` `ReactNative` | [Jobs](https://springrain.io/careers/#jobs) <br> [Web](https://springrainit.com/) |
-| 53 | Technext Ltd. | — | `Bootstrap` `NextJS` | [Jobs](https://technext.it/careers) <br> [Web](https://technext.it/) |
-| 54 | Technohaven Company Ltd. | — | `Android` `Angular` `Blockchain` `ML` `NodeJS` `React` `Rust` `iOS` | [Jobs](https://technohaven.com/career) <br> [Web](https://technohaven.com/) |
-| 55 | Tekarsh | — | `JavaScript` `Spring` | [Jobs](https://tekarsh.com/career) <br> [Web](https://tekarsh.com/) |
-| 56 | Therap (BD) Ltd. | — | `Java` | [Jobs](https://therap.hire.trakstar.com/) <br> [Web](https://therap.recruiterbox.com/) <br> [LinkedIn](https://www.linkedin.com/company/therapbd/) |
-| 57 | Vivasoft Ltd. | — | `C#` `Flutter` `Go` `Java` `Python` | [Jobs](https://www.vivasoftltd.com/career) <br> [Web](https://www.vivasoftltd.com/) <br> [LinkedIn](https://www.linkedin.com/company/vivasoftltd/) |
-| 58 | WPDeveloper | — | `Laravel` `VueJS` `WordPress` | [Jobs](https://wpcommerz.com/career) <br> [Web](https://wpdeveloper.com/) |
-| 59 | Wafi Solutions. | — | `Django` | [Jobs](https://www.wafisolutions.com/career) <br> [Web](https://www.wafisolutions.com/) |
-| 60 | Workspace InfoTech Ltd. | — | `Angular` `Django` `Spring` | [Jobs](https://www.workspaceit.com/career/) <br> [Web](https://www.workspaceit.com/) |
-| 61 | YOTECH Ltd. | — | `Android` `Angular` `Flutter` `MongoDB` `NodeJS` `React` `iOS` | [Jobs](https://www.yotech.ltd/careers) <br> [Web](https://www.yotech.ltd/) |
-| 62 | authLab | — | `AWS` `Laravel` `React` `VueJS` `WordPress` `jQuery` | [Jobs](https://authlab.io/jobs/) <br> [Web](https://authlab.io/) <br> [LinkedIn](https://www.linkedin.com/company/authlab-io/) |
-| 63 | belivIT | — | `Android` `PHP` `iOS` | [Jobs](https://www.belivit.com/vacancies) <br> [Web](https://www.belivit.com/) |
-| 64 | iPay | — | `Android` `Java` `MongoDB` `PostgreSQL` `Python` | [Jobs](https://www.ipay.com.bd/career) <br> [Web](https://www.ipay.com.bd/) <br> [LinkedIn](https://www.linkedin.com/company/ipay-systems-ltd./) |
-| 65 | mPower Social Enterprises Ltd. | — | `Android` `Java` `Python` | [Jobs](https://www.mpower-social.com/career) <br> [Web](https://www.mpower-social.com/) |
-| 66 | weDevs Ltd. | — | `Flutter` `VueJS` `WordPress` | [Jobs](https://wedevs.com/career/) <br> [Web](https://wedevs.com/) |
+| 7 | Audacity Ventures | — | `Android` `ExpressJS` `Flutter` `Kotlin` `MongoDB` `Swift` `VueJS` | [Jobs](https://career.audacityit.com/) <br> [Web](https://audacityventures.ca/) |
+| 8 | Augmedix Inc. | — | `AWS` `Android` `AngularJS` `Go` `ML` `NodeJS` `Spring` | [Jobs](https://www.augmedix.com/careers) <br> [Web](https://www.augmedix.com/) |
+| 9 | BJIT Ltd. | — | `AI` `Android` `C#` `Java` `PHP` `iOS` | [Jobs](https://bjitgroup.com/career) <br> [Web](http://bjitgroup.com/) <br> [LinkedIn](https://www.linkedin.com/company/bjit/) |
+| 10 | Bangladesh Software Solution | — | `C#` `VueJS` | [Jobs](https://bssoln.com/careers/) <br> [Web](https://bssoln.com/) |
+| 11 | Bdtask | — | `Android` `WordPress` | [Jobs](https://www.bdtask.com/career.php) <br> [Web](https://www.bdtask.com/) |
+| 12 | Bit Mascot Ltd. | — | `.NET` `Python` `Spring` `TensorFlow` `WordPress` `jQuery` | [Jobs](https://www.bitmascot.com/careers/) <br> [Web](https://www.bitmascot.com/) |
+| 13 | Brac IT Services (biTS) | — | `Android` `Java` `PHP` | [Jobs](https://www.bracits.com/career/#open-rules) <br> [Web](https://www.bracits.com/) <br> [LinkedIn](https://www.linkedin.com/company/bracits/) |
+| 14 | Brain Station 23 PLC | — | `AEM` `Android` `Flutter` `Odoo` `PHP` `React` `Sitecore` `Xamarin` `iOS` | [Jobs](https://brainstation-23.easy.jobs/) <br> [Web](http://www.brainstation-23.com/) <br> [LinkedIn](https://www.linkedin.com/company/brain-station-23-plc/) |
+| 15 | COdesign | — | `Nuxt` | [Jobs](https://co.design/careers) <br> [Web](https://co.design/) |
+| 16 | DataSoft | — | `.NET` `Angular` `C#` `SpringBoot` | [Jobs](https://datasoft-bd.com/career) <br> [Web](http://datasoft-bd.com/) |
+| 17 | Enosis Solutions (USA) | — | `C#` `Java` `PHP` `Python` | [Jobs](https://enosisbd.pinpointhq.com/) <br> [Web](http://enosisbd.com/) |
+| 18 | FIGLAB | — | `PHP` | [Jobs](https://figlab.io/career/) <br> [Web](https://figlab.io/) |
+| 19 | Flyte Solutions | — | `Android` `NodeJS` `ReactNative` `iOS` | [Jobs](https://flytesolutions.com/career/) <br> [Web](https://flytesolutions.com/) |
+| 20 | Furqan Software | — | `Elasticsearch` `Firebase` `Go` `Laravel` `MongoDB` `RabbitMQ` `React` `Redis` | [Jobs](https://furqansoftware.com/careers/) <br> [Web](https://furqansoftware.com/) |
+| 21 | GeekSSort | — | `Flutter` `Laravel` `NextJS` `Shopify` `TestAutomation` `VueJS` `WordPress` | [Jobs](https://geekssort.com/career-page/) <br> [Web](https://geekssort.com/) |
+| 22 | Gigalogy | — | `AI` `Django` `NodeJS` | [Jobs](https://gigalogy.com/en/company/career) <br> [Web](https://gigalogy.com/) |
+| 23 | HawarIT | — | `C#` | [Jobs](https://www.hawarit.com/career/) <br> [Web](https://www.hawarit.com/career-at-hawarit/) |
+| 24 | IXORA Solution | — | `Django` `Flutter` `MongoDB` `NodeJS` `React` `SQL` `SpringBoot` `Swift` `TypeScript` `VueJS` | [Jobs](https://ixorasolution.com/career) <br> [Web](https://ixorasolution.com/) |
+| 25 | InnoSpace | — | `Flutter` `NodeJS` | [Jobs](https://innospace.tech/career/) <br> [Web](https://innospace.tech/) |
+| 26 | Inument | — | `AI` `Flutter` `Java` `NodeJS` `PHP` `React` `nopCommerce` | [Jobs](https://inument.com/careers/#available-jobs) <br> [Web](https://inument.com/careers/#available-jobs) |
+| 27 | Invento Software Ltd. | — | `Django` `JavaScript` `WordPress` | [Jobs](https://invento.com.bd/career/) <br> [Web](http://invento.com.bd/) |
+| 28 | Inverse.AI | — | `Android` `iOS` | [Jobs](https://inverseai.com/career) <br> [Web](https://inverseai.com/) |
+| 29 | Jatri Services Ltd. | `E-logistics` | — | [Jobs](https://www.jatri.co/career#job-opening) <br> [Web](https://www.jatri.co/) |
+| 30 | Kona Software Lab | — | `AI` `Android` `Blockchain` `C++` `JavaScript` `Kotlin` `Spring` | [Jobs](https://konasl.com/careers#openings) <br> [Web](https://konasl.com/) |
+| 31 | LIILab | — | `Android` `Django` `Java` `Kotlin` `React` `WordPress` | [Jobs](https://liilab.com/career) <br> [Web](http://liilab.com/) |
+| 32 | LeadSoft | — | — | [Jobs](https://leads.com.bd/jobs/) <br> [Web](http://leads.com.bd/) |
+| 33 | ME SOLshare Ltd. | — | `Android` `Java` `JavaScript` `Python` | [Jobs](https://solshare.com/career/) <br> [Web](https://me-solshare.com/) <br> [LinkedIn](https://www.linkedin.com/company/me-solshare/) |
+| 34 | Mediusware Ltd. | — | `Angular` `NextJS` `VueJS` | [Jobs](https://www.mediusware.com/career) <br> [Web](https://www.mediusware.com/) <br> [LinkedIn](https://www.linkedin.com/company/mediusware/) |
+| 35 | NeosCoder | — | `NodeJS` `PostgreSQL` `Python` `React` `TypeScript` | [Jobs](https://www.neoscoder.com/career) <br> [Web](https://www.neoscoder.com/) |
+| 36 | Next Ventures | — | `AWS` `Linux` `PostgreSQL` `Python` `TypeScript` | [Jobs](https://career.nextventures.io/) <br> [Web](https://nextventures.io/) <br> [LinkedIn](https://www.linkedin.com/company/nextventuresofficial) |
+| 37 | Nogor Solutions Ltd. | — | `CakePHP` `Docker` `MongoDB` `MySQL` `Vuex` | [Jobs](https://nogorsolutions.com/career) <br> [Web](https://www.nogorsolutions.com/) |
+| 38 | Ollyo | — | `JoomShaper` `Themeum` | [Jobs](https://ollyo.com/careers/roles/) <br> [Web](https://www.ollyo.com/) <br> [LinkedIn](https://www.linkedin.com/company/ollyo/) |
+| 39 | Onecodesoft | — | `Flutter` `Laravel` `NodeJS` `Python` | [Jobs](https://onecodesoft.com/career) <br> [Web](https://onecodesoft.com/) <br> [LinkedIn](https://www.linkedin.com/company/onecodesoft) |
+| 40 | Optimizely (Newscred) (USA) | — | `MongoDB` `NodeJS` `Python` `Scala` | [Jobs](https://careers.optimizely.com/search/?locationsearch=bangladesh) <br> [Web](https://www.optimizely.com/) <br> [LinkedIn](https://www.linkedin.com/company/optimizely/) |
+| 41 | Portonics Ltd. | — | `AWS` `Android` `Docker` `MySQL` `NodeJS` `PHP` `PostgreSQL` `Python` `React` `iOS` | [Jobs](https://www.portonics.com/career) <br> [Web](http://portonics.com/) |
+| 42 | Pridesys IT Ltd. | — | `MySQL` `WordPress` `jQuery` | [Jobs](https://pridesys.com/careers) <br> [Web](https://pridesys.com/) |
+| 43 | REVE Systems (Singapore) | — | `CloudComputing` `Java` | [Jobs](https://www.revesoft.com/career) <br> [Web](https://www.revesoft.com/) |
+| 44 | ReliSource (USA) | — | `AWS` | [Jobs](https://www.relisource.com/careers/) <br> [Web](http://www.relisource.com/) |
+| 45 | Renessa Info Systems Ltd. | — | `CakePHP` `CodeIgniter` `Laravel` `jQuery` | [Jobs](https://www.renessainfosystems.com/career) <br> [Web](http://www.renessainfosystems.com/) |
+| 46 | RiseUp Labs | — | `Django` `Flutter` `Java` `Kotlin` `NodeJS` `React` `SQL` `Swift` `TypeScript` | [Jobs](https://riseuplabs.com/jobs/) <br> [Web](https://riseuplabs.com/) |
+| 47 | SCT Bangla Ltd. | — | `Angular` `Flutter` `Laravel` `React` `SQL` | [Jobs](https://www.sct-bangla.com/careers) <br> [Web](https://www.sct-bangla.com/) |
+| 48 | SJ Innovation | — | `Blockchain` `Flutter` `Java` `Kotlin` `React` `Swift` | [Jobs](https://career.sjinnovation.com/#jobs) <br> [Web](https://sjinnovation.com/) |
+| 49 | SSL Wireless | — | `Java` `JavaScript` `Laravel` `MySQL` | [Jobs](https://www.sslwireless.com/all-jobs) <br> [Web](https://www.sslwireless.com/) |
+| 50 | Sheba Technologies Ltd. | — | `Android` `C++` `Java` | [Jobs](https://www.shebatech.com.bd/career) <br> [Web](https://www.shebatech.com.bd/) |
+| 51 | Shopup | `E-commerce` | `AWS` `Docker` `Flutter` `MongoDB` `MySQL` `NodeJS` `React` | [Jobs](https://shopup.org/career) <br> [Web](https://shopup.com.bd/) |
+| 52 | Silicon Orchard Ltd. | — | `Android` `Blockchain` `NodeJS` `PHP` `iOS` | [Jobs](https://www.siliconorchard.com/career) <br> [Web](https://www.siliconorchard.com/) |
+| 53 | Singularity Ltd. | — | — | [Jobs](https://singularitybd.com/career) <br> [Web](https://singularitybd.com/) <br> [LinkedIn](https://www.linkedin.com/company/singularity-limited/) |
+| 54 | SouthTech | — | `.NET` `Android` `AngularJS` | [Jobs](https://career.southtechgroup.com/) <br> [Web](https://www.southtechgroup.com/) <br> [LinkedIn](https://www.linkedin.com/company/southtechgroup/) |
+| 55 | SovWare | — | `Flutter` `JavaScript` `Laravel` `WordPress` | [Jobs](https://www.sovware.com/career) <br> [Web](https://www.sovware.com/) <br> [LinkedIn](https://www.linkedin.com/company/sovware/) |
+| 56 | Spring Rain IT | — | `Android` `NodeJS` `ReactNative` | [Jobs](https://springrain.io/careers/#jobs) <br> [Web](https://springrainit.com/) |
+| 57 | Technext Ltd. | — | `Bootstrap` `NextJS` | [Jobs](https://technext.it/careers) <br> [Web](https://technext.it/) |
+| 58 | Technohaven Company Ltd. | — | `Android` `Angular` `Blockchain` `ML` `NodeJS` `React` `Rust` `iOS` | [Jobs](https://technohaven.com/career) <br> [Web](https://technohaven.com/) |
+| 59 | Tekarsh | — | `JavaScript` `Spring` | [Jobs](https://tekarsh.com/career) <br> [Web](https://tekarsh.com/) |
+| 60 | Therap (BD) Ltd. | — | `Java` | [Jobs](https://therap.hire.trakstar.com/) <br> [Web](https://therap.recruiterbox.com/) <br> [LinkedIn](https://www.linkedin.com/company/therapbd/) |
+| 61 | Vivasoft Ltd. | — | `C#` `Flutter` `Go` `Java` `Python` | [Jobs](https://www.vivasoftltd.com/career) <br> [Web](https://www.vivasoftltd.com/) <br> [LinkedIn](https://www.linkedin.com/company/vivasoftltd/) |
+| 62 | WPDeveloper | — | `Laravel` `VueJS` `WordPress` | [Jobs](https://wpcommerz.com/career) <br> [Web](https://wpdeveloper.com/) |
+| 63 | Wafi Solutions. | — | `Django` | [Jobs](https://www.wafisolutions.com/career) <br> [Web](https://www.wafisolutions.com/) |
+| 64 | Workspace InfoTech Ltd. | — | `Angular` `Django` `Spring` | [Jobs](https://www.workspaceit.com/career/) <br> [Web](https://www.workspaceit.com/) |
+| 65 | YOTECH Ltd. | — | `Android` `Angular` `Flutter` `MongoDB` `NodeJS` `React` `iOS` | [Jobs](https://www.yotech.ltd/careers) <br> [Web](https://www.yotech.ltd/) |
+| 66 | authLab | — | `AWS` `Laravel` `React` `VueJS` `WordPress` `jQuery` | [Jobs](https://authlab.io/jobs/) <br> [Web](https://authlab.io/) <br> [LinkedIn](https://www.linkedin.com/company/authlab-io/) |
+| 67 | belivIT | — | `Android` `PHP` `iOS` | [Jobs](https://www.belivit.com/vacancies) <br> [Web](https://www.belivit.com/) |
+| 68 | iPay | — | `Android` `Java` `MongoDB` `PostgreSQL` `Python` | [Jobs](https://www.ipay.com.bd/career) <br> [Web](https://www.ipay.com.bd/) <br> [LinkedIn](https://www.linkedin.com/company/ipay-systems-ltd./) |
+| 69 | mPower Social Enterprises Ltd. | — | `Android` `Java` `Python` | [Jobs](https://www.mpower-social.com/career) <br> [Web](https://www.mpower-social.com/) |
+| 70 | weDevs Ltd. | — | `Flutter` `VueJS` `WordPress` | [Jobs](https://wedevs.com/career/) <br> [Web](https://wedevs.com/) |
 
 
 

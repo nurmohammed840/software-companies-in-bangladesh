@@ -107,6 +107,12 @@ twitter = "https://twitter.com/AsthaIT"
 linkedin = "https://www.linkedin.com/company/asthait/"
 facebook = "https://www.facebook.com/asthait"
 
+["Audacity Ventures"]
+tech = ["Android", "ExpressJS", "Flutter", "Kotlin", "MongoDB", "Swift", "VueJS"]
+type = []
+website = "https://audacityventures.ca/"
+job = "https://career.audacityit.com"
+
 ["Augmedix Inc."]
 tech = ["AWS", "Android", "AngularJS", "Go", "ML", "NodeJS", "Spring"]
 type = []
@@ -428,6 +434,12 @@ tech = [".NET", "Blockchain", "DeepLearning", "Django", "Java", "JavaScript"]
 type = []
 website = "https://gigatechltd.com/"
 
+[Gigalogy]
+tech = ["AI", "Django", "NodeJS"]
+type = []
+website = "https://gigalogy.com/"
+job = "https://gigalogy.com/en/company/career"
+
 ["Golden Harvest InfoTech Ltd. (GHIT)"]
 tech = ["AngularJS", "C#", "MySQL", "PHP", "Spring"]
 type = []
@@ -514,6 +526,12 @@ website = "http://inflack.com/"
 tech = [".NET", "C#"]
 type = []
 website = "https://www.infocratsolutions.com/"
+
+[InnoSpace]
+tech = ["Flutter", "NodeJS"]
+type = []
+website = "https://innospace.tech/"
+job = "https://innospace.tech/career/"
 
 ["Innovative Software"]
 tech = ["Android", "Java", "Python"]
@@ -734,6 +752,12 @@ website = "https://www.nascenia.com/"
 tech = []
 type = []
 website = "https://neerlab.com/"
+
+[NeosCoder]
+tech = ["NodeJS", "PostgreSQL", "Python", "React", "TypeScript"]
+type = []
+website = "https://www.neoscoder.com/"
+job = "https://www.neoscoder.com/career"
 
 ["NetCoden Inc"]
 tech = ["Android", "C++", "Laravel", "NodeJS", "React", "SQL", "VueJS"]

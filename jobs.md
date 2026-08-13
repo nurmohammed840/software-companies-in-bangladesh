@@ -1,6 +1,6 @@
 # Jobs
 
-**🟢 221 open** · **📋 290 total** · **🏢 66 companies**
+**🟢 245 open** · **📋 315 total** · **🏢 70 companies**
 
 ## 🏢 6sense Technologies
 
@@ -1787,6 +1787,245 @@ Working days:
 
 ---
 * 🌐 [Apply on Website](https://docs.google.com/forms/d/e/1FAIpQLSfjksVaG2Mjw21LXViPBgRbWWNVZMdUHrCrkW-NSh1wXtNzvw/viewform)
+---
+
+</details>
+
+## 🏢 Audacity Ventures
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Backend Software Engineer – Go (Mid–Senior)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 120K - 150K |
+| **Location** | Baridhara, Dhaka |
+| **Role** | Mid–Senior |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Golang` `REST APIs` `Microservices` `Goroutines` `Concurrency` `SQL` `Gin` `Echo` `Fiber` `gRPC` `Kafka` `Redis` `Kubernetes` 
+
+## 📝 [Description](https://career.audacityit.com/)
+
+## About the Role
+We are looking for **Mid–Senior Golang Engineers (3–5 years of experience)** who love solving hard problems and building reliable backend systems.
+
+## What You’ll Do
+* Build scalable backend services using **Golang**
+* Design and maintain high-performance **REST APIs & microservices**
+* Debug and resolve complex production issues
+* Optimize system **performance, memory usage, and concurrency**
+* Collaborate closely with **product, QA, and DevOps** teams
+* Write clean, testable, and production-grade code
+
+## What You Bring
+### Must Have
+* 3–5 years of experience, including **1+ year with Golang**
+* Strong understanding of:
+    * **Goroutines, channels, and concurrency patterns**
+    * **Data Structures, Algorithms & OOP concepts**
+    * **Performance and memory optimization**
+    * Experience with Go frameworks such as: **Gin / Echo / Fiber / gRPC**
+    * Excellent problem-solving & debugging mindset
+    * Comfortable working with **SQL databases**
+
+### Bonus
+* Background in **competitive programming / programming contests**
+* Experience with **Kafka / Redis / Kubernetes / Cloud platforms**
+* Familiarity with testing tools like **Testify, Mockery, Ginkgo**
+
+## Perks & Benefits
+* Two (02) festival bonuses.
+* Full subsidized lunch.
+* Medical benefits.
+* Annual compensation package review.
+* Yearly tour.
+* Team retreat.
+* Leave encashment.
+* Yearly profit sharing.
+* Weekly two holidays (Friday-Saturday).
+* Facilities for skill development.
+* Scope for professional development & career growth
+* Sponsorship for professional certification.
+
+---
+* 🌐 [Apply on Website](https://career.audacityit.com/)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Sales Manager – Global Markets</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Baridhara, Dhaka |
+
+**🛠️ Tags**: `Sales` `Global Markets` 
+
+## 📝 [Description](https://career.audacityit.com/opening/sales-manager)
+
+Sales Manager – Global Markets (Dhaka, Bangladesh)
+
+---
+* 🌐 [Apply on Website](https://career.audacityit.com/opening/sales-manager)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Sr. Full Stack Software Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 125K - 175K |
+| **Location** | Baridhara, Dhaka |
+| **Role** | Senior |
+| **Vacancies** | 3 |
+
+**🛠️ Tags**: `JavaScript` `TypeScript` `NestJS` `NuxtJS` `VueJS` `ReactJS` `ExpressJS` `AWS` `Docker` `MySQL` `PostgreSQL` `MongoDB` `Redis` 
+
+## 📝 [Description](https://career.audacityit.com/)
+
+## Sr. Full Stack Software Engineer
+
+At **Audacity IT Solutions,** we’re seeking 3 (Three) Senior Full Stack Software Engineer to join our team.
+
+### What You’ll Do
+
+* **Own the stack:** Work across the full JavaScript ecosystem — building and maintaining production applications built on **NestJS, NuxtJS, and VueJS**.
+* **Architect & implement:** Analyze new requirements, define technical architecture, and turn specs into scalable, secure solutions.
+* **Collaborate with clients:** Join strategy and discovery calls to deeply understand user goals, challenges, and desired outcomes.
+* **Ensure reliability:** Deploy, monitor, and optimize applications on **AWS (EC2, App Runner, RDS)**, ensuring high uptime and performance.
+* **Write clean, testable code:** Apply best practices including **SOLID principles**, **design patterns**, and **unit/functional testing**.
+* **Contribute to process:** Participate in **Agile/Scrum** ceremonies and help improve sprint planning, estimation, and delivery processes.
+
+### What We’re Looking For
+
+**Required:**
+
+* 5+ years of professional experience in full-stack JavaScript/TypeScript development.
+* Hands-on expertise with modern JS stack (e.g., **VueJS, ReactJS, ExpressJS, NuxtJS** etc.)
+* Solid understanding of **REST APIs**, **Authentication**, **ORMs**, and **state management**.
+* Experience deploying and managing apps on **AWS (EC2, AppRunner, RDS, S3, CloudWatch)**.
+* Comfortable with provisioning and managing Linux VPS, Docker, Docker-compose.
+* Strong grasp of **software design principles**, code architecture, and testing culture.
+
+### Perks & Benefits:
+
+* Two (02) festival bonuses.
+* Full subsidized lunch.
+* Medical benefits.
+* Annual compensation package review.
+* Yearly tour.
+* Team retreat.
+* Leave encashment.
+* Yearly profit sharing.
+* Weekly two holidays (Friday-Saturday).
+* Facilities for skill development.
+* Scope for professional development & career growth
+* Sponsorship for professional certification.
+
+---
+* 🌐 [Apply on Website](https://career.audacityit.com/)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Sr. Software Engineer (JAVA EE, Spring Boot)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 100K - 150K |
+| **Location** | Baridhara, Dhaka |
+| **Role** | Senior |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Java` `Java EE` `Spring Boot` `Hibernate` `PostgreSQL` `MySQL` `MongoDB` `Cassandra` `RESTful API` `SOAP` `DevOps` `CI/CD` `Docker` `Kubernetes` `JUnit` `Microservices` 
+
+## 📝 [Description](https://career.audacityit.com/)
+
+## Sr. Software Engineer (JAVA EE, Spring Boot)
+
+At **Audacity IT Solutions,** we’re seeking a **01 (ONE) Senior Software Engineer (JAVA EE, Spring Boot)** to join our team.
+
+The ideal candidate should have deep expertise in Java programming, substantial experience with Java frameworks and libraries, and a strong grasp of web technologies. In this role, you’ll collaborate closely with the product team to understand their requirements and deliver robust software solutions.
+
+Additionally, you’ll play a key role in mentoring junior developers, fostering a culture of excellence, and ensuring top-notch code quality.
+
+### Responsibilities:
+* Contribute to the design, development, and maintenance of scalable and reliable Java applications.
+* Leverage expertise in Java internals (JVM, garbage collection, and performance tuning).
+* Build and maintain web applications using Spring (Boot, MVC, Security) and Hibernate.
+* Design and implement RESTful and SOAP APIs.
+* Handle database design and optimization (PostgreSQL, MySQL, MongoDB, Cassandra).
+* Apply DevOps methodologies (CI/CD, Jenkins, GitLab CI, Docker, Kubernetes).
+* Develop testing strategies (JUnit, TestNG, Mockito, TDD/BDD).
+* Ensure secure coding practices.
+* Collaborate on software architecture (microservices, event-driven designs).
+* Mentor junior engineers.
+
+### Perks & Benefits:
+* Two (02) festival bonuses.
+* Full subsidized lunch.
+* Medical benefits.
+* Annual compensation package review.
+* Yearly tour and team retreat.
+* Leave encashment.
+* Yearly profit sharing.
+* Weekly two holidays (Friday-Saturday).
+* Skill development and professional certification sponsorship.
+
+---
+* 🌐 [Apply on Website](https://career.audacityit.com/)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Tech Lead</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 200K - 300K |
+| **Location** | Baridhara, Dhaka |
+| **Role** | Tech Lead |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Java` `PHP` `React` `Angular` `Node.js` `Flutter` `Swift` `Kotlin` `AWS` `Azure` `Google Cloud` `DevOps` `SQL` `NoSQL` `Agile` 
+
+## 📝 [Description](https://career.audacityit.com/)
+
+## Tech Lead
+
+At **Audacity IT Solutions**, we’re seeking a 01 (ONE) Tech Lead to join our team.
+
+### Key Responsibilities:
+* **Technology Strategy & Development:** Define, architect, and implement technical vision, lead design and development of scalable applications, and evaluate technologies.
+* **Technical Leadership:** Act as primary technical authority, conduct code reviews, and drive adoption of Agile, DevOps, and CI/CD.
+* **Software Development Oversight:** Hands-on coding, debugging, database management (SQL/NoSQL), and security implementation.
+* **Team Leadership & Mentorship:** Lead and mentor developers, foster a culture of innovation, and identify skill gaps.
+* **Project Delivery & Client Collaboration:** Collaborate with stakeholders to define requirements and ensure timely delivery.
+* **Process Optimization & Innovation:** Improve development processes and champion new technologies.
+* **Business Alignment:** Align technology initiatives with business objectives.
+
+### Qualifications:
+* **Experience:** 8-10+ years in software development, with at least 4+ years in a leadership role.
+* **Technical Skills:** Expertise in modern frameworks (Java, PHP, React, Angular, Node.js, Flutter, Swift, Kotlin), cloud platforms (AWS, Azure, GCP), and DevOps.
+* **Soft Skills:** Exceptional leadership, problem-solving, and communication skills.
+* **Education:** Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+
+### Perks & Benefits:
+* Two festival bonuses, full subsidized lunch, medical benefits, annual compensation review, yearly tour, team retreat, leave encashment, yearly profit sharing, and professional development sponsorship.
+
+---
+* 🌐 [Apply on Website](https://career.audacityit.com/)
 ---
 
 </details>
@@ -4015,7 +4254,7 @@ Apply →
 | **Employment** | Full Time |
 | **Location** | DHAKA |
 
-**🛠️ Tags**: `frontend` 
+**🛠️ Tags**: `frontend` `ui` `ux` 
 
 ## 📝 [Description](https://flytesolutions.com/career/frontend-developer)
 
@@ -4215,6 +4454,348 @@ All fields are required.
 
 Submit
 
+---
+
+</details>
+
+## 🏢 Gigalogy
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Marketing Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 70K - 120K |
+| **Location** | Mirpur DOHS, Dhaka, Bangladesh (Hybrid) |
+| **Role** | Marketing Manager |
+
+**🛠️ Tags**: `Marketing` `SaaS` `AI` `SEO` `SEM` `Content Marketing` `Email Marketing` `GTM Strategy` `Brand Building` `Marketing Analytics` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## About the Role
+As Marketing Manager, you will own **both online and offline marketing** — building Maira's brand, driving customer acquisition, and accelerating growth across **Bangladesh as well as global markets**. You will craft marketing narratives for both **B2B decision-makers** (e-commerce owners, IT leaders, operations managers) and **B2C audiences** who interact with Maira's AI-powered features directly.
+
+## Key Responsibilities
+### Brand Building & Strategy
+* Define and build the **Maira brand identity**.
+* Develop **value propositions and messaging frameworks**.
+* Position Maira as a **trusted AI partner**.
+* Plan and manage the **annual and quarterly marketing calendar**.
+
+### Digital Marketing
+* Plan and execute **multi-channel digital campaigns** (paid search, social media, display, retargeting).
+* Drive **SEO and content marketing**.
+* Manage **email marketing and automation**.
+* Oversee website performance and **conversion rate optimization (CRO)**.
+* Run **performance marketing campaigns**.
+
+### Offline Marketing & Activations
+* Plan and execute **offline marketing initiatives** (events, trade shows, conferences).
+* Build **partnership and channel marketing** programs.
+* Manage **PR and media relations**.
+* Organize **product demos, workshops, and community events**.
+
+### Multi-Market Expansion
+* Develop **market-specific GTM strategies**.
+* Oversee **content localization**.
+* Conduct **market research and competitor analysis**.
+* Build relationships with **local partners, agencies, and vendors**.
+
+### Growth, Analytics & Reporting
+* Establish and track **marketing KPIs**.
+* Analyze **campaign performance**.
+* Manage the **marketing budget**.
+
+### Cross-Functional Collaboration
+* Collaborate with **Product, Sales, and Customer Success teams**.
+* Coordinate with **external agencies, freelancers, and vendors**.
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/9ae739b8-98df-41b3-9876-a0c249a067cb?dcr_ci=GigalogyInc)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K - 100K |
+| **Location** | House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh |
+| **Role** | Software Engineer |
+
+**🛠️ Tags**: `Python` `Django` `FastAPI` `Flask` `REST` `JavaScript` `HTML5` `CSS3` `AWS` `GCP` `Vue` `React` `Docker` `Git` `Redis` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## Company Description
+Gigalogy is focused on disrupting the utilization of Artificial Intelligence to enhance customer satisfaction for businesses. Our AI platform delivers turnkey AI solutions that can be seamlessly integrated into any application.
+
+## Job Description
+We are looking for a Software Engineer responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end.
+
+* Writing reusable, testable, and efficient code
+* Design and implementation of low-latency, high-availability, and performant applications
+* Integration of user-facing elements developed by front-end developers with server-side logic
+* Implementation of security and data protection
+
+## Qualifications
+**Minimum Qualifications**
+* At least 3 years of professional software development experience in Python.
+* Expert in Python, with knowledge of at least one Python web framework (Django / FastAPI / Flask)
+* Understanding of the threading limitations of Python, and multi-process architecture
+* Understanding of REST architecture and building API with it
+* Able to create database schemas that represent and support business processes
+* Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+
+**Preferred Qualifications**
+* Knowledge of cloud platforms such as AWS / GCP
+* Experience with Front-end frameworks such as Vue / React
+* Knowledge in micro-service architecture, containerization technology such as Docker, code versioning tools such as Git
+* Knowledge of caching mechanisms such as Redis
+* Sense of web design and fundamentals of user experience (UX)
+
+## Salary & Other Benefits
+* 50,000 BDT - 100,000 BDT (Based on skill & experience).
+* Salary review twice a year.
+* Performance bonus twice a year.
+* Complementary meals and snacks.
+* Comprehensive health insurance coverage
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/82668086-7ab0-4bbf-b114-562128b8a764?dcr_ci=GigalogyInc)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer - Frontend</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K - 100K |
+| **Location** | House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh |
+
+**🛠️ Tags**: `JavaScript` `Vue.js` `RESTAPI` `UX` `Node.js` `Python` `AWS` `GCP` `Docker` `Git` `Redis` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## Company Description
+Gigalogy is focused on disrupting the utilization of Artificial Intelligence to enhance customer satisfaction for businesses. Our AI platform delivers turnkey AI solutions that can be seamlessly integrated into any application. We are currently searching for a **Software Engineer - Frontend** to join our Dhaka office.
+
+## Job Description
+We are looking for a passionate Software Engineer who will be building software products to maximize user satisfaction.
+* Writing reusable, testable, and efficient code
+* Design and implementation of low-latency, high-availability, and performant applications
+* Implementation of security and data protection
+
+## Qualifications
+**Minimum Qualifications**
+* At least 3 years of professional experience in JavaScript, with knowledge of modern frameworks (Vue.js preferable)
+* Understanding on State, Session, Cookie management
+* Understanding on OAuth 2.0 protocol and its implementations, JWT tokens, etc.
+* Understanding of RESTAPI and experience developing applications involving it
+* Sense of web design and fundamentals of user experience (UX)
+
+**Preferred Qualifications**
+* Experience building backend applications in Node.js / Python
+* Able to create database schemas that represent and support business processes
+* Experience with cloud platforms such as AWS / GCP
+* Knowledge in micro-service architecture, containerization technology such as Docker, code versioning tools such as Git
+* Knowledge of caching mechanisms such as Redis
+
+## Salary & Other Benefits
+* 50,000 BDT - 100,000 BDT (Based on skill & experience).
+* Salary review twice a year.
+* Performance bonus twice a year.
+* Complementary meals and snacks.
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/64f548ab-3ea7-47e1-93e6-8a9e6c92fa27?dcr_ci=GigalogyInc)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer - React Native</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K - 100K |
+| **Location** | Mirpur DOHS, Dhaka, Bangladesh (Hybrid) |
+| **Role** | Software Engineer |
+
+**🛠️ Tags**: `React Native` `JavaScript` `TypeScript` `React Hooks` `REST APIs` `WebSocket` `Redux` `Zustand` `Git` `Android` `iOS` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## Company Description
+
+Gigalogy is a Tokyo-based AI company focused on transforming how businesses utilize Artificial Intelligence to enhance customer satisfaction. Our AI platform delivers turnkey solutions that can be seamlessly integrated into any application, ensuring minimal effort and maximum impact.
+
+We are building a **next-generation AI chat application** — think of the ChatGPT mobile experience — and we need a talented React Native engineer to help us bring it to life on iOS and Android.
+
+We are looking for a **Software Engineer – React Native** to join our team in Dhaka and play a key role in building real-world AI products, not just prototypes.
+
+## Job Description
+
+**About the Role**
+
+You will be a core engineer responsible for building and scaling our **cross-platform AI chat mobile application** from the ground up. You'll work on real-time conversational UI, streaming AI responses, smooth animations, offline support, and a polished user experience that rivals the best chat apps on the market.
+
+This is a hands-on engineering role where you'll collaborate closely with backend engineers, UI/UX designers, and the product team to ship features that directly impact how users interact with AI.
+
+**Key Responsibilities**
+
+*   Design, develop, test, and maintain a **high-performance cross-platform AI chat application** using React Native for Android and iOS.
+*   Build smooth, responsive chat UI components — message lists, streaming text rendering, markdown/rich content display, voice input, and animations.
+*   Implement **real-time streaming API responses** (SSE/WebSocket) for live AI-generated content with optimistic UI updates.
+*   Integrate RESTful APIs and real-time services; handle edge cases like network interruptions, retries, and offline scenarios.
+*   Implement **local data persistence** for conversation history and offline support (e.g., SQLite, WatermelonDB, MMKV, or AsyncStorage).
+*   Manage application state using modern state management (Redux, Zustand, Context API, or similar).
+*   Optimize for **performance, responsiveness, and battery efficiency** — smooth scrolling, fast cold starts, minimal re-renders.
+*   Integrate **push notifications, deep linking, and analytics**.
+*   Ensure **data security and privacy** best practices for user conversation data (secure storage, encryption, token management).
+*   Collaborate with UI/UX designers, backend engineers, QA engineers, and product teams in an agile environment.
+*   Debug, troubleshoot, and resolve application issues across both Android and iOS platforms.
+*   Participate in code reviews and maintain high coding standards.
+*   Write technical documentation and contribute to the continuous improvement of development processes.
+
+## Qualifications
+
+**Required Qualifications**
+
+*   Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+*   **3+ years** of professional software development experience, with **at least 1.5+ years of hands-on React Native experience**.
+*   Strong proficiency in **JavaScript (ES6+) and TypeScript**.
+*   Deep understanding of **React Native, React Hooks, and modern React patterns**.
+*   Experience building **chat or real-time messaging UIs** (or similar complex list/scroll-heavy interfaces).
+*   Experience integrating **REST APIs and real-time data** (SSE, WebSocket, or similar).
+*   Solid experience with **React Navigation** and deep linking.
+*   Experience with **state management** (Redux, Zustand, Context API, or similar).
+*   Understanding of **local persistence and offline-first** patterns.
+*   Proficiency with **Git** version control and collaborative workflows (branches, PRs, code reviews).
+*   Experience with **npm or Yarn** for dependency management.
+*   Good understanding of **Android and iOS application lifecycle**, permissions, and platform-specific configurations.
+*   Strong problem-solving and debugging skills across both platforms.
+*   Ability to work collaboratively in an agile development environment.
+
+## Additional Information
+
+**What We Offer**
+
+*   An opportunity to work with a **Tokyo-based startup** and contribute to a truly innovative AI-based service.
+*   A meaningful role in building **real-world AI products** used by real users — not just prototypes.
+*   A collaborative, people-focused work environment where contributions are visible and valued.
+*   **Salary range:** BDT **50,000 – 100,000** per month *(based on experience and assessment results)*
+*   **Salary review:** Twice a year
+*   **Performance bonus:** Twice a year
+*   **Comprehensive health insurance**
+*   **Complimentary meals and snacks**
+*   **Working days:** Sunday – Thursday (Hybrid)
+*   **Working hours:** 9:00 AM – 6:00 PM (BDST)
+*   **Office location:** 3rd & 4th Floor, House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka-1216, Bangladesh.
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/02325350-0493-4521-bcc0-534795bba0f1?dcr_ci=GigalogyInc)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer – AI</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K - 120K |
+| **Location** | 3rd & 4th Floor, House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka-1216, Bangladesh (Hybrid) |
+| **Role** | Software Engineer – AI |
+
+**🛠️ Tags**: `Generative AI` `LLMs` `Python` `PyTorch` `Hugging Face` `LangChain` `LlamaIndex` `Machine Learning` `Data Science` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## Job Description
+Gigalogy is looking for a highly capable **Software Engineer – AI** to help build and advance **Maira-2**, our flagship model focused on delivering **high accuracy at significantly lower cost**. This role is ideal for someone who has strong hands-on experience with **Generative AI**, including evaluating foundation models, benchmarking performance, fine-tuning models, and applying them to real-world product and business problems.
+
+You will work closely with our **CEO** and core technical team to shape model strategy, experiment with new approaches, and help bring efficient, production-ready AI capabilities into our platform.
+
+### Key Responsibilities
+* Work directly with the CEO on the development and improvement of Maira-2, Gigalogy’s flagship AI model.
+* Research, evaluate, and apply Generative AI models across a variety of use cases.
+* Run benchmarks across different LLMs and generative models to compare quality, latency, cost, and reliability.
+* Design and execute fine-tuning workflows to improve model performance for target tasks and domains.
+* Build experimentation frameworks for testing prompts, model architectures, datasets, and inference strategies.
+* Optimize models and pipelines for accuracy, efficiency, and lower operational cost.
+* Analyze model outputs and identify opportunities to improve precision, consistency, and scalability.
+* Collaborate with product, engineering, and leadership teams to translate business needs into AI solutions.
+* Stay current with the latest developments in LLMs, multimodal models, fine-tuning methods, evaluation frameworks, and model optimization techniques.
+* Support deployment of models into production environments with attention to performance, monitoring, and continuous improvement.
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/1b82a5ad-9278-4a5d-87fc-6b682daf0c83?dcr_ci=GigalogyInc)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 UI & Visual Designer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 50K - 100K |
+| **Location** | House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh (Hybrid) |
+
+**🛠️ Tags**: `UI Design` `Visual Design` `Figma` `HTML` `CSS` `JavaScript` `Motion Design` `Animation` `Design Systems` 
+
+## 📝 [Description](https://gigalogy.com/en/company/career)
+
+## Company Description
+
+**Gigalogy** is focused on transforming how businesses utilize Artificial Intelligence to enhance customer satisfaction. We are seeking an experienced and results-driven **UI & Visual Designer** to join our Dhaka office.
+
+## Job Description
+
+As Gigalogy continues to expand its client and partner projects, we are looking for a **UI & Visual Designer** to create intuitive, engaging, and high-quality digital experiences across diverse products and platforms.
+
+**Key Responsibilities:**
+
+*   **Build and maintain components:** Design new components and refine existing ones, keeping visual quality consistent across the system.
+*   **Design motion and interaction:** Define motion and animation for components and interaction patterns.
+*   **Support product visual identity:** Help develop and evolve the product’s visual identity through UI styling, illustration, iconography, motion, and other visual assets.
+*   **Contribute to governance and documentation:** Help maintain usage guidelines, naming conventions, and versioning documentation.
+*   **Support adoption:** Answer questions from designers and engineers, provide practical guidance.
+*   **Collaborate with engineering:** Use a working understanding of HTML, CSS, and JavaScript to design with implementation constraints in mind.
+*   **Maintain quality and accessibility:** Review **visual consistency**, **UI pattern integrity**, and accessibility considerations.
+
+## Qualifications
+
+*   **1–3 years** of professional experience in UI, visual, or product design.
+*   Strong visual and UI design skills, with hands-on experience in **Figma** or equivalent tools.
+*   Ability to design motion and animation.
+*   Working understanding of **HTML/CSS/JavaScript**.
+*   Strong attention to detail and a drive for **visual consistency**.
+
+## What We Offer
+
+*   An opportunity to work with a **Tokyo-based startup**.
+*   **Salary range:** BDT **50,000 – 100,000** per month.
+*   **Salary review:** Twice a year.
+*   **Performance bonus:** Twice a year.
+*   **Comprehensive health insurance**.
+*   **Complimentary meals and snacks**.
+*   **Working days:** Monday – Friday (Hybrid).
+
+---
+* 🌐 [Apply on Website](https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/03e2d2f8-403f-4e3b-9605-8acb73e8ec40?dcr_ci=GigalogyInc)
 ---
 
 </details>
@@ -4602,6 +5183,319 @@ Are you excited to join our dynamic and multicultural team? Please send your CV 
 
 ---
 * 🌐 [Apply on Website](https://erp.ixorasolution.com/jobs/apply/odoo-techno-functional-consultant-37)
+---
+
+</details>
+
+## 🏢 InnoSpace
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Full-Stack Software Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Gulshan 2, Dhaka |
+
+**🛠️ Tags**: `JavaScript` `TypeScript` `Node.js` `NestJS` `Next.js` `RESTful APIs` `SQL` `NoSQL` `MongoDB` `Docker` `AWS` `CI/CD` `Git` `Mocha` `Jest` 
+
+## 📝 [Description](https://innospace.tech/)
+
+## Job Summary
+
+We’re seeking a passionate Full-Stack Software Engineer to build scalable, high-performance applications using modern technologies and best practices. Join us to create robust solutions for a diverse and growing user base.
+
+## Job Requirements
+
+* 3+ years of professional experience in full-stack web application development
+* Strong understanding of modern JavaScript and TypeScript
+* Solid experience with Node.js and frameworks like NestJS and Next.js.
+* Expertise in building and maintaining scalable, high-performance RESTful APIs
+* Proficient in front-end frameworks and libraries, emphasizing building intuitive and responsive user interfaces
+* Experience with SQL and NoSQL databases (such as MongoDB) with a deep understanding of database design, optimization, and data modeling
+* Hands-on experience with Docker for containerization and deploying applications in scalable environments
+* Experience with AWS services (such as EC2, S3, etc.) for developing and deploying cloud-native applications
+* Familiarity with CI/CD pipelines to automate build, test, and deployment processes
+* Strong understanding of asynchronous programming and event-driven architectures
+* Solid knowledge and practical experience in system design principles, with the ability to design and maintain scalable, fault-tolerant solutions
+* Experience with testing frameworks such as Mocha or Jest, is a plus
+* Experience with version control systems like Git and collaboration tools for managing workflows
+* Strong problem-solving skills with a focus on delivering high-quality, maintainable code
+
+**Product & Collaboration Responsibilities:**
+
+* Work closely with the Product Manager to understand product requirements, user stories, and acceptance criteria
+* Contribute to refining scopes, breaking down tasks, and estimating effort during sprint planning
+* Maintain proactive communication with the PM and team, including early signaling of risks, blockers, or potential delays
+
+## Additional Requirements
+
+* A passion for technology and a strong desire to stay current with industry trends.
+* Excellent problem-solving abilities and analytical thinking.
+* Ability to work independently and as part of a collaborative, agile team.
+* Strong sense of ownership over projects, with the ability to take initiative and see tasks through to completion.
+
+## Educational Requirements
+
+B.Sc. / M.Sc. in Computer Science, Engineering, or a related field from any reputed institution or equivalent practical experience.
+
+## What we offer
+
+* Competitive salary, growth, 2 festival bonuses, and an environment that encourages ownership, teamwork, and mutual respect.
+* Annual performance-based increment.
+* A 3-month probationary period.
+* Two-day weekend (Friday & Saturday).
+* Work Schedule: 5 working days, 8.5 hours per day.
+* Lunch is fully subsidized.
+* Room for prayer and games.
+* Gender-inclusive environment.
+* You’ll work with a dynamic team and gain exposure to both in-house brand building and agency-style client servicing.
+
+---
+* 🌐 [Apply on Website](https://forms.gle/px5fEZ8iRMCiVNEy9)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Backend Software Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Gulshan 2, Dhaka |
+| **Role** | Senior |
+
+**🛠️ Tags**: `NestJS` `MongoDB` `Redis` `RabbitMQ` `AWS` `JavaScript` `TypeScript` `Node.js` `PostgreSQL` `CI/CD` `Linux` `Microservices` 
+
+## 📝 [Description](https://innospace.tech/career)
+
+## Senior Backend Software Engineer
+
+We are looking for a **Senior Backend Software Engineer** to help scale and architect **Brritto’s** backend systems. In this high-ownership role, you will lead backend development end-to-end — from system design to deployment — while mentoring engineers, improving system performance, and driving engineering excellence through modern, AI-enabled development practices.
+
+## Responsibilities
+
+*   Design and build high-throughput, scalable backend services on our existing stack (NestJS, MongoDB, Redis, RabbitMQ, AWS).
+*   Own full lifecycle: system design→ Implementation→ CI/CD→ Deployment→ Monitoring→ RCA.
+*   Lead architectural decisions for new features and services while respecting and evolving the current tech stack.
+*   Optimize MongoDB performance — aggregation pipelines, indexing strategy, large-collection queries, and cloud-tier tuning.
+*   Build and maintain microservices that communicate reliably via RabbitMQ and Redis.
+*   Drive CI/CD improvements and deployment automation; deploy solo or with the team as needed.
+*   Conduct code reviews for mid and junior engineers, and mentor them on backend fundamentals, system design, and best practices.
+*   Run load tests, perform RCAs on production incidents, and harden systems against security and scalability issues.
+*   Bring AI-enabled coding workflows (agents, LLMs, agentic tools) into day-to-day development to raise team throughput.
+
+## Key Qualifications
+
+*   5–7 years of backend engineering experience with a solid, verifiable work record.
+*   Core competency in NestJS and JavaScript/TypeScript.
+*   In-depth MongoDB expertise — large-scale aggregation pipelines, query optimization, index design, MongoDB cloud (Atlas) tuning.
+*   Strong database design skills across both NoSQL and SQL (PostgreSQL or any major RDBMS).
+*   Solid grasp of Node.js internals (event loop, streams, memory, performance).
+*   Database fundamentals — transactions, isolation, indexing, normalization vs. denormalization.
+*   AWS or Azure cloud fundamentals with 2+ years of hands-on cloud experience.
+*   Strong CI/CD experience — pipelines, automation, deployment workflows.
+*   Comfortable on Linux systems for ops, debugging, and tuning.
+*   Demonstrable system design skills for distributed, scalable systems.
+*   Practical experience with load testing, root cause analysis, and application security.
+*   Production experience with RabbitMQ and Redis.
+*   Microservices architecture — design, communication patterns, observability, deployment.
+
+## Nice to Have
+
+*   AI-enabled / agentic coding workflow optimization.
+*   DevOps experience (IaC, container orchestration, observability stacks).
+*   Hands-on experience with AI agents and LLMs in development or product workflows.
+
+## Educational Requirements
+
+B.Sc. / M.Sc. in Computer Science, Engineering, or a related field from any reputed institution or equivalent practical experience.
+
+## What we offer
+
+*   Competitive salary based on experience and expertise
+*   2 festival bonuses annually
+*   3-month probationary period
+*   Fully subsidized lunch and snacks
+*   Two-day weekends for healthy work-life balance
+*   Work Schedule: 5 working days, 8.5 hours per day
+*   Annual performance-based salary increment
+*   Professional growth and learning opportunities
+*   A collaborative culture that values ownership, innovation, and mutual respect
+
+---
+* 🌐 [Apply on Website](https://forms.gle/px5fEZ8iRMCiVNEy9)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Software Engineer (.NET)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Gulshan 2, Dhaka |
+| **Role** | Software Engineer (.NET) |
+
+**🛠️ Tags**: `.NET` `C#` `ASP.NET MVC` `ASP.NET Core` `RESTful APIs` `SQL Server` `Oracle` `PostgreSQL` `Entity Framework` `HTML` `CSS` `JavaScript` `Bootstrap` `Git` `Node.js` `Azure` `AWS` `CI/CD` `Agile` `Scrum` 
+
+## 📝 [Description](https://innospace.tech/)
+
+## Software Engineer (.NET)
+
+We are looking for a motivated and skilled .NET Developer with 2–3 years of professional experience to join our development team. The ideal candidate will have experience building and maintaining web-based applications using the Microsoft .NET ecosystem. Experience working with ERP systems or enterprise business applications will be considered a strong advantage. Candidates with exposure to Node.js and a strong willingness to learn new technologies are highly encouraged to apply.
+
+### Key Responsibilities
+
+• Design, develop, test, and maintain applications using C# and the .NET framework/.NET Core.
+• Develop and maintain RESTful APIs and backend services.
+• Collaborate with UI/UX designers, QA engineers, and business stakeholders to deliver high-quality software.
+• Write clean, maintainable, and well-documented code following best practices.
+• Optimize application performance and troubleshoot production issues.
+• Participate in code reviews and contribute to continuous improvement of development processes.
+• Work with SQL Server, Oracle, and PostgreSQL to design, optimize, and maintain database objects.
+• Participate in requirement analysis, estimation, sprint planning, and technical discussions.
+
+### Key Skills & Qualifications
+
+• 2–3 years of professional experience in .NET development.
+• Strong knowledge of C#, ASP.NET MVC, ASP.NET Core, or .NET 6/7/8.
+• Experience developing RESTful APIs.
+• Good knowledge of Oracle, Postgres, including SQL queries and stored procedures.
+• Experience with Entity Framework or Entity Framework Core.
+• Familiarity with HTML, CSS, JavaScript, and Bootstrap.
+• Experience using Git or other version control systems.
+• Strong analytical and problem-solving skills.
+• Good communication and teamwork abilities.
+• A proactive mindset and willingness to learn new technologies.
+
+### Preferred Qualifications
+
+• Experience with ERP systems or enterprise applications.
+• Basic knowledge or hands-on experience with Node.js is a plus.
+• Experience with cloud platforms such as Azure or AWS.
+• Knowledge of CI/CD pipelines.
+• Experience working in an Agile/Scrum environment.
+
+### Educational Requirements
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field from any reputed institution or equivalent practical experience.
+
+### What We Offer
+
+• Competitive salary based on experience and expertise
+• 2 festival bonuses annually
+• 3-month probationary period
+• Two-day weekends for healthy work-life balance 
+• Work Schedule: 5 working days, 8.5 hours per day
+• Fully subsidized lunch and snacks 
+• Annual performance-based increment.
+• Opportunity to work on high-impact projects with modern Flutter architecture.
+• Friendly and collaborative team environment.
+• Learning and growth opportunities with access to new technologies.
+
+---
+* 🌐 [Apply on Website](https://forms.gle/px5fEZ8iRMCiVNEy9)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Subject Matter Expert – Humanities</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 25K - 35K |
+| **Location** | Gulshan 2, Dhaka |
+| **Role** | Subject Matter Expert – Humanities |
+
+**🛠️ Tags**: `Humanities` `Teaching` `Content Creation` `EduTech` `Academic Content` 
+
+## 📝 [Description](https://innospace.tech/career)
+
+## Job Summary
+We are looking for a full-time Subject Matter Expert (SME) for brritto to join our team and support students in their academic journey. As a Subject Matter Expert, you will play a crucial role in enhancing the learning experience by providing clear, accurate, and comprehensive subject-related content.
+
+## Responsibilities
+* Develop and design high-quality MCQs/CQs and solutions aligned with the latest syllabus and exam patterns.
+* Review and resolve student doubts with clear, concise explanations.
+* Conduct engaging live classes using smart boards.
+* Ensure content quality assurance through proofreading and verification.
+* Collaborate with the academic team to enhance content quality.
+* Analyze student performance and feedback to improve teaching methods.
+
+## Requirements
+* Academic Background: Completed SSC and HSC in the Humanities group with excellent results.
+* Higher Education: Bachelor’s degree or higher in a Humanities-related discipline from a reputable university.
+* Experience & Expertise: Proven track record in teaching, tutoring, or creating academic content for SSC, HSC, and University Admission levels.
+* Core Skills: Strong analytical skills, engaging presentation style, and ability to simplify complex concepts.
+
+## Why Join Us
+* Competitive salary, 2 festival bonuses.
+* Two-day weekends.
+* Work Schedule: 5 working days, 8.5 hours per day.
+* Annual performance-based increment.
+* 3-month probationary period.
+* Fully subsidized lunch and snacks.
+
+---
+* 🌐 [Apply on Website](https://forms.gle/z7PmU1ogPU3u354U7)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Subject Matter Experts (SME) – Govt. Job Recruitment</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Salary** | 25K - 35K |
+| **Location** | Gulshan 2, Dhaka |
+| **Role** | Subject Matter Expert (SME) |
+
+**🛠️ Tags**: `BCS` `Govt Bank` `Mathematics` `English` `Content Development` `Mentoring` 
+
+## 📝 [Description](https://innospace.tech/)
+
+## 𝐉𝐨𝐛 𝐒𝐮𝐦𝐦𝐚𝐫𝐲
+
+We are looking for passionate **Subject Matter Experts (SME)** to guide government job aspirants for brritto. You will solve real exam questions, design model tests, answer queries, and create quality content for BCS, govt. banks, and other job recruitment exams.
+
+## 𝐊𝐞𝐲 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬
+
+*   Solve and explain past job recruitment exams’ questions with accuracy.
+*   Develop high-quality MCQs, model tests, and practice sets.
+*   Respond to user queries on app/social media.
+*   Ensure content accuracy, syllabus alignment, and learner engagement.
+*   Work with the content team to update/enrich the question bank.
+*   Stay updated on current affairs and exam trends.
+
+## 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
+
+*   Bachelor’s degree from a reputed university.
+*   Proven experience or achievement: Must have passed at least the preliminary stage of a competitive government exam (e.g., BCS, Govt bank). Preference will be given to those who have also passed the Written examination.
+*   Strong command over all major subjects relevant to job recruitment exams.
+*   Priority will be given to experienced candidates aged 32 and above.
+*   Expertise in Mathematics and English will be preferred.
+*   Good understanding of exam patterns and criteria.
+*   Ability to solve problems quickly with clear explanations.
+*   Passion for mentoring and supporting aspirants.
+
+## 𝐖𝐡𝐲 𝐉𝐨𝐢𝐧 𝐔𝐬?
+
+*   Competitive salary, growth, 2 festival bonuses, & an environment that encourages ownership, teamwork & mutual respect
+*   Two-day weekends for better work-life balance
+*   Work Schedule: 5 working days, 8.5 hours per day.
+*   Annual performance-based increment
+*   A 3-month probationary period
+*   Fully subsidized lunch & snacks.
+
+---
+* 🌐 [Apply on Website](https://forms.gle/sKA8HTvRCLcR3Bpc6)
 ---
 
 </details>
@@ -5412,6 +6306,407 @@ Fresh graduates with excellent communication skills are encouraged to apply.
 
 ---
 * 🌐 [Apply on Website](https://www.mediusware.com/career/jobs/Client-Relationship-Executive/apply)
+---
+
+</details>
+
+## 🏢 NeosCoder
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Business Analyst</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Salesforce` `FMCG` `BRD` `UAT` `Excel` `Google Sheets` `Tableau` `Power BI` `Visio` `Lucidchart` `Agile` `Scrum` `Oracle EBS` `SFA` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+
+As a Business Analyst at NeosCoder, you will bridge the gap between FMCG business operations and the Salesforce ecosystem. You will translate complex sales workflows, distributor management challenges, and trade promotion processes into clear, actionable system requirements - and then see those requirements through to delivery. You will be a trusted advisor to both clients and internal development teams.
+
+## Responsibilities
+
+*   Review the full sales process from lead to final sales and find areas to improve.
+*   Understand how sales work in retail, wholesale, POS, modern trade, and online channels.
+*   Collect business needs and prepare simple documents like BRD, use cases, and process flows.
+*   Talk with sales teams, managers, and finance to understand problems and gaps.
+*   Set and track key sales KPIs like targets, coverage, and promotion results.
+*   Help design Salesforce solutions for distributor management and sales processes.
+*   Manage basic Salesforce tasks like users, roles, reports, and dashboards.
+*   Support testing (UAT), user training, and work with clients to handle changes and give updates.
+
+## Requirements
+
+*   Bachelor's degree in Business Administration, Information Systems, Computer Science, or related field (MBA preferred).
+*   4–8 years of Business Analysis experience, with a strong FMCG sector background.
+*   Proven experience in Sales Application Implementations a strong plus.
+*   Excellent communication and documentation skills
+*   Good understanding of FMCG operations like trade promotions, distributor networks, channel management, and SKU planning.
+*   Knowledge of RTM strategies, van sales, and secondary sales tracking; experience with DMS and TPM tools is a plus.
+*   Strong skills in Excel/Google Sheets and basic knowledge of BI tools like Tableau or Power BI for data analysis.
+*   Familiar with process tools like Visio or Lucidchart and comfortable working in Agile/Scrum teams.
+*   Experience with Oracle EBS, or any Sales Application (SFA) systems in an FMCG environment.
+*   Prior consulting or software farm experience serving multiple FMCG clients simultaneously.
+
+## Benefits
+
+*   𝐇𝐨𝐨𝐧𝐨𝐫𝐚𝐫𝐢𝐮𝐦: Negotiable (based on experience and skills)
+*   𝐒𝐧𝐚𝐜𝐤𝐬: Complimentary tea, and coffee
+*   𝐋𝐮𝐧𝐜𝐡 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐢𝐞𝐬: Subsidize
+*   𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬: Provident Fund & other company-provided facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/36?title=Business%20Analyst)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Engineering Manager</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Engineering Manager |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `Node.js` `NestJS` `Express` `Python` `FastAPI` `PostgreSQL` `MySQL` `MongoDB` `Redis` `AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `CI/CD` `Agile` `Scrum` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+As an Engineering Manager at NeosCoder, you will lead engineering squads by combining technical architecture expertise, hands-on backend engineering, Agile delivery leadership, and people management. You will work closely with product, business, and engineering teams to design scalable systems, drive sprint execution, mentor engineers, and ensure high-quality software delivery across projects.
+
+## Responsibilities
+* Lead software architecture and system design for scalable, secure, and maintainable applications.
+* Drive backend engineering standards using Node.js, NestJS, Express, Python, and FastAPI.
+* Design and review APIs, database structures, integration patterns, and cloud-native solutions.
+* Remain hands-on with backend development, code reviews, technical troubleshooting, and architecture decisions.
+* Manage Scrum ceremonies including sprint planning, stand-ups, retrospectives, and backlog refinement.
+* Track sprint delivery, engineering KPIs, release planning, and project risks with clear stakeholder communication.
+* Collaborate with Product Owners, clients, and business teams to translate requirements into sprint-ready tasks.
+* Lead and mentor cross-functional teams including backend engineers, QA, DevOps, and full-stack developers.
+* Oversee CI/CD pipelines, Docker, Kubernetes, cloud deployments, observability, and DevOps practices.
+* Build a strong engineering culture through coaching, hiring, onboarding, and technical knowledge sharing.
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/39?title=Engineering%20Manager)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Information Security Analyst</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Information Security Analyst |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `OWASP` `SIEM` `EDR` `IDS/IPS` `Microsoft 365` `Entra ID` `Microsoft Defender` `Windows` `Linux` `Network Security` `Penetration Testing` `Incident Response` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+NeosCoder is committed to empowering businesses with innovative, scalable software and managed service solutions. Join a passionate team shaping the future of web, app, and network technologies!
+
+## Responsibilities
+* Penetration Test web and mobile applications based on OWASP Top 10 standards to identify vulnerabilities.
+* Monitor security alerts from SIEM, EDR, and IDS/IPS tools to detect potential threats.
+* Investigate suspicious activities across endpoints, servers, networks, and cloud logs. Perform initial triage and detailed investigations of all security incidents.
+* Configure and maintain security controls, including firewalls and web filters.
+* Harden Microsoft 365 tenants, Entra ID policies, and the Microsoft Defender suite for identity and data protection.
+* Audit system configurations for Windows and Linux environments to ensure they meet hardening standards.
+
+## Requirements
+* Bachelor's or Master's degree in CSE/CS/ICT or a related field.
+* 3-5 years of relevant experience.
+* Hands-on experience in managing and securing Microsoft 365 (M365) environments.
+* Proficiency in Entra ID, including Conditional Access policies and MFA.
+* Ability to analyze and mitigate phishing, spoofing, and malware threats in Exchange Online.
+* Relevant certifications such as CSA, CEH, or eJPT are preferred.
+* Strong understanding of network security, penetration testing, and incident response.
+
+## Benefits
+* Honorarium: Negotiable (based on experience and skills)
+* Lunch Facilities: Subsidized
+* Benefits: Provident Fund & other company-provided facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/40?title=Information%20Security%20Analyst)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Project Manager (Technical)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Project Manager (Technical) |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Agile` `Scrum` `Node.js` `Python` `REST` `GraphQL` `PostgreSQL` `MySQL` `MongoDB` `Redis` `CI/CD` `Docker` `Kubernetes` `AWS` `Azure` `GCP` `Jira` `Confluence` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+
+As a Project Manager (Technical) at NeosCoder, you will own end-to-end delivery of software projects from planning to production. You will lead Agile/Scrum ceremonies, manage cross-functional engineering teams, and ensure smooth execution of backend-heavy, scalable software systems.
+
+## Responsibilities
+
+*   Lead end-to-end Agile/Scrum delivery including sprint planning, daily stand-ups, reviews, and retrospectives.
+*   Manage and prioritize product backlogs in collaboration with stakeholders and product owners.
+*   Track sprint velocity, delivery timelines, and proactively manage risks and blockers.
+*   Translate business requirements into clear user stories, epics, and acceptance criteria.
+*   Lead architecture discussions with technical teams to ensure scalable and maintainable system design.
+*   Review backend architecture, APIs, databases, and integration approaches for technical soundness.
+*   Ensure strong engineering practices including code quality, CI/CD readiness, and peer reviews.
+*   Guide backend development decisions around Node.js or Python-based systems, databases, and system design.
+*   Facilitate client meetings, progress updates, and sprint review sessions with stakeholders.
+*   Mentor engineers, support skill development, and maintain team productivity and morale.
+
+## Skills Required
+
+*   Strong understanding of Agile/Scrum and software delivery lifecycle.
+*   Knowledge of software architecture (microservices, monolith, event-driven systems).
+*   Experience with APIs (REST/GraphQL), authentication (JWT/OAuth), and system design principles.
+*   Familiarity with databases such as PostgreSQL, MySQL, MongoDB, and Redis.
+*   Understanding of CI/CD pipelines, Docker, Kubernetes, and cloud platforms (AWS/Azure/GCP).
+*   Ability to read and review backend code and assess technical complexity.
+*   Strong communication skills for both technical teams and business stakeholders.
+*   Experience with tools like Jira, Confluence, or Azure DevOps.
+
+## Requirements
+
+*   Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred).
+*   5–10 years of software industry experience, with at least 3 years in Project Management or Scrum Master roles.
+*   Prior hands-on backend development experience (Node.js or Python-based stack preferred).
+*   PMP certification is a strong advantage.
+
+## Benefits
+
+*   Honorarium: Negotiable (based on experience and skill)
+*   Lunch Facilities: Subsidized
+*   Benefits: Provident Fund & other company-provided facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/38?title=Project%20Manager%20(Technical))
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 SQA Engineer</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | SQA Engineer |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Manual Testing` `Automated Testing` `Selenium` `Cypress` `Appium` `REST APIs` `Postman` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+NeosCoder is committed to empowering businesses with innovative, scalable software and managed service solutions. Join a passionate team shaping the future of web, app, and network technologies!
+
+## Responsibilities
+* Design, develop, and execute manual and automated test cases.
+* Collaborate closely with development, product, and design teams to understand requirements and ensure comprehensive test coverage.
+* Perform functional, regression, integration, performance, and security testing.
+* Maintain test documentation, including test plans, bug reports, and release checklists.
+* Identify, record, and track bugs; verify fixes and close them with proper documentation.
+* Participate in code reviews and contribute to improving software development best practices.
+
+## Requirements
+* Bachelor's or Master's degree in CSE/CS/ICT or a related field.
+* 3-5 years of hands-on experience in Software QA/Testing.
+* Familiarity with automated testing tools (e.g., Selenium, Cypress, Appium).
+* Understanding of REST APIs and tools like Postman.
+
+## Benefits
+* Honorarium: Negotiable (based on experience and skills)
+* Lunch Facilities: Subsidized
+* Benefits: Provident Fund & other company-provided facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/41?title=SQA%20Engineer)
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Database Administrator (DBA)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Senior |
+| **Vacancies** | 2 |
+
+**🛠️ Tags**: `MySQL` `SQL Server` `PostgreSQL` `SQL` `AWS RDS` `Azure SQL` `GCP` `MongoDB` `Cassandra` `ETL` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+
+We are looking for a skilled and detail-oriented Database Administrator (DBA) to join our team. The DBA will be responsible for the performance, integrity, and security of our databases. You will also be involved in planning and development as well as troubleshooting any issues on behalf of the users.
+
+## Responsibilities
+
+*   Install, configure, and maintain database systems (e.g., MySQL, SQL Server, PostgreSQL, etc.).
+*   Ensure database security, integrity, stability, and system availability.
+*   Perform database tuning and performance monitoring.
+*   Plan and execute data backup and recovery strategies.
+*   Design and implement database schemas, tables, views, and procedures.
+*   Work closely with development and DevOps teams to integrate databases with applications.
+*   Automate and optimize regular maintenance tasks.
+*   Handle database migrations, upgrades, and patches.
+*   Provide technical support and training to other teams as needed.
+*   Maintain documentation of systems, processes, and procedures.
+
+## Skills Required
+
+*   Strong knowledge of database structures, theories, principles, and practices.
+*   Proficient in SQL and performance tuning.
+*   Understanding of data backup, recovery, and security.
+*   Familiarity with database design and documentation.
+*   Excellent problem-solving skills and attention to detail.
+*   Ability to work independently and as part of a team.
+
+## Requirements
+
+*   Bachelor's degree in Computer Science, Information Technology, or related field.
+*   Proven experience as a DBA or similar role.
+*   Hands-on experience with relational database systems.
+*   Experience with cloud-based database services (AWS RDS, Azure SQL, GCP, etc.) is a plus.
+
+## Preferred Qualifications
+
+*   Certifications like Microsoft Certified Database Administrator, or AWS Certified Database is a plus.
+*   Knowledge of NoSQL databases (MongoDB, Cassandra, etc.) is a plus.
+*   Familiarity with data warehousing and ETL tools.
+
+## Benefits
+
+*   Honorarium: Negotiable (based on experience and skills)
+*   Lunch Facilities: Subsidized
+*   Benefits: Provident Fund & other company-provided facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/37?title=Senior%20Database%20Administrator%20(DBA))
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 Senior Software Engineer (TypeScript, Python)</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | Senior |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `TypeScript` `Python` `Microservices` `Kafka` `RabbitMQ` `SQS` `Redis` `Memcached` `SQL` `NoSQL` `NestJS` `FastAPI` `Docker` `Kubernetes` `CI/CD` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+
+We are looking for a highly skilled Senior Software Engineer to join our core engineering team. In this role, you will design, build, and scale robust microservices that power our platform. As a polyglot engineer, you will work across a diverse technology stack, choosing the right tools for the right problems. You will write clean, maintainable code while taking ownership of system architecture, deployments, database performance, and infrastructure scalability.
+
+#### Experience:
+
+5+ years
+
+#### Education:
+
+Bachelor’s degree in computer science or related field (master’s preferred).
+
+## Responsibilities
+
+*   Design, build, and maintain scalable, highly available microservices in distributed architectures.
+*   Implement Kafka, RabbitMQ, and SQS for reliable asynchronous service-to-service communication.
+*   Build task queues and background job pipelines for heavy, latency-sensitive workloads.
+*   Implement Redis and Memcached caching to reduce database load and improve system performance.
+*   Optimize SQL/NoSQL queries, schemas, and bottlenecks in high-throughput environments.
+*   Develop production-grade applications using JavaScript/TypeScript, Python. Framework like NestJS, FastAPI.
+*   Containerize applications with Docker and manage deployments using Kubernetes (K8s).
+*   Build and optimize CI/CD pipelines for reliable, automated, zero-downtime deployments.
+
+## Requirements
+
+*   Bachelor’s degree in Computer Science, Software Engineering, or related field (Master’s preferred).
+*   5+ years of backend software engineering experience in senior technical roles.
+*   Strong expertise in distributed systems, microservices, and scalable design patterns.
+*   Hands-on experience with Apache Kafka, message queues, and asynchronous background processing.
+*   Strong experience optimizing SQL/NoSQL databases, indexing, query performance, and caching.
+*   Hands-on experience with Docker, Kubernetes, and CI/CD tools like GitHub Actions, GitLab CI, and Jenkins.
+
+## Benefits
+
+*   𝐇𝐨𝐧𝐨𝐫𝐚𝐫𝐢𝐮𝐦: Negotiable (based on experience and skill)
+*   𝐋𝐮𝐧𝐜𝐡 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐢𝐞𝐬: Subsidized
+*   𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬: Provident Fund & other company facilities
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/43?title=Senior%20Software%20Engineer%20(TypeScript%2C%20Python))
+---
+
+</details>
+
+<details>
+<summary> <strong style="font-size: 1.3em;">💼 System Administrator</strong> </summary>
+
+| Field | Information |
+| ----- | ----------- |
+| **Employment** | Full Time |
+| **Location** | Dhaka |
+| **Role** | System Administrator |
+| **Vacancies** | 1 |
+
+**🛠️ Tags**: `Windows Server` `Active Directory` `VMware` `Hyper-V` `Microsoft 365` `Azure AD` `Networking` `Firewall` `PowerShell` `Backup` `Disaster Recovery` 
+
+## 📝 [Description](https://www.neoscoder.com/career)
+
+## About the Role
+Join our team as a System Administrator and play a key role in managing enterprise infrastructure, cloud services, virtualization, and network security. If you have strong technical expertise and leadership experience, we'd love to hear from you!
+
+## Responsibilities
+* Administer and maintain Windows Server environments, including Active Directory, DNS, DHCP, and Group Policy (GPO).
+* Manage VMware ESXi/Hyper-V virtualization infrastructure and ensure optimal performance and availability.
+* Administer Microsoft 365 services, including Exchange Online, Teams, OneDrive, SharePoint, and Microsoft Entra ID (Azure AD).
+* Monitor server health, system performance, storage utilization, and infrastructure capacity to ensure high availability.
+* Configure, monitor, and troubleshoot network infrastructure, including switches, routers, wireless access points, VPNs, and enterprise firewalls (Fortinet/Sophos/Cisco).
+* Implement and maintain endpoint security, antivirus, multi-factor authentication (MFA), and security best practices.
+* Ensure enterprise backup and disaster recovery solutions, perform regular backup verification, and conduct restoration testing.
+* Manage team to Install, configure, upgrade, and patch operating systems, server hardware, and enterprise applications.
+* Provide Level-2/Level-3 technical support for server, network, Microsoft 365, and infrastructure-related issues.
+* Maintain, infrastructure documentation, SOPs, network diagrams, and configuration records.
+* Coordinate with vendors for hardware, software, warranty, ISP, and infrastructure support.
+* Monitor IT infrastructure using enterprise monitoring tools and prepare periodic system health and performance reports.
+* Automate routine administrative tasks using PowerShell or similar scripting tools.
+* Ensure compliance with IT policies, security standards, and business continuity requirements.
+
+---
+* 🌐 [Apply on Website](https://www.neoscoder.com/career/apply/42?title=System%20Administrator)
 ---
 
 </details>

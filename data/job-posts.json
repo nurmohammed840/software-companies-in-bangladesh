@@ -8,6 +8,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka"
@@ -39,6 +40,7 @@
         "employmentType": "FullTime",
         "role": "Junior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka"
@@ -77,6 +79,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "House: 15, Road: 04, Block: G, Banasree, Rampura, Dhaka"
@@ -121,6 +124,7 @@
         "employmentType": "FullTime",
         "role": "Business Development Analyst",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "August 20, 2026"
@@ -158,6 +162,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "August 15, 2026"
@@ -200,6 +205,7 @@
         "employmentType": "FullTime",
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "28th February 2026"
@@ -245,6 +251,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -274,6 +281,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "10 January, 2026"
@@ -308,6 +316,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -337,6 +346,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -370,6 +380,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -408,6 +419,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet, Bangladesh"
@@ -436,6 +448,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -465,6 +478,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -495,6 +509,7 @@
         "employmentType": "FullTime",
         "role": "Sr. Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet, Bangladesh"
@@ -522,6 +537,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -556,6 +572,7 @@
         "employmentType": "FullTime",
         "role": "Mid-Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -598,6 +615,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -627,6 +645,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -662,6 +681,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka & Sylhet"
@@ -694,6 +714,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -725,6 +746,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Modina Market, Sylhet"
@@ -753,6 +775,7 @@
         "employmentType": "Internship",
         "role": "GTM Engineer Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka and Sylhet, Bangladesh"
@@ -784,6 +807,211 @@
       }
     ]
   },
+  "Audacity Ventures": {
+    "source": "https://career.audacityit.com/",
+    "jobs": [
+      {
+        "title": "Sales Manager – Global Markets",
+        "description": "Sales Manager – Global Markets (Dhaka, Bangladesh)",
+        "employmentType": "FullTime",
+        "role": null,
+        "postedAt": null,
+        "category": "Sales",
+        "deadline": null,
+        "location": {
+          "OnSite": "Baridhara, Dhaka"
+        },
+        "experience": null,
+        "salary": null,
+        "vacancies": null,
+        "tags": [
+          "Sales",
+          "Global Markets"
+        ],
+        "apply": [
+          {
+            "Website": "https://career.audacityit.com/opening/sales-manager/"
+          }
+        ],
+        "source": "https://career.audacityit.com/opening/sales-manager/",
+        "needsFetch": true,
+        "confidence": 0.9
+      },
+      {
+        "title": "Backend Software Engineer – Go (Mid–Senior)",
+        "description": "## About the Role\nWe are looking for **Mid–Senior Golang Engineers (3–5 years of experience)** who love solving hard problems and building reliable backend systems.\n\n## What You’ll Do\n* Build scalable backend services using **Golang**\n* Design and maintain high-performance **REST APIs & microservices**\n* Debug and resolve complex production issues\n* Optimize system **performance, memory usage, and concurrency**\n* Collaborate closely with **product, QA, and DevOps** teams\n* Write clean, testable, and production-grade code\n\n## What You Bring\n### Must Have\n* 3–5 years of experience, including **1+ year with Golang**\n* Strong understanding of:\n    * **Goroutines, channels, and concurrency patterns**\n    * **Data Structures, Algorithms & OOP concepts**\n    * **Performance and memory optimization**\n    * Experience with Go frameworks such as: **Gin / Echo / Fiber / gRPC**\n    * Excellent problem-solving & debugging mindset\n    * Comfortable working with **SQL databases**\n\n### Bonus\n* Background in **competitive programming / programming contests**\n* Experience with **Kafka / Redis / Kubernetes / Cloud platforms**\n* Familiarity with testing tools like **Testify, Mockery, Ginkgo**\n\n## Perks & Benefits\n* Two (02) festival bonuses.\n* Full subsidized lunch.\n* Medical benefits.\n* Annual compensation package review.\n* Yearly tour.\n* Team retreat.\n* Leave encashment.\n* Yearly profit sharing.\n* Weekly two holidays (Friday-Saturday).\n* Facilities for skill development.\n* Scope for professional development & career growth\n* Sponsorship for professional certification.",
+        "employmentType": "FullTime",
+        "role": "Mid–Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Baridhara, Dhaka"
+        },
+        "experience": "3 - 5 years",
+        "salary": {
+          "min": 120000,
+          "max": 150000,
+          "currency": "BDT"
+        },
+        "vacancies": 2,
+        "tags": [
+          "Golang",
+          "REST APIs",
+          "Microservices",
+          "Goroutines",
+          "Concurrency",
+          "SQL",
+          "Gin",
+          "Echo",
+          "Fiber",
+          "gRPC",
+          "Kafka",
+          "Redis",
+          "Kubernetes"
+        ],
+        "apply": [
+          {
+            "Website": "https://career.audacityit.com/"
+          }
+        ],
+        "source": "https://career.audacityit.com/",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Sr. Full Stack Software Engineer",
+        "description": "## Sr. Full Stack Software Engineer\n\nAt **Audacity IT Solutions,** we’re seeking 3 (Three) Senior Full Stack Software Engineer to join our team.\n\n### What You’ll Do\n\n* **Own the stack:** Work across the full JavaScript ecosystem — building and maintaining production applications built on **NestJS, NuxtJS, and VueJS**.\n* **Architect & implement:** Analyze new requirements, define technical architecture, and turn specs into scalable, secure solutions.\n* **Collaborate with clients:** Join strategy and discovery calls to deeply understand user goals, challenges, and desired outcomes.\n* **Ensure reliability:** Deploy, monitor, and optimize applications on **AWS (EC2, App Runner, RDS)**, ensuring high uptime and performance.\n* **Write clean, testable code:** Apply best practices including **SOLID principles**, **design patterns**, and **unit/functional testing**.\n* **Contribute to process:** Participate in **Agile/Scrum** ceremonies and help improve sprint planning, estimation, and delivery processes.\n\n### What We’re Looking For\n\n**Required:**\n\n* 5+ years of professional experience in full-stack JavaScript/TypeScript development.\n* Hands-on expertise with modern JS stack (e.g., **VueJS, ReactJS, ExpressJS, NuxtJS** etc.)\n* Solid understanding of **REST APIs**, **Authentication**, **ORMs**, and **state management**.\n* Experience deploying and managing apps on **AWS (EC2, AppRunner, RDS, S3, CloudWatch)**.\n* Comfortable with provisioning and managing Linux VPS, Docker, Docker-compose.\n* Strong grasp of **software design principles**, code architecture, and testing culture.\n\n### Perks & Benefits:\n\n* Two (02) festival bonuses.\n* Full subsidized lunch.\n* Medical benefits.\n* Annual compensation package review.\n* Yearly tour.\n* Team retreat.\n* Leave encashment.\n* Yearly profit sharing.\n* Weekly two holidays (Friday-Saturday).\n* Facilities for skill development.\n* Scope for professional development & career growth\n* Sponsorship for professional certification.",
+        "employmentType": "FullTime",
+        "role": "Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Baridhara, Dhaka"
+        },
+        "experience": "5+ years",
+        "salary": {
+          "min": 125000,
+          "max": 175000,
+          "currency": "BDT"
+        },
+        "vacancies": 3,
+        "tags": [
+          "JavaScript",
+          "TypeScript",
+          "NestJS",
+          "NuxtJS",
+          "VueJS",
+          "ReactJS",
+          "ExpressJS",
+          "AWS",
+          "Docker",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis"
+        ],
+        "apply": [
+          {
+            "Website": "https://career.audacityit.com/"
+          }
+        ],
+        "source": "https://career.audacityit.com/",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Tech Lead",
+        "description": "## Tech Lead\n\nAt **Audacity IT Solutions**, we’re seeking a 01 (ONE) Tech Lead to join our team.\n\n### Key Responsibilities:\n* **Technology Strategy & Development:** Define, architect, and implement technical vision, lead design and development of scalable applications, and evaluate technologies.\n* **Technical Leadership:** Act as primary technical authority, conduct code reviews, and drive adoption of Agile, DevOps, and CI/CD.\n* **Software Development Oversight:** Hands-on coding, debugging, database management (SQL/NoSQL), and security implementation.\n* **Team Leadership & Mentorship:** Lead and mentor developers, foster a culture of innovation, and identify skill gaps.\n* **Project Delivery & Client Collaboration:** Collaborate with stakeholders to define requirements and ensure timely delivery.\n* **Process Optimization & Innovation:** Improve development processes and champion new technologies.\n* **Business Alignment:** Align technology initiatives with business objectives.\n\n### Qualifications:\n* **Experience:** 8-10+ years in software development, with at least 4+ years in a leadership role.\n* **Technical Skills:** Expertise in modern frameworks (Java, PHP, React, Angular, Node.js, Flutter, Swift, Kotlin), cloud platforms (AWS, Azure, GCP), and DevOps.\n* **Soft Skills:** Exceptional leadership, problem-solving, and communication skills.\n* **Education:** Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.\n\n### Perks & Benefits:\n* Two festival bonuses, full subsidized lunch, medical benefits, annual compensation review, yearly tour, team retreat, leave encashment, yearly profit sharing, and professional development sponsorship.",
+        "employmentType": "FullTime",
+        "role": "Tech Lead",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Baridhara, Dhaka"
+        },
+        "experience": "8 - 10 Years +",
+        "salary": {
+          "min": 200000,
+          "max": 300000,
+          "currency": "BDT"
+        },
+        "vacancies": 1,
+        "tags": [
+          "Java",
+          "PHP",
+          "React",
+          "Angular",
+          "Node.js",
+          "Flutter",
+          "Swift",
+          "Kotlin",
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "DevOps",
+          "SQL",
+          "NoSQL",
+          "Agile"
+        ],
+        "apply": [
+          {
+            "Website": "https://career.audacityit.com/"
+          }
+        ],
+        "source": "https://career.audacityit.com/",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Sr. Software Engineer (JAVA EE, Spring Boot)",
+        "description": "## Sr. Software Engineer (JAVA EE, Spring Boot)\n\nAt **Audacity IT Solutions,** we’re seeking a **01 (ONE) Senior Software Engineer (JAVA EE, Spring Boot)** to join our team.\n\nThe ideal candidate should have deep expertise in Java programming, substantial experience with Java frameworks and libraries, and a strong grasp of web technologies. In this role, you’ll collaborate closely with the product team to understand their requirements and deliver robust software solutions.\n\nAdditionally, you’ll play a key role in mentoring junior developers, fostering a culture of excellence, and ensuring top-notch code quality.\n\n### Responsibilities:\n* Contribute to the design, development, and maintenance of scalable and reliable Java applications.\n* Leverage expertise in Java internals (JVM, garbage collection, and performance tuning).\n* Build and maintain web applications using Spring (Boot, MVC, Security) and Hibernate.\n* Design and implement RESTful and SOAP APIs.\n* Handle database design and optimization (PostgreSQL, MySQL, MongoDB, Cassandra).\n* Apply DevOps methodologies (CI/CD, Jenkins, GitLab CI, Docker, Kubernetes).\n* Develop testing strategies (JUnit, TestNG, Mockito, TDD/BDD).\n* Ensure secure coding practices.\n* Collaborate on software architecture (microservices, event-driven designs).\n* Mentor junior engineers.\n\n### Perks & Benefits:\n* Two (02) festival bonuses.\n* Full subsidized lunch.\n* Medical benefits.\n* Annual compensation package review.\n* Yearly tour and team retreat.\n* Leave encashment.\n* Yearly profit sharing.\n* Weekly two holidays (Friday-Saturday).\n* Skill development and professional certification sponsorship.",
+        "employmentType": "FullTime",
+        "role": "Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Baridhara, Dhaka"
+        },
+        "experience": "5+ years",
+        "salary": {
+          "min": 100000,
+          "max": 150000,
+          "currency": "BDT"
+        },
+        "vacancies": 1,
+        "tags": [
+          "Java",
+          "Java EE",
+          "Spring Boot",
+          "Hibernate",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Cassandra",
+          "RESTful API",
+          "SOAP",
+          "DevOps",
+          "CI/CD",
+          "Docker",
+          "Kubernetes",
+          "JUnit",
+          "Microservices"
+        ],
+        "apply": [
+          {
+            "Website": "https://career.audacityit.com/"
+          }
+        ],
+        "source": "https://career.audacityit.com/",
+        "needsFetch": false,
+        "confidence": 1.0
+      }
+    ]
+  },
   "Augmedix Inc.": {
     "source": "https://www.augmedix.com/careers",
     "jobs": []
@@ -797,6 +1025,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -822,6 +1051,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -847,6 +1077,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -872,6 +1103,7 @@
         "employmentType": "FullTime",
         "role": "Architect",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -897,6 +1129,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -926,6 +1159,7 @@
         "employmentType": "FullTime",
         "role": "Developer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -965,6 +1199,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1000,6 +1235,7 @@
         "employmentType": "FullTime",
         "role": "Junior/Trainee",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1037,6 +1273,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1075,6 +1312,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1113,6 +1351,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1149,6 +1388,7 @@
         "employmentType": "FullTime",
         "role": "Junior & Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1183,6 +1423,7 @@
         "employmentType": "FullTime",
         "role": "Junior/Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1217,6 +1458,7 @@
         "employmentType": "FullTime",
         "role": "Junior/Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1251,6 +1493,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1293,6 +1536,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -1329,6 +1573,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1363,6 +1608,7 @@
         "employmentType": "FullTime",
         "role": "Senior Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1395,6 +1641,7 @@
         "employmentType": "FullTime",
         "role": "Junior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1428,6 +1675,7 @@
         "employmentType": "FullTime",
         "role": "Senior PHP Developer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1458,6 +1706,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1490,6 +1739,7 @@
         "employmentType": "FullTime",
         "role": "Senior Frontend Developer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1526,6 +1776,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "4th Floor, Mannan Plaza, Khilkhet, Dhaka-1229"
@@ -1563,6 +1814,7 @@
         "employmentType": "FullTime",
         "role": "Lead System Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "30 July 2026"
@@ -1614,6 +1866,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "30 July 2026"
@@ -1652,6 +1905,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "30 July 2026"
@@ -1697,6 +1951,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "30 July 2026"
@@ -1740,6 +1995,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "14 Aug, 2026"
@@ -1772,6 +2028,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "14 Aug, 2026"
@@ -1814,6 +2071,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 Aug, 2026"
@@ -1850,6 +2108,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 Aug, 2026"
@@ -1884,6 +2143,7 @@
         "employmentType": "FullTime",
         "role": "Manager",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 Aug, 2026"
@@ -1919,6 +2179,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 Aug, 2026"
@@ -1951,6 +2212,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 Aug, 2026"
@@ -1990,6 +2252,7 @@
         "postedAt": {
           "Absolute": "Jul 7, 2026"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-07-31"
@@ -2039,6 +2302,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "24 Sep, 2022"
@@ -2068,6 +2332,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "24 Sep, 2022"
@@ -2107,6 +2372,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Panthapath, Dhaka"
@@ -2136,6 +2402,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Panthapath, Dhaka"
@@ -2165,6 +2432,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Panthapath, Dhaka"
@@ -2199,6 +2467,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "DHAKA"
@@ -2207,7 +2476,9 @@
         "salary": null,
         "vacancies": null,
         "tags": [
-          "frontend"
+          "frontend",
+          "ui",
+          "ux"
         ],
         "apply": [
           {
@@ -2229,6 +2500,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -2251,6 +2523,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -2280,6 +2553,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -2312,6 +2586,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2341,6 +2616,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2371,6 +2647,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2401,6 +2678,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2430,6 +2708,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2459,6 +2738,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "05-02-2026"
@@ -2484,6 +2764,250 @@
       }
     ]
   },
+  "Gigalogy": {
+    "source": "https://gigalogy.com/en/company/career",
+    "jobs": [
+      {
+        "title": "UI & Visual Designer",
+        "description": "## Company Description\n\n**Gigalogy** is focused on transforming how businesses utilize Artificial Intelligence to enhance customer satisfaction. We are seeking an experienced and results-driven **UI & Visual Designer** to join our Dhaka office.\n\n## Job Description\n\nAs Gigalogy continues to expand its client and partner projects, we are looking for a **UI & Visual Designer** to create intuitive, engaging, and high-quality digital experiences across diverse products and platforms.\n\n**Key Responsibilities:**\n\n*   **Build and maintain components:** Design new components and refine existing ones, keeping visual quality consistent across the system.\n*   **Design motion and interaction:** Define motion and animation for components and interaction patterns.\n*   **Support product visual identity:** Help develop and evolve the product’s visual identity through UI styling, illustration, iconography, motion, and other visual assets.\n*   **Contribute to governance and documentation:** Help maintain usage guidelines, naming conventions, and versioning documentation.\n*   **Support adoption:** Answer questions from designers and engineers, provide practical guidance.\n*   **Collaborate with engineering:** Use a working understanding of HTML, CSS, and JavaScript to design with implementation constraints in mind.\n*   **Maintain quality and accessibility:** Review **visual consistency**, **UI pattern integrity**, and accessibility considerations.\n\n## Qualifications\n\n*   **1–3 years** of professional experience in UI, visual, or product design.\n*   Strong visual and UI design skills, with hands-on experience in **Figma** or equivalent tools.\n*   Ability to design motion and animation.\n*   Working understanding of **HTML/CSS/JavaScript**.\n*   Strong attention to detail and a drive for **visual consistency**.\n\n## What We Offer\n\n*   An opportunity to work with a **Tokyo-based startup**.\n*   **Salary range:** BDT **50,000 – 100,000** per month.\n*   **Salary review:** Twice a year.\n*   **Performance bonus:** Twice a year.\n*   **Comprehensive health insurance**.\n*   **Complimentary meals and snacks**.\n*   **Working days:** Monday – Friday (Hybrid).",
+        "employmentType": "FullTime",
+        "role": null,
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "Hybrid": "House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh"
+        },
+        "experience": "1–3 years",
+        "salary": {
+          "min": 50000,
+          "max": 100000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "UI Design",
+          "Visual Design",
+          "Figma",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Motion Design",
+          "Animation",
+          "Design Systems"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/03e2d2f8-403f-4e3b-9605-8acb73e8ec40?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Marketing Manager",
+        "description": "## About the Role\nAs Marketing Manager, you will own **both online and offline marketing** — building Maira's brand, driving customer acquisition, and accelerating growth across **Bangladesh as well as global markets**. You will craft marketing narratives for both **B2B decision-makers** (e-commerce owners, IT leaders, operations managers) and **B2C audiences** who interact with Maira's AI-powered features directly.\n\n## Key Responsibilities\n### Brand Building & Strategy\n* Define and build the **Maira brand identity**.\n* Develop **value propositions and messaging frameworks**.\n* Position Maira as a **trusted AI partner**.\n* Plan and manage the **annual and quarterly marketing calendar**.\n\n### Digital Marketing\n* Plan and execute **multi-channel digital campaigns** (paid search, social media, display, retargeting).\n* Drive **SEO and content marketing**.\n* Manage **email marketing and automation**.\n* Oversee website performance and **conversion rate optimization (CRO)**.\n* Run **performance marketing campaigns**.\n\n### Offline Marketing & Activations\n* Plan and execute **offline marketing initiatives** (events, trade shows, conferences).\n* Build **partnership and channel marketing** programs.\n* Manage **PR and media relations**.\n* Organize **product demos, workshops, and community events**.\n\n### Multi-Market Expansion\n* Develop **market-specific GTM strategies**.\n* Oversee **content localization**.\n* Conduct **market research and competitor analysis**.\n* Build relationships with **local partners, agencies, and vendors**.\n\n### Growth, Analytics & Reporting\n* Establish and track **marketing KPIs**.\n* Analyze **campaign performance**.\n* Manage the **marketing budget**.\n\n### Cross-Functional Collaboration\n* Collaborate with **Product, Sales, and Customer Success teams**.\n* Coordinate with **external agencies, freelancers, and vendors**.",
+        "employmentType": "FullTime",
+        "role": "Marketing Manager",
+        "postedAt": null,
+        "category": "Marketing",
+        "deadline": null,
+        "location": {
+          "Hybrid": "Mirpur DOHS, Dhaka, Bangladesh"
+        },
+        "experience": "4+ years of marketing experience, with at least 2+ years at a technology, SaaS, AI, or software company.",
+        "salary": {
+          "min": 70000,
+          "max": 120000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "Marketing",
+          "SaaS",
+          "AI",
+          "SEO",
+          "SEM",
+          "Content Marketing",
+          "Email Marketing",
+          "GTM Strategy",
+          "Brand Building",
+          "Marketing Analytics"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/9ae739b8-98df-41b3-9876-a0c249a067cb?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Software Engineer - React Native",
+        "description": "## Company Description\n\nGigalogy is a Tokyo-based AI company focused on transforming how businesses utilize Artificial Intelligence to enhance customer satisfaction. Our AI platform delivers turnkey solutions that can be seamlessly integrated into any application, ensuring minimal effort and maximum impact.\n\nWe are building a **next-generation AI chat application** — think of the ChatGPT mobile experience — and we need a talented React Native engineer to help us bring it to life on iOS and Android.\n\nWe are looking for a **Software Engineer – React Native** to join our team in Dhaka and play a key role in building real-world AI products, not just prototypes.\n\n## Job Description\n\n**About the Role**\n\nYou will be a core engineer responsible for building and scaling our **cross-platform AI chat mobile application** from the ground up. You'll work on real-time conversational UI, streaming AI responses, smooth animations, offline support, and a polished user experience that rivals the best chat apps on the market.\n\nThis is a hands-on engineering role where you'll collaborate closely with backend engineers, UI/UX designers, and the product team to ship features that directly impact how users interact with AI.\n\n**Key Responsibilities**\n\n*   Design, develop, test, and maintain a **high-performance cross-platform AI chat application** using React Native for Android and iOS.\n*   Build smooth, responsive chat UI components — message lists, streaming text rendering, markdown/rich content display, voice input, and animations.\n*   Implement **real-time streaming API responses** (SSE/WebSocket) for live AI-generated content with optimistic UI updates.\n*   Integrate RESTful APIs and real-time services; handle edge cases like network interruptions, retries, and offline scenarios.\n*   Implement **local data persistence** for conversation history and offline support (e.g., SQLite, WatermelonDB, MMKV, or AsyncStorage).\n*   Manage application state using modern state management (Redux, Zustand, Context API, or similar).\n*   Optimize for **performance, responsiveness, and battery efficiency** — smooth scrolling, fast cold starts, minimal re-renders.\n*   Integrate **push notifications, deep linking, and analytics**.\n*   Ensure **data security and privacy** best practices for user conversation data (secure storage, encryption, token management).\n*   Collaborate with UI/UX designers, backend engineers, QA engineers, and product teams in an agile environment.\n*   Debug, troubleshoot, and resolve application issues across both Android and iOS platforms.\n*   Participate in code reviews and maintain high coding standards.\n*   Write technical documentation and contribute to the continuous improvement of development processes.\n\n## Qualifications\n\n**Required Qualifications**\n\n*   Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).\n*   **3+ years** of professional software development experience, with **at least 1.5+ years of hands-on React Native experience**.\n*   Strong proficiency in **JavaScript (ES6+) and TypeScript**.\n*   Deep understanding of **React Native, React Hooks, and modern React patterns**.\n*   Experience building **chat or real-time messaging UIs** (or similar complex list/scroll-heavy interfaces).\n*   Experience integrating **REST APIs and real-time data** (SSE, WebSocket, or similar).\n*   Solid experience with **React Navigation** and deep linking.\n*   Experience with **state management** (Redux, Zustand, Context API, or similar).\n*   Understanding of **local persistence and offline-first** patterns.\n*   Proficiency with **Git** version control and collaborative workflows (branches, PRs, code reviews).\n*   Experience with **npm or Yarn** for dependency management.\n*   Good understanding of **Android and iOS application lifecycle**, permissions, and platform-specific configurations.\n*   Strong problem-solving and debugging skills across both platforms.\n*   Ability to work collaboratively in an agile development environment.\n\n## Additional Information\n\n**What We Offer**\n\n*   An opportunity to work with a **Tokyo-based startup** and contribute to a truly innovative AI-based service.\n*   A meaningful role in building **real-world AI products** used by real users — not just prototypes.\n*   A collaborative, people-focused work environment where contributions are visible and valued.\n*   **Salary range:** BDT **50,000 – 100,000** per month *(based on experience and assessment results)*\n*   **Salary review:** Twice a year\n*   **Performance bonus:** Twice a year\n*   **Comprehensive health insurance**\n*   **Complimentary meals and snacks**\n*   **Working days:** Sunday – Thursday (Hybrid)\n*   **Working hours:** 9:00 AM – 6:00 PM (BDST)\n*   **Office location:** 3rd & 4th Floor, House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka-1216, Bangladesh.",
+        "employmentType": "FullTime",
+        "role": "Software Engineer",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "Hybrid": "Mirpur DOHS, Dhaka, Bangladesh"
+        },
+        "experience": "3+ years of professional software development experience, with at least 1.5+ years of hands-on React Native experience.",
+        "salary": {
+          "min": 50000,
+          "max": 100000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "React Native",
+          "JavaScript",
+          "TypeScript",
+          "React Hooks",
+          "REST APIs",
+          "WebSocket",
+          "Redux",
+          "Zustand",
+          "Git",
+          "Android",
+          "iOS"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/02325350-0493-4521-bcc0-534795bba0f1?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Software Engineer – AI",
+        "description": "## Job Description\nGigalogy is looking for a highly capable **Software Engineer – AI** to help build and advance **Maira-2**, our flagship model focused on delivering **high accuracy at significantly lower cost**. This role is ideal for someone who has strong hands-on experience with **Generative AI**, including evaluating foundation models, benchmarking performance, fine-tuning models, and applying them to real-world product and business problems.\n\nYou will work closely with our **CEO** and core technical team to shape model strategy, experiment with new approaches, and help bring efficient, production-ready AI capabilities into our platform.\n\n### Key Responsibilities\n* Work directly with the CEO on the development and improvement of Maira-2, Gigalogy’s flagship AI model.\n* Research, evaluate, and apply Generative AI models across a variety of use cases.\n* Run benchmarks across different LLMs and generative models to compare quality, latency, cost, and reliability.\n* Design and execute fine-tuning workflows to improve model performance for target tasks and domains.\n* Build experimentation frameworks for testing prompts, model architectures, datasets, and inference strategies.\n* Optimize models and pipelines for accuracy, efficiency, and lower operational cost.\n* Analyze model outputs and identify opportunities to improve precision, consistency, and scalability.\n* Collaborate with product, engineering, and leadership teams to translate business needs into AI solutions.\n* Stay current with the latest developments in LLMs, multimodal models, fine-tuning methods, evaluation frameworks, and model optimization techniques.\n* Support deployment of models into production environments with attention to performance, monitoring, and continuous improvement.",
+        "employmentType": "FullTime",
+        "role": "Software Engineer – AI",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "Hybrid": "3rd & 4th Floor, House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka-1216, Bangladesh"
+        },
+        "experience": "3+ years of software engineering experience, including at least 1 year of hands-on experience in AI and machine learning.",
+        "salary": {
+          "min": 50000,
+          "max": 120000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "Generative AI",
+          "LLMs",
+          "Python",
+          "PyTorch",
+          "Hugging Face",
+          "LangChain",
+          "LlamaIndex",
+          "Machine Learning",
+          "Data Science"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/1b82a5ad-9278-4a5d-87fc-6b682daf0c83?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Software Engineer",
+        "description": "## Company Description\nGigalogy is focused on disrupting the utilization of Artificial Intelligence to enhance customer satisfaction for businesses. Our AI platform delivers turnkey AI solutions that can be seamlessly integrated into any application.\n\n## Job Description\nWe are looking for a Software Engineer responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end.\n\n* Writing reusable, testable, and efficient code\n* Design and implementation of low-latency, high-availability, and performant applications\n* Integration of user-facing elements developed by front-end developers with server-side logic\n* Implementation of security and data protection\n\n## Qualifications\n**Minimum Qualifications**\n* At least 3 years of professional software development experience in Python.\n* Expert in Python, with knowledge of at least one Python web framework (Django / FastAPI / Flask)\n* Understanding of the threading limitations of Python, and multi-process architecture\n* Understanding of REST architecture and building API with it\n* Able to create database schemas that represent and support business processes\n* Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3\n\n**Preferred Qualifications**\n* Knowledge of cloud platforms such as AWS / GCP\n* Experience with Front-end frameworks such as Vue / React\n* Knowledge in micro-service architecture, containerization technology such as Docker, code versioning tools such as Git\n* Knowledge of caching mechanisms such as Redis\n* Sense of web design and fundamentals of user experience (UX)\n\n## Salary & Other Benefits\n* 50,000 BDT - 100,000 BDT (Based on skill & experience).\n* Salary review twice a year.\n* Performance bonus twice a year.\n* Complementary meals and snacks.\n* Comprehensive health insurance coverage",
+        "employmentType": "FullTime",
+        "role": "Software Engineer",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh"
+        },
+        "experience": "3 years",
+        "salary": {
+          "min": 50000,
+          "max": 100000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "Python",
+          "Django",
+          "FastAPI",
+          "Flask",
+          "REST",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "AWS",
+          "GCP",
+          "Vue",
+          "React",
+          "Docker",
+          "Git",
+          "Redis"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/82668086-7ab0-4bbf-b114-562128b8a764?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Software Engineer - Frontend",
+        "description": "## Company Description\nGigalogy is focused on disrupting the utilization of Artificial Intelligence to enhance customer satisfaction for businesses. Our AI platform delivers turnkey AI solutions that can be seamlessly integrated into any application. We are currently searching for a **Software Engineer - Frontend** to join our Dhaka office.\n\n## Job Description\nWe are looking for a passionate Software Engineer who will be building software products to maximize user satisfaction.\n* Writing reusable, testable, and efficient code\n* Design and implementation of low-latency, high-availability, and performant applications\n* Implementation of security and data protection\n\n## Qualifications\n**Minimum Qualifications**\n* At least 3 years of professional experience in JavaScript, with knowledge of modern frameworks (Vue.js preferable)\n* Understanding on State, Session, Cookie management\n* Understanding on OAuth 2.0 protocol and its implementations, JWT tokens, etc.\n* Understanding of RESTAPI and experience developing applications involving it\n* Sense of web design and fundamentals of user experience (UX)\n\n**Preferred Qualifications**\n* Experience building backend applications in Node.js / Python\n* Able to create database schemas that represent and support business processes\n* Experience with cloud platforms such as AWS / GCP\n* Knowledge in micro-service architecture, containerization technology such as Docker, code versioning tools such as Git\n* Knowledge of caching mechanisms such as Redis\n\n## Salary & Other Benefits\n* 50,000 BDT - 100,000 BDT (Based on skill & experience).\n* Salary review twice a year.\n* Performance bonus twice a year.\n* Complementary meals and snacks.",
+        "employmentType": "FullTime",
+        "role": null,
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "House 1148, Road 9/A, Avenue 10, Mirpur DOHS, Dhaka, Bangladesh"
+        },
+        "experience": "At least 3 years of professional experience",
+        "salary": {
+          "min": 50000,
+          "max": 100000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "JavaScript",
+          "Vue.js",
+          "RESTAPI",
+          "UX",
+          "Node.js",
+          "Python",
+          "AWS",
+          "GCP",
+          "Docker",
+          "Git",
+          "Redis"
+        ],
+        "apply": [
+          {
+            "Website": "https://jobs.smartrecruiters.com/oneclick-ui/company/GigalogyInc/publication/64f548ab-3ea7-47e1-93e6-8a9e6c92fa27?dcr_ci=GigalogyInc"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      }
+    ]
+  },
   "HawarIT": {
     "source": "https://www.hawarit.com/career",
     "jobs": [
@@ -2495,6 +3019,7 @@
         "postedAt": {
           "Absolute": "June 21, 2026"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "Aug 15, 2026"
@@ -2528,6 +3053,7 @@
         "postedAt": {
           "Absolute": "January 16, 2025"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Sneek, Nederland"
@@ -2556,6 +3082,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -2582,6 +3109,7 @@
         "postedAt": {
           "Absolute": "August 4, 2024"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Dhaka"
@@ -2609,6 +3137,7 @@
         "postedAt": {
           "Absolute": "July 16, 2024"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka (Ashulia)"
@@ -2635,6 +3164,7 @@
         "postedAt": {
           "Absolute": "April 29, 2024"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka(Dhaka Sadar)"
@@ -2677,6 +3207,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -2702,6 +3233,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -2729,6 +3261,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -2754,6 +3287,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -2782,6 +3316,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -2805,6 +3340,243 @@
       }
     ]
   },
+  "InnoSpace": {
+    "source": "https://innospace.tech/career",
+    "jobs": [
+      {
+        "title": "Full-Stack Software Engineer",
+        "description": "## Job Summary\n\nWe’re seeking a passionate Full-Stack Software Engineer to build scalable, high-performance applications using modern technologies and best practices. Join us to create robust solutions for a diverse and growing user base.\n\n## Job Requirements\n\n* 3+ years of professional experience in full-stack web application development\n* Strong understanding of modern JavaScript and TypeScript\n* Solid experience with Node.js and frameworks like NestJS and Next.js.\n* Expertise in building and maintaining scalable, high-performance RESTful APIs\n* Proficient in front-end frameworks and libraries, emphasizing building intuitive and responsive user interfaces\n* Experience with SQL and NoSQL databases (such as MongoDB) with a deep understanding of database design, optimization, and data modeling\n* Hands-on experience with Docker for containerization and deploying applications in scalable environments\n* Experience with AWS services (such as EC2, S3, etc.) for developing and deploying cloud-native applications\n* Familiarity with CI/CD pipelines to automate build, test, and deployment processes\n* Strong understanding of asynchronous programming and event-driven architectures\n* Solid knowledge and practical experience in system design principles, with the ability to design and maintain scalable, fault-tolerant solutions\n* Experience with testing frameworks such as Mocha or Jest, is a plus\n* Experience with version control systems like Git and collaboration tools for managing workflows\n* Strong problem-solving skills with a focus on delivering high-quality, maintainable code\n\n**Product & Collaboration Responsibilities:**\n\n* Work closely with the Product Manager to understand product requirements, user stories, and acceptance criteria\n* Contribute to refining scopes, breaking down tasks, and estimating effort during sprint planning\n* Maintain proactive communication with the PM and team, including early signaling of risks, blockers, or potential delays\n\n## Additional Requirements\n\n* A passion for technology and a strong desire to stay current with industry trends.\n* Excellent problem-solving abilities and analytical thinking.\n* Ability to work independently and as part of a collaborative, agile team.\n* Strong sense of ownership over projects, with the ability to take initiative and see tasks through to completion.\n\n## Educational Requirements\n\nB.Sc. / M.Sc. in Computer Science, Engineering, or a related field from any reputed institution or equivalent practical experience.\n\n## What we offer\n\n* Competitive salary, growth, 2 festival bonuses, and an environment that encourages ownership, teamwork, and mutual respect.\n* Annual performance-based increment.\n* A 3-month probationary period.\n* Two-day weekend (Friday & Saturday).\n* Work Schedule: 5 working days, 8.5 hours per day.\n* Lunch is fully subsidized.\n* Room for prayer and games.\n* Gender-inclusive environment.\n* You’ll work with a dynamic team and gain exposure to both in-house brand building and agency-style client servicing.",
+        "employmentType": "FullTime",
+        "role": null,
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "Minimum 3 years",
+        "salary": null,
+        "vacancies": null,
+        "tags": [
+          "JavaScript",
+          "TypeScript",
+          "Node.js",
+          "NestJS",
+          "Next.js",
+          "RESTful APIs",
+          "SQL",
+          "NoSQL",
+          "MongoDB",
+          "Docker",
+          "AWS",
+          "CI/CD",
+          "Git",
+          "Mocha",
+          "Jest"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/px5fEZ8iRMCiVNEy9"
+          }
+        ],
+        "source": "https://innospace.tech",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Social Media Coordinator",
+        "description": "## Overview:\nWe’re looking for a creative, organized, and data-driven **Social Media Executive** to manage our social media presence across multiple platforms. If you’re passionate about content strategy, audience engagement, and turning ideas into high-performing campaigns, we’d love to have you on our Brand & Media team.\n\n## Responsibilities\n* Collect content requirements from internal teams and convert them into actionable content plans aligned with the team lead.\n* Create and manage monthly content calendars across all social media platforms.\n* Coordinate with graphic designers, video editors, copywriters, and brand teams to ensure timely content production.\n* Create AI-assisted content ideas, prompts, and creative concepts to improve content quality and production speed.\n* Use tools like **Canva** and **CapCut** to create quick social media creatives, reels, and short-form content when needed.\n* Publish and schedule content across Facebook, Instagram, LinkedIn, YouTube, TikTok, and other relevant platforms.\n* Review creative assets and provide feedback to maintain brand consistency and content quality aligned with the team lead.\n* Monitor social media channels, audience engagement, and community interactions.\n* Analyze content performance and prepare monthly reports with actionable insights.\n* Generate creative campaign ideas based on trends, platform updates, audience behavior, and AI-powered insights.\n* Stay updated with the latest social media trends, algorithms, AI tools, and best practices.\n\n## Qualifications:\n* Minimum **2+ years** of experience in Social Media Management or Digital Marketing.\n* Strong understanding of Facebook, Instagram, LinkedIn, YouTube, TikTok, and other social platforms.\n* Experience with content planning, scheduling, and campaign management.\n* Comfortable appearing in front of the camera for reels, promotional videos, or brand content.\n* Proficiency in **Canva**, **CapCut**, and AI tools like **ChatGPT** for content creation and ideation.\n* Familiarity with Meta Business Suite, YouTube Studio, and Google Analytics.\n* Strong communication, organizational, and project management skills.\n* Experience in an **EdTech** company or **advertising agency** is preferred.\n\n## Why join us?\n* Competitive salary, growth, 2 festival bonuses, & an environment that encourages ownership, teamwork & mutual respect.\n* Two-day weekends for better work-life balance.\n* Work Schedule: 5 working days, 8.5 hours per day.\n* Annual performance-based increment.\n* A 3-month probationary period.\n* Fully subsidized lunch & snacks.",
+        "employmentType": "FullTime",
+        "role": "Executive/Senior Executive Brand & Media Team",
+        "postedAt": null,
+        "category": "Marketing",
+        "deadline": {
+          "Date": {
+            "Absolute": "2026-07-25"
+          }
+        },
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "2+ years",
+        "salary": null,
+        "vacancies": null,
+        "tags": [
+          "Social Media Management",
+          "Digital Marketing",
+          "Canva",
+          "CapCut",
+          "ChatGPT",
+          "Meta Business Suite",
+          "YouTube Studio",
+          "Google Analytics"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/HXbcRJbbJRPaMNLC6"
+          }
+        ],
+        "source": "https://innospace.tech",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Software Engineer (.NET)",
+        "description": "## Software Engineer (.NET)\n\nWe are looking for a motivated and skilled .NET Developer with 2–3 years of professional experience to join our development team. The ideal candidate will have experience building and maintaining web-based applications using the Microsoft .NET ecosystem. Experience working with ERP systems or enterprise business applications will be considered a strong advantage. Candidates with exposure to Node.js and a strong willingness to learn new technologies are highly encouraged to apply.\n\n### Key Responsibilities\n\n• Design, develop, test, and maintain applications using C# and the .NET framework/.NET Core.\n• Develop and maintain RESTful APIs and backend services.\n• Collaborate with UI/UX designers, QA engineers, and business stakeholders to deliver high-quality software.\n• Write clean, maintainable, and well-documented code following best practices.\n• Optimize application performance and troubleshoot production issues.\n• Participate in code reviews and contribute to continuous improvement of development processes.\n• Work with SQL Server, Oracle, and PostgreSQL to design, optimize, and maintain database objects.\n• Participate in requirement analysis, estimation, sprint planning, and technical discussions.\n\n### Key Skills & Qualifications\n\n• 2–3 years of professional experience in .NET development.\n• Strong knowledge of C#, ASP.NET MVC, ASP.NET Core, or .NET 6/7/8.\n• Experience developing RESTful APIs.\n• Good knowledge of Oracle, Postgres, including SQL queries and stored procedures.\n• Experience with Entity Framework or Entity Framework Core.\n• Familiarity with HTML, CSS, JavaScript, and Bootstrap.\n• Experience using Git or other version control systems.\n• Strong analytical and problem-solving skills.\n• Good communication and teamwork abilities.\n• A proactive mindset and willingness to learn new technologies.\n\n### Preferred Qualifications\n\n• Experience with ERP systems or enterprise applications.\n• Basic knowledge or hands-on experience with Node.js is a plus.\n• Experience with cloud platforms such as Azure or AWS.\n• Knowledge of CI/CD pipelines.\n• Experience working in an Agile/Scrum environment.\n\n### Educational Requirements\n\nBachelor’s degree in Computer Science, Software Engineering, or a related field from any reputed institution or equivalent practical experience.\n\n### What We Offer\n\n• Competitive salary based on experience and expertise\n• 2 festival bonuses annually\n• 3-month probationary period\n• Two-day weekends for healthy work-life balance \n• Work Schedule: 5 working days, 8.5 hours per day\n• Fully subsidized lunch and snacks \n• Annual performance-based increment.\n• Opportunity to work on high-impact projects with modern Flutter architecture.\n• Friendly and collaborative team environment.\n• Learning and growth opportunities with access to new technologies.",
+        "employmentType": "FullTime",
+        "role": "Software Engineer (.NET)",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "2–3 years",
+        "salary": null,
+        "vacancies": null,
+        "tags": [
+          ".NET",
+          "C#",
+          "ASP.NET MVC",
+          "ASP.NET Core",
+          "RESTful APIs",
+          "SQL Server",
+          "Oracle",
+          "PostgreSQL",
+          "Entity Framework",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Git",
+          "Node.js",
+          "Azure",
+          "AWS",
+          "CI/CD",
+          "Agile",
+          "Scrum"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/px5fEZ8iRMCiVNEy9"
+          }
+        ],
+        "source": "https://innospace.tech",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Subject Matter Experts (SME) – Govt. Job Recruitment",
+        "description": "## 𝐉𝐨𝐛 𝐒𝐮𝐦𝐦𝐚𝐫𝐲\n\nWe are looking for passionate **Subject Matter Experts (SME)** to guide government job aspirants for brritto. You will solve real exam questions, design model tests, answer queries, and create quality content for BCS, govt. banks, and other job recruitment exams.\n\n## 𝐊𝐞𝐲 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n*   Solve and explain past job recruitment exams’ questions with accuracy.\n*   Develop high-quality MCQs, model tests, and practice sets.\n*   Respond to user queries on app/social media.\n*   Ensure content accuracy, syllabus alignment, and learner engagement.\n*   Work with the content team to update/enrich the question bank.\n*   Stay updated on current affairs and exam trends.\n\n## 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬\n\n*   Bachelor’s degree from a reputed university.\n*   Proven experience or achievement: Must have passed at least the preliminary stage of a competitive government exam (e.g., BCS, Govt bank). Preference will be given to those who have also passed the Written examination.\n*   Strong command over all major subjects relevant to job recruitment exams.\n*   Priority will be given to experienced candidates aged 32 and above.\n*   Expertise in Mathematics and English will be preferred.\n*   Good understanding of exam patterns and criteria.\n*   Ability to solve problems quickly with clear explanations.\n*   Passion for mentoring and supporting aspirants.\n\n## 𝐖𝐡𝐲 𝐉𝐨𝐢𝐧 𝐔𝐬?\n\n*   Competitive salary, growth, 2 festival bonuses, & an environment that encourages ownership, teamwork & mutual respect\n*   Two-day weekends for better work-life balance\n*   Work Schedule: 5 working days, 8.5 hours per day.\n*   Annual performance-based increment\n*   A 3-month probationary period\n*   Fully subsidized lunch & snacks.",
+        "employmentType": "FullTime",
+        "role": "Subject Matter Expert (SME)",
+        "postedAt": null,
+        "category": {
+          "Other": "EduTech"
+        },
+        "deadline": null,
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "Must have passed at least the preliminary stage of a competitive government exam (e.g., BCS, Govt bank). Preference will be given to those who have also passed the Written examination.",
+        "salary": {
+          "min": 25000,
+          "max": 35000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "BCS",
+          "Govt Bank",
+          "Mathematics",
+          "English",
+          "Content Development",
+          "Mentoring"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/sKA8HTvRCLcR3Bpc6"
+          }
+        ],
+        "source": "https://innospace.tech",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Subject Matter Expert – Humanities",
+        "description": "## Job Summary\nWe are looking for a full-time Subject Matter Expert (SME) for brritto to join our team and support students in their academic journey. As a Subject Matter Expert, you will play a crucial role in enhancing the learning experience by providing clear, accurate, and comprehensive subject-related content.\n\n## Responsibilities\n* Develop and design high-quality MCQs/CQs and solutions aligned with the latest syllabus and exam patterns.\n* Review and resolve student doubts with clear, concise explanations.\n* Conduct engaging live classes using smart boards.\n* Ensure content quality assurance through proofreading and verification.\n* Collaborate with the academic team to enhance content quality.\n* Analyze student performance and feedback to improve teaching methods.\n\n## Requirements\n* Academic Background: Completed SSC and HSC in the Humanities group with excellent results.\n* Higher Education: Bachelor’s degree or higher in a Humanities-related discipline from a reputable university.\n* Experience & Expertise: Proven track record in teaching, tutoring, or creating academic content for SSC, HSC, and University Admission levels.\n* Core Skills: Strong analytical skills, engaging presentation style, and ability to simplify complex concepts.\n\n## Why Join Us\n* Competitive salary, 2 festival bonuses.\n* Two-day weekends.\n* Work Schedule: 5 working days, 8.5 hours per day.\n* Annual performance-based increment.\n* 3-month probationary period.\n* Fully subsidized lunch and snacks.",
+        "employmentType": "FullTime",
+        "role": "Subject Matter Expert – Humanities",
+        "postedAt": null,
+        "category": {
+          "Other": "EduTech"
+        },
+        "deadline": null,
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "Proven track record in teaching, tutoring, or creating academic content for SSC, HSC, and University Admission levels.",
+        "salary": {
+          "min": 25000,
+          "max": 35000,
+          "currency": "BDT"
+        },
+        "vacancies": null,
+        "tags": [
+          "Humanities",
+          "Teaching",
+          "Content Creation",
+          "EduTech",
+          "Academic Content"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/z7PmU1ogPU3u354U7"
+          }
+        ],
+        "source": "https://innospace.tech/career/",
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Senior Backend Software Engineer",
+        "description": "## Senior Backend Software Engineer\n\nWe are looking for a **Senior Backend Software Engineer** to help scale and architect **Brritto’s** backend systems. In this high-ownership role, you will lead backend development end-to-end — from system design to deployment — while mentoring engineers, improving system performance, and driving engineering excellence through modern, AI-enabled development practices.\n\n## Responsibilities\n\n*   Design and build high-throughput, scalable backend services on our existing stack (NestJS, MongoDB, Redis, RabbitMQ, AWS).\n*   Own full lifecycle: system design→ Implementation→ CI/CD→ Deployment→ Monitoring→ RCA.\n*   Lead architectural decisions for new features and services while respecting and evolving the current tech stack.\n*   Optimize MongoDB performance — aggregation pipelines, indexing strategy, large-collection queries, and cloud-tier tuning.\n*   Build and maintain microservices that communicate reliably via RabbitMQ and Redis.\n*   Drive CI/CD improvements and deployment automation; deploy solo or with the team as needed.\n*   Conduct code reviews for mid and junior engineers, and mentor them on backend fundamentals, system design, and best practices.\n*   Run load tests, perform RCAs on production incidents, and harden systems against security and scalability issues.\n*   Bring AI-enabled coding workflows (agents, LLMs, agentic tools) into day-to-day development to raise team throughput.\n\n## Key Qualifications\n\n*   5–7 years of backend engineering experience with a solid, verifiable work record.\n*   Core competency in NestJS and JavaScript/TypeScript.\n*   In-depth MongoDB expertise — large-scale aggregation pipelines, query optimization, index design, MongoDB cloud (Atlas) tuning.\n*   Strong database design skills across both NoSQL and SQL (PostgreSQL or any major RDBMS).\n*   Solid grasp of Node.js internals (event loop, streams, memory, performance).\n*   Database fundamentals — transactions, isolation, indexing, normalization vs. denormalization.\n*   AWS or Azure cloud fundamentals with 2+ years of hands-on cloud experience.\n*   Strong CI/CD experience — pipelines, automation, deployment workflows.\n*   Comfortable on Linux systems for ops, debugging, and tuning.\n*   Demonstrable system design skills for distributed, scalable systems.\n*   Practical experience with load testing, root cause analysis, and application security.\n*   Production experience with RabbitMQ and Redis.\n*   Microservices architecture — design, communication patterns, observability, deployment.\n\n## Nice to Have\n\n*   AI-enabled / agentic coding workflow optimization.\n*   DevOps experience (IaC, container orchestration, observability stacks).\n*   Hands-on experience with AI agents and LLMs in development or product workflows.\n\n## Educational Requirements\n\nB.Sc. / M.Sc. in Computer Science, Engineering, or a related field from any reputed institution or equivalent practical experience.\n\n## What we offer\n\n*   Competitive salary based on experience and expertise\n*   2 festival bonuses annually\n*   3-month probationary period\n*   Fully subsidized lunch and snacks\n*   Two-day weekends for healthy work-life balance\n*   Work Schedule: 5 working days, 8.5 hours per day\n*   Annual performance-based salary increment\n*   Professional growth and learning opportunities\n*   A collaborative culture that values ownership, innovation, and mutual respect",
+        "employmentType": "FullTime",
+        "role": "Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Gulshan 2, Dhaka"
+        },
+        "experience": "5-7 years",
+        "salary": null,
+        "vacancies": null,
+        "tags": [
+          "NestJS",
+          "MongoDB",
+          "Redis",
+          "RabbitMQ",
+          "AWS",
+          "JavaScript",
+          "TypeScript",
+          "Node.js",
+          "PostgreSQL",
+          "CI/CD",
+          "Linux",
+          "Microservices"
+        ],
+        "apply": [
+          {
+            "Website": "https://forms.gle/px5fEZ8iRMCiVNEy9"
+          }
+        ],
+        "source": "https://innospace.tech/career/",
+        "needsFetch": false,
+        "confidence": 1.0
+      }
+    ]
+  },
   "Inument": {
     "source": "https://inument.com/careers",
     "jobs": [
@@ -2814,6 +3586,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 31, 2026"
@@ -2854,6 +3627,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 31, 2026"
@@ -2898,6 +3672,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 30, 2026"
@@ -2939,6 +3714,7 @@
         "employmentType": "FullTime",
         "role": "Engineering Manager",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 18, 2026"
@@ -2981,6 +3757,7 @@
         "employmentType": "FullTime",
         "role": "Head",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "May 26, 2026"
@@ -3020,6 +3797,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "22nd May, 2026"
@@ -3059,6 +3837,7 @@
         "employmentType": "FullTime",
         "role": "Executive – Sr. Executive",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "April 16, 2026"
@@ -3102,6 +3881,7 @@
         "employmentType": "FullTime",
         "role": "Senior Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "March 20, 2026"
@@ -3147,6 +3927,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3185,6 +3966,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "March 5, 2026"
@@ -3229,6 +4011,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3266,6 +4049,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3302,6 +4086,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3340,6 +4125,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Relative": "Open until the position is filled"
@@ -3385,6 +4171,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3430,6 +4217,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3470,6 +4258,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Relative": "Open until the position is filled"
@@ -3523,6 +4312,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Relative": "Open until the position is filled"
@@ -3571,6 +4361,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Baridhara DOHS"
@@ -3619,6 +4410,7 @@
         "postedAt": {
           "Absolute": "July 12, 2026"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 23, 2026"
@@ -3661,6 +4453,7 @@
         "postedAt": {
           "Absolute": "July 12, 2026"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "July 23, 2026"
@@ -3701,6 +4494,7 @@
         "postedAt": {
           "Absolute": "June 8, 2026"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali, Dhaka, Bangladesh"
@@ -3737,6 +4531,7 @@
         "postedAt": {
           "Absolute": "March 1, 2026"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali, Dhaka, Bangladesh"
@@ -3768,6 +4563,7 @@
         "postedAt": {
           "Absolute": "February 5, 2026"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -3802,6 +4598,7 @@
         "postedAt": {
           "Absolute": "September 22, 2025"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -3841,6 +4638,7 @@
         "postedAt": {
           "Absolute": "August 17, 2025"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -3876,6 +4674,7 @@
         "postedAt": {
           "Absolute": "March 12, 2025"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -3911,6 +4710,7 @@
         "postedAt": {
           "Absolute": "March 12, 2025"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -3950,6 +4750,7 @@
         "postedAt": {
           "Absolute": "March 12, 2025"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "New DOHS Mohakhali"
@@ -4006,6 +4807,7 @@
         "postedAt": {
           "Absolute": "2026-07-24"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -4046,6 +4848,7 @@
         "postedAt": {
           "Absolute": "2026-07-24"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -4082,6 +4885,7 @@
         "postedAt": {
           "Absolute": "2026-07-16"
         },
+        "category": null,
         "deadline": "Expired",
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -4114,6 +4918,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "14 Jul 2025"
@@ -4146,6 +4951,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "01 Jun 2025"
@@ -4177,6 +4983,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "23 Mar 2025"
@@ -4213,6 +5020,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "15 Nov 2024"
@@ -4246,6 +5054,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "15 Nov 2024"
@@ -4281,6 +5090,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "10 Aug 2024"
@@ -4323,6 +5133,7 @@
         "postedAt": {
           "Relative": "1 month ago"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -4354,6 +5165,7 @@
         "postedAt": {
           "Relative": "1 month ago"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -4384,6 +5196,7 @@
         "postedAt": {
           "Relative": "2 months ago"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -4425,6 +5238,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31 August, 2026"
@@ -4458,6 +5272,318 @@
       }
     ]
   },
+  "NeosCoder": {
+    "source": "https://www.neoscoder.com/career",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer (TypeScript, Python)",
+        "description": "## About the Role\n\nWe are looking for a highly skilled Senior Software Engineer to join our core engineering team. In this role, you will design, build, and scale robust microservices that power our platform. As a polyglot engineer, you will work across a diverse technology stack, choosing the right tools for the right problems. You will write clean, maintainable code while taking ownership of system architecture, deployments, database performance, and infrastructure scalability.\n\n#### Experience:\n\n5+ years\n\n#### Education:\n\nBachelor’s degree in computer science or related field (master’s preferred).\n\n## Responsibilities\n\n*   Design, build, and maintain scalable, highly available microservices in distributed architectures.\n*   Implement Kafka, RabbitMQ, and SQS for reliable asynchronous service-to-service communication.\n*   Build task queues and background job pipelines for heavy, latency-sensitive workloads.\n*   Implement Redis and Memcached caching to reduce database load and improve system performance.\n*   Optimize SQL/NoSQL queries, schemas, and bottlenecks in high-throughput environments.\n*   Develop production-grade applications using JavaScript/TypeScript, Python. Framework like NestJS, FastAPI.\n*   Containerize applications with Docker and manage deployments using Kubernetes (K8s).\n*   Build and optimize CI/CD pipelines for reliable, automated, zero-downtime deployments.\n\n## Requirements\n\n*   Bachelor’s degree in Computer Science, Software Engineering, or related field (Master’s preferred).\n*   5+ years of backend software engineering experience in senior technical roles.\n*   Strong expertise in distributed systems, microservices, and scalable design patterns.\n*   Hands-on experience with Apache Kafka, message queues, and asynchronous background processing.\n*   Strong experience optimizing SQL/NoSQL databases, indexing, query performance, and caching.\n*   Hands-on experience with Docker, Kubernetes, and CI/CD tools like GitHub Actions, GitLab CI, and Jenkins.\n\n## Benefits\n\n*   𝐇𝐨𝐧𝐨𝐫𝐚𝐫𝐢𝐮𝐦: Negotiable (based on experience and skill)\n*   𝐋𝐮𝐧𝐜𝐡 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐢𝐞𝐬: Subsidized\n*   𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬: Provident Fund & other company facilities",
+        "employmentType": "FullTime",
+        "role": "Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "5+ years",
+        "salary": null,
+        "vacancies": 1,
+        "tags": [
+          "TypeScript",
+          "Python",
+          "Microservices",
+          "Kafka",
+          "RabbitMQ",
+          "SQS",
+          "Redis",
+          "Memcached",
+          "SQL",
+          "NoSQL",
+          "NestJS",
+          "FastAPI",
+          "Docker",
+          "Kubernetes",
+          "CI/CD"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/43?title=Senior%20Software%20Engineer%20(TypeScript%2C%20Python)"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "System Administrator",
+        "description": "## About the Role\nJoin our team as a System Administrator and play a key role in managing enterprise infrastructure, cloud services, virtualization, and network security. If you have strong technical expertise and leadership experience, we'd love to hear from you!\n\n## Responsibilities\n* Administer and maintain Windows Server environments, including Active Directory, DNS, DHCP, and Group Policy (GPO).\n* Manage VMware ESXi/Hyper-V virtualization infrastructure and ensure optimal performance and availability.\n* Administer Microsoft 365 services, including Exchange Online, Teams, OneDrive, SharePoint, and Microsoft Entra ID (Azure AD).\n* Monitor server health, system performance, storage utilization, and infrastructure capacity to ensure high availability.\n* Configure, monitor, and troubleshoot network infrastructure, including switches, routers, wireless access points, VPNs, and enterprise firewalls (Fortinet/Sophos/Cisco).\n* Implement and maintain endpoint security, antivirus, multi-factor authentication (MFA), and security best practices.\n* Ensure enterprise backup and disaster recovery solutions, perform regular backup verification, and conduct restoration testing.\n* Manage team to Install, configure, upgrade, and patch operating systems, server hardware, and enterprise applications.\n* Provide Level-2/Level-3 technical support for server, network, Microsoft 365, and infrastructure-related issues.\n* Maintain, infrastructure documentation, SOPs, network diagrams, and configuration records.\n* Coordinate with vendors for hardware, software, warranty, ISP, and infrastructure support.\n* Monitor IT infrastructure using enterprise monitoring tools and prepare periodic system health and performance reports.\n* Automate routine administrative tasks using PowerShell or similar scripting tools.\n* Ensure compliance with IT policies, security standards, and business continuity requirements.",
+        "employmentType": "FullTime",
+        "role": "System Administrator",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "6+ years of relevant experience, with At least 2 years in leadership roles",
+        "salary": null,
+        "vacancies": 1,
+        "tags": [
+          "Windows Server",
+          "Active Directory",
+          "VMware",
+          "Hyper-V",
+          "Microsoft 365",
+          "Azure AD",
+          "Networking",
+          "Firewall",
+          "PowerShell",
+          "Backup",
+          "Disaster Recovery"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/42?title=System%20Administrator"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Information Security Analyst",
+        "description": "## About the Role\nNeosCoder is committed to empowering businesses with innovative, scalable software and managed service solutions. Join a passionate team shaping the future of web, app, and network technologies!\n\n## Responsibilities\n* Penetration Test web and mobile applications based on OWASP Top 10 standards to identify vulnerabilities.\n* Monitor security alerts from SIEM, EDR, and IDS/IPS tools to detect potential threats.\n* Investigate suspicious activities across endpoints, servers, networks, and cloud logs. Perform initial triage and detailed investigations of all security incidents.\n* Configure and maintain security controls, including firewalls and web filters.\n* Harden Microsoft 365 tenants, Entra ID policies, and the Microsoft Defender suite for identity and data protection.\n* Audit system configurations for Windows and Linux environments to ensure they meet hardening standards.\n\n## Requirements\n* Bachelor's or Master's degree in CSE/CS/ICT or a related field.\n* 3-5 years of relevant experience.\n* Hands-on experience in managing and securing Microsoft 365 (M365) environments.\n* Proficiency in Entra ID, including Conditional Access policies and MFA.\n* Ability to analyze and mitigate phishing, spoofing, and malware threats in Exchange Online.\n* Relevant certifications such as CSA, CEH, or eJPT are preferred.\n* Strong understanding of network security, penetration testing, and incident response.\n\n## Benefits\n* Honorarium: Negotiable (based on experience and skills)\n* Lunch Facilities: Subsidized\n* Benefits: Provident Fund & other company-provided facilities",
+        "employmentType": "FullTime",
+        "role": "Information Security Analyst",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "3-5 years",
+        "salary": null,
+        "vacancies": 2,
+        "tags": [
+          "OWASP",
+          "SIEM",
+          "EDR",
+          "IDS/IPS",
+          "Microsoft 365",
+          "Entra ID",
+          "Microsoft Defender",
+          "Windows",
+          "Linux",
+          "Network Security",
+          "Penetration Testing",
+          "Incident Response"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/40?title=Information%20Security%20Analyst"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Senior Database Administrator (DBA)",
+        "description": "## About the Role\n\nWe are looking for a skilled and detail-oriented Database Administrator (DBA) to join our team. The DBA will be responsible for the performance, integrity, and security of our databases. You will also be involved in planning and development as well as troubleshooting any issues on behalf of the users.\n\n## Responsibilities\n\n*   Install, configure, and maintain database systems (e.g., MySQL, SQL Server, PostgreSQL, etc.).\n*   Ensure database security, integrity, stability, and system availability.\n*   Perform database tuning and performance monitoring.\n*   Plan and execute data backup and recovery strategies.\n*   Design and implement database schemas, tables, views, and procedures.\n*   Work closely with development and DevOps teams to integrate databases with applications.\n*   Automate and optimize regular maintenance tasks.\n*   Handle database migrations, upgrades, and patches.\n*   Provide technical support and training to other teams as needed.\n*   Maintain documentation of systems, processes, and procedures.\n\n## Skills Required\n\n*   Strong knowledge of database structures, theories, principles, and practices.\n*   Proficient in SQL and performance tuning.\n*   Understanding of data backup, recovery, and security.\n*   Familiarity with database design and documentation.\n*   Excellent problem-solving skills and attention to detail.\n*   Ability to work independently and as part of a team.\n\n## Requirements\n\n*   Bachelor's degree in Computer Science, Information Technology, or related field.\n*   Proven experience as a DBA or similar role.\n*   Hands-on experience with relational database systems.\n*   Experience with cloud-based database services (AWS RDS, Azure SQL, GCP, etc.) is a plus.\n\n## Preferred Qualifications\n\n*   Certifications like Microsoft Certified Database Administrator, or AWS Certified Database is a plus.\n*   Knowledge of NoSQL databases (MongoDB, Cassandra, etc.) is a plus.\n*   Familiarity with data warehousing and ETL tools.\n\n## Benefits\n\n*   Honorarium: Negotiable (based on experience and skills)\n*   Lunch Facilities: Subsidized\n*   Benefits: Provident Fund & other company-provided facilities",
+        "employmentType": "FullTime",
+        "role": "Senior",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": null,
+        "salary": null,
+        "vacancies": 2,
+        "tags": [
+          "MySQL",
+          "SQL Server",
+          "PostgreSQL",
+          "SQL",
+          "AWS RDS",
+          "Azure SQL",
+          "GCP",
+          "MongoDB",
+          "Cassandra",
+          "ETL"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/37?title=Senior%20Database%20Administrator%20(DBA)"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "SQA Engineer",
+        "description": "## About the Role\nNeosCoder is committed to empowering businesses with innovative, scalable software and managed service solutions. Join a passionate team shaping the future of web, app, and network technologies!\n\n## Responsibilities\n* Design, develop, and execute manual and automated test cases.\n* Collaborate closely with development, product, and design teams to understand requirements and ensure comprehensive test coverage.\n* Perform functional, regression, integration, performance, and security testing.\n* Maintain test documentation, including test plans, bug reports, and release checklists.\n* Identify, record, and track bugs; verify fixes and close them with proper documentation.\n* Participate in code reviews and contribute to improving software development best practices.\n\n## Requirements\n* Bachelor's or Master's degree in CSE/CS/ICT or a related field.\n* 3-5 years of hands-on experience in Software QA/Testing.\n* Familiarity with automated testing tools (e.g., Selenium, Cypress, Appium).\n* Understanding of REST APIs and tools like Postman.\n\n## Benefits\n* Honorarium: Negotiable (based on experience and skills)\n* Lunch Facilities: Subsidized\n* Benefits: Provident Fund & other company-provided facilities",
+        "employmentType": "FullTime",
+        "role": "SQA Engineer",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "3-5 years",
+        "salary": null,
+        "vacancies": 1,
+        "tags": [
+          "Manual Testing",
+          "Automated Testing",
+          "Selenium",
+          "Cypress",
+          "Appium",
+          "REST APIs",
+          "Postman"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/41?title=SQA%20Engineer"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Engineering Manager",
+        "description": "## About the Role\nAs an Engineering Manager at NeosCoder, you will lead engineering squads by combining technical architecture expertise, hands-on backend engineering, Agile delivery leadership, and people management. You will work closely with product, business, and engineering teams to design scalable systems, drive sprint execution, mentor engineers, and ensure high-quality software delivery across projects.\n\n## Responsibilities\n* Lead software architecture and system design for scalable, secure, and maintainable applications.\n* Drive backend engineering standards using Node.js, NestJS, Express, Python, and FastAPI.\n* Design and review APIs, database structures, integration patterns, and cloud-native solutions.\n* Remain hands-on with backend development, code reviews, technical troubleshooting, and architecture decisions.\n* Manage Scrum ceremonies including sprint planning, stand-ups, retrospectives, and backlog refinement.\n* Track sprint delivery, engineering KPIs, release planning, and project risks with clear stakeholder communication.\n* Collaborate with Product Owners, clients, and business teams to translate requirements into sprint-ready tasks.\n* Lead and mentor cross-functional teams including backend engineers, QA, DevOps, and full-stack developers.\n* Oversee CI/CD pipelines, Docker, Kubernetes, cloud deployments, observability, and DevOps practices.\n* Build a strong engineering culture through coaching, hiring, onboarding, and technical knowledge sharing.",
+        "employmentType": "FullTime",
+        "role": "Engineering Manager",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "6–12 years of software engineering experience with at least 3 years in Engineering Manager, Tech Lead, or similar leadership role.",
+        "salary": null,
+        "vacancies": 2,
+        "tags": [
+          "Node.js",
+          "NestJS",
+          "Express",
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "CI/CD",
+          "Agile",
+          "Scrum"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/39?title=Engineering%20Manager"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Business Analyst",
+        "description": "## About the Role\n\nAs a Business Analyst at NeosCoder, you will bridge the gap between FMCG business operations and the Salesforce ecosystem. You will translate complex sales workflows, distributor management challenges, and trade promotion processes into clear, actionable system requirements - and then see those requirements through to delivery. You will be a trusted advisor to both clients and internal development teams.\n\n## Responsibilities\n\n*   Review the full sales process from lead to final sales and find areas to improve.\n*   Understand how sales work in retail, wholesale, POS, modern trade, and online channels.\n*   Collect business needs and prepare simple documents like BRD, use cases, and process flows.\n*   Talk with sales teams, managers, and finance to understand problems and gaps.\n*   Set and track key sales KPIs like targets, coverage, and promotion results.\n*   Help design Salesforce solutions for distributor management and sales processes.\n*   Manage basic Salesforce tasks like users, roles, reports, and dashboards.\n*   Support testing (UAT), user training, and work with clients to handle changes and give updates.\n\n## Requirements\n\n*   Bachelor's degree in Business Administration, Information Systems, Computer Science, or related field (MBA preferred).\n*   4–8 years of Business Analysis experience, with a strong FMCG sector background.\n*   Proven experience in Sales Application Implementations a strong plus.\n*   Excellent communication and documentation skills\n*   Good understanding of FMCG operations like trade promotions, distributor networks, channel management, and SKU planning.\n*   Knowledge of RTM strategies, van sales, and secondary sales tracking; experience with DMS and TPM tools is a plus.\n*   Strong skills in Excel/Google Sheets and basic knowledge of BI tools like Tableau or Power BI for data analysis.\n*   Familiar with process tools like Visio or Lucidchart and comfortable working in Agile/Scrum teams.\n*   Experience with Oracle EBS, or any Sales Application (SFA) systems in an FMCG environment.\n*   Prior consulting or software farm experience serving multiple FMCG clients simultaneously.\n\n## Benefits\n\n*   𝐇𝐨𝐨𝐧𝐨𝐫𝐚𝐫𝐢𝐮𝐦: Negotiable (based on experience and skills)\n*   𝐒𝐧𝐚𝐜𝐤𝐬: Complimentary tea, and coffee\n*   𝐋𝐮𝐧𝐜𝐡 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐢𝐞𝐬: Subsidize\n*   𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬: Provident Fund & other company-provided facilities",
+        "employmentType": "FullTime",
+        "role": null,
+        "postedAt": null,
+        "category": {
+          "Other": "Business Analysis"
+        },
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "4–8 years",
+        "salary": null,
+        "vacancies": 2,
+        "tags": [
+          "Salesforce",
+          "FMCG",
+          "BRD",
+          "UAT",
+          "Excel",
+          "Google Sheets",
+          "Tableau",
+          "Power BI",
+          "Visio",
+          "Lucidchart",
+          "Agile",
+          "Scrum",
+          "Oracle EBS",
+          "SFA"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/36?title=Business%20Analyst"
+          }
+        ],
+        "source": null,
+        "needsFetch": false,
+        "confidence": 1.0
+      },
+      {
+        "title": "Project Manager (Technical)",
+        "description": "## About the Role\n\nAs a Project Manager (Technical) at NeosCoder, you will own end-to-end delivery of software projects from planning to production. You will lead Agile/Scrum ceremonies, manage cross-functional engineering teams, and ensure smooth execution of backend-heavy, scalable software systems.\n\n## Responsibilities\n\n*   Lead end-to-end Agile/Scrum delivery including sprint planning, daily stand-ups, reviews, and retrospectives.\n*   Manage and prioritize product backlogs in collaboration with stakeholders and product owners.\n*   Track sprint velocity, delivery timelines, and proactively manage risks and blockers.\n*   Translate business requirements into clear user stories, epics, and acceptance criteria.\n*   Lead architecture discussions with technical teams to ensure scalable and maintainable system design.\n*   Review backend architecture, APIs, databases, and integration approaches for technical soundness.\n*   Ensure strong engineering practices including code quality, CI/CD readiness, and peer reviews.\n*   Guide backend development decisions around Node.js or Python-based systems, databases, and system design.\n*   Facilitate client meetings, progress updates, and sprint review sessions with stakeholders.\n*   Mentor engineers, support skill development, and maintain team productivity and morale.\n\n## Skills Required\n\n*   Strong understanding of Agile/Scrum and software delivery lifecycle.\n*   Knowledge of software architecture (microservices, monolith, event-driven systems).\n*   Experience with APIs (REST/GraphQL), authentication (JWT/OAuth), and system design principles.\n*   Familiarity with databases such as PostgreSQL, MySQL, MongoDB, and Redis.\n*   Understanding of CI/CD pipelines, Docker, Kubernetes, and cloud platforms (AWS/Azure/GCP).\n*   Ability to read and review backend code and assess technical complexity.\n*   Strong communication skills for both technical teams and business stakeholders.\n*   Experience with tools like Jira, Confluence, or Azure DevOps.\n\n## Requirements\n\n*   Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred).\n*   5–10 years of software industry experience, with at least 3 years in Project Management or Scrum Master roles.\n*   Prior hands-on backend development experience (Node.js or Python-based stack preferred).\n*   PMP certification is a strong advantage.\n\n## Benefits\n\n*   Honorarium: Negotiable (based on experience and skill)\n*   Lunch Facilities: Subsidized\n*   Benefits: Provident Fund & other company-provided facilities",
+        "employmentType": "FullTime",
+        "role": "Project Manager (Technical)",
+        "postedAt": null,
+        "category": "Technology",
+        "deadline": null,
+        "location": {
+          "OnSite": "Dhaka"
+        },
+        "experience": "5–10 years of software industry experience, with at least 3 years in Project Management or Scrum Master roles.",
+        "salary": null,
+        "vacancies": 1,
+        "tags": [
+          "Agile",
+          "Scrum",
+          "Node.js",
+          "Python",
+          "REST",
+          "GraphQL",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "CI/CD",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Jira",
+          "Confluence"
+        ],
+        "apply": [
+          {
+            "Website": "/career/apply/38?title=Project%20Manager%20(Technical)"
+          }
+        ],
+        "source": "/career",
+        "needsFetch": false,
+        "confidence": 1.0
+      }
+    ]
+  },
   "Next Ventures": {
     "source": "https://career.nextventures.io/",
     "jobs": [
@@ -4467,6 +5593,7 @@
         "employmentType": "FullTime",
         "role": "Head",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": "Remote",
         "experience": null,
@@ -4495,6 +5622,7 @@
         "employmentType": "FullTime",
         "role": "Head",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": "Remote",
         "experience": "8–12 years",
@@ -4523,6 +5651,7 @@
         "employmentType": "FullTime",
         "role": "Advisor",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Global multiple locations"
@@ -4548,6 +5677,7 @@
         "employmentType": "FullTime",
         "role": "Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Singapore, Sydney, Taipei, New York, Hong Kong, São Paulo, Beijing"
@@ -4593,6 +5723,7 @@
         "employmentType": "FullTime",
         "role": "Applied AI Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, Bangladesh / Kuala Lumpur, Malaysia"
@@ -4632,6 +5763,7 @@
         "employmentType": "FullTime",
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka,Dhaka,Bangladesh"
@@ -4663,6 +5795,7 @@
         "employmentType": "FullTime",
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Dhaka, Bangladesh"
@@ -4692,6 +5825,7 @@
         "employmentType": "FullTime",
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -4727,6 +5861,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Dhaka, Bangladesh"
@@ -4760,6 +5895,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -4803,6 +5939,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Dhaka, Bangladesh"
@@ -4844,6 +5981,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Dhaka, Bangladesh"
@@ -4878,6 +6016,7 @@
         "employmentType": "FullTime",
         "role": "Lead / Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Malaysia / Singapore / Dhaka, Bangladesh"
@@ -4909,6 +6048,7 @@
         "employmentType": "FullTime",
         "role": "Junior / Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Dubai, Limassol"
@@ -4938,6 +6078,7 @@
         "employmentType": "FullTime",
         "role": "Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur"
@@ -4968,6 +6109,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Singapore, Jakarta, Hong Kong, Taipei, Dubai, Colombo"
@@ -4999,6 +6141,7 @@
         "employmentType": null,
         "role": "Database Reliability Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Malaysia / Dubai, United Arab Emirates"
@@ -5039,6 +6182,7 @@
         "employmentType": "FullTime",
         "role": "Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Malaysia / Dubai, United Arab Emirates"
@@ -5073,6 +6217,7 @@
         "employmentType": "FullTime",
         "role": "Employee Relations Specialist",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
@@ -5103,6 +6248,7 @@
         "employmentType": "FullTime",
         "role": "Mid Senior / Managerial Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
@@ -5133,6 +6279,7 @@
         "employmentType": "FullTime",
         "role": "Engineering Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Malaysia"
@@ -5167,6 +6314,7 @@
         "employmentType": "FullTime",
         "role": "Engineering Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Malaysia"
@@ -5201,6 +6349,7 @@
         "employmentType": "FullTime",
         "role": "Executive / Senior Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
@@ -5233,6 +6382,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Malaysia"
@@ -5264,6 +6414,7 @@
         "employmentType": "FullTime",
         "role": "Full Stack Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Kuala Lumpur, Malaysia"
@@ -5296,6 +6447,7 @@
         "employmentType": null,
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Colombo, Western Province, Sri Lanka"
@@ -5327,6 +6479,7 @@
         "employmentType": "FullTime",
         "role": "Global Head of Client Experience",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Colombo, Sri Lanka; Kuala Lumpur, Malaysia"
@@ -5357,6 +6510,7 @@
         "employmentType": null,
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Colombo, Western Province, Sri Lanka"
@@ -5386,6 +6540,7 @@
         "employmentType": "FullTime",
         "role": "Regional Workforce Management Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Colombo, Western Province, Sri Lanka"
@@ -5417,6 +6572,7 @@
         "employmentType": "FullTime",
         "role": "Senior Talent Acquisition Partner",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Colombo, Western Province, Sri Lanka"
@@ -5446,6 +6602,7 @@
         "employmentType": "FullTime",
         "role": "Assistant Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dubai, United Arab Emirates"
@@ -5476,6 +6633,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Malaysia; Dubai, United Arab Emirates"
@@ -5509,6 +6667,7 @@
         "employmentType": "FullTime",
         "role": "Head of Brands and Communications",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dubai, United Arab Emirates; Kuala Lumpur, Malaysia"
@@ -5539,6 +6698,7 @@
         "employmentType": "FullTime",
         "role": "Office Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dubai, United Arab Emirates"
@@ -5573,6 +6733,7 @@
         "employmentType": "FullTime",
         "role": "Product Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kuala Lumpur, Malaysia; Dubai, United Arab Emirates"
@@ -5608,6 +6769,7 @@
         "employmentType": "FullTime",
         "role": "Programmer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Niketon, Gulshan, Dhaka"
@@ -5646,6 +6808,7 @@
         "employmentType": "FullTime",
         "role": "Mid Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5680,6 +6843,7 @@
         "employmentType": "FullTime",
         "role": "Entry Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5713,6 +6877,7 @@
         "employmentType": "FullTime",
         "role": "Senior Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5748,6 +6913,7 @@
         "employmentType": "FullTime",
         "role": "Mid Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5784,6 +6950,7 @@
         "employmentType": "FullTime",
         "role": "Entry Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5825,6 +6992,7 @@
         "employmentType": "FullTime",
         "role": "Mid Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5861,6 +7029,7 @@
         "employmentType": "FullTime",
         "role": "Entry Level",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -5901,6 +7070,7 @@
         "postedAt": {
           "Absolute": "19 Nov 2025"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Remote (Work from Home) with occasional office visits required."
@@ -5942,6 +7112,7 @@
         "postedAt": {
           "Absolute": "10 Nov 2025"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Mazar Road, Mirpur 1, Dhaka, Bangladesh"
@@ -5984,6 +7155,7 @@
         "postedAt": {
           "Absolute": "10 Oct 2025"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -6025,6 +7197,7 @@
         "postedAt": {
           "Absolute": "Jul 22, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6057,6 +7230,7 @@
         "postedAt": {
           "Absolute": "Jul 23, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6091,6 +7265,7 @@
         "postedAt": {
           "Absolute": "Jul 30, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6122,6 +7297,7 @@
         "postedAt": {
           "Absolute": "Aug 13, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6157,6 +7333,7 @@
         "postedAt": {
           "Absolute": "Jul 29, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, BD"
@@ -6189,6 +7366,7 @@
         "postedAt": {
           "Absolute": "Aug 6, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6225,6 +7403,7 @@
         "postedAt": {
           "Absolute": "Jul 22, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, BD"
@@ -6257,6 +7436,7 @@
         "postedAt": {
           "Absolute": "Jul 16, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6294,6 +7474,7 @@
         "postedAt": {
           "Absolute": "Aug 11, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, BD"
@@ -6328,6 +7509,7 @@
         "postedAt": {
           "Absolute": "Aug 4, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Dhaka, BD"
@@ -6358,6 +7540,7 @@
         "postedAt": {
           "Absolute": "Aug 11, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, BD"
@@ -6393,6 +7576,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Worldwide"
@@ -6423,6 +7607,7 @@
         "employmentType": "FullTime",
         "role": "Head of Sales (ERP)",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -6453,6 +7638,7 @@
         "employmentType": "FullTime",
         "role": "Assistant Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -6483,6 +7669,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kawran Bazar, Dhaka, Bangladesh"
@@ -6521,6 +7708,7 @@
         "employmentType": "FullTime",
         "role": "Lead",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kawran Bazar, Dhaka, Bangladesh"
@@ -6556,6 +7744,7 @@
         "employmentType": "FullTime",
         "role": "Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -6585,6 +7774,7 @@
         "employmentType": "FullTime",
         "role": "Junior Database Administrator (JDBA)",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -6619,6 +7809,7 @@
         "employmentType": "FullTime",
         "role": "Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -6645,6 +7836,7 @@
         "employmentType": "FullTime",
         "role": "Technical Content Creator",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka"
@@ -6680,6 +7872,7 @@
         "employmentType": "FullTime",
         "role": "Quality Assurance (Business Analyst)",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kawran Bazar, Dhaka, Bangladesh"
@@ -6710,6 +7903,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Kawran Bazar, Dhaka, Bangladesh"
@@ -6751,6 +7945,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6790,6 +7985,7 @@
         "employmentType": "FullTime",
         "role": "Data Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6833,6 +8029,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6874,6 +8071,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6913,6 +8111,7 @@
         "employmentType": "FullTime",
         "role": "Solutions Architect",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6951,6 +8150,7 @@
         "employmentType": "FullTime",
         "role": "Business Systems Analyst & JIRA Administrator",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-31"
@@ -6987,6 +8187,7 @@
         "employmentType": null,
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-07-31"
@@ -7028,6 +8229,7 @@
         "employmentType": "FullTime",
         "role": "Senior Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "December 25, 2023"
@@ -7079,6 +8281,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7116,6 +8319,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7150,6 +8354,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7179,6 +8384,7 @@
         "employmentType": "FullTime",
         "role": "Operation Manager- BPO",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7210,6 +8416,7 @@
         "employmentType": "FullTime",
         "role": "Outreach Specialist",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7242,6 +8449,7 @@
         "employmentType": "Internship",
         "role": "Intern - Business Development",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7271,6 +8479,7 @@
         "employmentType": "FullTime",
         "role": "Business Development Manager",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7303,6 +8512,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7332,6 +8542,7 @@
         "employmentType": "FullTime",
         "role": "Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7363,6 +8574,7 @@
         "employmentType": "Contract",
         "role": "Quality Assurance Executive",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7394,6 +8606,7 @@
         "employmentType": "Contract",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7427,6 +8640,7 @@
         "employmentType": "FullTime",
         "role": "Team Leader",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7456,6 +8670,7 @@
         "employmentType": "FullTime",
         "role": "Executive, Business Development",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7487,6 +8702,7 @@
         "employmentType": "Contract",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Uttara, Dhaka (For Bangladeshi Candidates) or Remote (For International Candidates)"
@@ -7518,6 +8734,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka"
@@ -7547,6 +8764,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Uttara, Dhaka, Bangladesh"
@@ -7586,6 +8804,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2025-01-31"
@@ -7618,6 +8837,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "02 Feb 2025"
@@ -7661,6 +8881,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -7694,6 +8915,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Goa, India"
@@ -7723,6 +8945,7 @@
         "employmentType": "FullTime",
         "role": "Project Coordinator (L3)",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -7752,6 +8975,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -7779,6 +9003,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "3+ years of professional software development experience, including at least 1 years in AI-driven projects.",
@@ -7811,6 +9036,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Goa, India"
@@ -7845,6 +9071,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -7881,6 +9108,7 @@
         "employmentType": "FullTime",
         "role": "Jr. Software Project Coordinator",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "1–2 years",
@@ -7908,6 +9136,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "Minimum 3 months commitment",
@@ -7942,6 +9171,7 @@
         "employmentType": "FullTime",
         "role": "Head of Data",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "18 July 2026"
@@ -7984,6 +9214,7 @@
         "employmentType": "FullTime",
         "role": "Executive/Senior Executive",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "25 June 2026"
@@ -8020,6 +9251,7 @@
         "employmentType": "Internship",
         "role": "Intern",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "6 June 2026"
@@ -8053,6 +9285,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-05-17"
@@ -8098,6 +9331,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-05-24"
@@ -8131,6 +9365,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "17 May 2026"
@@ -8172,6 +9407,7 @@
         "employmentType": "FullTime",
         "role": "Data Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "17 May 2026"
@@ -8216,6 +9452,7 @@
         "employmentType": "FullTime",
         "role": "Senior Manager",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "20 August, 2026"
@@ -8256,6 +9493,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": "Remote",
         "experience": null,
@@ -8292,6 +9530,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": "Remote",
         "experience": null,
@@ -8322,6 +9561,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": "Remote",
         "experience": "5+ years",
@@ -8366,6 +9606,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "22 June, 2026"
@@ -8402,6 +9643,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-01-15"
@@ -8441,6 +9683,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-01-15"
@@ -8480,6 +9723,7 @@
         "employmentType": "PartTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-01-29"
@@ -8520,6 +9764,7 @@
         "postedAt": {
           "Absolute": "January 25, 2026"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31 January, 2026"
@@ -8559,6 +9804,7 @@
         "postedAt": {
           "Absolute": "January 25, 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "169, Mohakhali DOHS, Dhaka"
@@ -8592,6 +9838,7 @@
         "postedAt": {
           "Absolute": "September 7, 2023"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "17 September, 2023"
@@ -8632,6 +9879,7 @@
         "postedAt": {
           "Absolute": "September 7, 2023"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "17 September, 2023"
@@ -8675,6 +9923,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-16"
@@ -8705,6 +9954,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-22"
@@ -8734,6 +9984,7 @@
         "employmentType": "FullTime",
         "role": "Senior",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-08-18"
@@ -8769,6 +10020,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -8802,6 +10054,7 @@
         "employmentType": "FullTime",
         "role": "Associate System Administrator",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -8833,6 +10086,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Banani, Dhaka"
@@ -8862,6 +10116,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Banani, Dhaka"
@@ -8891,6 +10146,7 @@
         "employmentType": "FullTime",
         "role": "DevOps Administrator",
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -8925,6 +10181,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "Hybrid": "Banani, Dhaka"
@@ -8959,6 +10216,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Banani, Dhaka"
@@ -8992,6 +10250,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Banani, Dhaka"
@@ -9023,6 +10282,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Dhaka Division, Bangladesh"
@@ -9065,6 +10325,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9104,6 +10365,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "1 – 3 Year",
@@ -9127,6 +10389,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "1 – 3 Year",
@@ -9156,6 +10419,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "28 March, 2026"
@@ -9186,6 +10450,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "26 February, 2026"
@@ -9220,6 +10485,7 @@
         "employmentType": "FullTime",
         "role": "Senior Software Engineer",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-02-26"
@@ -9262,6 +10528,7 @@
         "employmentType": "PartTime",
         "role": "Mid",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9298,6 +10565,7 @@
         "employmentType": "PartTime",
         "role": "Entry",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9335,6 +10603,7 @@
         "employmentType": "FullTime",
         "role": "Entry-Mid",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9381,6 +10650,7 @@
         "postedAt": {
           "Relative": "unknown"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9421,6 +10691,7 @@
         "employmentType": "FullTime",
         "role": "Entry",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9464,6 +10735,7 @@
         "employmentType": "FullTime",
         "role": "Mid-High",
         "postedAt": null,
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "31st August, 2026"
@@ -9516,6 +10788,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9542,6 +10815,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9567,6 +10841,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9591,6 +10866,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9615,6 +10891,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9639,6 +10916,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9663,6 +10941,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9687,6 +10966,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9718,6 +10998,7 @@
         "postedAt": {
           "Relative": "4 years ago"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Sylhet"
@@ -9760,6 +11041,7 @@
         "employmentType": "FullTime",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": "Minimum 3 years of experience in AngularJS/React, Redux, Node.js, and MongoDB.",
@@ -9800,6 +11082,7 @@
         "employmentType": "Internship",
         "role": null,
         "postedAt": null,
+        "category": null,
         "deadline": null,
         "location": null,
         "experience": null,
@@ -9850,6 +11133,7 @@
         "postedAt": {
           "Absolute": "6 August 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka (Dhanmondi)"
@@ -9891,6 +11175,7 @@
         "postedAt": {
           "Absolute": "6 August 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka (Dhanmondi)"
@@ -9925,6 +11210,7 @@
         "postedAt": {
           "Absolute": "6 August 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -9957,6 +11243,7 @@
         "postedAt": {
           "Absolute": "6 August 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka (Dhanmondi)"
@@ -9988,6 +11275,7 @@
         "postedAt": {
           "Absolute": "6 August 2026"
         },
+        "category": null,
         "deadline": null,
         "location": {
           "OnSite": "Dhaka, Bangladesh"
@@ -10025,6 +11313,7 @@
         "postedAt": {
           "Relative": "6 months ago"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-02-28"
@@ -10060,6 +11349,7 @@
         "postedAt": {
           "Relative": "6 months ago"
         },
+        "category": null,
         "deadline": {
           "Date": {
             "Absolute": "2026-02-28"

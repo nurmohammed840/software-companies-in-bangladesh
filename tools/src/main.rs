@@ -39,7 +39,7 @@ struct Cli {
     update: bool,
 
     /// Format data
-    #[arg(long, short)]
+    #[arg(long)]
     fmt: bool,
 
     #[arg(long, short)]
@@ -174,7 +174,14 @@ fn cli() -> Result {
     }
 
     if docs {
-        TextFile::read(dir.join("./README.md"))?.write(format!("{README_HEADER}\n{companies}"))?;
+        let count_jobs_link = companies
+            .iter()
+            .filter(|(_, c)| c.links.job.is_some())
+            .count();
+
+        TextFile::read(dir.join("./README.md"))?.write(format!(
+            "{README_HEADER}, From `{count_jobs_link}` companies.\n\n{companies}",
+        ))?;
         #[cfg(feature = "crawler")]
         jobs::schema::gen_readme(dir)?;
     }
@@ -187,5 +194,4 @@ static README_HEADER: &str = "<!-- AUTO-GENERATED FILE — DO NOT EDIT. -->
 
 ## 💼 Jobs
 
-Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions.
-";
+Visit [Jobs](https://github.com/nurmohammed840/software-companies-in-bangladesh/blob/main/jobs.md) to see currently open positions";

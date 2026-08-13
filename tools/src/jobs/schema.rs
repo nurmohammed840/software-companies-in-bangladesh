@@ -29,6 +29,8 @@ pub struct JobPost {
 
     pub posted_at: Option<PostedAt>,
 
+    pub category: Option<Category>,
+
     /// Application deadline. Use `Expired` only if the posting explicitly states
     /// that applications are closed or expired.
     pub deadline: Option<Deadline>,
@@ -63,6 +65,16 @@ pub struct JobPost {
 
     #[schemars(range(min = 0.0, max = 1.0))]
     pub confidence: f32,
+}
+
+/// Broad job category or professional domain.
+/// Use `Technology` for software, IT, cybersecurity, DevOps, ... roles.
+#[derive(Debug, Serialize, Deserialize, JsonSchema)]
+pub enum Category {
+    Technology,
+    Sales,
+    Marketing,
+    Other(String)
 }
 
 #[derive(Debug, Serialize, Deserialize, JsonSchema)]

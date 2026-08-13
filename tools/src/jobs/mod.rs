@@ -45,7 +45,7 @@ Rules:
 - Set `needsFetch` to `true` if fetching `source` is required to extract the complete job.
 - Never guess. use schema defaults when required.
 - Keep `title` unchanged.
-- If an on-site or location-specific job is confirmed to be outside Bangladesh, exclude it.
+- Exclude on-site or location-specific jobs confirmed to be outside Bangladesh.
 - Remote jobs may be included even outside Bangladesh.
 - Format `description` as Markdown. Reorganize if needed, but do not add or remove information.
 - Extract relevant tags from the `description` when possible and add them to `tags`; do not invent or duplicate tags.
@@ -322,7 +322,7 @@ mod tests {
 
     // #[test]
     // fn remove_from_cache() -> Result {
-    //     let prefix = to_filename("https://therap.hire.trakstar.com");
+    //     let pat = "flytesolutions";
     //     let dir = tmp_cache_dir(CACHE_PATH)?;
 
     //     for entry in fs::read_dir(&dir)? {
@@ -331,9 +331,10 @@ mod tests {
     //             && path
     //                 .file_name()
     //                 .and_then(|name| name.to_str())
-    //                 .is_some_and(|name| name.starts_with(&prefix))
+    //                 .is_some_and(|name| name.contains(pat))
     //         {
-    //             fs::remove_file(path)?;
+    //             fs::remove_file(&path)?;
+    //             println!("cached removed: {path:?}");
     //         }
     //     }
     //     Ok(())
